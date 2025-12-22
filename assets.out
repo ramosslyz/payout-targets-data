@@ -1869,6 +1869,11 @@ Glassdoor Jobs
 Glassdoor iOS
 GlotPress
 Google Cloud Plateform Instances
+Grafana Loki
+Grafana Mimir
+Grafana OSS
+Grafana Pyroscope
+Grafana Tempo
 Grammarly Browser Extensions
 Grammarly Desktop for Windows
 Grammarly Desktop for macOS
@@ -2076,6 +2081,7 @@ Nintendo Switch 2 applications for which Nintendo is the publisher worldwide
 Nintendo Switch System
 Nintendo Switch applications for which Nintendo is the publisher worldwide
 Non-Core Assets
+Non-Core Grafana Plugins
 NordPass - Linux Executable
 NordPass - MacOS Executable
 NordPass - Windows Executable
@@ -4852,6 +4858,7 @@ https://github.com/expressvpn/lightway-core
 https://github.com/freedomofpress/securedrop
 https://github.com/freedomofpress/securedrop-client
 https://github.com/freedomofpress/securedrop-workstation
+https://github.com/grafana/*
 https://github.com/immutable/ts-immutable-sdk/tree/main/packages/passport/
 https://github.com/innocraft/
 https://github.com/iqlusioninc/crates/tree/main/signatory
@@ -5951,7 +5958,6 @@ https://s1.utv.usaa.com
 https://s2.utv.usaa.com
 https://safe.heytap.com/
 https://salesforce.quip.com/blog/desktop
-https://sandbox-api.fireblocks.io
 https://sandbox-api.paddle.com
 https://sandbox-buy.paddle.com
 https://sandbox-checkout-service.paddle.com
@@ -5959,8 +5965,6 @@ https://sandbox-login.paddle.com
 https://sandbox-vendors.paddle.com
 https://sandbox.directly.com/dashboard/index
 https://sandbox.open-xchange.com
-https://sb-console-api.fireblocks.io
-https://sb-mobile-api.fireblocks.io
 https://scalews.withings.com
 https://schulenwien.onmicrosoft.com
 https://scoober.com
