@@ -3973,7 +3973,6 @@ http://clinical-quality.khealth.com/api/v1
 http://cloud.konghq.com
 http://coinbase.com
 http://collaboration.rei.com
-http://data-api.coindesk.com/
 http://datapod-1-druid-ingest.production.forescoutcloud.net/v1/upload
 http://datapod-1-druid-query.production.forescoutcloud.net/v1/polling
 http://datapod-1-druid-query.production.forescoutcloud.net/v1/query/agg
@@ -6093,7 +6092,6 @@ https://thueringer-foerderportal.eu
 https://ticket.multiplayer.classdojo.com
 https://tidal.com/
 https://tms.onecloud.harman.com
-https://tools-api.cryptocompare.com/
 https://toom.de
 https://torquemag.io
 https://tr.ee
