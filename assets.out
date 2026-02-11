@@ -173,7 +173,6 @@
 *.booking.com
 *.boozt.com
 *.booztlet.com
-*.boredapeyachtclub.com
 *.bpost.be
 *.bpost.cloud
 *.braintree-api.com
@@ -714,7 +713,6 @@
 *.origindigital-pac.com.au
 *.oslo.io
 *.osp.opera.software
-*.otherside.xyz
 *.outfra.xyz
 *.ovo.id
 *.ovofinansial.com
@@ -1127,8 +1125,6 @@
 *.yelpwifi.com
 *.yoyogames.com
 *.ys7.com
-*.yuga.com
-*.yugalabs.io
 *.zdev.net
 *.zelle.com
 *.zellepay.com
@@ -1559,7 +1555,6 @@
 794141485
 82.145.208.0/20
 82.196.42.196/28
-831287358355275877
 835599320
 868013618
 878577184
@@ -1584,7 +1579,6 @@
 950693949
 955837609
 960335206
-961114489414094898
 97.105.243.96/28
 975035622
 978342143
@@ -2202,6 +2196,7 @@ Marionnaud Slovakia Android
 Marionnaud Slovakia iOS
 Marionnaud Switzerland Android
 Marionnaud Switzerland iOS
+Mbed TLS & TF-PSA-Crypto
 Media Encoder
 Megaphone
 Membership
@@ -2282,6 +2277,7 @@ OKX Wallet Edge Add-ons
 OKX Wallet Safari Extension
 OKX iOS APP
 ONCE: Campfire
+OP-TEE
 Observability - APM Agents
 Observability - APM Server
 Official WordPress plugins
@@ -2548,6 +2544,8 @@ Trello Third Party Powerups
 Tribal Wars
 TrueLayer for Magento (Magento plugin)
 TrueLayer for WooCommerce (WordPress plugin)
+TrustedFirmware-A (TF-A)
+TrustedFirmware-M (TF-M)
 TrustedServer 100,000 Bonus Award (See Program Policy for Info)
 Trustwallet Android App
 Trustwallet Chrome Extension
