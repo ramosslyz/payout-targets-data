@@ -2445,6 +2445,7 @@ Solidity IBC Eureka
 Sonantic
 Sophos Firewall (XG/XGS, SFOS) - Pre-auth RCE
 Sophos IT Infrastructure (all other Sophos domains)
+SoupSession (libsoup client)
 Source Code
 SpaceX and Starlink assets (target information and rewards detailed above on the brief)
 Spacelift Intent
@@ -7045,7 +7046,6 @@ leonard.vinci.com
 liberty-dev.wnba.com
 liberty-qa.wnba.com
 liberty.wnba.com
-libsoup
 libsystemd
 lightsparkdev/flutter-sdk
 lightsparkdev/js-sdk
