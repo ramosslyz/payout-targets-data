@@ -2,30 +2,6 @@
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
 *.allegro.sk.allegrosandbox.pl
-*.asadcdn.com
-*.hey.bild.de
-*.auth.bild.de
-*.sportbild.de
-*.bild.tv
-*.computerbild.de
-*.germany.politico.eu
-*.welt.de
-*.bild.de
-*.bild.design
-*.autobild.de
-*.bz-berlin.de
-*.spring-media.de
-*.springtools.de
-*.as-nmt.de
-*.ein-herz-fuer-kinder.de
-*.fitbook.de
-*.myhomebook.de
-*.petbook-magazine.com/
-*.petbook.de
-*.stylebook.de
-*.techbook.de
-*.travelbook.de
-*.wissen-sie-mehr.de
 *.acbpost.be
 *.bpost.be
 *.bpost.cloud
@@ -41,7 +17,6 @@
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -142,8 +117,6 @@ Leaked/compromised employee accounts *.here.com
  *.rivian.com
 *.swisspass.ch
 *.sbb.ch
-*.sqills.com
-*.sqills.team
 *.superdrug.com
 *.savers.co.uk
 *.theperfumeshop.com
@@ -171,8 +144,12 @@ Leaked/compromised employee accounts *.here.com
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
-*.voi.com
-*.voiscooters.com
+*.vinted.net
+*sandbox*.vintedgo.com
+*sandbox*.vinted.com
+*.vinted.com
+*.vinted.fr
+*.vintedgo.com
 *. advancedcustomfields.com
 *. bettersearchreplace.com
 *.deliciousbrains.com
