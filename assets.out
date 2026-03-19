@@ -64,9 +64,6 @@
 *.alasco.de
 *.alasco.rocks
 *.alipayplus.com
-*.allegro.cz.allegrosandbox.pl
-*.allegro.pl.allegrosandbox.pl
-*.allegro.sk.allegrosandbox.pl
 *.amazon.ae
 *.amazon.ca
 *.amazon.cl
@@ -1607,6 +1604,10 @@ ASN: AS62306
 ASN: AS62876
 AWS Infrastructure
 AWS infrastructure and services in use by Wise (eg: S3 buckets)
+Acrobat AI Assistant
+Acrobat Create Podcast
+Acrobat Create Presentations
+Acrobat PDF Spaces
 Acrobat Reader
 Acronis Agent
 Acronis Cloud Manager
@@ -1915,6 +1916,7 @@ Exness Investor
 Exness Social Trading
 Exness Trade: Online Trading
 Exodus Desktop Wallet
+Express AI Assistant
 ExpressVPN APIs
 ExpressVPN Router
 ExpressVPN VPN servers
@@ -1948,6 +1950,8 @@ Finicity Decisioning
 Finicity- Data Services
 Finicity- Open Banking Payment History application
 FireTV
+Firefly Image Models
+Firefly Video Model
 Firmware
 Firmware: Mali Command Stream Frontend (CSF) Firmware
 Fleet Server
@@ -2095,6 +2099,8 @@ Leaked Credentials and Secrets (Canva User)
 Leaked/compromised employee accounts *.here.com
 Leaked/Сompromised Employee accounts
 Lens Studio
+Lightroom "Edit suggestions" Tech Preview
+Lightroom AI Edits
 Lightroom Classic
 Livestream software (Producer, Studio)
 Load Balancing
@@ -2291,6 +2297,7 @@ PayPal SDK
 Peephole Cam
 Penny
 Photoshop
+Photoshop AI Assistant
 PlayStation 4
 PlayStation 5
 Podsights
@@ -2944,6 +2951,7 @@ app*.hubspot.com
 app-*.easy4ipcloud.com
 app-insiders.marriott.com
 app.Reclaim.ai
+app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
@@ -5787,6 +5795,7 @@ https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosti
 https://marketplace.atlassian.com/apps/772972/release-report-for-fisheye?hosting=server
 https://marketplace.auth0.com
 https://marketplace.ifood.com.br
+https://marketplace.visualstudio.com/items?itemName=AikidoSecurity.aikido
 https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
 https://master.servicecentre.digitalservicing-np.lfscnp.com/
 https://matrix.agent.tchap.gouv.fr
