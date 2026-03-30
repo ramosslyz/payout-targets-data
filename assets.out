@@ -53,6 +53,7 @@
 *.adsrvr.org
 *.advisor-connection.com
 *.advisorsolutions.gs.com
+*.adx.opera.com
 *.aips-internal.com
 *.airbnb-aws.com
 *.airbnb.com
@@ -106,6 +107,7 @@
 *.andurildev.com
 *.antom.com
 *.apex-football.com
+*.apexscores.io
 *.api.cx.metamask.io
 *.api.dailymotion.com
 *.api.id.realestate.com.au
@@ -388,6 +390,8 @@
 *.fuze.com
 *.fuze.site
 *.gaming.gopayapi.com
+*.gamma.be/*
+*.gamma.nl/*
 *.gateway.marriott.com
 *.genoapay.co.nz
 *.genoapay.com
@@ -519,6 +523,9 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
+*.intergamma-test.nl
+*.intergamma.cloud
+*.intergamma.nl/*
 *.internal.exoscale.ch
 *.intigriti.me
 *.itcapital.io
@@ -536,6 +543,8 @@
 *.jobstreet.com.sg
 *.jora.com
 *.jora.xyz
+*.karwei.nl/*
+*.karweioutletstore.nl
 *.kayak.com
 *.khealth.com
 *.khealth.io/
@@ -670,6 +679,7 @@
 *.moneyback.com.hk
 *.mongodb.com/*
 *.monopoly-poker.com
+*.monzo.com
 *.moonpay.com
 *.moonpaycloud.com
 *.movilepay.com
@@ -731,10 +741,12 @@
 *.operafootball.com
 *.operanewsapp.com
 *.operationstechnology.io
+*.opr.news
 *.ops.netlify.com
 *.opsgenie.com
 *.optus.com.au
 *.origindigital-pac.com.au
+*.osite99.com
 *.oslo.io
 *.osp.opera.software
 *.outfra.xyz
@@ -794,6 +806,7 @@
 *.prelert.com
 *.prijsmepper.nl
 *.privateinternetaccess.com
+*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -827,6 +840,7 @@
 *.registry.eu
 *.rentalcars.com
 *.reposify.com
+*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -842,12 +856,14 @@
 *.roonlabs.com
 *.roonlabs.net
 *.router.hereapi.com
+*.rtbscale.com
 *.runnr.in
 *.s-cloud.net
 *.saltlabs.com
 *.sandbox.*.lfscnp.com
 *.sandbox.directly.com/
 *.savers.co.uk
+*.savi.xyz
 *.say.rocks
 *.saytechnologies.com
 *.sba.marriott.com
@@ -1096,6 +1112,9 @@
 *.wellsfargo.com
 *.wellsfargoadvisors.com
 *.welt.de
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl
 *.wf.com
 *.whatnot.com
 *.whois.eu
@@ -1186,6 +1205,7 @@
 1023499075
 103.83.120.0/22
 1032480595
+1052238659
 1057338687
 107.167.96.0/19
 1080074001
@@ -1213,7 +1233,6 @@
 1276296103
 1293674041
 1294578643
-13.58.121.166
 1324809509
 1343620481
 1351179184
@@ -1280,6 +1299,7 @@
 1532153219
 1541949985
 1552455423
+1558129454
 1570215232
 1579372261
 1579530451
@@ -1462,7 +1482,6 @@
 3.133.230.28
 3.19.172.158
 3.223.149.182
-3.230.219.249
 3.basecamp.com
 302584613
 319881193
@@ -1586,6 +1605,9 @@
 943905271
 944011620
 947984433
+949829216
+950680989
+950693949
 955837609
 960335206
 97.105.243.96/28
@@ -1962,7 +1984,6 @@ External service data leakage
 Extremely high properties
 F 21 Pro
 FIles.com REST API
-FPGA Solution Development Tools and Utilities
 Faucets
 Figma Atlassian App
 Figma Desktop App
@@ -2259,7 +2280,6 @@ Nintendo Switch 2 System Processes allowing piracy
 Nintendo Switch 2 applications for which Nintendo is the publisher worldwide
 Nintendo Switch System
 Nintendo Switch applications for which Nintendo is the publisher worldwide
-Non Altera Products
 Non-Core Assets
 Non-Core Grafana Plugins
 NordPass - Linux Executable
@@ -3141,6 +3161,7 @@ bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
 be.delen.digital
+be.gamma.app.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -3338,6 +3359,7 @@ co-cf.*.aws.indriverapp.com
 co-gw-cf.*.aws.indriverapp.com
 co-in-gw-cf.*.aws.indriverapp.com
 co.mona.android
+co.uk.getmondo
 coaching.supernovas.indrive.com
 coban.pixiv.net
 coda.grammarly.com
@@ -4073,6 +4095,8 @@ g2-gw-cf.*.aws.indriverapp.com
 gamenotes.nba.com
 gaming.logicool.co.jp
 gamma.grab.co
+gammacademy.be
+gammalokaal.nl
 gasstation.polygon.technology/
 gatekeeper.prd.iat.it.xvservice.net
 gateway*.marriott.com
@@ -4527,6 +4551,7 @@ https://apps.apple.com/nl/app/mediamarkt-nederland/id573907448
 https://apps.apple.com/no/app/world-app-worldcoin-wallet/id1560859847
 https://apps.apple.com/nz/developer/just-eat-com/id383091095
 https://apps.apple.com/pl/app/mediamarkt-polska/id6470200706
+https://apps.apple.com/pl/app/opera-gx/id1559740799
 https://apps.apple.com/qa/app/ooredoo-qatar/id619828745
 https://apps.apple.com/se/app/atg-live/id1608156355
 https://apps.apple.com/se/app/atg/id1434660322
@@ -4578,6 +4603,7 @@ https://apps.apple.com/us/app/myfitnesspal-calorie-counter/id341232718
 https://apps.apple.com/us/app/northwestern-mutual/id1132579006
 https://apps.apple.com/us/app/okta-verify/id490179405
 https://apps.apple.com/us/app/opensea-nft-marketplace/id1582861796
+https://apps.apple.com/us/app/opera-ai-browser-with-vpn/id1411869974
 https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
 https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
@@ -4632,6 +4658,7 @@ https://audience-builder.vistarmedia.com
 https://audiencelogos.blis.com
 https://audio.20min.ch/
 https://aus.api.just-eat.io/
+https://auth-adx.op-mobile.opera.com
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
@@ -4758,6 +4785,7 @@ https://clients3.pentest.clicsante.ca/
 https://cloud.oppo.com/
 https://cloud.unity.com
 https://cloudinary.com/console
+https://cms.adx.opera.com
 https://cms.mobile.monash/ 
 https://cockpit-eu-west-2.outscale.com/
 https://collections.monash.edu/
@@ -5352,6 +5380,7 @@ https://just-eat.com
 https://just-eat.dk
 https://just-eat.es
 https://just-eat.io/
+https://justonweb.be/fines/
 https://keepersecurity.com
 https://keepersecurity.com/console
 https://keepersecurity.com/password-manager-free-trial.html
@@ -5898,7 +5927,9 @@ https://octopus.com/downloads
 https://odesli.co
 https://odesli.com
 https://oes.optusnet.com.au/
+https://ofa.adx.opera.com
 https://offer.tidal.com/download
+https://ofp.adx.opera.com
 https://ogws.optusnet.com.au/
 https://onboard.neogov.com
 https://one.newrelic.com
@@ -5918,6 +5949,7 @@ https://opendata.test-socrata.com
 https://opendata.test-socrata.com/admin/gateway
 https://opensea.io/
 https://opensource.epam.com
+https://operaneon.com
 https://ops-sso.adsrvr.org/
 https://optimizely-edge.com
 https://optout-prod.uidapi.com
@@ -6916,6 +6948,7 @@ ir.remitly.com
 ir.ui.com
 irclogs.wordpress.org
 iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
+irmg.nl
 isa-cf.*.aws.indriverapp.com
 ispdesign.ui.com
 issuer.idpay-uat.unico.io
@@ -6949,6 +6982,10 @@ k8s.gcr.io
 k8s.io
 kaccount.khealth.com
 kartaview.org
+karwei-promotiepunt.nl
+kassa.gamma.be/*
+kassa.gamma.nl/*
+kassa.karwei.nl/*
 katalog.watsons.com.tr
 kayak.ai
 kidswebservices.com
@@ -7167,6 +7204,9 @@ mgmt-sensors.iris.production.forescoutcloud.net
 mgmtpod-1-dashboard.production.forescoutcloud.net
 mgmtpod-1.production.forescoutcloud.net
 mgs.marriott.com
+mijn.gamma.be/*
+mijn.gamma.nl/*
+mijn.karwei.nl/*
 mijnacc.uzleuven.be
 minerva.robinhood.com
 mipartnerprivileges.marriott.com
@@ -7187,6 +7227,7 @@ moments.marriott.com
 moments.marriottbonvoy.com
 money.x.com
 monitor.mozilla.org
+monzo.com
 moonpay.com
 movie.indrive.com
 movieapi.kinepolis.megatix.be
@@ -7331,6 +7372,9 @@ nha-gw-cf.*.aws.indriverapp.com
 niantic.kidswebservices.com
 ninja.kiwi
 ninjakiwi.com
+nl.gamma.app.android
+nl.gamma.verf
+nl.karwei.app.android
 nmtracking.netflix.com
 no-cf.*.aws.indriverapp.com
 no-gw-cf.*.aws.indriverapp.com
@@ -8274,6 +8318,8 @@ www.fortress.com.hk
 www.fraedom.com
 www.funjet.com
 www.fuzemeeting.com
+www.gamma.be/*
+www.gamma.nl/*
 www.geneva-staging.chat
 www.geneva-staging.com
 www.getaroom.com
@@ -8304,6 +8350,7 @@ www.iciparisxl.nl
 www.instacart.com
 www.intigriti.com
 www.jaybirdsport.com
+www.karwei.nl/*
 www.kayak.com
 www.kinepolis.be 
 www.kinepolis.biz
@@ -8369,6 +8416,7 @@ www.mjrtheatres.com
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
+www.monzo.com
 www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
