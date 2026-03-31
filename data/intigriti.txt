@@ -1,3 +1,7 @@
+Hardware
+Firmware
+Software
+No Bounty
 myaccount.ad.nl
 webwinkel.ad.nl
 www.ad.nl
@@ -25,13 +29,6 @@ dealer.prod.ps.axelspringer.de/purchases/*
 editorial.one
 technik.autobild.de
 technik.beta.autobild.de
-www.bmw-motorrad.de
-www.bmw.de
-www.mini.de
-configure.bmw.de
-configure.mini.de
-konfigurator.bmw-motorrad.de
-Other BMW Domains
 Functions dealing with vehicle access and immobilizer
 1519034860
 de.bmw.connected.mobile20.row
@@ -82,7 +79,6 @@ platform.cloudways.com
 unified.cloudways.com
 www.cloudways.com
 css-tricks.com
-https://justonweb.be/fines/
 Any related DPG media domain
 profiles-api.datacamp.com
 app.datacamp.com/certification
@@ -445,20 +441,6 @@ mynexuzhealth/id1459856321
 liquidfiles.nexuzhealth.com
  idp-contact.nexuzhealth.be
 media.nexuzhealth.be/patient/ 
-analytics.ninjakiwi.com
-api.ninjakiwi.com
-guts.ninjakiwi.com
-battles.tv
-data.ninjakiwi.com
-ninja.kiwi
-ninjakiwi.com
-alerts.ninjakiwi.com
-boomer2.ninjakiwi.com
-ct.ninjakiwi.com
-mynk-dash.ninjakiwi.com
-mynk.ninjakiwi.com
-rancher.ninjakiwi.com
-rancher.ninjakiwi.me
 https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050
 https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_oi_appl/
 https://app.pdq.com/
