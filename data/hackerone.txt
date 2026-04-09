@@ -155,7 +155,6 @@ com.coloros.browser
 com.coloros.findmyphone
 com.coloros.pictorial
 com.coloros.wallet
-com.finshell.fin
 com.finshell.finance
 com.finshell.wallet
 com.fintech.life
@@ -3095,14 +3094,6 @@ oauth.deriv.com
 partners.deriv.com
 secure-dfadmin.deriv.com
 smarttrader.deriv.com
-Glassdoor APIs
-Glassdoor Android
-Glassdoor Authentication
-Glassdoor Employer Center
-Glassdoor Heritage
-Glassdoor Infrastructure & Misc
-Glassdoor Jobs
-Glassdoor iOS
 547702041
 com.tinder
 fetlife.com
