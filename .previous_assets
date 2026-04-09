@@ -2710,6 +2710,7 @@ Product Delivery
 Protocol of the Swiss Post Voting System
 Public API
 Public Others Target
+Public Preview feature toggles in Tier 1 products
 Python Driver
 React Native SDK
 Recon Data
@@ -2727,6 +2728,7 @@ Reno12Pro
 Reno8Pro5G
 Reno9Pro+5G
 Reno9Pro5G
+Reports utilising feature toggles
 Ring Alarm
 Ring Smart Lighting Bridge
 Roblox Client
@@ -3053,6 +3055,8 @@ Windows OS Executable: Download here https://www.larksuite.com/download
 Windows Personal Backup Clients
 Windows Restore Downloaders
 Wireless Microcontrollers (MCUs)
+Wolt Courier Partner
+Wolt Delivery: Food and more
 WooCommerce
 WordPress Core
 WordPress Plugins & Themes
@@ -3282,6 +3286,7 @@ api.dashlane.com
 api.data.gov
 api.deezer.com
 api.deriv.com
+api.dicey.com
 api.digital.delen.be 
 api.digital.delen.lu 
 api.digitalocean.com
