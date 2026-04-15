@@ -1601,6 +1601,7 @@
 8x8.my.site.com
 905953485
 91.203.96.0/22
+910898851
 926252661
 930441707
 936983378
@@ -3058,6 +3059,7 @@ app.moderntreasury.com
 app.mona.co
 app.moonpay.com
 app.netlify.com
+app.nl.socialdeal
 app.nordpass.com
 app.pharmacy.superdrug.com
 app.pullrequest.com
@@ -4289,6 +4291,7 @@ http://payments.hostinger.com
 http://play.google.com/store/apps/details?id=fr.doctolib.www
 http://poe.com
 http://secure-iphone-xml.booking.com/json/
+http://socialdeal.nl/inspirations/bluemonday/
 http://staking.consensys.io
 http://testnet.bybit.eu
 http://tsock.us1.twilio.com
@@ -4310,6 +4313,7 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 http://www.rei.com/learn/expert-advice
 http://www.shopmarriott.com
 http://www.underarmour.com.sg
+http://www.whynot.com/
 https//monidentifiant.sncf
 https://(navigate|engage|checkout|internal|cached-api|api).shoppingapp.decathlon.com/*
 https://*-prod.arlo.com
@@ -5023,18 +5027,6 @@ https://geocode-beta.bykea.net
 https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
 https://getflywheel.com
-https://github.com/AikidoSec/firewall-node#Detection Bypass
-https://github.com/AikidoSec/firewall-node#False Positive
-https://github.com/AikidoSec/firewall-node#Vulnerability
-https://github.com/AikidoSec/firewall-php#Detection Bypass
-https://github.com/AikidoSec/firewall-php#False Positive
-https://github.com/AikidoSec/firewall-php#Vulnerability
-https://github.com/AikidoSec/firewall-python#Detection Bypass
-https://github.com/AikidoSec/firewall-python#False Positive
-https://github.com/AikidoSec/firewall-python#Vulnerability
-https://github.com/AikidoSec/firewall-ruby#Detection Bypass
-https://github.com/AikidoSec/firewall-ruby#False Positive
-https://github.com/AikidoSec/firewall-ruby#Vulnerability
 https://github.com/Aiven
 https://github.com/Aiven-Open
 https://github.com/Chia-Network/chia-blockchain
@@ -6738,6 +6730,7 @@ https://www.skidxb.com/
 https://www.skroutz.gr
 https://www.sncf-connect.com
 https://www.sncf-connect.com/bff
+https://www.socialdeal.nl/orderlist/5e834ae0bed5c/63d772e2ed277/
 https://www.sophos.com/
 https://www.sophos.com/en-us/products
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial
@@ -8465,6 +8458,7 @@ www.sbb.ch
 www.sbbcargo.com
 www.sheer.com
 www.six-group.com
+www.socialdeal.nl
 www.sokos.fi
 www.soundonw.us
 www.starbucks.ca
