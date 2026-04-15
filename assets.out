@@ -257,6 +257,7 @@
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
+*.das.eu
 *.dash.ai
 *.dcfgateway.marriott.com
 *.de.jbl.com
@@ -284,6 +285,7 @@
 *.dm.gg
 *.dmcdn.net
 *.dmxleo.com
+*.dns.eu
 *.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
@@ -347,6 +349,7 @@
 *.eternal.com
 *.etsy.com
 *.eu.floqast.app
+*.eurid.eu
 *.europolitan.se
 *.exodus.com
 *.exodus.io
@@ -703,6 +706,7 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
+*.nic.eu
 *.ninjakiwi.me
 *.nitropack.io
 *.niumba.com
@@ -832,6 +836,7 @@
 *.redditinc.com
 *.redditmedia.com
 *.redecor.com
+*.registry.eu
 *.rentalcars.com
 *.reposify.com
 *.rhinternal.net
@@ -1117,6 +1122,7 @@
 *.welt.de
 *.wf.com
 *.whatnot.com
+*.whois.eu
 *.wien.at
 *.wien.gv.at
 *.wienkav.at
@@ -1906,7 +1912,6 @@ Crypto.com mobile app APIs that require an account
 Customer Connected Domain
 Customer Portal
 CyberGhost VPN servers
-DS proxy (see https://github.com/demarches-simplifiees/ds_proxy)
 Data Loss Prevention (DLP)
 Data Protection Program
 Data.lime.bike 
@@ -6320,7 +6325,6 @@ https://staging.luno.com.ng
 https://staging.luno.com/
 https://start.atlassian.com
 https://static-images.ifood.com.br
-https://static.demarches-simplifiees.fr
 https://static.mgm.mo
 https://static.usaa.com
 https://status.mobile.monash/
@@ -6574,9 +6578,6 @@ https://www.decathlon.(fr|ch|co.uk|it|nl|de|pt|es|be)/
 https://www.decathlon.(hu|pl|ro|cz|com.tr)/
 https://www.definitivetechnology.com
 https://www.demandforced3.com/
-https://www.demarches-simplifiees.fr
-https://www.demarches-simplifiees.fr/api/v2/graphql
-https://www.demarches-simplifiees.fr/graphql
 https://www.denon.com
 https://www.designify.com
 https://www.enjoyselfish.com
@@ -7235,6 +7236,7 @@ my-accpt.portofantwerpbruges.com
 my.account.sony.com
 my.bpost.be
 my.clearme.com
+my.eurid.eu
 my.exness.com
 my.loanbuilder.com
 my.malwarebytes.com
