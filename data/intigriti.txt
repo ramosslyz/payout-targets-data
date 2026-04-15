@@ -546,18 +546,6 @@ SimScale Forum
 SimScale Website
 https://apps.apple.com/cz/app/my%C5%A1koda/id1632202810
 cz.skodaauto.myskoda
-1114799709
-1114800186
-api.soundtrackyourbrand.com
-billing.api.soundtrackyourbrand.com
-builds.soundtrackyourbrand.com
-business.soundtrackyourbrand.com
-com.soundtrackyourbrand.soundtrack.player
-https://auth.api.soundtrackyourbrand.com/
-https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
-https://radio.api.soundtrackyourbrand.com/
-https://www.soundtrackyourbrand.com
-macOS app
 www.superdrug.com
 Superdrug iOS
 Superdrug Android
