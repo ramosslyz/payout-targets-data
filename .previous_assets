@@ -72,6 +72,7 @@
 *.advisor-connection.com
 *.advisorsolutions.gs.com
 *.adx.opera.com
+*.ai.8x8.vc
 *.aips-internal.com
 *.airbnb-aws.com
 *.airbnb.com
@@ -906,6 +907,7 @@
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
 *.prod.ftl.netflix.com
+*.prod.innovexperiments.com
 *.prod.nube.tech
 *.projectbaseline.com/
 *.prowly.com
@@ -3410,6 +3412,7 @@ api.prd.commerce.simplisafe.com
 api.preprod.monespacesante.fr
 api.privateinternetaccess.com
 api.privy.io
+api.prod.innovexperiments.com
 api.prod.whoop.com
 api.profiler.firefox.com
 api.qwant.com
@@ -3495,6 +3498,7 @@ app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
+app.demand.cybersource.com
 app.deriv.com
 app.drogas.lt
 app.drogas.lv
@@ -3820,6 +3824,7 @@ campus.datacamp.com
 cancellation.prod.ps.welt.de
 candle-src.etoro.com
 candle.etoro.com
+capability.prod.innovexperiments.com
 capi.grammarly.com
 capital.com/*
 capitalmarketsday.porsche.com
@@ -4466,6 +4471,7 @@ cyberscout.ca
 cyberscout.com
 cyberscoutclaims.com
 cyberscouthq.com
+cybersourcebouncebacks.visa.com
 cz.skodaauto.myskoda
 dailymotionadvertising.com
 daita/files_fulltextsearch_tesseract
@@ -4713,6 +4719,7 @@ exnessaffiliates.com
 exodus-movement.exodus
 exodusmovement.exodus
 experience.porsche.com
+experience.prod.innovexperiments.com
 experiences.booking.com
 explore.redoxengine.com
 expressvpn.jobs
@@ -4788,6 +4795,7 @@ folder.kruidvat.nl
 folder.trekpleister.nl
 folders.iciparisxl.nl
 fonts.adobe.com
+forms.cybersource.com
 forms.mobilevikings.be
 forms.nexuzhealth.be
 fortnite.com
@@ -4820,6 +4828,7 @@ gamma.grab.co
 gamma.redoxstage.com
 gammacademy.be
 gammalokaal.nl
+garp.visa.com
 gasstation.polygon.technology/
 gatekeeper.prd.iat.it.xvservice.net
 gateway*.marriott.com
@@ -8361,6 +8370,7 @@ ifast.marriott.com
 iframe.arkoselabs.com
 ifttt-adaptor.pub.kube.dm.gg
 ik.watsons.com.tr
+images.demand.cybersource.com
 img.swapcard.com
 img.zivver.com
 imove.bpost.cloud
@@ -8374,6 +8384,8 @@ inc-gw-cf.*.aws.indriverapp.com
 indicative-pricing.taxi.booking.com
 indrive.com
 infinite.visa.fr
+info.authorize.net
+info.cybersource.com
 infodefender.ca
 infomaniak.events
 ingest.clairvoyance.indrive.tech
@@ -8719,6 +8731,12 @@ merch.23andme.com
 merchandise.opera-api.com
 merchant.crypto.com
 merchant.wolt.com
+merchantsignage.visa.com
+merchantsignageap.visa.com
+merchantsignageca.visa.com
+merchantsignageeu.visa.com
+merchantsignageglobal.visa.com
+merchantsignagejp.visa.com
 mercury-dev.wnba.com
 mercury-qa.wnba.com
 mercury.wnba.com
@@ -9826,6 +9844,7 @@ vault.omise.co
 vault2.faraday.ai
 vcc-*.8x8.com
 vcc-ce.8x8.com
+vdam.visa.com
 vector.prd.iat.it.xvservice.net
 verified.clearme.com
 verified.clearme.com/v1/verification_sessions
@@ -9834,6 +9853,7 @@ verify.rapyd.net
 vfo01.vodafone.om
 vfo02.vodafone.om
 vfo03.vodafone.om
+vgov.catalogue.digitalcontrolroom.com
 vhx.tv
 via.rider
 video-agent.8x8.com
@@ -9868,6 +9888,7 @@ vrt.be/vrtnws
 vth.nba.com
 vtm.be/vtmgo
 vtmgo.be
+vwcm.visa.com
 vœux.vinci.com
 w1.uzleuven.be
 w1.uzleuven.be/random
@@ -10311,6 +10332,7 @@ www.travelocity.com
 www.trekpleister.nl
 www.trendyol-milla.com
 www.trendyol.com
+www.trialpay.com
 www.triseptapi.com
 www.triseptdemo.com
 www.triseptsolutions.com

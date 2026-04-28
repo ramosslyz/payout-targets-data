@@ -62,6 +62,7 @@ googleplace*.bykea.net
 kronos*.bykea.net
 loadboard*.bykea.net/
 raptor*.bykea.net
+*.prod.innovexperiments.com
 *.visamiddleeast.com
 *.consumer.worldcoin.org
 *.toolsforhumanity.com
@@ -254,6 +255,7 @@ onboarding-*.cloud.com
 *.8x8testa.com
 *.8x8testb.com
 *.acceptance.cloud.8x8.com
+*.ai.8x8.vc
 *.call-control.ie
 *.cceng.8x8.com
 *.chalet.8x8.com

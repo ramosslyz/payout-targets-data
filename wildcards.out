@@ -42,6 +42,7 @@
 *.advisor-connection.com
 *.advisorsolutions.gs.com
 *.adx.opera.com
+*.ai.8x8.vc
 *.aips-internal.com
 *.airbnb-aws.com
 *.airbnb.com
@@ -791,6 +792,7 @@
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
 *.prod.ftl.netflix.com
+*.prod.innovexperiments.com
 *.projectbaseline.com/
 *.prowly.com
 *.psynet.gg
