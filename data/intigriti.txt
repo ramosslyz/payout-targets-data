@@ -846,7 +846,6 @@ Wolt Courier Partner
 7 News
 apis.mail.yahoo.com
 data.mail.yahoo.com
-Engadget
 Gemini
 Low Cost Access
 Membership
