@@ -2809,8 +2809,6 @@ api.custody.coinbase.com
 api.deriv.com
 api.developer.monespacesante.fr
 api.dicey.com
-api.digital.delen.be 
-api.digital.delen.lu 
 api.digitalocean.com
 api.direct.playstation.com
 api.dmp.gouv.fr
@@ -2975,9 +2973,6 @@ app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
-app.delen.be 
-app.delen.ch 
-app.delen.lu 
 app.demand.cybersource.com
 app.deriv.com
 app.drogas.lt
@@ -3083,8 +3078,6 @@ auth-identity-qa.nba.com
 auth-identity-uat.nba.com
 auth-identity.nba.com
 auth.23andme.com
-auth.digital.delen.be 
-auth.digital.delen.lu 
 auth.dmp.gouv.fr
 auth.hhc247.org
 auth.magic.link
@@ -3133,7 +3126,6 @@ bdese.marionnaud.fr
 bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
-be.delen.digital
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -3838,7 +3830,6 @@ decision.swiftfinancial.com
 deeplinks.geneva-staging.chat
 deeplinks.geneva-staging.com
 defi.ripio.com
-delen/id1064839588
 delivery-webview.indrive.com
 demo.arkoselabs.com
 demo.dynamic.xyz
@@ -6501,7 +6492,6 @@ https://www.allsaints.me/
 https://www.amazon.com/luna/*
 https://www.amazonpay.in/*
 https://www.arlo.com
-https://www.arrowfilms.com
 https://www.assurancewireless.com
 https://www.atlassian.com/enterprise/data-center/bitbucket
 https://www.atlassian.com/enterprise/data-center/confluence
@@ -6558,7 +6548,6 @@ https://www.coral.co.uk/en/games
 https://www.crateandbarrel.me
 https://www.creditkarma.com/reviews/
 https://www.creditkarma.com/savings
-https://www.cultbeauty.co.uk/
 https://www.cyber.gouv.qc.ca/
 https://www.cyberghostvpn.com/en_US/apps/linux-vpn
 https://www.cyberghostvpn.com/en_US/apps/macos-vpn
@@ -6571,7 +6560,6 @@ https://www.denon.com
 https://www.designify.com
 https://www.dmp.fr
 https://www.dmp.gouv.fr
-https://www.enjoyselfish.com
 https://www.epam.com/
 https://www.etoro.com
 https://www.etsy.com
@@ -6592,7 +6580,6 @@ https://www.homesupport.irobot.com
 https://www.hostgator.com.br/
 https://www.hostgator.com/
 https://www.ifood.com.br
-https://www.illamasqua.com/
 https://www.imou.com
 https://www.intercom.com/
 https://www.internetbrands.com
@@ -6622,13 +6609,11 @@ https://www.lastpass.com
 https://www.letspaylater.ph
 https://www.li.me/
 https://www.logitech.com/blog
-https://www.lookfantastic.com/
 https://www.loom.com/
 https://www.loom.com/download
 https://www.lululemon.me
 https://www.magicplanetmena.com/
 https://www.malloftheemirates.com
-https://www.mankind.co.uk/
 https://www.mapbox.com/mapbox-gl-js/
 https://www.marantz.com
 https://www.mastercard.ch/de-ch.html
@@ -6636,7 +6621,6 @@ https://www.mastercard.ch/fr-ch.html
 https://www.mastercard.com.au/en-au.html
 https://www.mastercard.nl/nl-nl.html
 https://www.mastercard.us/en-us.html
-https://www.matalan.co.uk
 https://www.mdedge.com
 https://www.mediamarkt.at
 https://www.mediamarkt.be
@@ -6654,8 +6638,6 @@ https://www.minhaconta.zoop.com.br
 https://www.monash.edu
 https://www.monashprofessional.edu.au/
 https://www.myntra.com
-https://www.myprotein.com/
-https://www.myvitamins.com/
 https://www.namejet.com/
 https://www.networksolutions.com
 https://www.npmjs.com/package/@8x8/pui-partner-comm
@@ -7022,12 +7004,8 @@ login-4njbets.us.betfair.com
 login-accpt.portofantwerpbruges.com
 login.arkane.network
 login.cm.com
-login.delen.be 
-login.delen.ch 
-login.delen.lu 
 login.insightly.com
 login.lansweeper.com
-login.oyens.com
 login.playcanvas.com
 login.rei.com
 login.remitly.com
@@ -7790,7 +7768,6 @@ stats.gleague.nba.com
 stats.nba.com
 stats.vinci.com
 stats.wnba.com
-status.delen.be 
 status.larksuite.com
 status.uphold.com
 steamcommunity.com
@@ -7815,7 +7792,6 @@ streaming-api.iris.production.forescoutcloud.net
 streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
-sts.delen.be 
 sts.uzleuven.be
 studio-api.swapcard.com
 studio.swapcard.com
@@ -8134,8 +8110,6 @@ www.bookingholdings.com
 www.bpost.be
 www.bpost2.be
 www.bumble.com
-www.cadelam.be 
-www.cadelux.lu/en 
 www.cardinalcommerce.com
 www.carrentals.com
 www.cart.starbucks.co.jp/
@@ -8161,8 +8135,6 @@ www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
 www.ddfcontent.com
-www.delen.bank
-www.delen.be/en 
 www.demorgen.be
 www.demorgen.be/abonnementen
 www.digitalocean.com

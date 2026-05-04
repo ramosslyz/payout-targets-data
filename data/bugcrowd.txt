@@ -822,15 +822,6 @@ HPE Aruba Networking VIA
 Aruba AirWave AMP
 Aruba InstantOn Switches
 Aruba User Experience Insight Sensors
-https://www.cultbeauty.co.uk/
-https://www.lookfantastic.com/
-https://www.myprotein.com/
-https://www.myvitamins.com/
-https://www.arrowfilms.com
-https://www.mankind.co.uk/
-https://www.illamasqua.com/
-https://www.matalan.co.uk
-https://www.enjoyselfish.com
 https://chrome.google.com/webstore/detail/ibotta-browser-extension/mfaedmjlefifhnhpgipjjiiekchaimpk?hl=en-US
 http://market.android.com/details?id=com.ibotta.android
 http://itunes.apple.com/us/app/ibotta/id559887125
@@ -2190,6 +2181,13 @@ https://itunes.apple.com/us/app/vacation-rentals-owner-app-by-tripadvisor/id1045
 http://marlo.ext.tripadvisor.com
 chainabuse-staging.com
 api.chainabuse-staging.com
+https://www.20min.ch
+https://coral.20min.ch/
+https://api.20min.ch/
+https://videoplayer.20min.ch
+https://partner-feeds.20min.ch
+https://screenplayer.20min.ch
+https://audio.20min.ch/
 https://www.20min.ch
 https://coral.20min.ch/
 https://api.20min.ch/
