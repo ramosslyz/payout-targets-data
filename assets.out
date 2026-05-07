@@ -263,6 +263,7 @@
 *.dailymotion.com
 *.dancecentral.com
 *.das.eu
+*.dash.ai
 *.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
@@ -291,6 +292,7 @@
 *.dmcdn.net
 *.dmxleo.com
 *.dns.eu
+*.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
@@ -300,6 +302,10 @@
 *.dpgmedia.nl
 *.drogas.lt
 *.drogas.lv
+*.dropbox.com
+*.dropboxer.net
+*.dropboxforum.com
+*.dropboxpartners.com
 *.dropmix.com
 *.duokan.com
 *.e2ro.com
@@ -459,6 +465,9 @@
 *.harmankardon.com
 *.harmonixmusic.com
 *.harmonyremote.com
+*.hellofax.com
+*.hellosign.com
+*.helloworks.com
 *.here.com
 *.hereapi.com
 *.hey.bild.de
@@ -825,6 +834,7 @@
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
+*.reclaim.ai
 *.reddit.com
 *.redditblog.com
 *.reddithelp.com
@@ -1206,6 +1216,7 @@
 1052238659
 1057338687
 107.167.96.0/19
+1080074001
 1080248000
 1089294040
 1091010942
@@ -1484,6 +1495,7 @@
 3.basecamp.com
 302584613
 319881193
+327630330
 328407587
 335187483
 336381998
@@ -1559,6 +1571,7 @@
 6444040977
 6444868926
 6449737830
+6450553960
 6452192521
 645949180
 6462308655
@@ -1929,6 +1942,8 @@ Drogas Latvia Android
 Drogas Latvia iOS
 Drogas Lithuania Android
 Drogas Lithuania iOS
+Dropbox Desktop Application
+Dropbox.com
 Dynatrace ActiveGate
 Dynatrace MobileAgent
 Dynatrace OneAgent
@@ -1986,6 +2001,7 @@ FindX6
 FindX6Pro
 FindX7
 FindX7Ultra
+Fing desktop
 Finicity - OBB (Open Banking Business Service) 
 Finicity Decisioning
 Finicity- Data Services
@@ -2079,6 +2095,8 @@ Hardware found on https://www.ezviz.com/category/security-wifi-cameras
 Hardware found on https://www.ezviz.com/category/smart-home
 Harmony Remote Software
 Harmony Remotes
+HelloFax.com
+HelloSign.com
 Hermes Relayer
 Horcrux
 HubSpot Android Mobile App
@@ -2837,6 +2855,7 @@ api.dmp.gouv.fr
 api.doppler.com
 api.drogas.lt
 api.drogas.lv
+api.dropbox.com
 api.dyson.at
 api.dyson.be
 api.dyson.ch
@@ -2993,6 +3012,7 @@ apix.vodafone.om
 app*.hubspot.com
 app-*.easy4ipcloud.com
 app-insiders.marriott.com
+app.Reclaim.ai
 app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
@@ -3012,6 +3032,7 @@ app.dynamic.xyz
 app.expressmailguard.com
 app.faraday.ai
 app.files.com
+app.fing.com
 app.frontapp.com
 app.geneva-staging.chat
 app.geneva-staging.com
@@ -3495,6 +3516,8 @@ com.dd.doordash
 com.defi.wallet
 com.deribit
 com.dolap.android
+com.dropbox.android
+com.dropbox.dash
 com.dyson.mobile.android
 com.ebookers
 com.eero.android
@@ -3878,7 +3901,9 @@ cyberghost.com
 cybersourcebouncebacks.visa.com
 cz.skodaauto.myskoda
 dailymotionadvertising.com
+dash.ai
 dash.cloudflare.com
+dash.dropbox.com
 dashboard.doppler.com
 dashboard.magic.link
 dashboard.mergify.com
@@ -3981,6 +4006,7 @@ docs.optimuscards.com
 docs.redoxengine.com
 docs.topperpay.com
 docs.uphold.com
+docsend.com
 docuflow.stg.inspectorio.com
 donations.livestream.com
 doordash.DoorDashConsumer
@@ -3993,6 +4019,7 @@ dream-qa.wnba.com
 dream-qa2.wnba.com
 dream.wnba.com
 drive.wolt.com
+dropbox.com/paper
 dwy.visa.com
 dx-demo.deriv.com
 dx.deriv.com
@@ -4148,6 +4175,7 @@ fulfillment.23andme.com
 funding-webhooks.remitly.io
 furycloud.io
 furydocs.io
+fusion.tradepmr.com
 fuze.me
 fw-update.ubnt.com
 g2-cf.*.aws.indriverapp.com
@@ -7017,6 +7045,7 @@ info.cybersource.com
 ingest.clairvoyance.indrive.tech
 innersloth.kidswebservices.com
 innovation.superdrug.com
+insight2.tradepmr.com
 insights.deribit.com
 institutional.coinbase.com
 insuritly.com
@@ -7769,6 +7798,7 @@ remitlypayments.com
 remitlytest.com
 remitlywallet.com
 remitresearch.com
+replay.dropbox.com
 repo.magento.com
 report-html-sight.stg.inspectorio.com
 report.voi.com
@@ -7861,6 +7891,7 @@ sellerportal.newegg.com
 sendgrid.com
 sensei.pixiv.net
 serveur12.notebleue.com
+service.fing.com
 service.iciparisxl.nl
 service.kruidvat.be
 service.kruidvat.nl
@@ -7903,6 +7934,7 @@ shopify-admin.truelayer.com
 shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
+sign.dropbox.com
 signature-insights.api.cx.metamask.io
 signin.auth.welt.de
 signup.sendgrid.com
@@ -8461,6 +8493,7 @@ www.fewo-direkt.de
 www.fi.dyson.com
 www.figma.com
 www.files.com
+www.fing.com*
 www.firefox.com
 www.flights.com
 www.fondation-vinci.com
@@ -8635,6 +8668,7 @@ www.theperfumeshop.com
 www.tink.com
 www.tomorrowland.com
 www.topperpay.com
+www.tradepmr.com
 www.trajeoh.com
 www.transsicura.ch
 www.travel-brilliantly.marriott.com
