@@ -263,7 +263,7 @@
 *.dailymotion.com
 *.dancecentral.com
 *.das.eu
-*.dash.ai
+*.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.deliciousbrains.com
@@ -291,7 +291,6 @@
 *.dmcdn.net
 *.dmxleo.com
 *.dns.eu
-*.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
@@ -301,10 +300,6 @@
 *.dpgmedia.nl
 *.drogas.lt
 *.drogas.lv
-*.dropbox.com
-*.dropboxer.net
-*.dropboxforum.com
-*.dropboxpartners.com
 *.dropmix.com
 *.duokan.com
 *.e2ro.com
@@ -464,9 +459,6 @@
 *.harmankardon.com
 *.harmonixmusic.com
 *.harmonyremote.com
-*.hellofax.com
-*.hellosign.com
-*.helloworks.com
 *.here.com
 *.hereapi.com
 *.hey.bild.de
@@ -547,7 +539,14 @@
 *.khealth.io/
 *.kibana.wtf
 *.kiln.it
+*.kinepolis.be
+*.kinepolis.ch
+*.kinepolis.com
+*.kinepolis.fr
+*.kinepolis.lu
+*.kinepolis.nl
 *.kiwi.com
+*.klubcinema.fr
 *.korta.is
 *.kortathjonustan.is
 *.krisp.ai
@@ -556,6 +555,7 @@
 *.kruidvatkids.nl
 *.kube.dm.gg
 *.kwsdose.be
+*.landmarkcinemas.com
 *.landmarkglobal-group.com
 *.lansweeper.com
 *.lastminute.co.nz
@@ -616,6 +616,7 @@
 *.mb-cosmos.com
 *.mbamupdates.com
 *.mediatonic.co.uk
+*.megatix.be  
 *.melonapp.com
 *.meraki.com
 *.mercadolibre.cl
@@ -656,6 +657,7 @@
 *.miui.cn
 *.miui.com
 *.miwifi.com
+*.mjrtheatres.com
 *.mlstatic.com
 *.mmcdn.com
 *.mmwebc.dev
@@ -823,7 +825,6 @@
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
-*.reclaim.ai
 *.reddit.com
 *.redditblog.com
 *.reddithelp.com
@@ -1188,7 +1189,6 @@
 1052238659
 1057338687
 107.167.96.0/19
-1080074001
 1080248000
 1089294040
 1091010942
@@ -1467,7 +1467,6 @@
 3.basecamp.com
 302584613
 319881193
-327630330
 328407587
 335187483
 336381998
@@ -1512,6 +1511,7 @@
 52.67.69.35
 52.76.174.107
 52.86.17.52
+522089287
 524362642
 529996768
 531549799
@@ -1542,7 +1542,6 @@
 6444040977
 6444868926
 6449737830
-6450553960
 6452192521
 645949180
 6462308655
@@ -1912,8 +1911,6 @@ Drogas Latvia Android
 Drogas Latvia iOS
 Drogas Lithuania Android
 Drogas Lithuania iOS
-Dropbox Desktop Application
-Dropbox.com
 Dynatrace ActiveGate
 Dynatrace MobileAgent
 Dynatrace OneAgent
@@ -2065,8 +2062,6 @@ Hardware found on https://www.ezviz.com/category/security-wifi-cameras
 Hardware found on https://www.ezviz.com/category/smart-home
 Harmony Remote Software
 Harmony Remotes
-HelloFax.com
-HelloSign.com
 Hermes Relayer
 Horcrux
 HubSpot Android Mobile App
@@ -2814,7 +2809,6 @@ api.dmp.gouv.fr
 api.doppler.com
 api.drogas.lt
 api.drogas.lv
-api.dropbox.com
 api.dyson.at
 api.dyson.be
 api.dyson.ch
@@ -2969,11 +2963,13 @@ apix.vodafone.om
 app*.hubspot.com
 app-*.easy4ipcloud.com
 app-insiders.marriott.com
-app.Reclaim.ai
 app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -3067,6 +3063,9 @@ as2.portofantwerp.com
 as2.portofantwerpbruges.com
 ask.khealth.com
 askpeopleteam.visa.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com 
+assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.spotify.com
@@ -3141,6 +3140,7 @@ be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
 beacon.netflix.com
+beamitmobile.com
 beauty-and-you.iciparisxl.nl
 belgium.tomorrowland.com
 bestfiends.com
@@ -3185,6 +3185,7 @@ booking.applevacations.com
 booking.beachbound.com
 booking.cheapcaribbean.com
 booking.com
+booking.mjrtheatres.com
 bookingholdings-coe.com
 boomer2.ninjakiwi.com
 boost.vinci.com
@@ -3207,6 +3208,9 @@ building-blocks.com
 bulten.watsons.com.tr
 business-resources.truecaller.com
 business.kayak.com
+business.kinepolis.be
+business.kinepolis.lu
+business.kinepolis.nl
 business.linkedin.com
 business.reddithelp.com
 business.snapchat.com
@@ -3247,6 +3251,7 @@ campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
+campus.datacamp.com
 cancellation.prod.ps.welt.de
 capability.prod.innovexperiments.com
 capital.com/*
@@ -3453,12 +3458,11 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
+com.datacamp
 com.dd.doordash
 com.defi.wallet
 com.deribit
 com.dolap.android
-com.dropbox.android
-com.dropbox.dash
 com.dyson.mobile.android
 com.ebookers
 com.eero.android
@@ -3543,6 +3547,7 @@ com.hypr.one
 com.imdbtv.livingroom
 com.immediasemi.android.blink
 com.instacart.client
+com.inthepocket.kinepolis
 com.iphone.workfront
 com.jellybtn.boardkings
 com.jellybtn.cashkingmobile
@@ -3839,9 +3844,7 @@ cyberghost.com
 cybersourcebouncebacks.visa.com
 cz.skodaauto.myskoda
 dailymotionadvertising.com
-dash.ai
 dash.cloudflare.com
-dash.dropbox.com
 dashboard.doppler.com
 dashboard.magic.link
 dashboard.mergify.com
@@ -3944,7 +3947,6 @@ docs.optimuscards.com
 docs.redoxengine.com
 docs.topperpay.com
 docs.uphold.com
-docsend.com
 docuflow.stg.inspectorio.com
 donations.livestream.com
 doordash.DoorDashConsumer
@@ -3957,7 +3959,6 @@ dream-qa.wnba.com
 dream-qa2.wnba.com
 dream.wnba.com
 drive.wolt.com
-dropbox.com/paper
 dwy.visa.com
 dx-demo.deriv.com
 dx.deriv.com
@@ -3997,6 +3998,7 @@ education.github.com
 eero Devices
 efast.marriott.com
 effecthouse.tiktok.com
+egaming.kinepolis.es
 eidhelp.marriott.com
 elastic.co credentials
 eligibility.khealth.com
@@ -4043,6 +4045,8 @@ extranet-asa.uzleuven.be
 extranet.marionnaud.ch
 extranet.s-pankki.fi
 extranet.uzleuven.be
+extras-acc.landmarkcinemas.com
+extras.landmarkcinemas.com
 fab.com
 falcon-sandbox.com
 fareharborsites.com
@@ -4128,6 +4132,8 @@ gateway.superhuman.com
 gc.watsons.com.tr
 geneva-staging.chat
 geofilters.snapchat.com
+getorigen.com
+getsurenow.com
 gh-mail.expressvpn.com
 gift.starbucks.co.jp
 giftcards.marriott.com
@@ -4518,6 +4524,7 @@ https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/certsy/id1617796159
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
@@ -5894,6 +5901,8 @@ https://monash.app.nutrip.com
 https://monashcollege.edu.au
 https://monster-customizer.classdojo.com/cf6dfa68-1a81-4c6d-bc0b-38f3666b37d6/index.html
 https://move.monash.edu/
+https://movieclub-int.kinepolis.com
+https://movienow-int.kinepolis.be/admin
 https://mstatic.usaa.com
 https://my.arlo.com
 https://my.electroneum.com/
@@ -6325,6 +6334,7 @@ https://service.post.ch/zopa/app/
 https://services.chipotle.com
 https://sfleet.cortexpowered.com
 https://sflower.cortexpowered.com
+https://shop-acc.kinepolis.be/
 https://shop.ifood.com.br
 https://shop.monash.edu/
 https://shop.post.ch/shop
@@ -6943,6 +6953,8 @@ identity.nba.com
 identity.stage.vismaonline.com
 identity.yoti.com
 identityhomolog.acesso.io
+identityserver-acc.landmarkcinemas.com
+identityserver.landmarkcinemas.com
 idp-cf.*.aws.indriverapp.com
 idpay-uat.unico.io
 ifast.marriott.com
@@ -6969,6 +6981,7 @@ innersloth.kidswebservices.com
 innovation.superdrug.com
 insights.deribit.com
 institutional.coinbase.com
+insuritly.com
 int.32red.com
 intensedebate.com
 intercity-*.eu-east-1.indriverapp.com
@@ -7028,6 +7041,9 @@ kartaview.org
 katalog.watsons.com.tr
 kayak.ai
 kidswebservices.com
+kinepolis-studio.be
+kinepolis.megatix.be
+kinepolis/id368204284
 kit.snapchat.com
 klarna.com
 klarna.net
@@ -7118,6 +7134,9 @@ lol.onevone
 loyalty.tw.coupang.com
 lps.dmp.gouv.fr
 lps2.dmp.gouv.fr
+luxfilmfestfilms.megatix.be
+luxfilmfestproducts.megatix.be
+luxfilmfesttickets.megatix.be
 lynx-dev.wnba.com
 lynx-qa.wnba.com
 lynx-qa2.wnba.com
@@ -7293,6 +7312,7 @@ monitor.mozilla.org
 monzo.com
 moonpay.com
 movie.indrive.com
+movieapi.kinepolis.megatix.be
 mpa.ekyc.backoffice.m-pesa.com
 mpa.ekyc.selfregister.m-pesa.com
 mpa.qr.web.m-pesa.com
@@ -7391,6 +7411,7 @@ npmjs.org
 ns1.optusnet.com.au
 ns2.optusnet.com.au
 nummus.robinhood.com
+nz.co.vista.android.movie.mjrtheatres
 oasisprod.marriott.com
 oauth-sandbox.gocardless.com
 oauth.deriv.com
@@ -7438,6 +7459,11 @@ org.piwik.mobile2
 org.toshi
 org.toshi.distribution
 org.vom8x8.sipua
+origenapp.com
+origenbanking.com
+origencard.com
+origendebit.com
+origenfinance.com
 outage.logitech.com
 outagehistory.logitech.com
 outlook.insightly.com
@@ -7556,6 +7582,7 @@ pot-cf.*.aws.indriverapp.com
 pot-gw-cf.*.aws.indriverapp.com
 pr*.indriverapp.com
 pr-gw-cf.*.aws.indriverapp.com
+practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -7598,6 +7625,8 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profiler.firefox.com
+profiles-api.datacamp.com
+projects.datacamp.com
 promo.tw.coupang.com
 prow.k8s.io
 proxy-production.lime.bike
@@ -7657,8 +7686,41 @@ registry.gitlab.com
 rei.com
 relay.firefox.com
 relay.playcanvas.com
+remilty.net
+remilty.org
+remitir.com
+remitiy.com
+remitly-3pjs.com
+remitly-vendor.com
+remitly.ca
+remitly.cash
+remitly.co
+remitly.co.uk
 remitly.com
-replay.dropbox.com
+remitly.com.au
+remitly.com.mx
+remitly.de
+remitly.es
+remitly.eu
+remitly.fr
+remitly.io
+remitly.jp
+remitly.me
+remitly.mx
+remitly.net
+remitly.org
+remitly.uk
+remitly.xyz
+remitlyapi.com
+remitlycard.com
+remitlycredit.com
+remitlydata.com
+remitlyit.com
+remitlypay.com
+remitlypayments.com
+remitlytest.com
+remitlywallet.com
+remitresearch.com
 repo.magento.com
 report-html-sight.stg.inspectorio.com
 res.blueskytours.globalbookingsolutions.com
@@ -7790,7 +7852,6 @@ shop.wyndhamvacationownership.trisept.travel
 shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
-sign.dropbox.com
 signature-insights.api.cx.metamask.io
 signin.auth.welt.de
 signup.sendgrid.com
@@ -7870,6 +7931,7 @@ sso.marriott.com
 sso.oft.hyatt.com
 sso.ryadom.kz
 st*.indriverapp.com
+stage.landmarkcinemas.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 staging-app.bany.dev
 staging.airtable.com
@@ -7997,6 +8059,12 @@ testnet.bitmex.com
 testnet.immutable.com
 teststs.uzleuven.be
 thebrowser.company
+tickets.kinepolis.be
+tickets.kinepolis.ch
+tickets.kinepolis.es
+tickets.kinepolis.fr
+tickets.kinepolis.lu
+tickets.kinepolis.nl
 tiktok.com
 tiktokdata-us-open.tiktokw.us
 tlbe.prod.tomorrowland.com
@@ -8013,6 +8081,7 @@ transact.playstation.com
 translate.badoo.com
 travel.crypto.com
 travelagents.marriott.com/
+travelcash.money
 traveler.marriott.com
 treatments.khealth.com
 trello.com
@@ -8053,6 +8122,8 @@ usa.visa.com
 user-profile-staging.8x8.com
 user-profile.8x8.com
 usercontent.koho.ca
+userprofile-acc.landmarkcinemas.com
+userprofile-ui.landmarkcinemas.com
 uwa.mobilevikings.be
 v1. kidswebservices.com
 v1staging.kidswebservices.com 
@@ -8162,6 +8233,7 @@ webwinkel.volkskrant.nl
 wechat.api.marriott.com
 welt.de
 wga.volans.tech
+whyisend.com
 widget.rentalcars.com
 wifi-in-store.iciparisxl.be
 wifi-in-store.iciparisxl.lu
@@ -8264,6 +8336,8 @@ www.crowdstrike.com
 www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
+www.datacamp.com
+www.datacamp.com/datalab
 www.ddfcontent.com
 www.delen.bank
 www.delen.be/en 
@@ -8371,6 +8445,14 @@ www.instacart.com
 www.intigriti.com
 www.jaybirdsport.com
 www.kayak.com
+www.kinepolis.be 
+www.kinepolis.biz
+www.kinepolis.ch 
+www.kinepolis.com 
+www.kinepolis.es 
+www.kinepolis.fr 
+www.kinepolis.lu 
+www.kinepolis.nl 
 www.kiwi.com
 www.koho.ca
 www.kolikkopelit.com
@@ -8379,6 +8461,7 @@ www.kruidvat.be
 www.kruidvat.nl
 www.kruidvatkids.nl
 www.lab-recherche-environnement.org
+www.landmarkcinemas.com
 www.lansweeper.com
 www.lastminute.co.nz
 www.lastminute.com.au
@@ -8421,6 +8504,7 @@ www.mercadolibre.com.sv
 www.mercadolivre.com
 www.mercadopago.com.ec
 www.midtrans.com
+www.mjrtheatres.com
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk

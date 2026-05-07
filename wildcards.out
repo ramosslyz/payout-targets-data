@@ -248,7 +248,7 @@
 *.dailymotion.com
 *.dancecentral.com
 *.das.eu
-*.dash.ai
+*.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.deliciousbrains.com
@@ -276,7 +276,6 @@
 *.dmcdn.net
 *.dmxleo.com
 *.dns.eu
-*.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
@@ -286,10 +285,6 @@
 *.dpgmedia.nl
 *.drogas.lt
 *.drogas.lv
-*.dropbox.com
-*.dropboxer.net
-*.dropboxforum.com
-*.dropboxpartners.com
 *.dropmix.com
 *.duokan.com
 *.e2ro.com
@@ -449,9 +444,6 @@
 *.harmankardon.com
 *.harmonixmusic.com
 *.harmonyremote.com
-*.hellofax.com
-*.hellosign.com
-*.helloworks.com
 *.here.com
 *.hereapi.com
 *.hey.bild.de
@@ -532,7 +524,14 @@
 *.khealth.io/
 *.kibana.wtf
 *.kiln.it
+*.kinepolis.be
+*.kinepolis.ch
+*.kinepolis.com
+*.kinepolis.fr
+*.kinepolis.lu
+*.kinepolis.nl
 *.kiwi.com
+*.klubcinema.fr
 *.korta.is
 *.kortathjonustan.is
 *.krisp.ai
@@ -541,6 +540,7 @@
 *.kruidvatkids.nl
 *.kube.dm.gg
 *.kwsdose.be
+*.landmarkcinemas.com
 *.landmarkglobal-group.com
 *.lansweeper.com
 *.lastminute.co.nz
@@ -601,6 +601,7 @@
 *.mb-cosmos.com
 *.mbamupdates.com
 *.mediatonic.co.uk
+*.megatix.be  
 *.melonapp.com
 *.meraki.com
 *.mercadolibre.cl
@@ -641,6 +642,7 @@
 *.miui.cn
 *.miui.com
 *.miwifi.com
+*.mjrtheatres.com
 *.mlstatic.com
 *.mmcdn.com
 *.mmwebc.dev
@@ -808,7 +810,6 @@
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
-*.reclaim.ai
 *.reddit.com
 *.redditblog.com
 *.reddithelp.com
