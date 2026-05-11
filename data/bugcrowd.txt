@@ -1,5 +1,7 @@
 http://data-api.coindesk.com/
 https://tools-api.cryptocompare.com/
+http://data-api.coindesk.com/
+https://tools-api.cryptocompare.com/
 https://acorns.com/
 https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671
 https://graphql.acorns.com
@@ -555,9 +557,6 @@ https://itunes.apple.com/app/carrefour-uae/id626805470
 https://play.google.com/store/apps/details?id=com.aswat.carrefouruae
 https://www.carrefouruae.com/
 https://api-prod.retailsso.com
-https://itunes.apple.com/us/app/cash-app/id711923939?mt=8
-https://play.google.com/store/apps/details?id=com.squareup.cash
-https://cash.app
 https://marketplace.atlassian.com/apps/37658/column-order-gadget-plugin?hosting=cloud&tab=overview
 https://www.cfr.org/
 https://thinkglobalhealth.org
@@ -1438,6 +1437,8 @@ https://browser-notifications.opera.com
 https://www.opera.com/
 https://www.opera.com/computer/thanks?ni=stable&os=windows
 https://www.opera.com/computer/thanks?ni=eapgx&os=windows
+https://www.operaneon.com
+https://www.opera.com/computer/thanks?ni=opera_air&os=windows
 https://get.geo.opera.com
 https://play.google.com/store/apps/details?id=com.opera.mini.native
 https://play.google.com/store/apps/details?id=com.opera.app.sports
