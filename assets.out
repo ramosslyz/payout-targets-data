@@ -866,8 +866,6 @@
 *.sc-corp.net
 *.scatec.io
 *.scbe.api.here.com
-*.scopely.com
-*.scopely.io
 *.sec-tunnel.com
 *.securecircle.com
 *.securegatewayaccess.com
@@ -1115,7 +1113,6 @@
 *.wise.com
 *.wissen-sie-mehr.de
 *.withairbnb.com
-*.withbuddies.com
 *.withspotify.com
 *.wlo.link
 *.wolt.com
@@ -2022,9 +2019,6 @@ G Hub
 GHE
 GS Select iOS app
 GameMaker Studio 2
-Games Tier 1
-Games Tier 2
-Games Tier 3
 Gardener
 Gateway
 Gemini
@@ -2748,7 +2742,6 @@ ai.x.GrokApp
 ai.x.grok
 aiassistant.stage.vismaonline.com
 aiq-prod.codebig2.net
-air.com.bitrhymes.bingo
 air.com.buffalo_studios.newflashbingo
 air.com.playtika.cvs
 air.com.playtika.slotomania
@@ -3441,7 +3434,6 @@ com.anker.charging
 com.application.zomato
 com.application.zomato.district
 com.application.zomatomerchant
-com.aqupepgames.projectpepe
 com.atebits.Tweetie2
 com.audible.application
 com.badoo.mobile
@@ -3507,7 +3499,6 @@ com.fanduel.sportsbook
 com.finshell.finance
 com.finshell.wallet
 com.fintech.life
-com.foxnextgames.m3
 com.frame.FrameIO
 com.freshchat.agent.android
 com.freshdesk.helpdesk
@@ -3533,9 +3524,6 @@ com.gs.mobile.trader
 com.gs.pfmg.wellness
 com.gs.pwmdigital.external
 com.gs.pwmdigital.external.android
-com.gsn.android.casino
-com.gsn.android.tripeaks
-com.gsn.grandcasino
 com.hcom.android
 com.here.app.maps
 com.hey.app.ios
@@ -3580,7 +3568,6 @@ com.katanlabs.matchballgame
 com.katanlabs.worm.ioeatemall
 com.kayak.android
 com.kayak.travel
-com.kitkagames.fallbuddies
 com.konylabs.capitalone
 com.larksuite.suite
 com.linkedin.android
@@ -3640,7 +3627,6 @@ com.pacificinteractive.HouseOfFun
 com.paypal.android.p2pmobile
 com.paypal.merchant
 com.paypal.merchant.client
-com.pieyel.scrabble
 com.playtika.caesarscasino
 com.playtika.wsop.gp
 com.priceline.android.negotiator
@@ -3661,9 +3647,6 @@ com.robinhood.gateway
 com.robinhood.global Android
 com.robinhood.money
 com.romwe
-com.scopely.monopolygo
-com.scopely.startrek
-com.scopely.yux
 com.security.BatteryCam
 com.security.care
 com.shopai.apps
@@ -3728,7 +3711,6 @@ com.whoop.android
 com.whoop.iphone
 com.wikibuy.prod.main
 com.wisdomtree.wtprime
-com.withbuddies.dice.free
 com.wooga.pearlsperil
 com.wotif.android
 com.xiaomi.account
@@ -6941,11 +6923,8 @@ id.oppo.com
 id.stg.inspectorio.com
 id.superhuman.com
 id.tw.coupang.com
-id1427744264
 id1520720139
 id1534920947
-id1541153375
-id1621328561
 id6443932656
 id6472513080
 idcash-uat.unico.io
