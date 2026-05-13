@@ -118,8 +118,6 @@ Leaked/compromised employee accounts *.here.com
 *.acc.mobilevikings.be
 *.dev-pub.mobilevikings.be
 *.dev.mobilevikings.be
-*.monzo.com
-*.prod-ffs.io
 *.nexuzhealth.*
 *.ninjakiwi.me
 *.nkstatic.com
@@ -132,6 +130,7 @@ Leaked/compromised employee accounts *.here.com
 *.personiowhistleblowing.com
 *.portofantwerp.com
 *.portofantwerpbruges.com
+*.ripe.net
  *.rivian.com
 *.swisspass.ch
 *.sbb.ch
