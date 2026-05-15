@@ -1080,10 +1080,6 @@ https://kucoin.com
 https://kucoin.com
 https://apps.apple.com/us/app/kucoin-buy-bitcoin-crypto/id1378956601?mt=8
 https://play.google.com/store/apps/details?id=com.kubi.kucoin
-https://kucoin.com
-https://kucoin.com
-https://apps.apple.com/us/app/kucoin-buy-bitcoin-crypto/id1378956601?mt=8
-https://play.google.com/store/apps/details?id=com.kubi.kucoin
 ████████████████████
 ██████████████████
 ████████████████████████
@@ -1396,6 +1392,8 @@ https://nubank.com.co
 https://www.nuinvest.com.br/
 https://octopus.com/downloads
 https://octopus.com/downloads
+https://github.com/OctopusDeploy
+https://octopus.com
 https://github.com/OctopusDeploy
 https://octopus.com
 personal.trexcloud.com
@@ -1979,6 +1977,9 @@ partnerportal.skyscanner.net/*
 Skyscanner Android app
 Skyscanner iOS app
 AWS Infrastructure
+https://github.com/electroneum/electroneum-sc/
+https://blockexplorer.electroneum.com
+https://testnet-blockexplorer.electroneum.com
 https://snapnames.com/
 https://www.namejet.com/
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
@@ -2121,11 +2122,6 @@ https://docs.tempus-ex.com
 https://github.com/tempus-ex
 https://infiniteathlete.ai
 https://platform.infiniteathlete.ai
-https://apps.apple.com/us/app/tesla/id582007913
-Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
-https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
-Tesla Energy hardware you own
-Tesla vehicle hardware that you own
 ████████████████████████
 █████████████████████
 █████████████████████████
