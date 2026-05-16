@@ -248,6 +248,8 @@
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.deliciousbrains.com
+*.dell.com/*
+*.delltechnologies.com/* 
 *.demorgen.be
 *.deribit.com
 *.deriv.cloud
@@ -995,9 +997,6 @@
 *.trip.com
 *.triplinkintl.com
 *.trouw.nl
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tumblr.com
