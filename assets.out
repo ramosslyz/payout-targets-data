@@ -928,7 +928,6 @@
 *.snapshooter.com
 *.snooguts.net
 *.sol-data.com
-*.solarcity.com
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
 *.souparea.com
@@ -979,11 +978,6 @@
 *.techbook.de
 *.telenor.se
 *.telenorinpli.se
-*.tesla.cn
-*.tesla.com
-*.tesla.services
-*.teslainsuranceservices.com
-*.teslamotors.com
 *.theelasticast.com
 *.theperfumeshop.com
 *.thetradedesk.com
@@ -1723,7 +1717,6 @@ Any Other Applications found here: https://mysrc.group/project_detail?id=11
 Any Other Sophos Product or Service
 Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
-Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
 Any host/web property verified to be owned by Twilio et al.
 Any host/web property/mobile app verified to be owned by Indeed
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
@@ -2500,8 +2493,6 @@ TW eCommerce: Used Car
 Tablets
 Tap to Pay (Android)
 Tap to Pay (iOS)
-Tesla Energy hardware you own
-Tesla vehicle hardware that you own
 Texts
 The Perfume Shop Android
 The Perfume Shop iOS
@@ -4284,6 +4275,7 @@ ht.visa.com
 http1mustdie.com
 http://--your-own-1password-account--.1password.com
 http://activitylog.io/
+http://analytics.prosus.com
 http://api.insightly.com/v3.1/
 http://api.koho.ca/1.0
 http://api.koho.ca/partner
@@ -4342,6 +4334,7 @@ http://mobileapp-non-gaming.mgm.mo/
 http://my.mintmobile.com/
 http://my.ultramobile.com
 http://myvisainfinite.com/suntrust/en_us/home.html
+http://nav.naspers.com/
 http://nexus.live.ucs.on.epicgames.com/
 http://open.oppomobile.com
 http://ourhouse.underarmour.com/
@@ -4419,6 +4412,7 @@ https://aiven.io/clickhouse
 https://aiven.io/docs/products/metrics/concepts/metrics-overview
 https://album.link
 https://alumni-friends.monash.edu
+https://analytics-admin.prosus.com
 https://analytics.neogov.com
 https://analytics.welcomesoftware.com/
 https://answers.irobot.com
@@ -4697,7 +4691,6 @@ https://apps.apple.com/us/app/syncup-kids/id1503394062
 https://apps.apple.com/us/app/syncup-tracker/id1526380335
 https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388
 https://apps.apple.com/us/app/t-mobile/id561625752
-https://apps.apple.com/us/app/tesla/id582007913
 https://apps.apple.com/us/app/tripadvisor-plan-book-trips/id284876795
 https://apps.apple.com/us/app/under-armour/id1092704571
 https://apps.apple.com/us/app/usaa-mobile/id312325565
@@ -4835,6 +4828,7 @@ https://cdn.optimizely.com/
 https://cdn.unicdn.net/apk/UnibetCasino.apk
 https://central.sophos.com
 https://central.sophos.com/
+https://cfc.naspers.com/
 https://charts.etoro.com
 https://chat.openai.com
 https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad
@@ -4916,11 +4910,14 @@ https://dashboard.fga.dev/
 https://dashboard.pantheon.io
 https://dashboard.rapyd.net/
 https://data.limeinternal.com
+https://data.prosus.com/
 https://datadome.co
 https://dataportal.originenergy.com.au
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
 https://dcfgatewaytst1.marriott.com/
 https://ddosportal.optus.com.au
+https://dealflow.prosus.com
+https://dealflowapi.prosus.com
 https://delta.app
 https://demo.adstruc.com
 https://demo.priceless.com/
@@ -5350,6 +5347,7 @@ https://home.classdojo.com
 https://home.xfinity.com
 https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
 https://hr.neogov.com
+https://hr.prosus.com/
 https://hug.personio.com
 https://i18n.api.just-eat.io
 https://ibconnect.internetbrands.com
@@ -6057,6 +6055,7 @@ https://pbgq-pes.upac.gouv.qc.ca/nous-joindre/
 https://pbgq.upac.gouv.qc.ca/
 https://pci.kindredgroup.com
 https://pentest-app.onetrust.com/
+https://peopleview.naspers.com
 https://performance.neogov.com
 https://performancemarketing.mastercard.com/portal/
 https://pets.webmd.com
@@ -6179,7 +6178,6 @@ https://play.google.com/store/apps/details?id=com.tcx.sipphone14
 https://play.google.com/store/apps/details?id=com.teamviewer.host.market&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile&hl=en&gl=US
-https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.tmobile.drive
 https://play.google.com/store/apps/details?id=com.tmobile.kids
 https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
@@ -6463,6 +6461,7 @@ https://tools-api.cryptocompare.com/
 https://torquemag.io
 https://tr.ee
 https://tracker.bugcrowd.com
+https://tracker.naspers.com/
 https://transcodes-cdn.vistarmedia.com
 https://transfer.underarmour.com/
 https://transferwise.com
