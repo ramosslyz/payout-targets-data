@@ -248,8 +248,6 @@
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.deliciousbrains.com
-*.dell.com/*
-*.delltechnologies.com/* 
 *.demorgen.be
 *.deribit.com
 *.deriv.cloud
@@ -373,8 +371,6 @@
 *.fuze.com
 *.fuze.site
 *.gaming.gopayapi.com
-*.gamma.be/*
-*.gamma.nl/*
 *.gateway.marriott.com
 *.genoapay.co.nz
 *.genoapay.com
@@ -503,9 +499,6 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
-*.intergamma-test.nl
-*.intergamma.cloud
-*.intergamma.nl/*
 *.internal.exoscale.ch
 *.intigriti.me
 *.itcapital.io
@@ -520,8 +513,6 @@
 *.jobstreet.com
 *.jora.com
 *.jora.xyz
-*.karwei.nl/*
-*.karweioutletstore.nl
 *.kayak.com
 *.khealth.com
 *.khealth.io/
@@ -825,7 +816,6 @@
 *.registry.eu
 *.rentalcars.com
 *.reposify.com
-*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -913,6 +903,7 @@
 *.snapshooter.com
 *.snooguts.net
 *.sol-data.com
+*.solarcity.com
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
 *.souparea.com
@@ -963,6 +954,11 @@
 *.techbook.de
 *.telenor.se
 *.telenorinpli.se
+*.tesla.cn
+*.tesla.com
+*.tesla.services
+*.teslainsuranceservices.com
+*.teslamotors.com
 *.theelasticast.com
 *.theperfumeshop.com
 *.thetradedesk.com
@@ -1093,9 +1089,6 @@
 *.wellsfargo.com
 *.wellsfargoadvisors.com
 *.welt.de
-*.werkenbijgamma.be
-*.werkenbijgamma.nl
-*.werkenbijkarwei.nl
 *.wf.com
 *.whatnot.com
 *.whois.eu

@@ -685,10 +685,6 @@ https://consensus2026.sandbox.events.coindesk.com/
 https://marketplace.atlassian.com/apps/1223249/mailto-wiki-send-emails-to-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1223249/mailto-wiki-send-emails-to-confluence?tab=overview&hosting=server
 https://marketplace.atlassian.com/apps/1223249/mailto-wiki-email-for-confluence?hosting=datacenter&tab=overview
-https://console.delltechnologies.com/nav/administration
-https://console.delltechnologies.com/nav/invoice
-https://console.delltechnologies.com/nav/billing
-Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
 Actively Supported, Bounty Eligible Dell Products
 Actively Supported, Non-Reward Eligible Dell Products
 ████████████████████████
@@ -793,7 +789,6 @@ https://financialforce.com
 https://sb-console-api.fireblocks.io
 https://sb-mobile-api.fireblocks.io
 https://sandbox-api.fireblocks.io
-https://github.com/fireblocks/mpc-lib
 https://github.com/fireblocks/mpc-lib
 Any FIS asset is in scope
 https://fivetran.com/login
@@ -2121,6 +2116,11 @@ https://docs.tempus-ex.com
 https://github.com/tempus-ex
 https://infiniteathlete.ai
 https://platform.infiniteathlete.ai
+https://apps.apple.com/us/app/tesla/id582007913
+Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
+https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
+Tesla Energy hardware you own
+Tesla vehicle hardware that you own
 ████████████████████████
 █████████████████████
 █████████████████████████
