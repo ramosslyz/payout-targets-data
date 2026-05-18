@@ -498,6 +498,7 @@
 *.instacart.com
 *.instacart.tools
 *.int.remitly.com
+*.intercomassets.com / *.intercomcdn.com
 *.internal.exoscale.ch
 *.intigriti.me
 *.jbl.com
@@ -628,6 +629,7 @@
 *.mlstatic.com
 *.mmcdn.com
 *.mmwebc.dev
+*.mobile-messenger.intercom.com
 *.mobilevikings.be
 *.mobilitygraph.hereapi.com
 *.mona.co
