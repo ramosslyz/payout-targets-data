@@ -513,7 +513,6 @@
 *.instacart.com
 *.instacart.tools
 *.int.remitly.com
-*.intercomassets.com / *.intercomcdn.com
 *.internal.exoscale.ch
 *.intigriti.me
 *.jbl.com
@@ -644,7 +643,6 @@
 *.mlstatic.com
 *.mmcdn.com
 *.mmwebc.dev
-*.mobile-messenger.intercom.com
 *.mobilevikings.be
 *.mobilitygraph.hereapi.com
 *.mona.co
@@ -4252,7 +4250,6 @@ http://itunes.apple.com/us/app/ibotta/id559887125
 http://logstash-props.devicecloud.production.forescoutcloud.net/api/v1/properties
 http://market.android.com/details?id=com.ibotta.android
 http://marlo.ext.tripadvisor.com
-http://mcp.intercom.com
 http://media.itsfogo.com/media/upload/mobile/android/apk/partycasino_com.apk
 http://member-qa.chime.com/enroll
 http://mgmtpod-1.production.forescoutcloud.net/oauth/token
@@ -4346,7 +4343,6 @@ https://answers.irobot.com
 https://api-a.usaa.com
 https://api-app.datadome.co/
 https://api-businessportal.origin.com.au
-https://api-iam.intercom.io
 https://api-js.datadome.co
 https://api-next.flatmates.com.au
 https://api-payments-secure-prod.skippayments.com
@@ -4383,7 +4379,6 @@ https://api.ibops.net/ad-management
 https://api.ibotta.com
 https://api.int.ibops.net
 https://api.int.ibops.net/customer-loyalty-service
-https://api.intercom.com
 https://api.justeat-int.com
 https://api.jwks.kape.com
 https://api.mafshoppingmalls.com/
@@ -4446,13 +4441,10 @@ https://app.chime.com
 https://app.datadome.co
 https://app.easy4ipcloud.com
 https://app.ecwid.com/api/v3/	
-https://app.fin.ai/
 https://app.getflywheel.com
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 https://app.ibotta.com/sign-in 
 https://app.insomnia.rest/
-https://app.intercom.com
-https://app.intercom.io/
 https://app.latitudepayapps.com/
 https://app.navan.com
 https://app.opsgenie.com
@@ -4858,8 +4850,6 @@ https://developer.paddle.com
 https://developer.withings.com/dashboard/
 https://developers.afterpay.com
 https://developers.elementor.com/
-https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
-https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
 https://developers.oppomobile.com/
 https://developers.vendhq.com/
 https://development.wmaudience.com
@@ -4979,7 +4969,6 @@ https://externalconnect.usaa.com/
 https://fcu.eu-west-2.outscale.com
 https://features.opera-api.com
 https://fileshare.ze.monash.edu
-https://fin.ai/
 https://finance.quintoandar.com.br/*
 https://financeiro.hostgator.com.br
 https://financialforce.com
@@ -6599,7 +6588,6 @@ https://www.hostgator.com/
 https://www.ifood.com.br
 https://www.illamasqua.com/
 https://www.imou.com
-https://www.intercom.com/
 https://www.internetbrands.com
 https://www.irobot.at/
 https://www.irobot.be/
