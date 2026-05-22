@@ -2794,6 +2794,8 @@ api.custody.coinbase.com
 api.deriv.com
 api.developer.monespacesante.fr
 api.dicey.com
+api.digital.delen.be 
+api.digital.delen.lu 
 api.digitalocean.com
 api.direct.playstation.com
 api.dmp.gouv.fr
@@ -2963,6 +2965,9 @@ app.circle.com
 app.datacamp.com/certification
 app.datacamp.com/groups
 app.datacamp.com/learn
+app.delen.be 
+app.delen.ch 
+app.delen.lu 
 app.demand.cybersource.com
 app.deriv.com
 app.drogas.lt
@@ -3074,6 +3079,8 @@ auth-identity-uat-ping.nba.com
 auth-identity-uat.nba.com
 auth-identity.nba.com
 auth.23andme.com
+auth.digital.delen.be 
+auth.digital.delen.lu 
 auth.dmp.gouv.fr
 auth.hhc247.org
 auth.magic.link
@@ -3122,6 +3129,7 @@ bdese.marionnaud.fr
 bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
+be.delen.digital
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -3857,6 +3865,7 @@ decision.swiftfinancial.com
 deeplinks.geneva-staging.chat
 deeplinks.geneva-staging.com
 defi.ripio.com
+delen/id1064839588
 delivery-webview.indrive.com
 demo.arkoselabs.com
 demo.dynamic.xyz
@@ -4213,7 +4222,6 @@ ht.visa.com
 http1mustdie.com
 http://--your-own-1password-account--.1password.com
 http://activitylog.io/
-http://analytics.prosus.com
 http://api.insightly.com/v3.1/
 http://api.koho.ca/1.0
 http://api.koho.ca/partner
@@ -4272,7 +4280,6 @@ http://mobileapp-non-gaming.mgm.mo/
 http://my.mintmobile.com/
 http://my.ultramobile.com
 http://myvisainfinite.com/suntrust/en_us/home.html
-http://nav.naspers.com/
 http://nexus.live.ucs.on.epicgames.com/
 http://open.oppomobile.com
 http://ourhouse.underarmour.com/
@@ -4349,7 +4356,6 @@ https://aiven.io/clickhouse
 https://aiven.io/docs/products/metrics/concepts/metrics-overview
 https://album.link
 https://alumni-friends.monash.edu
-https://analytics-admin.prosus.com
 https://analytics.neogov.com
 https://analytics.welcomesoftware.com/
 https://answers.irobot.com
@@ -4763,7 +4769,6 @@ https://cdn.optimizely.com/
 https://cdn.unicdn.net/apk/UnibetCasino.apk
 https://central.sophos.com
 https://central.sophos.com/
-https://cfc.naspers.com/
 https://charts.etoro.com
 https://chat.openai.com
 https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad
@@ -4845,14 +4850,11 @@ https://dashboard.fga.dev/
 https://dashboard.pantheon.io
 https://dashboard.rapyd.net/
 https://data.limeinternal.com
-https://data.prosus.com/
 https://datadome.co
 https://dataportal.originenergy.com.au
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
 https://dcfgatewaytst1.marriott.com/
 https://ddosportal.optus.com.au
-https://dealflow.prosus.com
-https://dealflowapi.prosus.com
 https://delta.app
 https://demo.adstruc.com
 https://demo.priceless.com/
@@ -5283,7 +5285,6 @@ https://home.classdojo.com
 https://home.xfinity.com
 https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
 https://hr.neogov.com
-https://hr.prosus.com/
 https://hug.personio.com
 https://i18n.api.just-eat.io
 https://ibconnect.internetbrands.com
@@ -5996,7 +5997,6 @@ https://pbgq-pes.upac.gouv.qc.ca/nous-joindre/
 https://pbgq.upac.gouv.qc.ca/
 https://pci.kindredgroup.com
 https://pentest-app.onetrust.com/
-https://peopleview.naspers.com
 https://performance.neogov.com
 https://performancemarketing.mastercard.com/portal/
 https://pets.webmd.com
@@ -6400,7 +6400,6 @@ https://tools-api.cryptocompare.com/
 https://torquemag.io
 https://tr.ee
 https://tracker.bugcrowd.com
-https://tracker.naspers.com/
 https://transcodes-cdn.vistarmedia.com
 https://transfer.underarmour.com/
 https://transferwise.com
@@ -7068,9 +7067,13 @@ login-sandbox.nba.com
 login-uat.nba.com
 login.arkane.network
 login.cm.com
+login.delen.be 
+login.delen.ch 
+login.delen.lu 
 login.insightly.com
 login.lansweeper.com
 login.nba.com
+login.oyens.com
 login.playcanvas.com
 login.rei.com
 login.remitly.com
@@ -7915,6 +7918,7 @@ stats.gleague.nba.com
 stats.nba.com
 stats.vinci.com
 stats.wnba.com
+status.delen.be 
 status.larksuite.com
 status.uphold.com
 steamcommunity.com
@@ -7940,6 +7944,7 @@ streaming-api.iris.production.forescoutcloud.net
 streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
+sts.delen.be 
 sts.uzleuven.be
 studio-api.swapcard.com
 studio.swapcard.com
@@ -8269,6 +8274,8 @@ www.bookingholdings.com
 www.bpost.be
 www.bpost2.be
 www.bumble.com
+www.cadelam.be 
+www.cadelux.lu/en 
 www.cardinalcommerce.com
 www.carrentals.com
 www.cart.starbucks.co.jp/
@@ -8296,6 +8303,8 @@ www.cybersource.com
 www.datacamp.com
 www.datacamp.com/datalab
 www.ddfcontent.com
+www.delen.bank
+www.delen.be/en 
 www.demorgen.be
 www.demorgen.be/abonnementen
 www.digitalocean.com
