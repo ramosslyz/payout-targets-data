@@ -3121,21 +3121,17 @@ your-assigned-subdomain.files.com
 Any subdomain application issue
 Any subdomain infrastructure issue
 Exness Investor
-Exness Social Trading
 Exness Trade: Online Trading
 External service data leakage 
 api.excalls.mobi
 com.exness.android.pa
-com.exness.investments
 exness.com
 exnessaffiliates.com
 https://my.exness.com/pa/pim/manager
-https://my.exness.com/pa/socialtrading
 https://my.exness.com/webtrading/
 my.exness.com
 pay.ibex.exchange
 pwapi.ex2b.com
-social-trading.exness.com
 BBPress Core
 BuddyPress Core
 GlotPress
