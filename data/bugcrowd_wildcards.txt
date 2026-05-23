@@ -99,7 +99,6 @@ prod-*.nubank.com.br
 prod-*.nu.com.mx
 prod-*.nu.com.co
 *.octopus.com
-*.octopus.com
 *.openai.org
 *.openai.org
 *.openai.com
