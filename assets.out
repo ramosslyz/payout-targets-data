@@ -260,7 +260,6 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
-*.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.deliciousbrains.com
@@ -389,8 +388,6 @@
 *.fuze.com
 *.fuze.site
 *.gaming.gopayapi.com
-*.gamma.be/*
-*.gamma.nl/*
 *.gateway.marriott.com
 *.genoapay.co.nz
 *.genoapay.com
@@ -517,9 +514,6 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
-*.intergamma-test.nl
-*.intergamma.cloud
-*.intergamma.nl/*
 *.internal.exoscale.ch
 *.intigriti.me
 *.itcapital.io
@@ -534,8 +528,6 @@
 *.jobstreet.com
 *.jora.com
 *.jora.xyz
-*.karwei.nl/*
-*.karweioutletstore.nl
 *.kayak.com
 *.khealth.com
 *.khealth.io/
@@ -836,7 +828,6 @@
 *.registry.eu
 *.rentalcars.com
 *.reposify.com
-*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -1076,6 +1067,10 @@
 *.vimla.se
 *.vimla.work
 *.vine.co
+*.vinted.com
+*.vinted.fr
+*.vinted.net
+*.vintedgo.com
 *.visamiddleeast.com
 *.vliegwinkel.nl
 *.volkskrant.nl
@@ -1101,9 +1096,6 @@
 *.wellsfargo.com
 *.wellsfargoadvisors.com
 *.welt.de
-*.werkenbijgamma.be
-*.werkenbijgamma.nl
-*.werkenbijkarwei.nl
 *.wf.com
 *.whatnot.com
 *.whois.eu
@@ -1162,6 +1154,9 @@
 *.zmifi.com
 *.zomans.com
 *.zomato.com
+*badger.it.vinted.com
+*careers.vinted.com
+*company.vinted.com
 *dev*.arlo.com
 *dev.uzleuven.be
 *developer.cloud.com
@@ -1169,13 +1164,18 @@
 *gateway-apc.marriott.com
 *idp*.uzleuven.be
 *inf.fndlsb.net
+*news.vinted.com
+*old.vinted.com
 *omega*.yahoo.com
 *qa*.arlo.com
 *ripio.com
 *ripiotrade.co
+*sandbox*.vinted.com
+*sandbox*.vintedgo.com
 *signalservice.comcast.net
 *stag*.uzleuven.be
 *test*.bykea.net
+*test-escalations.vintedgo.com
 *tidalhi.fi
 *uat.marriott.com
 *ubereats.com
@@ -1283,7 +1283,6 @@
 1532153219
 1541949985
 1552455423
-1558129454
 1570215232
 1579372261
 1579530451
@@ -1592,9 +1591,6 @@
 94.107.237.192/26
 944011620
 947984433
-949829216
-950680989
-950693949
 955837609
 960335206
 97.105.243.96/28
@@ -2375,6 +2371,7 @@ Sandboxes
 Save to Spotify CLI
 Savers Android
 Savers iOS
+Scam
 Scanwatch
 Scanwatch 2
 Scanwatch Light
@@ -2556,6 +2553,7 @@ VS Code Plugin
 Vectorize
 Video Conferencing Products
 Video Doorbell
+Vinted: Shop & sell pre-loved
 Virtual Office Desktop
 Voice - Hardware and service
 Vox Cinemas Android
@@ -2810,8 +2808,6 @@ api.custody.coinbase.com
 api.deriv.com
 api.developer.monespacesante.fr
 api.dicey.com
-api.digital.delen.be 
-api.digital.delen.lu 
 api.digitalocean.com
 api.direct.playstation.com
 api.dmp.gouv.fr
@@ -2979,12 +2975,6 @@ app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
-app.datacamp.com/certification
-app.datacamp.com/groups
-app.datacamp.com/learn
-app.delen.be 
-app.delen.ch 
-app.delen.lu 
 app.demand.cybersource.com
 app.deriv.com
 app.drogas.lt
@@ -3074,9 +3064,6 @@ as2.portofantwerp.com
 as2.portofantwerpbruges.com
 ask.khealth.com
 askpeopleteam.visa.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com 
-assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.spotify.com
@@ -3096,8 +3083,6 @@ auth-identity-uat-ping.nba.com
 auth-identity-uat.nba.com
 auth-identity.nba.com
 auth.23andme.com
-auth.digital.delen.be 
-auth.digital.delen.lu 
 auth.dmp.gouv.fr
 auth.hhc247.org
 auth.magic.link
@@ -3146,8 +3131,6 @@ bdese.marionnaud.fr
 bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
-be.delen.digital
-be.gamma.app.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -3267,7 +3250,6 @@ campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
-campus.datacamp.com
 cancellation.prod.ps.welt.de
 capability.prod.innovexperiments.com
 capital.com/*
@@ -3474,7 +3456,6 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
-com.datacamp
 com.dd.doordash
 com.defi.wallet
 com.deribit
@@ -3890,7 +3871,6 @@ decision.swiftfinancial.com
 deeplinks.geneva-staging.chat
 deeplinks.geneva-staging.com
 defi.ripio.com
-delen/id1064839588
 delivery-webview.indrive.com
 demo.arkoselabs.com
 demo.dynamic.xyz
@@ -4134,8 +4114,6 @@ g2-gw-cf.*.aws.indriverapp.com
 gamenotes.nba.com
 gaming.logicool.co.jp
 gamma.grab.co
-gammacademy.be
-gammalokaal.nl
 garp.visa.com
 gasstation.polygon.technology/
 gatekeeper.prd.iat.it.xvservice.net
@@ -4534,7 +4512,6 @@ https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/certsy/id1617796159
-https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
@@ -7005,7 +6982,6 @@ ir.remitly.com
 ir.ui.com
 irclogs.wordpress.org
 iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
-irmg.nl
 isa-cf.*.aws.indriverapp.com
 ispdesign.ui.com
 issuer.idpay-uat.unico.io
@@ -7036,10 +7012,6 @@ k8s.gcr.io
 k8s.io
 kaccount.khealth.com
 kartaview.org
-karwei-promotiepunt.nl
-kassa.gamma.be/*
-kassa.gamma.nl/*
-kassa.karwei.nl/*
 katalog.watsons.com.tr
 kayak.ai
 kidswebservices.com
@@ -7112,13 +7084,9 @@ login-sandbox.nba.com
 login-uat.nba.com
 login.arkane.network
 login.cm.com
-login.delen.be 
-login.delen.ch 
-login.delen.lu 
 login.insightly.com
 login.lansweeper.com
 login.nba.com
-login.oyens.com
 login.playcanvas.com
 login.rei.com
 login.remitly.com
@@ -7290,9 +7258,6 @@ mgmt-sensors.iris.production.forescoutcloud.net
 mgmtpod-1-dashboard.production.forescoutcloud.net
 mgmtpod-1.production.forescoutcloud.net
 mgs.marriott.com
-mijn.gamma.be/*
-mijn.gamma.nl/*
-mijn.karwei.nl/*
 mijnacc.uzleuven.be
 minerva.robinhood.com
 mipartnerprivileges.marriott.com
@@ -7404,9 +7369,6 @@ nha-gw-cf.*.aws.indriverapp.com
 niantic.kidswebservices.com
 ninja.kiwi
 ninjakiwi.com
-nl.gamma.app.android
-nl.gamma.verf
-nl.karwei.app.android
 nmtracking.netflix.com
 no-cf.*.aws.indriverapp.com
 no-gw-cf.*.aws.indriverapp.com
@@ -7590,7 +7552,6 @@ pot-cf.*.aws.indriverapp.com
 pot-gw-cf.*.aws.indriverapp.com
 pr*.indriverapp.com
 pr-gw-cf.*.aws.indriverapp.com
-practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -7635,8 +7596,6 @@ profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profile.playstation.com
 profiler.firefox.com
-profiles-api.datacamp.com
-projects.datacamp.com
 promo.tw.coupang.com
 prow.k8s.io
 proxy-production.lime.bike
@@ -7971,7 +7930,6 @@ stats.gleague.nba.com
 stats.nba.com
 stats.vinci.com
 stats.wnba.com
-status.delen.be 
 status.larksuite.com
 status.uphold.com
 steamcommunity.com
@@ -7997,7 +7955,6 @@ streaming-api.iris.production.forescoutcloud.net
 streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
-sts.delen.be 
 sts.uzleuven.be
 studio-api.swapcard.com
 studio.swapcard.com
@@ -8325,8 +8282,6 @@ www.bookingholdings.com
 www.bpost.be
 www.bpost2.be
 www.bumble.com
-www.cadelam.be 
-www.cadelux.lu/en 
 www.cardinalcommerce.com
 www.carrentals.com
 www.cart.starbucks.co.jp/
@@ -8351,11 +8306,7 @@ www.crowdstrike.com
 www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
-www.datacamp.com
-www.datacamp.com/datalab
 www.ddfcontent.com
-www.delen.bank
-www.delen.be/en 
 www.demorgen.be
 www.demorgen.be/abonnementen
 www.digitalocean.com
@@ -8429,8 +8380,6 @@ www.fortress.com.hk
 www.fraedom.com
 www.funjet.com
 www.fuzemeeting.com
-www.gamma.be/*
-www.gamma.nl/*
 www.geneva-staging.chat
 www.geneva-staging.com
 www.getaroom.com
@@ -8461,7 +8410,6 @@ www.iciparisxl.nl
 www.instacart.com
 www.intigriti.com
 www.jaybirdsport.com
-www.karwei.nl/*
 www.kayak.com
 www.kinepolis.be 
 www.kinepolis.biz
