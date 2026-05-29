@@ -389,6 +389,8 @@
 *.fuze.com
 *.fuze.site
 *.gaming.gopayapi.com
+*.gamma.be/*
+*.gamma.nl/*
 *.gateway.marriott.com
 *.genoapay.co.nz
 *.genoapay.com
@@ -515,6 +517,9 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
+*.intergamma-test.nl
+*.intergamma.cloud
+*.intergamma.nl/*
 *.internal.exoscale.ch
 *.intigriti.me
 *.itcapital.io
@@ -529,6 +534,8 @@
 *.jobstreet.com
 *.jora.com
 *.jora.xyz
+*.karwei.nl/*
+*.karweioutletstore.nl
 *.kayak.com
 *.khealth.com
 *.khealth.io/
@@ -660,7 +667,6 @@
 *.moneyback.com.hk
 *.mongodb.com/*
 *.monopoly-poker.com
-*.monzo.com
 *.moonpay.com
 *.moonpaycloud.com
 *.movilepay.com
@@ -794,7 +800,6 @@
 *.preview.8x8.vc
 *.prijsmepper.nl
 *.privateinternetaccess.com
-*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -829,6 +834,7 @@
 *.registry.eu
 *.rentalcars.com
 *.reposify.com
+*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -1093,6 +1099,9 @@
 *.wellsfargo.com
 *.wellsfargoadvisors.com
 *.welt.de
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl
 *.wf.com
 *.whatnot.com
 *.whois.eu
@@ -1177,7 +1186,6 @@
 1023499075
 103.83.120.0/22
 1032480595
-1052238659
 1057338687
 107.167.96.0/19
 1080074001
@@ -1270,6 +1278,7 @@
 1532153219
 1541949985
 1552455423
+1558129454
 1570215232
 1579372261
 1579530451
@@ -1578,6 +1587,9 @@
 94.107.237.192/26
 944011620
 947984433
+949829216
+950680989
+950693949
 955837609
 960335206
 97.105.243.96/28
@@ -2023,6 +2035,7 @@ GitHub for mobile
 GitLab for Jira Cloud
 Github Repositories or other public artifacts owned by makenotion
 Github findings
+Global Payouts
 GlotPress
 Grammarly Browser Extensions
 Grammarly Desktop for Windows
@@ -2411,6 +2424,7 @@ Streamlabs Desktop Application PC/MAC
 Stripe Apps
 Stripe Atlas
 Stripe Billing
+Stripe CLI
 Stripe Capital
 Stripe Checkout
 Stripe Climate
@@ -2426,6 +2440,7 @@ Stripe Open Source
 Stripe Organizations
 Stripe Payment Links
 Stripe Payments
+Stripe Projects
 Stripe Radar
 Stripe Revenue Recognition
 Stripe SDKs
@@ -2433,6 +2448,7 @@ Stripe Sigma
 Stripe Tax
 Stripe Terminal
 Stripe Treasury
+Stripe fiat-to-crypto onramp
 Stripe for Visual Studio Code
 Subdomain Takeover (SDTO)
 Subdomain Takeover - konghq.com
@@ -3128,6 +3144,7 @@ bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
 be.delen.digital
+be.gamma.app.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -3334,7 +3351,6 @@ co-cf.*.aws.indriverapp.com
 co-gw-cf.*.aws.indriverapp.com
 co-in-gw-cf.*.aws.indriverapp.com
 co.mona.android
-co.uk.getmondo
 coaching.supernovas.indrive.com
 coban.pixiv.net
 coda.grammarly.com
@@ -3828,6 +3844,7 @@ cweb-slot6-preview-ott-dev.nba.com
 cyberghost.app
 cyberghost.com
 cybersourcebouncebacks.visa.com
+cz.skodaauto.myskoda
 dash.ai
 dash.cloudflare.com
 dash.dropbox.com
@@ -4108,6 +4125,8 @@ g2-gw-cf.*.aws.indriverapp.com
 gamenotes.nba.com
 gaming.logicool.co.jp
 gamma.grab.co
+gammacademy.be
+gammalokaal.nl
 garp.visa.com
 gasstation.polygon.technology/
 gatekeeper.prd.iat.it.xvservice.net
@@ -4519,6 +4538,7 @@ https://apps.apple.com/ca/app/lime-supply/id1620058457
 https://apps.apple.com/ch/app/debix/id1581440132?l=en-GB
 https://apps.apple.com/ch/app/die-post/id378676700
 https://apps.apple.com/ch/app/media-markt-schweiz/id1169043480
+https://apps.apple.com/cz/app/my%C5%A1koda/id1632202810
 https://apps.apple.com/de/app/mediamarkt-deutschland/id386304604
 https://apps.apple.com/de/app/otto-shopping-m%C3%B6bel/id404844644
 https://apps.apple.com/de/app/saturn-deutschland/id557562682
@@ -6963,6 +6983,7 @@ ir.remitly.com
 ir.ui.com
 irclogs.wordpress.org
 iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
+irmg.nl
 isa-cf.*.aws.indriverapp.com
 ispdesign.ui.com
 issuer.idpay-uat.unico.io
@@ -6993,6 +7014,10 @@ k8s.gcr.io
 k8s.io
 kaccount.khealth.com
 kartaview.org
+karwei-promotiepunt.nl
+kassa.gamma.be/*
+kassa.gamma.nl/*
+kassa.karwei.nl/*
 katalog.watsons.com.tr
 kayak.ai
 kidswebservices.com
@@ -7242,6 +7267,9 @@ mgmt-sensors.iris.production.forescoutcloud.net
 mgmtpod-1-dashboard.production.forescoutcloud.net
 mgmtpod-1.production.forescoutcloud.net
 mgs.marriott.com
+mijn.gamma.be/*
+mijn.gamma.nl/*
+mijn.karwei.nl/*
 mijnacc.uzleuven.be
 minerva.robinhood.com
 mipartnerprivileges.marriott.com
@@ -7264,7 +7292,6 @@ money.x.com
 moneybird.com
 moneybirdstorage.com
 monitor.mozilla.org
-monzo.com
 moonpay.com
 movie.indrive.com
 movieapi.kinepolis.megatix.be
@@ -7353,6 +7380,9 @@ nha-gw-cf.*.aws.indriverapp.com
 niantic.kidswebservices.com
 ninja.kiwi
 ninjakiwi.com
+nl.gamma.app.android
+nl.gamma.verf
+nl.karwei.app.android
 nmtracking.netflix.com
 no-cf.*.aws.indriverapp.com
 no-gw-cf.*.aws.indriverapp.com
@@ -8378,6 +8408,8 @@ www.fortress.com.hk
 www.fraedom.com
 www.funjet.com
 www.fuzemeeting.com
+www.gamma.be/*
+www.gamma.nl/*
 www.geneva-staging.chat
 www.geneva-staging.com
 www.getaroom.com
@@ -8408,6 +8440,7 @@ www.iciparisxl.nl
 www.instacart.com
 www.intigriti.com
 www.jaybirdsport.com
+www.karwei.nl/*
 www.kayak.com
 www.kinepolis.be 
 www.kinepolis.biz
@@ -8473,7 +8506,6 @@ www.mjrtheatres.com
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
-www.monzo.com
 www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
