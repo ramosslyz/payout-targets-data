@@ -80,16 +80,6 @@ Leaked/compromised employee accounts *.here.com
 *.iciparisxl.nl
 *.iciparisxl.be
 *.pourvous.nl
-*.klubcinema.fr
-*.megatix.be  
-*.kinepolis.be
-*.kinepolis.ch
-*.kinepolis.com
-*.kinepolis.fr
-*.kinepolis.lu
-*.kinepolis.nl
-*.landmarkcinemas.com
-*.mjrtheatres.com
 *.kruidvatkids.nl
 *.kruidvat.nl
 *.kruidvat.be
@@ -117,8 +107,6 @@ Leaked/compromised employee accounts *.here.com
 *.acc.mobilevikings.be
 *.dev-pub.mobilevikings.be
 *.dev.mobilevikings.be
-*.monzo.com
-*.prod-ffs.io
 *.nexuzhealth.*
 *.ninjakiwi.me
 *.nkstatic.com
