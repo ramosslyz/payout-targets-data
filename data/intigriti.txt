@@ -64,15 +64,6 @@ com.cm.cashregister
 com.ticketflow.ticketscanner
 demo.globalticket.com/*
 https://github.com/cmdotcom
-payment.backend-capital.com
-capital.com/*
-com.capital.trading
-com.capital.trading
-open-api.capital.com
-aff.capital.com
-go.capital.com
-register.capital.com
-careers.capital.com
 api.cloudways.com
 developers.cloudways.com
 platform.cloudways.com
@@ -655,6 +646,15 @@ login.arkane.network
 login.venly.io
 wallet.venly.io
 api-wallet-sandbox.venly.io
+Vinted: Shop & sell pre-loved
+Vinted: Shop & sell pre-loved
+*old.vinted.com
+*test-escalations.vintedgo.com
+*badger.it.vinted.com
+*careers.vinted.com
+*news.vinted.com
+*company.vinted.com
+Scam
 564141518
 accountsettings.connect.identity.stagaws.visma.com
 admin.stage.vismaonline.com
