@@ -3300,7 +3300,7 @@ https://github.com/basecamp/once-campfire
 https://github.com/basecamp/writebook
 launchpad.37signals.com
 world.hey.com
-Identity
+Authentication & ATO
 Shopify Developed Apps
 Shopify Mobile Applications
 Shopify Third Party Apps
