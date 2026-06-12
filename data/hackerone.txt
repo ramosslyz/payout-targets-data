@@ -2179,7 +2179,6 @@ Crypto
 Leaked Credentials
 Point Smart
 Tier 3
-academy.mercadoads.com
 api.mercadolibre.com
 api.mercadopago.com
 biolibre.ar
