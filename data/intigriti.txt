@@ -288,19 +288,6 @@ ecom-data.trekpleister.nl
 service.trekpleister.nl
 folder.trekpleister.nl
 www.prijsmepper.nl
-Lansweeper Discovery
-app.lansweeper.com
-fb.lansweeper.com
-edge.lansweeper.com
-api.lansweeper.com
-backoffice.lansweeper.com
-https://lsagentrelay.lansweeper.com/
-app.lansweeper.com/trial
-autoupdateapi.lansweeper.com
-docs.lansweeper.com
-login.lansweeper.com
-on-premises software
-www.lansweeper.com
 www.libelle.nl
 www.marionnaud.fr
 Marionnaud France Android
@@ -397,6 +384,11 @@ rancher.ninjakiwi.com
 rancher.ninjakiwi.me
 https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050
 https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_oi_appl/
+https://a.simplemdm.com/
+https://auth2.pdq.com/
+https://library.pdq.com/
+https://portal.pdq.com/
+https://app.pdq.com/
 api.personio-dev.com
 api.personio.com
 https://community.personio.com
@@ -405,6 +397,58 @@ https://sec-test-<intigriti handle>-<nn>.personio.de
 https://www.personio.com/free-trial/
 https://www.personio.de/kostenlos-testen/
 Other assets owned by Personio
+188.118.8.0/25
+94.107.237.192/26
+ login-test.portofantwerpbruges.com/
+api-accpt.portofantwerp.com
+api-accpt.portofantwerpbruges.com
+api.portofantwerp.com
+api.portofantwerpbruges.com
+apps-accpt.portofantwerp.com
+apps-accpt.portofantwerpbruges.com
+apps.portofantwerp.com
+apps.portofantwerpbruges.com
+as2-accpt.portofantwerp.com
+as2-accpt.portofantwerpbruges.com
+as2.portofantwerp.com
+as2.portofantwerpbruges.com
+digitalspecs.portofantwerpbruges.com
+login-accpt.portofantwerpbruges.com
+maximo-accpt.portofantwerp.com
+maximo-accpt.portofantwerpbruges.com
+maximo.portofantwerp.com
+maximo.portofantwerpbruges.com
+maximo.portofantwerpbruges.com
+my-accpt.portofantwerp.com
+my-accpt.portofantwerpbruges.com
+my.portofantwerp.com
+my.portofantwerpbruges.com
+notula-accpt.portofantwerpbruges.com
+oprc.portofantwerpbruges.com
+register-accpt.portofantwerp.com
+register-accpt.portofantwerpbruges.com
+servicedesk-accpt.portofantwerp.com
+servicedesk-accpt.portofantwerpbruges.com
+servicedesk.portofantwerp.com
+servicedesk.portofantwerpbruges.com
+share-accpt.portofantwerp.com
+share-accpt.portofantwerpbruges.com
+share.portofantwerp.com
+share.portofantwerpbruges.com
+webapps-accpt.portofantwerp.com
+webapps-accpt.portofantwerpbruges.com
+webapps-test.portofantwerpbruges.com/xui
+webapps.portofantwerp.com
+webapps.portofantwerpbruges.com
+wiki-accpt.portofantwerp.com
+wiki-accpt.portofantwerpbruges.com
+wiki.portofantwerp.com
+wiki.portofantwerpbruges.com
+www.oursustainableport.com
+www.portofantwerpbruges.com
+erpx.unit4cloud.com/u4erx_pab_acp1
+erpx.unit4cloud.com/u4erx_pab_prev
+erpx.unit4cloud.com/u4erx_pab_prod
 access.ripe.net
 https://github.com/RIPE-NCC/rpki-commons
 https://github.com/RIPE-NCC/rpki-core
@@ -541,30 +585,25 @@ prddnighting01.uzleuven.be
 w1.uzleuven.be/random
 ziekenhuisschool.be
 Uphold: Buy BTC, ETH and 360+
-UpHODL
+Uphold: Buy BTC, ETH and 300+
+docs.uphold.com
+wallet-sandbox.uphold.com
 api-sandbox.uphold.com
 api-sandbox.uphold.com/graphql
-api.portal.enterprise.uphold.com 
-UpHODL
-Uphold: Buy BTC, ETH and 300+
 portal.enterprise.uphold.com
-wallet-sandbox.uphold.com
-api.sandbox.topperpay.com
-app.sandbox.topperpay.com
-graphql.sandbox.topperpay.com/graphql
-uatcms.optimuscards.com
+api.portal.enterprise.uphold.com 
 docs.api.enterprise.uphold.com
-docs.optimuscards.com
+app.sandbox.topperpay.com
+api.sandbox.topperpay.com
+graphql.sandbox.topperpay.com/graphql
 docs.topperpay.com
-docs.uphold.com
-github.com/uphold/*
+uatcms.optimuscards.com
+docs.optimuscards.com
 status.uphold.com
-support-sandbox.uphold.com
-support-staging.topperpay.com
-www.optimuscards.com
-www.topperpay.com
-www.uphodl.com
 www.uphold.com
+www.topperpay.com
+www.optimuscards.com
+github.com/uphold/*
 API's
 cds.vrt.radio
 Mobile Applications
