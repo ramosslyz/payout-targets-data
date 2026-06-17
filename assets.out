@@ -1719,6 +1719,7 @@ Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure o
 Any public cloud resource or infrastructure operated and managed by REI.
 Any publicly accessible Tripadvisor web asset or host (domains, ip space, etc) - except for assets listed as Out-of-Scope below. 
 Any related DPG media domain
+Any related Torfs domain
 Any resource created or accessed with the Outscale Cloud on eu-west-2 region -  created by the Hunter
 Any subdomain application issue
 Any subdomain infrastructure issue
@@ -5495,7 +5496,6 @@ https://marketplace.atlassian.com/apps/1213092/google-drive-for-confluence-offic
 https://marketplace.atlassian.com/apps/1213146/risk-register?hosting=cloud
 https://marketplace.atlassian.com/apps/1213404/balsamiq-wireframes-for-confluence-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1213440/asana-importer-plugin-for-jira?hosting=server
-https://marketplace.atlassian.com/apps/1213893/stagil-issue-templates-schedule-create-and-link?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1214046/favorites-dialog-for-confluence?hosting=server
 https://marketplace.atlassian.com/apps/1214110/courses-and-quizzes-lms-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1214351/disable-referer-for-bitbucket-server?hosting=datacenter
@@ -5525,7 +5525,6 @@ https://marketplace.atlassian.com/apps/1215235/fail-build-trigger-for-bamboo?hos
 https://marketplace.atlassian.com/apps/1215262/k-sso-saml-sso-oauth-kerberos-user-management-for-bamboo
 https://marketplace.atlassian.com/apps/1215263/k-sso-saml-sso-oauth-kerberos-user-management-for-fecru
 https://marketplace.atlassian.com/apps/1215311/stagil-assets-advanced-links-data-model-matrix-structure?tab=overview&hosting=cloud
-https://marketplace.atlassian.com/apps/1215391/stagil-incoming-links?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1215414/pivot-report?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1215414/pivot-report?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1215414/pivot-report?hosting=server&tab=overview
@@ -5565,7 +5564,6 @@ https://marketplace.atlassian.com/apps/1216623/confluence-trello-power-up?hostin
 https://marketplace.atlassian.com/apps/1216625/jira-trello-power-up?hosting=cloud
 https://marketplace.atlassian.com/apps/1216850/jira-cloud-power-up-for-trello?hosting=cloud
 https://marketplace.atlassian.com/apps/1216863/jira-cloud-for-slack-official?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1217026/stagil-tasks-jira-issues-tables-macro-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1217037/scroll-exporter-extensions?hosting=cloud
 https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=datacenter
@@ -8253,6 +8251,7 @@ wings-dev.wnba.com
 wings-qa.wnba.com
 wings-qa2.wnba.com
 wings.wnba.com
+winkels.torfs.be
 winter.tomorrowland.com
 winterpackages.tomorrowland.com
 wlr-cf.*.aws.indriverapp.com
@@ -8544,9 +8543,12 @@ www.rockstargames.com
 www.s-kaupat.fi
 www.s-pankki.fi
 www.sa.dyson.com
+www.samenfittorfs.be
 www.savers.co.uk
 www.sbb.ch
 www.sbbcargo.com
+www.schoenentorfs.be
+www.schoenentorfs.nl 
 www.sheer.com
 www.six-group.com
 www.socialdeal.nl
@@ -8577,6 +8579,8 @@ www.theperfumeshop.com
 www.tink.com
 www.tomorrowland.com
 www.topperpay.com
+www.torfs.be
+www.torfs.nl
 www.tradepmr.com
 www.trajeoh.com
 www.transsicura.ch
