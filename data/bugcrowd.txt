@@ -849,6 +849,15 @@ HPE Aruba Networking VIA
 Aruba AirWave AMP
 Aruba InstantOn Switches
 Aruba User Experience Insight Sensors
+https://www.cultbeauty.co.uk/
+https://www.lookfantastic.com/
+https://www.myprotein.com/
+https://www.myvitamins.com/
+https://www.arrowfilms.com
+https://www.mankind.co.uk/
+https://www.illamasqua.com/
+https://www.matalan.co.uk
+https://www.enjoyselfish.com
 https://chrome.google.com/webstore/detail/ibotta-browser-extension/mfaedmjlefifhnhpgipjjiiekchaimpk?hl=en-US
 http://market.android.com/details?id=com.ibotta.android
 http://itunes.apple.com/us/app/ibotta/id559887125
@@ -1418,16 +1427,6 @@ Okta On-Prem Agents ( AD, LDAP, RDP, IWA )
 https://help.okta.com/en/prod/Content/Topics/Adv_Server_Access/docs/sftd-windows.htm
 https://help.okta.com/en/prod/Content/Topics/Settings/download-browser-plugin.htm
 https://pentest-app.onetrust.com/
-https://api.openai.com
-https://chat.openai.com
-https://chat.openai.com
-Third Party Targets
-OpenAI API Keys
-https://openai.com/
-https://platform.openai.com/playground
-Other
-Atlas
-Codex Desktop
 https://api.openai.com
 https://chat.openai.com
 https://chat.openai.com

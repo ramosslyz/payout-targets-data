@@ -658,7 +658,6 @@
 *.moneyback.com.hk
 *.mongodb.com/*
 *.monopoly-poker.com
-*.monzo.com
 *.moonpay.com
 *.moonpaycloud.com
 *.mortgagechoice.com.au
@@ -798,7 +797,6 @@
 *.prijsmepper.nl
 *.primarycareondemand.mayoclinic.org
 *.privateinternetaccess.com
-*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -1196,7 +1194,6 @@
 1023499075
 103.83.120.0/22
 1032480595
-1052238659
 1057338687
 107.167.96.0/19
 1080074001
@@ -3369,7 +3366,6 @@ co-cf.*.aws.indriverapp.com
 co-gw-cf.*.aws.indriverapp.com
 co-in-gw-cf.*.aws.indriverapp.com
 co.mona.android
-co.uk.getmondo
 coban.pixiv.net
 coda.grammarly.com
 coda.io
@@ -6604,6 +6600,7 @@ https://www.allsaints.me/
 https://www.amazon.com/luna/*
 https://www.amazonpay.in/*
 https://www.arlo.com
+https://www.arrowfilms.com
 https://www.assurancewireless.com
 https://www.atlassian.com/enterprise/data-center/bitbucket
 https://www.atlassian.com/enterprise/data-center/confluence
@@ -6659,6 +6656,7 @@ https://www.coral.co.uk/en/games
 https://www.crateandbarrel.me
 https://www.creditkarma.com/reviews/
 https://www.creditkarma.com/savings
+https://www.cultbeauty.co.uk/
 https://www.cyberghostvpn.com/en_US/apps/linux-vpn
 https://www.cyberghostvpn.com/en_US/apps/macos-vpn
 https://www.cyberghostvpn.com/en_US/apps/windows-vpn
@@ -6672,6 +6670,7 @@ https://www.developersites.com.au/testing-2505-houston/
 https://www.developersites.com.au/testing-2505-lms/
 https://www.dmp.fr
 https://www.dmp.gouv.fr
+https://www.enjoyselfish.com
 https://www.epam.com/
 https://www.etsy.com
 https://www.etsy.com/developers/documentation/getting_started/api_basics
@@ -6692,6 +6691,7 @@ https://www.homesupport.irobot.com
 https://www.hostgator.com.br/
 https://www.hostgator.com/
 https://www.ifood.com.br
+https://www.illamasqua.com/
 https://www.imou.com
 https://www.intercom.com/
 https://www.internetbrands.com
@@ -6722,6 +6722,7 @@ https://www.lastpass.com
 https://www.letspaylater.ph
 https://www.li.me/
 https://www.logitech.com/blog
+https://www.lookfantastic.com/
 https://www.loom.com/
 https://www.loom.com/download
 https://www.lululemon.co.jp/
@@ -6735,6 +6736,7 @@ https://www.lululemon.fr/
 https://www.lululemon.me
 https://www.magicplanetmena.com/
 https://www.malloftheemirates.com
+https://www.mankind.co.uk/
 https://www.mapbox.com/mapbox-gl-js/
 https://www.marantz.com
 https://www.mastercard.ch/de-ch.html
@@ -6742,6 +6744,7 @@ https://www.mastercard.ch/fr-ch.html
 https://www.mastercard.com.au/en-au.html
 https://www.mastercard.nl/nl-nl.html
 https://www.mastercard.us/en-us.html
+https://www.matalan.co.uk
 https://www.mdedge.com
 https://www.mediamarkt.at
 https://www.mediamarkt.be
@@ -6759,6 +6762,8 @@ https://www.minhaconta.zoop.com.br
 https://www.monash.edu
 https://www.monashprofessional.edu.au/
 https://www.myntra.com
+https://www.myprotein.com/
+https://www.myvitamins.com/
 https://www.namejet.com/
 https://www.networksolutions.com
 https://www.npmjs.com/package/@8x8/pui-partner-comm
@@ -7346,7 +7351,6 @@ money.x.com
 moneybird.com
 moneybirdstorage.com
 monitor.mozilla.org
-monzo.com
 moonpay.com
 movie.indrive.com
 mpa.ekyc.backoffice.m-pesa.com
@@ -8543,7 +8547,6 @@ www.mini.de
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
-www.monzo.com
 www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
