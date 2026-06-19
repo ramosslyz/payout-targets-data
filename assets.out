@@ -8,7 +8,6 @@
  com.citymapper.app.release
  https://api-*exoscale.com/v2
  idp-contact.nexuzhealth.be
- login-test.portofantwerpbruges.com/
  mix.monash.edu 
  new CDI-based architecture
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
@@ -406,10 +405,6 @@
 *.global-liquidity.gs.com
 *.go-pay.co.id
 *.gobiz.co.id
-*.gocardless-cicd.io
-*.gocardless-lab.io
-*.gocardless.dev
-*.gocardless.io,*.gocardless-banking.io
 *.gofin.io
 *.gofood.co.id
 *.gofoodmerchant.co.id
@@ -772,8 +767,6 @@
 *.pns.hk
 *.points.com
 *.polymoon.it
-*.portofantwerp.com
-*.portofantwerpbruges.com
 *.pourvous.nl
 *.ppb.com
 *.ppbdev.com
@@ -1198,6 +1191,8 @@
 1089294040
 1091010942
 10x.redoxengine.com
+1114799709
+1114800186
 1116488672
 1118448159
 1127881507
@@ -1301,7 +1296,6 @@
 18.184.198.198, 18.185.214.59, 18.194.109.179, 3.121.117.72, 3.121.138.10, 3.121.138.128, 3.121.138.134, 3.121.138.170, 3.121.138.33, 3.121.138.43, 3.124.248.208, 35.156.137.39
 185.210.32.0/22
 185.26.180.0/22
-188.118.8.0/25
 192.251.123.0/24
 192.251.124.0/24
 192.251.125.0/24
@@ -1587,7 +1581,6 @@
 930441707
 936983378
 938003185
-94.107.237.192/26
 944011620
 947984433
 955837609
@@ -2776,15 +2769,12 @@ api*.hubapi.com
 api*.hubspot.com
 api*.netflix.com
 api-*.soundcloud.com
-api-accpt.portofantwerp.com
-api-accpt.portofantwerpbruges.com
 api-eu.floqast.app
 api-gateway.polygon.technology
 api-gw-cf.*.aws.indriverapp.com
 api-js.datadome.co
 api-partner.spotify.com
 api-polygon-tokens.polygon.technology/
-api-sandbox.gocardless.com
 api-sandbox.uphold.com
 api-sandbox.uphold.com/graphql
 api-staging.airtable.com
@@ -2910,8 +2900,6 @@ api.personio-dev.com
 api.personio.com
 api.pns.hk
 api.portal.enterprise.uphold.com 
-api.portofantwerp.com
-api.portofantwerpbruges.com
 api.prd.commerce.simplisafe.com
 api.preprod.monespacesante.fr
 api.privateinternetaccess.com
@@ -2939,6 +2927,7 @@ api.slack.com
 api.smtp2go.com
 api.sokos.fi
 api.sorare.com
+api.soundtrackyourbrand.com
 api.spotify.com
 api.stage.evernote.com
 api.steampowered.com
@@ -3057,14 +3046,10 @@ app.workbox.dk
 app3.rewire.to
 applause1.magisto.com
 appmiral.com
-apps-accpt.portofantwerp.com
-apps-accpt.portofantwerpbruges.com
 apps.8x8.com
 apps.apple.com/fr/app/mon-espace-sant%C3%A9/id1589255019 (iOS)
 apps.apple.com/us/app/crowdstrike-falcon/id1458815656
 apps.ort-one-pingone.com
-apps.portofantwerp.com
-apps.portofantwerpbruges.com
 appt.healthclinics.superdrug.com
 aqtooling.com
 aquiris.com.br
@@ -3074,10 +3059,6 @@ arc.net
 arrive-server.shopifycloud.com
 as-cf.*.aws.indriverapp.com
 as-gw-cf.*.aws.indriverapp.com
-as2-accpt.portofantwerp.com
-as2-accpt.portofantwerpbruges.com
-as2.portofantwerp.com
-as2.portofantwerpbruges.com
 askpeopleteam.visa.com
 assessment-api.datacamp.com
 assessment-v2.datacamp.com 
@@ -3114,7 +3095,6 @@ auth.remitly.com
 auth.services.adobe.com
 auth.skypicker.com
 auth0.com	
-auth0.gocardless.com
 auth0.net
 authentication.clearme.com
 authentication.wolt.com
@@ -3136,7 +3116,6 @@ bal-uat.nba.com
 bal.nba.com
 ballistic.com
 ballistic.com.br
-bankaccountdata.gocardless.com
 basecamp.rivian.com
 basecamp3.exe
 battles.tv
@@ -3160,6 +3139,7 @@ bettrfinancing.com
 bid.*.aws.indriverapp.com
 bigcommerce-adapter.judge.me
 bild.de
+billing.api.soundtrackyourbrand.com
 billingsupport.chaturbate.com
 bilt.marriott.com
 biolibre.ar
@@ -3215,12 +3195,14 @@ bugcrowd-pam-###.pam.oktapreview.com
 bugzilla.mozilla.org
 builder.hostinger.com
 building-blocks.com
+builds.soundtrackyourbrand.com
 bulten.watsons.com.tr
 business-resources.truecaller.com
 business.kayak.com
 business.linkedin.com
 business.reddithelp.com
 business.snapchat.com
+business.soundtrackyourbrand.com
 business.tiktok.com
 business.truecaller.com
 businesshelp.snapchat.com
@@ -3643,6 +3625,7 @@ com.skypicker.Skypicker
 com.skypicker.main
 com.slack.slackmdm
 com.snapchat.android
+com.soundtrackyourbrand.soundtrack.player
 com.spotify.client
 com.spotify.kids
 com.spotify.music
@@ -3744,7 +3727,6 @@ config.cic-bug-bounty.auth0app.com
 configure.bmw.de
 configure.mini.de
 confluence.hyattdev.com
-connect-sandbox.gocardless.com
 connect.8x8.com
 connect.arkane.network 
 connect.identity.stagaws.visma.com
@@ -3842,7 +3824,6 @@ cweb-slot6-preview-ott-dev.nba.com
 cyberghost.app
 cyberghost.com
 cybersourcebouncebacks.visa.com
-cz.skodaauto.myskoda
 dash.ai
 dash.cloudflare.com
 dash.dropbox.com
@@ -3903,7 +3884,6 @@ developer.authorize.net
 developer.crypto.com
 developer.currencycloud.com
 developer.cybersource.com
-developer.gocardless.com
 developer.gs.com
 developer.infomaniak.com
 developer.konghq.com
@@ -3932,7 +3912,6 @@ digitaloceanmirrors.com
 digitaloceanpartners.com
 digitaloceanstatus.com
 digitaloceantest.com
-digitalspecs.portofantwerpbruges.com
 direct-demo.currencycloud.com
 direct.playstation.com
 discover.23andme.com
@@ -4015,9 +3994,6 @@ en.ottokasino.com
 enroll.clearme.com
 epaper.welt.de
 epptool-ctld.verisign-grs.com (EPP service; DNS related)
-erpx.unit4cloud.com/u4erx_pab_acp1
-erpx.unit4cloud.com/u4erx_pab_prev
-erpx.unit4cloud.com/u4erx_pab_prod
 errors.hackerone.net
 es-cf.*.aws.indriverapp.com
 es-gw-cf.*.aws.indriverapp.com
@@ -4303,7 +4279,6 @@ http://play.google.com/store/apps/details?id=fr.doctolib.www
 http://poe.com
 http://secure-iphone-xml.booking.com/json/
 http://socialdeal.nl/inspirations/bluemonday/
-http://sso-demo.gocardless-staging.io
 http://testnet.bybit.eu
 http://tsock.us1.twilio.com
 http://twilio.com/blog
@@ -4528,7 +4503,6 @@ https://apps.apple.com/ca/app/lime-supply/id1620058457
 https://apps.apple.com/ch/app/debix/id1581440132?l=en-GB
 https://apps.apple.com/ch/app/die-post/id378676700
 https://apps.apple.com/ch/app/media-markt-schweiz/id1169043480
-https://apps.apple.com/cz/app/my%C5%A1koda/id1632202810
 https://apps.apple.com/de/app/mediamarkt-deutschland/id386304604
 https://apps.apple.com/de/app/otto-shopping-m%C3%B6bel/id404844644
 https://apps.apple.com/de/app/saturn-deutschland/id557562682
@@ -4680,6 +4654,7 @@ https://audiencelogos.blis.com
 https://audio.20min.ch/
 https://auth-adx.op-mobile.opera.com
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
+https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
 https://auth.lastpass.com
@@ -4742,6 +4717,7 @@ https://bugcrowd.charm.felixforus.ca/home
 https://bugcrowd.com/programs
 https://bugcrowd.lucky.felixforus.ca
 https://bugs.opera.com/
+https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
@@ -5996,7 +5972,6 @@ https://nvio.mx/
 https://nvoice.usaa.com/
 https://nw.ring.com/*
 https://oauth.ring.com/*
-https://ob-sandbox.gocardless.io
 https://octopus.com
 https://octopus.com/downloads
 https://odesli.co
@@ -6298,6 +6273,7 @@ https://property.com.au
 https://pt-runner.app.ridewithvia.com
 https://pyszne.pl
 https://quantum-events.onecloud.harman.com
+https://radio.api.soundtrackyourbrand.com/
 https://rc.fstr.rocks
 https://rc.wmaudience.com
 https://redash-staging.getmoneytree.com/
@@ -6389,6 +6365,7 @@ https://song.link
 https://songlink.io
 https://soundcloud.com
 https://soundcloud.org
+https://soundtrack.io
 https://speeddials.opera.com
 https://sprint.com
 https://square.online
@@ -7120,7 +7097,6 @@ lockervision.nba.com
 logilife.logitech.com
 login-4ngbets.us.betfair.com
 login-4njbets.us.betfair.com
-login-accpt.portofantwerpbruges.com
 login-dev.nba.com
 login-qa.nba.com
 login-sandbox.nba.com
@@ -7165,6 +7141,7 @@ m.chaturbate.com
 m.reddit.com
 m.tw.coupang.com
 mUSD Stablecoin
+macOS app
 magazine.kruidvat.be
 magento.com
 magisto.com,www.magisto.com
@@ -7175,7 +7152,6 @@ mail.notion.so
 mailpoet.com
 maintenance.logitech.com
 manage-dev.nba.com
-manage-sandbox.gocardless.com
 manage-teams-dev.nba.com
 manage-teams-qa.nba.com
 manage-teams-uat.nba.com
@@ -7199,10 +7175,6 @@ marrtool.com
 matomo.cloud
 matrix.redditspace.com
 mauth.tw.coupang.com
-maximo-accpt.portofantwerp.com
-maximo-accpt.portofantwerpbruges.com
-maximo.portofantwerp.com
-maximo.portofantwerpbruges.com
 maxiresponse.bpost.be
 mc.sendgrid.com
 mc.tw.coupang.com
@@ -7344,8 +7316,6 @@ munin-*.wordpress.org
 mus1.badoo.com
 mx1.uzleuven.be
 mx2.uzleuven.be
-my-accpt.portofantwerp.com
-my-accpt.portofantwerpbruges.com
 my.account.sony.com
 my.bpost.be
 my.clearme.com
@@ -7355,8 +7325,6 @@ my.loanbuilder.com
 my.malwarebytes.com
 my.plaid.com
 my.playstation.com
-my.portofantwerp.com
-my.portofantwerpbruges.com
 my.pressable.com
 my.sheer.com
 my.snapchat.com
@@ -7422,7 +7390,6 @@ no-cf.*.aws.indriverapp.com
 no-gw-cf.*.aws.indriverapp.com
 notification-front-web.tw.coupang.com
 notion.id
-notula-accpt.portofantwerpbruges.com
 novel.pixiv.net
 npm CLI
 npmjs.com
@@ -7432,10 +7399,8 @@ ns2.optusnet.com.au
 nummus.robinhood.com
 nvJitLink APIs
 oasisprod.marriott.com
-oauth-sandbox.gocardless.com
 oauth.deriv.com
 oauth.developers.stagaws.visma.com
-ob.gocardless.com
 obs-sensors.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 ocijlbex1prd.marriott.com
@@ -7468,7 +7433,6 @@ openapiportal.m-pesa.com
 openfinance.unico.io
 openidconnect.net	
 opposhop.cn
-oprc.portofantwerpbruges.com
 ops.lime.bike
 ops.wolt.com
 orc-xfi.com
@@ -7511,14 +7475,12 @@ passport.larksuite.com
 passwordchallenge.marriott.com
 pastela.app
 pay*.indriverapp.com
-pay-sandbox.gocardless.com
 pay.8x8.com
 pay.ibex.exchange
 pay.tokopediax.com
 pay.tw.coupang.com
 pay.wallet.tg
 paybridge.booking.com
-payer-details-sandbox.gocardless.com
 payment.backend-capital.com
 payment.bingo.com
 payment.casinohuone.com
@@ -7697,8 +7659,6 @@ recovery.privy.io
 redditforbusiness.com
 refer.23andme.com
 refined.site/admin
-register-accpt.portofantwerp.com
-register-accpt.portofantwerpbruges.com
 register.bpost.be
 register.capital.com
 registre.notebleue.pro
@@ -7841,10 +7801,6 @@ service.iciparisxl.nl
 service.kruidvat.be
 service.kruidvat.nl
 service.trekpleister.nl
-servicedesk-accpt.portofantwerp.com
-servicedesk-accpt.portofantwerpbruges.com
-servicedesk.portofantwerp.com
-servicedesk.portofantwerpbruges.com
 servicefr.iciparisxl.be
 servicefr.iciparisxl.lu
 servicefr.kruidvat.be
@@ -7859,11 +7815,7 @@ sgnl.cloud
 sgnl.team
 sgnlapis.cloud
 sh.reddit.com
-share-accpt.portofantwerp.com
-share-accpt.portofantwerpbruges.com
 share.doppler.com
-share.portofantwerp.com
-share.portofantwerpbruges.com
 share.portswigger.net
 shop-id.tokopedia.com
 shop.app
@@ -8236,11 +8188,6 @@ web.ryadom.kz
 web.snapchat.com
 web.truecaller.com
 web3.moonpay.com
-webapps-accpt.portofantwerp.com
-webapps-accpt.portofantwerpbruges.com
-webapps-test.portofantwerpbruges.com/xui
-webapps.portofantwerp.com
-webapps.portofantwerpbruges.com
 webauthn.me	
 webgateway.koho.ca
 webhooks.booking.com
@@ -8258,11 +8205,7 @@ widget.rentalcars.com
 wifi-in-store.iciparisxl.be
 wifi-in-store.iciparisxl.lu
 wifi-in-store.iciparisxl.nl
-wiki-accpt.portofantwerp.com
-wiki-accpt.portofantwerpbruges.com
 wiki.cs.money
-wiki.portofantwerp.com
-wiki.portofantwerpbruges.com
 wiki.teamfortress.com
 wiki.ui.com
 winecellar.zomato.com
@@ -8441,7 +8384,6 @@ www.geneva-staging.com
 www.getaroom.com
 www.github.com/cosmos/evm
 www.giving.marriott.com
-www.gocardless.com
 www.goodrx.com
 www.gr.dyson.com
 www.greenhouse.io
@@ -8542,7 +8484,6 @@ www.playstation.com
 www.pns.hk
 www.pornbox.com
 www.pornworld.com
-www.portofantwerpbruges.com
 www.pourvous.nl
 www.practicalbusinessskills.org
 www.practicalmoneyskills.com
