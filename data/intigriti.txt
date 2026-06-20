@@ -402,13 +402,6 @@ https://platform.nexo.com/api/trading/advanced/facade/api/v1/order/futures
 https://platform.nexo.com/api/trading/advanced/facade/api/v1/withdraw
 https://nexo.com/
 https://platform.nexo.com/
-be.nexuzhealth.mobile.cpv
-be.nexuzhealth.mobile.kws
-be.nexuzhealth.mobile.mynexuz
-kws-companion/id1342124012
-mynexuz.be
-mynexuzhealth/id1459856321
-liquidfiles.nexuzhealth.com
  idp-contact.nexuzhealth.be
 media.nexuzhealth.be/patient/ 
 analytics.ninjakiwi.com
@@ -588,6 +581,37 @@ shop.trouw.nl
 webwinkel.trouw.nl
 www.trouw.nl
 www.trouw.nl/abonnementen
+api.truelayer[-sandbox].com
+api.mtls.truelayer[-sandbox].com
+auth.truelayer[-sandbox].com
+auth.mtls.truelayer[-sandbox].com
+app.truelayer[-sandbox].com
+login-api.truelayer[-sandbox].com
+login.truelayer[-sandbox].com
+onboarding-api.truelayer.com
+pay-api.truelayer[-sandbox].com
+pay.truelayer[-sandbox].com
+paydirect.truelayer[-sandbox].com
+payment.truelayer[-sandbox].com
+payments-experience-api.truelayer[-sandbox].com
+user-authentication-api.truelayer[-sandbox].com
+users-api.truelayer.com
+C# SDK
+console-backend.truelayer[-sandbox].com
+console.truelayer[-sandbox].com
+sftp.reports.truelayer.com
+Java SDK
+PHP SDK
+TrueLayer for Magento (Magento plugin)
+TrueLayer for WooCommerce (WordPress plugin)
+shopify-admin.truelayer.com
+shop-pay-app-api.truelayer.com
+truelayer-signing
+webhooks.truelayer[-sandbox].com
+iOS SDK
+React Native SDK
+Web SDK
+Rust SDK
 OP-TEE
 Mbed TLS & TF-PSA-Crypto
 TrustedFirmware-A (TF-A)

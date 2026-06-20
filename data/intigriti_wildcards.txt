@@ -108,7 +108,6 @@ Leaked/compromised employee accounts *.here.com
 *.acc.mobilevikings.be
 *.dev-pub.mobilevikings.be
 *.dev.mobilevikings.be
-*.nexuzhealth.*
 *.ninjakiwi.me
 *.nkstatic.com
 *.souparea.com
@@ -132,6 +131,9 @@ Leaked/compromised employee accounts *.here.com
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net
