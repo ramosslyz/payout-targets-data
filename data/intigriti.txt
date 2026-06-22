@@ -613,15 +613,6 @@ station.veriff.com
 stationapi.veriff.com
 developers.veriff.me
 www.veriff.com
-Vinted: Shop & sell pre-loved
-Vinted: Shop & sell pre-loved
-*old.vinted.com
-*test-escalations.vintedgo.com
-*badger.it.vinted.com
-*careers.vinted.com
-*news.vinted.com
-*company.vinted.com
-Scam
 564141518
 accountsettings.connect.identity.stagaws.visma.com
 admin.stage.vismaonline.com
