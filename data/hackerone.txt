@@ -1646,18 +1646,13 @@ creatormarketplace.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 fp-sg.tiktokv.com
-lemon8-api.tiktokv.us
 live-backstage.tiktok.com
-pangle-mediation-ttp.tiktokpangle.us
 partner.tiktokshop.com
 pay.tokopediax.com
-platform.tiktokpangle.us
 seller-id.tokopedia.com
 shop-id.tokopedia.com
 shop.tiktok.com
-starling-ttp.lemon8-app.us
 tiktok.com
-tiktokdata-us-open.tiktokw.us
 www.pangleglobal.com
 www.soundon.global
 www.soundonw.us
@@ -1996,7 +1991,6 @@ internal-api-lark-api.larksuite.com
 internal-api.larksuite.com
 lark-frontier.byteoversea.com
 larksuite.com
-larksuite.us
 open.larksuite.com
 passport.larksuite.com
 status.larksuite.com
@@ -3433,7 +3427,6 @@ firefly.adobe.com
 fonts.adobe.com
 http://federatedid-na1.services.adobe.com
 http://ims-na1.adobelogin.com
-https://contentcredentials.org/
 learningmanagerstage4.adobe.com
 magento.com
 net.s2stagehance.com
