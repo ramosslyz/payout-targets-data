@@ -686,7 +686,6 @@
 *.newegg.ca
 *.newegg.com
 *.nextcapital.com
-*.nexuzhealth.*
 *.nflxext.com
 *.nflximg.net
 *.nflxso.net
@@ -2810,6 +2809,8 @@ api.custody.coinbase.com
 api.deriv.com
 api.developer.monespacesante.fr
 api.dicey.com
+api.digital.delen.be 
+api.digital.delen.lu 
 api.digitalocean.com
 api.direct.playstation.com
 api.dmp.gouv.fr
@@ -2915,7 +2916,6 @@ api.reddit.com
 api.remitly.io
 api.robinhood.com
 api.ryadom.kz
-api.s-kaupat.fi
 api.sandbox.topperpay.com
 api.savers.co.uk
 api.segment.io
@@ -2926,7 +2926,6 @@ api.simplisafe.com (App Endpoints)
 api.simplisafe.com (HSP Endpoints)
 api.slack.com
 api.smtp2go.com
-api.sokos.fi
 api.sorare.com
 api.spotify.com
 api.stage.evernote.com
@@ -2978,6 +2977,9 @@ app.circle.com
 app.datacamp.com/certification
 app.datacamp.com/groups
 app.datacamp.com/learn
+app.delen.be 
+app.delen.ch 
+app.delen.lu 
 app.demand.cybersource.com
 app.deriv.com
 app.drogas.lt
@@ -3084,6 +3086,8 @@ auth-identity-uat-ping.nba.com
 auth-identity-uat.nba.com
 auth-identity.nba.com
 auth.23andme.com
+auth.digital.delen.be 
+auth.digital.delen.lu 
 auth.dmp.gouv.fr
 auth.magic.link
 auth.monespacesante.fr
@@ -3126,9 +3130,7 @@ bdese.marionnaud.fr
 bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
-be.nexuzhealth.mobile.cpv
-be.nexuzhealth.mobile.kws
-be.nexuzhealth.mobile.mynexuz
+be.delen.digital
 beacon.netflix.com
 beamitmobile.com
 beauty-and-you.iciparisxl.nl
@@ -3856,6 +3858,7 @@ decision.swiftfinancial.com
 deeplinks.geneva-staging.chat
 deeplinks.geneva-staging.com
 defi.ripio.com
+delen/id1064839588
 delivery-webview.indrive.com
 demo.arkoselabs.com
 demo.fareharbor.com
@@ -4858,6 +4861,7 @@ https://digits.t-mobile.com
 https://digits.t-mobile.com/
 https://dimensions.cloudinary.com
 https://directlink.eu-west-2.outscale.com
+https://disclosure-test.six-exchange-regulation.com/
 https://doc.komoju.com/docs/fields-overview
 https://docker-staging.adstruc.com
 https://docs.bugcrowd.com/
@@ -6674,6 +6678,7 @@ https://www.keepersecurity.com/download.html
 https://www.keepersecurity.com/download.html?t=db
 https://www.kohls.com
 https://www.kohls.com/feature/app.jsp
+https://www.kuleuven.be/sapredir/huisvesting
 https://www.ladbrokes.com
 https://www.ladbrokes.com/en/games
 https://www.lascana.de/
@@ -7052,7 +7057,6 @@ ksuite.infomaniak.com
 kubernetes-csi.github.io
 kubernetes.io
 kumulus.uzleuven.be
-kws-companion/id1342124012
 kyc-onboarding.booking.com
 l75pvbdyjo.infomaniak.site
 landing.ryadom.kz
@@ -7082,7 +7086,6 @@ linkpop.com
 links.geneva-staging.chat
 links.geneva-staging.com
 links.portswigger.net
-liquidfiles.nexuzhealth.com
 liquidfiles.uzleuven.be
 liquidfilestest.uzleuven.be
 lirportal.ripe.net
@@ -7105,9 +7108,13 @@ login-sandbox.nba.com
 login-uat.nba.com
 login.arkane.network
 login.cm.com
+login.delen.be 
+login.delen.ch 
+login.delen.lu 
 login.infomaniak.com
 login.insightly.com
 login.nba.com
+login.oyens.com
 login.playcanvas.com
 login.rei.com
 login.remitly.com
@@ -7350,8 +7357,6 @@ myaccount.trouw.nl
 myaccount.volkskrant.nl
 myaccount.vtm.be
 myconnect.com.au
-mynexuz.be
-mynexuzhealth/id1459856321
 mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
 myself.tw.coupang.com
@@ -7958,6 +7963,7 @@ stats.gleague.nba.com
 stats.nba.com
 stats.vinci.com
 stats.wnba.com
+status.delen.be 
 status.larksuite.com
 status.uphold.com
 steamcommunity.com
@@ -7985,6 +7991,7 @@ streaming-api.iris.production.forescoutcloud.net
 streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
+sts.delen.be 
 sts.uzleuven.be
 studio-api.swapcard.com
 studio.swapcard.com
@@ -8086,7 +8093,6 @@ try.discourse.org
 tucarro.com
 tucarro.com.co
 tumoto.com
-tunnistus.s-ryhma.fi
 tw.coupang.com
 tw.coupangcorp.com
 tw.coupangls.com
@@ -8307,6 +8313,8 @@ www.bookingholdings.com
 www.bpost.be
 www.bpost2.be
 www.bumble.com
+www.cadelam.be 
+www.cadelux.lu/en 
 www.cardinalcommerce.com
 www.carrentals.com
 www.cart.starbucks.co.jp/
@@ -8334,6 +8342,8 @@ www.cybersource.com
 www.datacamp.com
 www.datacamp.com/datalab
 www.ddfcontent.com
+www.delen.bank
+www.delen.be/en 
 www.demorgen.be
 www.demorgen.be/abonnementen
 www.digitalocean.com
@@ -8521,13 +8531,11 @@ www.preprod1.monespacesante.fr
 www.preprod2.monespacesante.fr
 www.priceline.com
 www.prijsmepper.nl
-www.prisma.fi
 www.quip.com
 www.qwant.com
 www.redoxengine.com
 www.ritzcarlton.com/
 www.rockstargames.com
-www.s-kaupat.fi
 www.s-pankki.fi
 www.sa.dyson.com
 www.samenfittorfs.be
@@ -8539,7 +8547,6 @@ www.schoenentorfs.nl
 www.sheer.com
 www.six-group.com
 www.socialdeal.nl
-www.sokos.fi
 www.soundon.global
 www.soundonw.us
 www.starbucks.ca

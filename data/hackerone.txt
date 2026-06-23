@@ -969,6 +969,7 @@ https://apps.apple.com/mx/app/debix/id1581440132
 https://apps.apple.com/mx/app/schweizer-finanzmuseum/id1225222871
 https://apps.apple.com/mx/app/six-id/id1620496931
 https://apps.apple.com/us/app/bme-conecta/id6443938949
+https://disclosure-test.six-exchange-regulation.com/
 https://play.google.com/store/apps/details?id=com.sixgroup.debixplus
 https://play.google.com/store/apps/details?id=com.sixgroup.id&hl=en_US&pli=1
 https://play.google.com/store/apps/details?id=es.grupobme.bmeconecta
@@ -2292,19 +2293,13 @@ site.rewire.com
 travelcash.money
 whyisend.com
 740514933
-api.s-kaupat.fi
-api.sokos.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
 fi.spankki
 https://crosskey.io/stores/s-pankki/apis
 mobile.s-pankki.fi
 online.s-pankki.fi
-tunnistus.s-ryhma.fi
-www.prisma.fi
-www.s-kaupat.fi
 www.s-pankki.fi
-www.sokos.fi
 328407587
 com.yahoo.mobile.client.android.flickr
 modefestival.com
