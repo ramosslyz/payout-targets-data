@@ -656,6 +656,7 @@
 *.moneyback.com.hk
 *.mongodb.com/*
 *.monopoly-poker.com
+*.monzo.com
 *.moonpay.com
 *.moonpaycloud.com
 *.mortgagechoice.com.au
@@ -792,6 +793,7 @@
 *.prijsmepper.nl
 *.primarycareondemand.mayoclinic.org
 *.privateinternetaccess.com
+*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -828,6 +830,7 @@
 *.report.uat.proptrack.com
 *.reposify.com
 *.rhinternal.net
+*.ripe.net
 *.robinhood.com
 *.robinhood.net
 *.roblox.com
@@ -1181,6 +1184,7 @@
 1023499075
 103.83.120.0/22
 1032480595
+1052238659
 1057338687
 107.167.96.0/19
 1080074001
@@ -1296,6 +1300,7 @@
 192.251.124.0/24
 192.251.125.0/24
 192.251.126.0/24
+193.0.0.0/19 and 2001:67c:2e8::/48
 193.109.229.0/24
 193.110.154.0/24
 193.5.66.0/23
@@ -1734,6 +1739,7 @@ Aruba InstantOn Switches
 Aruba User Experience Insight Sensors
 ArubaOS-CX Switches
 Assets labeled as in-scope
+Assets owned by RIPE NCC
 Atlas
 Atlas Charts
 Atlas Data Federation
@@ -2638,6 +2644,7 @@ academy.deriv.com
 academy.infomaniak.com
 access-sandbox.remitly.com
 access.remitly.com
+access.ripe.net
 accommodations.booking.com
 account-sprint.dynatracelabs.com
 account.acronis.com
@@ -3291,6 +3298,7 @@ co-cf.*.aws.indriverapp.com
 co-gw-cf.*.aws.indriverapp.com
 co-in-gw-cf.*.aws.indriverapp.com
 co.mona.android
+co.uk.getmondo
 coban.pixiv.net
 coda.grammarly.com
 coda.io
@@ -4992,6 +5000,13 @@ https://github.com/Hacker0x01/react-datepicker
 https://github.com/Infomaniak/desktop-kDrive
 https://github.com/OctopusDeploy
 https://github.com/ProjectOpenSea/seaport#deployments
+https://github.com/RIPE-NCC/rpki-commons
+https://github.com/RIPE-NCC/rpki-core
+https://github.com/RIPE-NCC/rpki-monitoring
+https://github.com/RIPE-NCC/rpki-publication-server
+https://github.com/RIPE-NCC/rpki-ta-0
+https://github.com/RIPE-NCC/rsyncit
+https://github.com/RIPE-NCC/whois
 https://github.com/Shopify/*
 https://github.com/afterpay/sdk-android
 https://github.com/afterpay/sdk-ios
@@ -6477,6 +6492,7 @@ https://underarmour.co.kr
 https://underarmournext.com/
 https://unified.neogov.com
 https://unihub.monash.edu/
+https://unity.com/download
 https://unity3d.com/get-unity/download/archive
 https://updates.arlo.com
 https://us.eufy.com/products/e8213181
@@ -7076,6 +7092,7 @@ links.geneva-staging.com
 links.portswigger.net
 liquidfiles.uzleuven.be
 liquidfilestest.uzleuven.be
+lirportal.ripe.net
 list-v2--netlify-plugins.netlify.app
 lists.wordpress.org
 live-backstage.tiktok.com
@@ -7294,6 +7311,7 @@ money.x.com
 moneybird.com
 moneybirdstorage.com
 monitor.mozilla.org
+monzo.com
 moonpay.com
 movie.indrive.com
 mpa.ekyc.backoffice.m-pesa.com
@@ -8451,6 +8469,7 @@ www.mini.de
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
+www.monzo.com
 www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
