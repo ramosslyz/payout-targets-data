@@ -963,6 +963,7 @@
 *.redecor.com
 *.registry.eu
 *.rentalcars.com
+*.report.uat.proptrack.com
 *.reposify.com
 *.restintergamma.nl
 *.rhinternal.net
@@ -5248,6 +5249,7 @@ https://Fr.mydirtyhobby.com
 https://Mlife.mo
 https://[it | fr | us | sg | …].louisvuitton.com
 https://a.simplemdm.com/
+https://access-sit.uat.proptrack.com
 https://account-registration.monash.edu/
 https://account.bitpanda.com
 https://account.decathlon.com/*
@@ -5525,6 +5527,7 @@ https://apps.apple.com/gb/app/indeed-flex-job-search/id1013812731
 https://apps.apple.com/gb/app/moneybox-save-and-invest/id1049797239
 https://apps.apple.com/gb/app/partycasino-play-casino-games/id818432894
 https://apps.apple.com/gb/app/partypoker-texas-holdem-poker/id687740281
+https://apps.apple.com/id/app/dana/id1437123008
 https://apps.apple.com/id/app/gojek/id944875099
 https://apps.apple.com/id/app/gopay-transfer-pulsa-bills/id6446321594
 https://apps.apple.com/id/app/superbank/id6444720285
@@ -5914,6 +5917,7 @@ https://design.glassdoor.com/*
 https://design.staples.com
 https://desk-api-{region}.sendbird.com
 https://desk.thetradedesk.com
+https://desktop-sit.uat.proptrack.com
 https://desktop.water-link.be/
 https://dev.tutoring.classdojo.com
 https://devedge.t-mobile.com
@@ -6069,6 +6073,7 @@ https://example-jssdk-integ.uidapi.com
 https://example-srvonly-integ.uidapi.com
 https://exchange.pulsepoint.com
 https://exchange.pulsepoint.com/AdminPortal/AdminDashBoard.aspx
+https://explore-sit.uat.proptrack.com
 https://explorer.cronos.org/token/0x2e53c5586e12a99d4CAE366E9Fc5C14fE9c6495d
 https://externalconnect.usaa.com/
 https://fcu.eu-west-2.outscale.com
@@ -7450,6 +7455,7 @@ https://offer.tidal.com/download
 https://ofp.adx.opera.com
 https://ogws.optusnet.com.au/
 https://onboard.neogov.com
+https://one-sit.uat.proptrack.com/
 https://one.newrelic.com
 https://oneview.threatdownstage.com
 https://online.monash.edu/
@@ -7703,6 +7709,7 @@ https://play.google.com/store/apps/details?id=es.mediamarkt.app
 https://play.google.com/store/apps/details?id=exodusmovement.exodus&hl=en_IN
 https://play.google.com/store/apps/details?id=fr.gouv.tchap.a&hl=fr
 https://play.google.com/store/apps/details?id=id.co.bankfama.android&hl=en
+https://play.google.com/store/apps/details?id=id.dana&hl=en
 https://play.google.com/store/apps/details?id=io.aurory.seekersoftokane&hl=en_CA
 https://play.google.com/store/apps/details?id=io.gonative.android.xjndrq&hl=fr
 https://play.google.com/store/apps/details?id=io.opensea&hl=en_US&gl=US
@@ -7763,6 +7770,7 @@ https://portal3.pentest.clicsante.ca/
 https://portalapi.eu.clearpay.co.uk
 https://portalapi.us.afterpay.com
 https://portalv2.lh360.com
+https://portfolio-manager-sit.uat.proptrack.com/
 https://powerdms.com/
 https://powerpak.com
 https://pprd.cybermalveillance.gouv.fr
@@ -8144,6 +8152,7 @@ https://usvdc1-thumbnailserver-api.pnimedia.com/
 https://usvdc1-uploadserver.pnimedia.com/
 https://utv.usaa.com
 https://v.utv.usaa.com
+https://valuations-sit.uat.proptrack.com
 https://vault-staging.getmoneytree.com
 https://vault.chiatest.net/
 https://vc.tasheer.com/
@@ -8517,6 +8526,8 @@ https://www.privateinternetaccess.com/download/linux-vpn
 https://www.privateinternetaccess.com/download/mac-vpn
 https://www.privateinternetaccess.com/download/windows-vpn
 https://www.probiller.com
+https://www.proptrack.com
+https://www.proptrack.com.au
 https://www.quintoandar.com.br/*
 https://www.realcommercial.com.au/
 https://www.recordedfuture.com
@@ -9006,6 +9017,7 @@ m.avtoelon.uz
 m.badoo.com
 m.bild.de
 m.chaturbate.com
+m.dana.id
 m.kolesa.kz
 m.krisha.kz
 m.reddit.com

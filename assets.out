@@ -825,6 +825,7 @@
 *.redecor.com
 *.registry.eu
 *.rentalcars.com
+*.report.uat.proptrack.com
 *.reposify.com
 *.rhinternal.net
 *.robinhood.com
@@ -1854,7 +1855,6 @@ Copilot Spaces
 Copilot for Business
 Core Assets
 Core Backstage source code
-Core Product
 Corporate Assets
 CosmWasm
 Cosmos SDK
@@ -4266,6 +4266,8 @@ https://28degreescard.com.au
 https://8x8.vc/xmpp-websocket
 https://Mlife.mo
 https://[it | fr | us | sg | …].louisvuitton.com
+https://a.simplemdm.com/
+https://access-sit.uat.proptrack.com
 https://account-registration.monash.edu/
 https://account.bitpanda.com
 https://account.post.ch
@@ -4335,6 +4337,7 @@ https://api.fstr.rocks
 https://api.ibops.net
 https://api.ibops.net/ad-management
 https://api.ibotta.com
+https://api.immutable.com
 https://api.int.ibops.net
 https://api.int.ibops.net/customer-loyalty-service
 https://api.intercom.com
@@ -4382,6 +4385,7 @@ https://api.vistarmedia.eu
 https://api.voiapp.io/
 https://api.welcomesoftware.com/
 https://api.wyzecam.com
+https://api.x.immutable.com/
 https://api.yeswehack.com
 https://apigw.prod.quintoandar.com.br/checkout-api/*
 https://apigw.prod.quintoandar.com.br/nazare-api/*
@@ -4414,6 +4418,7 @@ https://app.latitudepayapps.com/
 https://app.navan.com
 https://app.opsgenie.com
 https://app.optimizely.com/
+https://app.pdq.com/
 https://app.recordedfuture.com
 https://app.requirementyogi.com
 https://app.ring.com/*
@@ -4485,6 +4490,7 @@ https://apps.apple.com/gb/app/indeed-flex-job-search/id1013812731
 https://apps.apple.com/gb/app/moneybox-save-and-invest/id1049797239
 https://apps.apple.com/gb/app/partycasino-play-casino-games/id818432894
 https://apps.apple.com/gb/app/partypoker-texas-holdem-poker/id687740281
+https://apps.apple.com/id/app/dana/id1437123008
 https://apps.apple.com/id/app/gojek/id944875099
 https://apps.apple.com/id/app/gopay-transfer-pulsa-bills/id6446321594
 https://apps.apple.com/ie/app/doctolib-siilo/id1083002150
@@ -4614,6 +4620,7 @@ https://auth-ywh.it.authentification.si.gouv.qc.ca/
 https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
+https://auth.immutable.com
 https://auth.lastpass.com
 https://auth.myopenpass.com
 https://auth.opera.com
@@ -4623,6 +4630,7 @@ https://auth.riskrecon.eu
 https://auth.seek.com
 https://auth.thetradedesk.com
 https://auth.wyze.com
+https://auth2.pdq.com/
 https://authn.usaa.com/
 https://autoupdate.geo.opera.com
 https://b2bapi-a.usaa.com
@@ -4799,6 +4807,7 @@ https://delta.app
 https://demo.adstruc.com
 https://demo.priceless.com/
 https://desk.thetradedesk.com
+https://desktop-sit.uat.proptrack.com
 https://desktop.water-link.be/
 https://dev.tutoring.classdojo.com
 https://devedge.t-mobile.com
@@ -4927,6 +4936,7 @@ https://example-jssdk-integ.uidapi.com
 https://example-srvonly-integ.uidapi.com
 https://exchange.pulsepoint.com
 https://exchange.pulsepoint.com/AdminPortal/AdminDashBoard.aspx
+https://explore-sit.uat.proptrack.com
 https://explorer.cronos.org/token/0x2e53c5586e12a99d4CAE366E9Fc5C14fE9c6495d
 https://externalconnect.usaa.com/
 https://fcu.eu-west-2.outscale.com
@@ -5042,6 +5052,7 @@ https://github.com/fireblocks/mpc-lib
 https://github.com/freedomofpress/securedrop
 https://github.com/freedomofpress/securedrop-client
 https://github.com/freedomofpress/securedrop-workstation
+https://github.com/immutable/ts-immutable-sdk/tree/main/packages/passport/
 https://github.com/innocraft/
 https://github.com/jitsi
 https://github.com/justeattakeaway
@@ -5215,6 +5226,7 @@ https://home.xfinity.com
 https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
 https://hr.neogov.com
 https://hr.prosus.com/
+https://hub.immutable.com/
 https://hug.personio.com
 https://ibconnect.internetbrands.com
 https://icu.eu-west-2.outscale.com
@@ -5292,6 +5304,7 @@ https://learn.newrelic.com/
 https://legacy-blockexplorer.electroneum.com
 https://lensstudio.snapchat.com/api/
 https://library.elementor.com/
+https://library.pdq.com/
 https://lieferando.de
 https://life.pulsepoint.com/Buyer/#/campaign
 https://life.pulsepoint.com/EngagementAudience/#/dashboard
@@ -5949,6 +5962,7 @@ https://offer.tidal.com/download
 https://ofp.adx.opera.com
 https://ogws.optusnet.com.au/
 https://onboard.neogov.com
+https://one-sit.uat.proptrack.com/
 https://one.newrelic.com
 https://oneview.threatdownstage.com
 https://online.monash.edu/
@@ -5996,6 +6010,7 @@ https://partnerapi2.tapayments.com
 https://partnerhelp.viator.com/
 https://partners.usaa.com
 https://partners.viator.com
+https://passport.immutable.com/
 https://pay.payzippy.com
 https://pay.unity.com
 https://paymayabiller-prod.paymaya.com/
@@ -6172,6 +6187,7 @@ https://play.google.com/store/apps/details?id=ee.mtakso.client
 https://play.google.com/store/apps/details?id=es.grupobme.bmeconecta
 https://play.google.com/store/apps/details?id=es.mediamarkt.app
 https://play.google.com/store/apps/details?id=exodusmovement.exodus&hl=en_IN
+https://play.google.com/store/apps/details?id=id.dana&hl=en
 https://play.google.com/store/apps/details?id=io.aurory.seekersoftokane&hl=en_CA
 https://play.google.com/store/apps/details?id=io.gonative.android.xjndrq&hl=fr
 https://play.google.com/store/apps/details?id=io.opensea&hl=en_US&gl=US
@@ -6198,6 +6214,7 @@ https://play.google.com/store/search?q=chipotle+mexican+grill&c=apps
 https://play.google.com/store/search?q=mattermost&c=apps
 https://play.google.com/store/search?q=plann&c=apps
 https://play.google.com/store/search?q=simplisafe&c=apps
+https://play.immutable.com
 https://playlist.link
 https://plugins.matomo.org/developer/innocraft
 https://plugins.matomo.org/developer/matomo-org
@@ -6213,12 +6230,14 @@ https://portal.cms.gov/
 https://portal.exoscale.com/
 https://portal.iFoodpago.com.br
 https://portal.originzero.com.au
+https://portal.pdq.com/
 https://portal.riskrecon.com
 https://portal.riskrecon.eu
 https://portal.unifiedid.com
 https://portalapi.eu.clearpay.co.uk
 https://portalapi.us.afterpay.com
 https://portalv2.lh360.com
+https://portfolio-manager-sit.uat.proptrack.com/
 https://powerdms.com/
 https://powerpak.com
 https://pprd.cybermalveillance.gouv.fr
@@ -6468,6 +6487,7 @@ https://us.identity.konghq.com/*
 https://usdstandard.com/
 https://utv.usaa.com
 https://v.utv.usaa.com
+https://valuations-sit.uat.proptrack.com
 https://vault-staging.getmoneytree.com
 https://vault.chiatest.net/
 https://vc.tasheer.com/
@@ -6749,6 +6769,8 @@ https://www.priceline.com/pwd/v0/pcln-graphql/
 https://www.privateinternetaccess.com/download/linux-vpn
 https://www.privateinternetaccess.com/download/mac-vpn
 https://www.privateinternetaccess.com/download/windows-vpn
+https://www.proptrack.com
+https://www.proptrack.com.au
 https://www.quintoandar.com.br/*
 https://www.realcommercial.com.au/
 https://www.recordedfuture.com
@@ -7106,6 +7128,7 @@ m.airbnb.com
 m.badoo.com
 m.bild.de
 m.chaturbate.com
+m.dana.id
 m.reddit.com
 m.tw.coupang.com
 mUSD Stablecoin
@@ -8669,7 +8692,6 @@ zooplus.net
 ████████████████████████████
 ██████████████████████████████
 ████████████████████████████████
-█████████████████████████████████
 ██████████████████████████████████
 ███████████████████████████████████
 ████████████████████████████████████
