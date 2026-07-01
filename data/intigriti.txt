@@ -365,8 +365,8 @@ app.marionnaud.sk
 api.marionnaud.sk
 mobilevikings.be
 api.unleashed.be
-jimmobile.be
 uwa.mobilevikings.be
+jimmobile.be
 vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
@@ -455,10 +455,6 @@ apps-accpt.portofantwerp.com
 apps-accpt.portofantwerpbruges.com
 apps.portofantwerp.com
 apps.portofantwerpbruges.com
-as2-accpt.portofantwerp.com
-as2-accpt.portofantwerpbruges.com
-as2.portofantwerp.com
-as2.portofantwerpbruges.com
 digitalspecs.portofantwerpbruges.com
 login-accpt.portofantwerpbruges.com
 maximo-accpt.portofantwerp.com
