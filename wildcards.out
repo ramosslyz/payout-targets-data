@@ -678,6 +678,7 @@
 *.newegg.ca
 *.newegg.com
 *.nextcapital.com
+*.nexuzhealth.*
 *.nflxext.com
 *.nflximg.net
 *.nflxso.net
@@ -766,8 +767,6 @@
 *.pns.hk
 *.points.com
 *.polymoon.it
-*.portofantwerp.com
-*.portofantwerpbruges.com
 *.pourvous.nl
 *.ppb.com
 *.ppbdev.com
