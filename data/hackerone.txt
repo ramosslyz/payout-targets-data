@@ -1290,6 +1290,7 @@ ws.sorare.com
 82.196.42.196/28
 Hilton Franchised Properties
 Hilton Third Party Applications
+Managed Property Assets
 com.hilton.android.hhonors
 hilton.com
 hilton.io
