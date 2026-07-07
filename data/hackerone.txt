@@ -1682,6 +1682,7 @@ outlook.insightly.com
 Figma Atlassian App
 Figma Desktop App
 Figma Slack App
+Figma Weave
 Figma for Microsoft Teams
 Figma iOS and Android apps
 api.figma.com
