@@ -118,8 +118,6 @@ Leaked/compromised employee accounts *.here.com
 *.personio.tools
 *.personio.de
 *.personiowhistleblowing.com
-*.portofantwerp.com
-*.portofantwerpbruges.com
 *.ripe.net
  *.rivian.com
 *.swisspass.ch
@@ -132,9 +130,6 @@ Leaked/compromised employee accounts *.here.com
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net

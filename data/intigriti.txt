@@ -411,53 +411,6 @@ https://sec-test-<intigriti handle>-<nn>.personio.de
 https://www.personio.com/free-trial/
 https://www.personio.de/kostenlos-testen/
 Other assets owned by Personio
-188.118.8.0/25
-94.107.237.192/26
- login-test.portofantwerpbruges.com/
-api-accpt.portofantwerp.com
-api-accpt.portofantwerpbruges.com
-api.portofantwerp.com
-api.portofantwerpbruges.com
-apps-accpt.portofantwerp.com
-apps-accpt.portofantwerpbruges.com
-apps.portofantwerp.com
-apps.portofantwerpbruges.com
-digitalspecs.portofantwerpbruges.com
-login-accpt.portofantwerpbruges.com
-maximo-accpt.portofantwerp.com
-maximo-accpt.portofantwerpbruges.com
-maximo.portofantwerp.com
-maximo.portofantwerpbruges.com
-maximo.portofantwerpbruges.com
-my-accpt.portofantwerp.com
-my-accpt.portofantwerpbruges.com
-my.portofantwerp.com
-my.portofantwerpbruges.com
-notula-accpt.portofantwerpbruges.com
-oprc.portofantwerpbruges.com
-register-accpt.portofantwerp.com
-register-accpt.portofantwerpbruges.com
-servicedesk-accpt.portofantwerp.com
-servicedesk-accpt.portofantwerpbruges.com
-servicedesk.portofantwerp.com
-servicedesk.portofantwerpbruges.com
-share-accpt.portofantwerp.com
-share-accpt.portofantwerpbruges.com
-share.portofantwerp.com
-share.portofantwerpbruges.com
-webapps-accpt.portofantwerp.com
-webapps-accpt.portofantwerpbruges.com
-webapps-test.portofantwerpbruges.com/xui
-webapps.portofantwerp.com
-webapps.portofantwerpbruges.com
-wiki-accpt.portofantwerp.com
-wiki-accpt.portofantwerpbruges.com
-wiki.portofantwerp.com
-wiki.portofantwerpbruges.com
-www.portofantwerpbruges.com
-erpx.unit4cloud.com/u4erx_pab_acp1
-erpx.unit4cloud.com/u4erx_pab_prev
-erpx.unit4cloud.com/u4erx_pab_prod
 access.ripe.net
 https://github.com/RIPE-NCC/rpki-commons
 https://github.com/RIPE-NCC/rpki-core
@@ -562,37 +515,6 @@ shop.trouw.nl
 webwinkel.trouw.nl
 www.trouw.nl
 www.trouw.nl/abonnementen
-api.truelayer[-sandbox].com
-api.mtls.truelayer[-sandbox].com
-auth.truelayer[-sandbox].com
-auth.mtls.truelayer[-sandbox].com
-app.truelayer[-sandbox].com
-login-api.truelayer[-sandbox].com
-login.truelayer[-sandbox].com
-onboarding-api.truelayer.com
-pay-api.truelayer[-sandbox].com
-pay.truelayer[-sandbox].com
-paydirect.truelayer[-sandbox].com
-payment.truelayer[-sandbox].com
-payments-experience-api.truelayer[-sandbox].com
-user-authentication-api.truelayer[-sandbox].com
-users-api.truelayer.com
-C# SDK
-console-backend.truelayer[-sandbox].com
-console.truelayer[-sandbox].com
-sftp.reports.truelayer.com
-Java SDK
-PHP SDK
-TrueLayer for Magento (Magento plugin)
-TrueLayer for WooCommerce (WordPress plugin)
-shopify-admin.truelayer.com
-shop-pay-app-api.truelayer.com
-truelayer-signing
-webhooks.truelayer[-sandbox].com
-iOS SDK
-React Native SDK
-Web SDK
-Rust SDK
 OP-TEE
 Mbed TLS & TF-PSA-Crypto
 TrustedFirmware-A (TF-A)
