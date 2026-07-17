@@ -2232,7 +2232,11 @@ Malwarebytes for Teams
 Malwarebytes for Windows
 Managed OpenClaw
 Managed Property Assets
+Mapbox DevKit MCP Server
+Mapbox Docs MCP Server
+Mapbox GL Geocoder
 Mapbox GL JS
+Mapbox MCP Server
 Maps SDK for Android
 Maps SDK for Flutter
 Maps SDK for iOS
@@ -2449,6 +2453,7 @@ Scanwatch Light
 Scanwatch Nova
 Scenarios with Special Bounties
 Scope Questions: Items not explicitly listed here
+Search SDK for Android
 Search SDK for iOS
 Secondary Assets
 Self Register Account on T-Mobile Microsoft Entra ID
@@ -5247,7 +5252,6 @@ https://github.com/kubernetes/website
 https://github.com/lightsparkdev/go-sdk
 https://github.com/lightsparkdev/lightspark-rs
 https://github.com/lightsparkdev/python-sdk
-https://github.com/mapbox
 https://github.com/matomo-org
 https://github.com/matomo-org/docker
 https://github.com/matomo-org/matomo
