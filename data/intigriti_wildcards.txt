@@ -35,9 +35,13 @@
 *.appmiral.com
 *.cm.com
 *.cmtelecom.com
+*.backend-capital.com
+*.capital.com
+*.itcapital.io
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -162,7 +166,6 @@ Leaked/compromised employee accounts *.here.com
 *.drogas.lt
 *.drogas.lv
 *.moneyback.com.hk
-*.wolt.com
 *ensemble*.yahoo.com
 *omega*.yahoo.com
 *.pwn.intigriti.rocks
