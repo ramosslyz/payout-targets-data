@@ -1071,7 +1071,6 @@
 *.vacationhomerentals.com
 *.varonis.com
 *.varonis.io
-*.varonis.net
 *.vayama.com
 *.venmo.com
 *.vennhypotheken.nl
@@ -2952,6 +2951,7 @@ api.mergify.com
 api.midtrans.com
 api.monespacesante.fr
 api.moonpay.com
+api.moonx-dev.com
 api.mtls.truelayer[-sandbox].com
 api.neon.opera.com/neon/pub
 api.neon.opera.com/neon/store
@@ -2960,6 +2960,7 @@ api.netlify.com
 api.ninjakiwi.com
 api.ort-one-pingone.com
 api.ovh.com
+api.paybox.sh
 api.personio-dev.com
 api.personio.com
 api.pns.hk
@@ -3085,6 +3086,7 @@ app.mona.co
 app.moonpay.com
 app.netlify.com
 app.nl.socialdeal
+app.paybox.sh
 app.pharmacy.superdrug.com
 app.pullrequest.com
 app.rewire.to
@@ -4043,6 +4045,7 @@ doordash.DoorDashConsumer
 doppler
 doppler.team
 download.krisp.ai
+downloads.varonis.com
 dr-cf.*.aws.indriverapp.com
 dream-dev.wnba.com
 dream-qa.wnba.com
@@ -7172,6 +7175,7 @@ idp-cf.*.aws.indriverapp.com
 idpay-uat.unico.io
 ifast.marriott.com
 iframe.arkoselabs.com
+iframe.moonx-dev.com
 ignite-dev.gleague.nba.com
 ignite-qa.gleague.nba.com
 ignite.gleague.nba.com
@@ -7303,6 +7307,7 @@ liberty-dev.wnba.com
 liberty-qa.wnba.com
 liberty-qa2.wnba.com
 liberty.wnba.com
+licensemgmt.varonis.com
 lightsparkdev/flutter-sdk
 lightsparkdev/js-sdk
 lightsparkdev/kotlin-sdk
@@ -7587,6 +7592,7 @@ my.snapchat.com
 my.swiftfinancial.com
 my.tomorrowland.com
 my.tw.coupang.com
+my.varonis.com
 my.visa.fr
 myaccount-cn.payoneer.com
 myaccount-hardening.dynatracelabs.com
@@ -8295,6 +8301,7 @@ support.monespacesante.fr
 support.mozilla.org
 support.rockstargames.com
 support.steampowered.com
+support.varonis.com
 supportal.netlify.app
 sur-cf.*.aws.indriverapp.com
 survey.vinci.com
