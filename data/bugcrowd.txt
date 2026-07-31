@@ -1347,6 +1347,12 @@ https://apps.apple.com/app/mall-of-the-emirates-moe/id1449578693
 https://api.mafshoppingmalls.com/
 https://partnerconnect.maf.ae/
 https://ecoupon.maf.ae/
+https://www.malloftheemirates.com
+https://play.google.com/store/apps/details?id=com.belongi.moe
+https://apps.apple.com/app/mall-of-the-emirates-moe/id1449578693
+https://api.mafshoppingmalls.com/
+https://partnerconnect.maf.ae/
+https://ecoupon.maf.ae/
 https://marketplace.atlassian.com/apps/1211376/jenkins-integration-for-jira?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1211376/jenkins-integration-for-jira?hosting=server&tab=overview
 https://marketplace.atlassian.com/apps/1211376/jenkins-integration-for-jira?hosting=cloud&tab=overview
@@ -2032,11 +2038,6 @@ https://mcp.recordedfuture.com
 ███████████████████
 ████████████████████
 ██████████████████████████
-https://marketplace.atlassian.com/apps/1213649/custom-fields-for-jira-cloud?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1214056/sub-task-manager-for-jira?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1213851/watch-it-for-jira-cloud?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1211639/comment-history-for-jira?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1211880/document-vault-secure-attachments-in-jira?tab=installation&hosting=cloud
 https://marketplace.atlassian.com/apps/1216056/refined-toolkit-for-confluence-cloud?hosting=cloud&tab=overview
 refined.site/admin
 https://refinedsites.refinedwiki.com
