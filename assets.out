@@ -415,7 +415,6 @@
 *.gocardless-lab.io
 *.gocardless.dev
 *.gocardless.io,*.gocardless-banking.io
-*.gofin.io
 *.gofood.co.id
 *.gofoodmerchant.co.id
 *.gojek.com
@@ -593,6 +592,7 @@
 *.lyst.co
 *.lyst.com
 *.lystit.com
+*.mab.co.id
 *.magisto.com
 *.magwien.gv.at
 *.malwarebytes.com
@@ -1950,9 +1950,7 @@ Elastic Package Registry
 Elastic Synthetics Monitoring
 Elasticsearch
 Elvenar
-Enjin - Ethereum ERC-1155 Contract
 Enjin Blockchain
-Enjin Coin - Ethereum ERC-20 Contract
 Eno® Browser Extension
 Enterprise Edition Products and Tools
 EpicGamesLauncher.exe    
@@ -4278,6 +4276,7 @@ go.capital.com
 go.geneva-staging.com
 go.stripchat.com
 go.welt.de
+gocorp.gojek.com
 gofood.co.id
 goldmansachsindices.com
 googleplace*.bykea.net
@@ -4462,6 +4461,7 @@ https://8x8.vc/xmpp-websocket
 https://Mlife.mo
 https://[it | fr | us | sg | …].louisvuitton.com
 https://a.klaviyo.com/api/*
+https://a.simplemdm.com/
 https://access-sit.uat.proptrack.com
 https://account-registration.monash.edu/
 https://account.bitpanda.com
@@ -4612,6 +4612,7 @@ https://app.latitudepayapps.com/
 https://app.navan.com
 https://app.opsgenie.com
 https://app.optimizely.com/
+https://app.pdq.com/
 https://app.recordedfuture.com
 https://app.requirementyogi.com
 https://app.ring.com/*
@@ -4709,6 +4710,7 @@ https://apps.apple.com/se/app/atg-live/id1608156355
 https://apps.apple.com/se/app/atg/id1434660322
 https://apps.apple.com/se/app/bookbeat-audiobooks-e-books/id1056652614?l=en-GB
 https://apps.apple.com/se/app/vimla/id1233271881  https://play.google.com/store/apps/details?id=com.vimlaapp&hl=en
+https://apps.apple.com/sg/app/gojek-driver/id1573529788
 https://apps.apple.com/sg/app/syfe-stay-invested/id1497156434
 https://apps.apple.com/tr/app/mediamarkt-t%C3%BCrkiye/id908956795
 https://apps.apple.com/tt/app/blofin/id1616804346
@@ -4828,6 +4830,7 @@ https://auth.riskrecon.eu
 https://auth.seek.com
 https://auth.thetradedesk.com
 https://auth.wyze.com
+https://auth2.pdq.com/
 https://authn.usaa.com/
 https://autoupdate.geo.opera.com
 https://b2bapi-a.usaa.com
@@ -5527,6 +5530,7 @@ https://learn.newrelic.com/
 https://legacy-blockexplorer.electroneum.com
 https://lensstudio.snapchat.com/api/
 https://library.elementor.com/
+https://library.pdq.com/
 https://lieferando.de
 https://life.pulsepoint.com/Buyer/#/campaign
 https://life.pulsepoint.com/EngagementAudience/#/dashboard
@@ -6358,6 +6362,8 @@ https://play.google.com/store/apps/details?id=com.flipkart.android
 https://play.google.com/store/apps/details?id=com.glassdoor.app&hl=en_US
 https://play.google.com/store/apps/details?id=com.gojek.app
 https://play.google.com/store/apps/details?id=com.gojek.gopay&hl=id
+https://play.google.com/store/apps/details?id=com.gojek.partner
+https://play.google.com/store/apps/details?id=com.gojek.resto
 https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch
 https://play.google.com/store/apps/details?id=com.indeed.resume
 https://play.google.com/store/apps/details?id=com.infomaniak.drive
@@ -6485,6 +6491,7 @@ https://portal.cms.gov/
 https://portal.exoscale.com/
 https://portal.iFoodpago.com.br
 https://portal.originzero.com.au
+https://portal.pdq.com/
 https://portal.riskrecon.com
 https://portal.riskrecon.eu
 https://portal.unifiedid.com
@@ -6869,8 +6876,8 @@ https://www.cultbeauty.co.uk/
 https://www.cyberghostvpn.com/en_US/apps/linux-vpn
 https://www.cyberghostvpn.com/en_US/apps/macos-vpn
 https://www.cyberghostvpn.com/en_US/apps/windows-vpn
-https://www.decathlon.(fr|ch|co.uk|it|nl|de|pt|es|be)/
-https://www.decathlon.(hu|pl|ro|cz|com.tr)/
+https://www.decathlon.(fr|ch|co.uk|it|nl|de|pt|es|be|pl|cz|ca)/
+https://www.decathlon.(hu|ro|com.tr)/
 https://www.definitivetechnology.com
 https://www.demandforced3.com/
 https://www.denon.com
