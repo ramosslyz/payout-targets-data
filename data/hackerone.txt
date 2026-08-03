@@ -2024,7 +2024,10 @@ https://apps.apple.com/us/app/exodus-crypto-bitcoin-wallet/id1414384820
 https://apps.apple.com/us/app/grateful-by-exodus/id6754093889
 https://play.google.com/store/apps/details?id=com.exodus.grateful
 https://play.google.com/store/apps/details?id=exodusmovement.exodus&hl=en_IN
+login.exodus.com
+pay-admin.exodus.io
 pay.exodus.io
+turing.exodus.io
 Community Management & Communications
 Tier 1
 Tier 2
@@ -3256,6 +3259,11 @@ workflows.semrush.com
 com.quora.android
 com.quora.app.mobile
 http://poe.com
+Brave Browser Desktop
+Brave websites
+com.brave.browser
+com.brave.ios.browser
+https://github.com/brave/*, https://github.com/brave-intl/*
 Burp Collaborator
 Burp Suite DAST
 Burp Suite Extension (BApps)
