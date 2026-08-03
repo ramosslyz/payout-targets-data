@@ -470,7 +470,8 @@ vimla.se
 ownit.se
 https://play.google.com/store/apps/details?id=com.vimlaapp&hl=en
 https://apps.apple.com/se/app/vimla/id1233271881  https://play.google.com/store/apps/details?id=com.vimlaapp&hl=en
-In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)
+Core Assets In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)
+Non Core Assets In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)
 https://thueringer-foerderportal.eu
 https://login.aufbaubank.de
 www.vfsvisaonline.com
