@@ -265,6 +265,7 @@
 *.dailyadvent.com
 *.dancecentral.com
 *.das.eu
+*.dash.ai
 *.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
@@ -289,6 +290,7 @@
 *.directverify.in
 *.district.in
 *.dns.eu
+*.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
@@ -298,6 +300,10 @@
 *.dpgmedia.nl
 *.drogas.lt
 *.drogas.lv
+*.dropbox.com
+*.dropboxer.net
+*.dropboxforum.com
+*.dropboxpartners.com
 *.dropmix.com
 *.dropxl.com
 *.duokan.com
@@ -457,6 +463,9 @@
 *.harmankardon.com
 *.harmonixmusic.com
 *.harmonyremote.com
+*.hellofax.com
+*.hellosign.com
+*.helloworks.com
 *.here.com
 *.hereapi.com
 *.hey.bild.de
@@ -839,6 +848,7 @@
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
+*.reclaim.ai
 *.reddit.com
 *.redditblog.com
 *.reddithelp.com
@@ -1202,6 +1212,7 @@
 1052238659
 1057338687
 107.167.96.0/19
+1080074001
 1080248000
 1089294040
 1091010942
@@ -1480,6 +1491,7 @@
 3.223.149.182
 302584613
 319881193
+327630330
 328407587
 335187483
 336381998
@@ -1560,6 +1572,7 @@
 6444040977
 6444868926
 6449737830
+6450553960
 6452192521
 645949180
 6462308655
@@ -1699,6 +1712,7 @@ Anchor
 Android & iOS App for Instacart Shoppers
 Android & iOS App for REI Customers
 Android App
+Android Box Mobile App
 Android Playstation App
 Android SDK
 Animate
@@ -1795,6 +1809,7 @@ Blink Video Doorbell
 Body Comp scale
 Body Scan scale
 Bot Management
+Box Drive
 Braintree SDK
 Brand Sites
 Brave Browser Desktop
@@ -1931,6 +1946,8 @@ Drogas Latvia Android
 Drogas Latvia iOS
 Drogas Lithuania Android
 Drogas Lithuania iOS
+Dropbox Desktop Application
+Dropbox.com
 Dynatrace ActiveGate
 Dynatrace MobileAgent
 Dynatrace OneAgent
@@ -2076,6 +2093,8 @@ Hardware found on https://www.ezviz.com/category/security-wifi-cameras
 Hardware found on https://www.ezviz.com/category/smart-home
 Harmony Remote Software
 Harmony Remotes
+HelloFax.com
+HelloSign.com
 Hilton Franchised Properties
 Hilton Third Party Applications
 HubSpot Android Mobile App
@@ -2712,6 +2731,7 @@ account-sprint.dynatracelabs.com
 account.acronis.com
 account.adobe.com
 account.booking.com
+account.box.com
 account.krisp.ai
 account.magento.com
 account.ui.com
@@ -2854,6 +2874,7 @@ api.atg.se
 api.au.frontegg.com
 api.binance.com
 api.blockchain.info
+api.box.com
 api.chainabuse-staging.com
 api.circle.com
 api.cloudflare.com
@@ -2876,6 +2897,7 @@ api.dmp.gouv.fr
 api.doppler.com
 api.drogas.lt
 api.drogas.lv
+api.dropbox.com
 api.dyson.at
 api.dyson.be
 api.dyson.ch
@@ -3032,10 +3054,12 @@ apis.mail.yahoo.com
 app*.hubspot.com
 app-*.easy4ipcloud.com
 app-insiders.marriott.com
+app.Reclaim.ai
 app.aikido.dev
 app.alasco.de
 app.basecamp.com
 app.blueskytravelvietnam.com
+app.box.com
 app.circle.com
 app.datacamp.com/certification
 app.datacamp.com/groups
@@ -3421,6 +3445,7 @@ clearme.com
 cleveland.gleague.nba.com
 clicks.koho.ca
 client-api.arkoselabs.com
+cloud.app.box.com
 cloud.coinbase.com
 cloud.digitalocean.com
 cloud.elastic.co
@@ -3563,6 +3588,8 @@ com.dd.doordash
 com.defi.wallet
 com.deribit
 com.dolap.android
+com.dropbox.android
+com.dropbox.dash
 com.dyson.mobile.android
 com.ebookers
 com.eero.android
@@ -3946,7 +3973,9 @@ cyberghost.app
 cyberghost.com
 cybersourcebouncebacks.visa.com
 cz.skodaauto.myskoda
+dash.ai
 dash.cloudflare.com
+dash.dropbox.com
 dashboard-p.xoswap.com
 dashboard.doppler.com
 dashboard.magic.link
@@ -4048,6 +4077,7 @@ digitalspecs.portofantwerpbruges.com
 direct-demo.currencycloud.com
 direct.playstation.com
 distribution-xml.booking.com
+dl.boxcloud.com
 dmm.bpost.be
 dns0.optus.net.au
 dns1.optus.net.au
@@ -4062,6 +4092,7 @@ docs.optimuscards.com
 docs.redoxengine.com
 docs.topperpay.com
 docs.uphold.com
+docsend.com
 docuflow.stg.inspectorio.com
 donations.livestream.com
 doordash.DoorDashConsumer
@@ -4075,6 +4106,7 @@ dream-qa.wnba.com
 dream-qa2.wnba.com
 dream.wnba.com
 drive.wolt.com
+dropbox.com/paper
 dwy.visa.com
 e-Commerce
 eaccounting.stage.vismaonline.com
@@ -7216,6 +7248,7 @@ hyatt.com
 hybrid-analysis.com
 hypermint.com
 iOS App
+iOS Box Mobile App
 iOS Playstation App
 iOS SDK
 iRobot API Endpoint
@@ -7490,6 +7523,7 @@ lynx.wnba.com
 m.airbnb.com
 m.badoo.com
 m.bild.de
+m.box.com
 m.chaturbate.com
 m.dana.id
 m.reddit.com
@@ -7788,6 +7822,7 @@ no-gw-cf.*.aws.indriverapp.com
 northernarizona-dev.gleague.nba.com
 northernarizona-qa.gleague.nba.com
 northernarizona.gleague.nba.com
+notes.services.box.com
 notification-front-web.tw.coupang.com
 notion.id
 notula-accpt.portofantwerpbruges.com
@@ -8274,8 +8309,10 @@ shop.wyndhamvacationownership.trisept.travel
 shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
+sign.dropbox.com
 signature-insights.api.cx.metamask.io
 signin.auth.welt.de
+signrequest.com
 signup.sendgrid.com
 simperium.com
 simplenote.com
@@ -8347,6 +8384,7 @@ speelgoedfolder.kruidvat.be
 speelgoedfolder.kruidvat.nl
 splunk-phantom-nlb.marriott.com
 sporza.be
+sr-staging-1.com
 sso-sprint.dynatracelabs.com
 sso.8x8.com
 sso.8x8pilot.com
@@ -8543,6 +8581,7 @@ university.marriott.com
 unreal-agents.8x8pilot.com
 updates.forescout.com
 upld.krisp.ai
+upload.box.com
 upsell.hyatt.com
 url-checker.indrive.com
 us.cloud.com
