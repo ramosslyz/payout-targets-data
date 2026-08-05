@@ -41,6 +41,7 @@
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -145,13 +146,6 @@ Leaked/compromised employee accounts *.here.com
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net
-*.kwsdose.be
-*.playuzleuven.be
-*.uzleuven.*
-*.contactallerg(y|ie).uzleuven.be
-*.mir.uzleuven.be
-*idp*.uzleuven.be
-*stag*.uzleuven.be
 *.optimuscards.com
 *.topperpay.com
 *.uphold.com
