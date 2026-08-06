@@ -2196,9 +2196,6 @@ Leaked Employee API Keys
 Leaked/compromised employee accounts *.here.com
 Leaked/Сompromised Employee accounts
 Lens Studio
-Liferay DXP 2024.Q1
-Liferay DXP 2025.Q1
-Liferay DXP 2026.Q1
 Lightroom "Edit suggestions" Tech Preview
 Lightroom AI Edits
 Lightroom Classic
@@ -2863,8 +2860,6 @@ api-sandbox.uphold.com
 api-sandbox.uphold.com/graphql
 api-staging.airtable.com
 api-uat-bugbounty.nonprod.syfe.com
-api-wallet-sandbox.venly.io
-api-wallet.venly.io
 api-wallet.web3auth.io
 api.23andme.com
 api.8x8.com
@@ -2873,7 +2868,6 @@ api.airbnb.com
 api.alasco.de
 api.amazonalexa.com/*
 api.anthropic.com
-api.arkane.network
 api.atg.se
 api.au.frontegg.com
 api.binance.com
@@ -3859,12 +3853,10 @@ configure.mini.de
 confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
-connect.arkane.network 
 connect.deezer.com
 connect.identity.stagaws.visma.com
 connect.posti.fi
 connect.secure.wellsfargo.com
-connect.venly.io
 console.anthropic.com
 console.circle.com
 console.ort-one-pingone.com
@@ -4620,6 +4612,7 @@ https://api.thefork.com
 https://api.thefork.io
 https://api.thetradedesk.com
 https://api.thousandeyes.com/
+https://api.toom.de
 https://api.tripadvisor.com
 https://api.unity.com
 https://api.us1.fga.dev/
@@ -6756,6 +6749,7 @@ https://ticket.multiplayer.classdojo.com
 https://tidal.com/
 https://tms.onecloud.harman.com
 https://tools-api.cryptocompare.com/
+https://toom.de
 https://torquemag.io
 https://tr.ee
 https://tracker.bugcrowd.com
@@ -7481,7 +7475,6 @@ login-dev.nba.com
 login-qa.nba.com
 login-sandbox.nba.com
 login-uat.nba.com
-login.arkane.network
 login.cm.com
 login.delen.be 
 login.delen.ch 
@@ -7498,7 +7491,6 @@ login.rei.com
 login.remitly.com
 login.starbucks.co.jp
 login.swapcard.com
-login.venly.io
 login.www.vaxvacationaccess.com
 logiq.logitech.io
 logistica.redelcom.cl
@@ -8669,7 +8661,6 @@ w1.uzleuven.be/random
 wallet-sandbox.uphold.com
 wallet.passkeys.foundation
 wallet.tg
-wallet.venly.io
 wallet.web3auth.io
 walletbot.me
 wallets.api.playstation.com

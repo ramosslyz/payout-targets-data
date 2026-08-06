@@ -324,9 +324,6 @@ docs.lansweeper.com
 login.lansweeper.com
 www.lansweeper.com
 www.libelle.nl
-Liferay DXP 2026.Q1
-Liferay DXP 2025.Q1
-Liferay DXP 2024.Q1
 www.marionnaud.fr
 Marionnaud France Android
 Marionnaud France iOS
@@ -729,14 +726,6 @@ Brand Sites
 myaccount.vtm.be
 vtm.be/vtmgo
 vtmgo.be
-api-wallet.venly.io
-api.arkane.network
-connect.arkane.network 
-connect.venly.io
-login.arkane.network
-login.venly.io
-wallet.venly.io
-api-wallet-sandbox.venly.io
 564141518
 accountsettings.connect.identity.stagaws.visma.com
 admin.stage.vismaonline.com
