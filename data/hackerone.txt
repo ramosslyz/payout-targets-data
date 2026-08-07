@@ -3903,30 +3903,14 @@ wordpress.com
 wpscan.com
 www.tumblr.com
 54.175.255.192/27
-Coinbase WaaS (Wallet as a Service)
 Other
-Web3 Smart Contracts
-api.coinbase.com
-api.custody.coinbase.com
-cloud.coinbase.com
-coinbase.com
 com.coinbase.android
-com.coinbase.wallite
 com.vilcsak.bitcoin2
-commerce.coinbase.com
-custody.coinbase.com
-http://coinbase.com
-https://base.org
 https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad
 https://github.com/coinbase/cb-mpc
 https://github.com/coinbase/cb-mpc-go
-institutional.coinbase.com
-international.coinbase.com
-nft.coinbase.com
 org.toshi
 org.toshi.distribution
-prime.coinbase.com
-pro.coinbase.com
 Slack Desktop Application
 api.slack.com
 app.slack.com

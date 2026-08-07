@@ -1869,7 +1869,6 @@ Coda Chrome Extension
 Codex Desktop
 CoinMarketCap Android app
 CoinMarketCap iOS app
-Coinbase WaaS (Wallet as a Service)
 ColdFusion
 ColorOS
 Community Management & Communications
@@ -2653,7 +2652,6 @@ Watsons Vietnam Android
 Watsons Vietnam iOS
 Web Playback SDK
 Web3 - Smart Contracts Scope
-Web3 Smart Contracts
 Whatnot: Shop, Sell, Connect
 Wickr Me Android
 Wickr Me Linux
@@ -2867,11 +2865,9 @@ api.cloudflare.com
 api.cloudways.com
 api.cm.com
 api.cmtelecom.com
-api.coinbase.com
 api.coindcx.com
 api.coinmarketcap.com
 api.creditkarma.com
-api.custody.coinbase.com
 api.deezer.com
 api.deriv.com
 api.developer.monespacesante.fr
@@ -3420,7 +3416,6 @@ cleveland.gleague.nba.com
 clicks.koho.ca
 client-api.arkoselabs.com
 cloud.app.box.com
-cloud.coinbase.com
 cloud.digitalocean.com
 cloud.elastic.co
 cloud.forescout.com
@@ -3452,7 +3447,6 @@ code.playcanvas.com
 code.yoti.com
 codeofconduct.visa.com
 codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
-coinbase.com
 coinmarketcap.com
 collections.portswigger.net
 com.3mosquitos.MercadoLibre
@@ -3547,7 +3541,6 @@ com.clearme.Clear
 com.clearme.clearapp
 com.cm.cashregister
 com.coinbase.android
-com.coinbase.wallite
 com.coinspot.app
 com.coloros.assistantscreen
 com.coloros.findmyphone
@@ -3813,7 +3806,6 @@ com.zhiliaoapp.musically
 com.zzkko
 comic-indies.pixiv.net
 comic.pixiv.net
-commerce.coinbase.com
 commercemarketplace.adobe.com
 community.8x8.com
 community.forescout.com
@@ -3912,7 +3904,6 @@ ct.deriv.com
 ct.ninjakiwi.com
 ctf.hacker101.com
 ctr.a.exodus.io
-custody.coinbase.com
 customer-sessions.arkoselabs.com
 customerevents.netflix.com
 customers.gitlab.com
@@ -4395,7 +4386,6 @@ http://auth.ripio.com
 http://backend-api.devicecloud.production.forescoutcloud.net/api/v1/settings
 http://bumba.global
 http://cloud.konghq.com
-http://coinbase.com
 http://collaboration.rei.com
 http://data-api.coindesk.com/
 http://datapod-1-druid-ingest.production.forescoutcloud.net/v1/upload
@@ -4866,7 +4856,6 @@ https://b2blsapi-a.usaa.com
 https://b2blsapi.usaa.com
 https://backblaze.com
 https://backend.ibotta.com/
-https://base.org
 https://basescan.org/address/0xf469eC9dEBf7F0adEBA4d1Db2FF5c70707bEeB30
 https://bb1.simplisafe.com
 https://bb2.simplisafe.com
@@ -7298,7 +7287,6 @@ innovation.superdrug.com
 insight2.tradepmr.com
 insights.deribit.com
 insights.judgeme.dev
-institutional.coinbase.com
 insuritly.com
 int.32red.com
 intensedebate.com
@@ -7309,7 +7297,6 @@ internal-api-lark-api.larksuite.com
 internal-api.larksuite.com
 internal-docs.netlify.com
 internal.netlify.com
-international.coinbase.com
 interseller.io
 investor.meesho.com
 investors.semrush.com
@@ -7759,7 +7746,6 @@ nexotrack-p.exodus.io
 nexotrack.exodus.io
 next.airbnb.com
 nextshipping.posti.fi
-nft.coinbase.com
 nft.io
 nha-cf.*.aws.indriverapp.com
 nha-gw-cf.*.aws.indriverapp.com
@@ -7985,11 +7971,9 @@ presentationtracking.netflix.com
 press.priceline.com
 priceline.com
 pricerunner.com
-prime.coinbase.com
 primevideo.com/*
 priority.eu-east-1.indriverapp.com
 pro-api.coinmarketcap.com
-pro.coinbase.com
 pro.coinmarketcap.com
 pro.doctolib.(fr|de|it) (see "Free features for healthcare professionals"))
 procuration.bpost.be
