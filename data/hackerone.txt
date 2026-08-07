@@ -3907,6 +3907,8 @@ Other
 com.coinbase.android
 com.vilcsak.bitcoin2
 https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad
+https://github.com/base/*
+https://github.com/coinbase/*
 https://github.com/coinbase/cb-mpc
 https://github.com/coinbase/cb-mpc-go
 org.toshi

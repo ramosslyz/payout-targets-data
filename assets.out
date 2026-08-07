@@ -153,6 +153,7 @@
 *.backend-capital.com
 *.bancoplata.mx
 *.baoliyun.com
+*.base.app
 *.base.org
 *.berush.com
 *.betfair.com
@@ -5223,6 +5224,7 @@ https://github.com/auth0/lock
 https://github.com/auth0/nextjs-auth0
 https://github.com/auth0/react-native-auth0
 https://github.com/backstage/backstage
+https://github.com/base/*
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/writebook
 https://github.com/brave/*, https://github.com/brave-intl/*
@@ -5254,6 +5256,7 @@ https://github.com/circlefin/sui-cctp
 https://github.com/cloudflare/vinext
 https://github.com/cloudflare/workerd
 https://github.com/cmdotcom
+https://github.com/coinbase/*
 https://github.com/coinbase/cb-mpc
 https://github.com/coinbase/cb-mpc-go
 https://github.com/digitalocean/do-agent
