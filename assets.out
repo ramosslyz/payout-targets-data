@@ -129,6 +129,7 @@
 *.app.asana.com
 *.app.personio-dev.com
 *.app.personio.com
+*.appmiral.com
 *.arlo.com (subdomains impacting production customer-facing services)
 *.arlocloud.com
 *.arloxcld.com
@@ -239,6 +240,8 @@
 *.cloudways.com
 *.clovesoftware-dev.com
 *.clovesoftware.com
+*.cm.com
+*.cmtelecom.com
 *.coda.io
 *.cognitiveperformer.com
 *.coinbase-corp.com
@@ -996,6 +999,7 @@
 *.thinkingphones.com
 *.thinkingphones.net
 *.threatdown.com
+*.ticketing.cm.com
 *.ticketnew.com
 *.tidalhifi.com
 *.tiktok.com
@@ -1208,6 +1212,7 @@
 1142114207
 1151746202
 1192506963
+1199521324
 1200391796
 121.200.237.36/29
 1215220850
@@ -1285,6 +1290,7 @@
 1552455423
 1570215232
 1579372261
+1579530451
 1591003012
 1592204907
 1634080733
@@ -2849,6 +2855,8 @@ api.chainabuse-staging.com
 api.circle.com
 api.cloudflare.com
 api.cloudways.com
+api.cm.com
+api.cmtelecom.com
 api.coindcx.com
 api.coinmarketcap.com
 api.creditkarma.com
@@ -3093,6 +3101,7 @@ app.whoop.com
 app.workbox.dk
 app3.rewire.to
 applause1.magisto.com
+appmiral.com
 apps-accpt.portofantwerp.com
 apps-accpt.portofantwerpbruges.com
 apps.8x8.com
@@ -3261,6 +3270,7 @@ bugcrowd-pam-###.oktapreview.com
 bugcrowd-pam-###.pam.oktapreview.com
 bugzilla.mozilla.org
 builder.hostinger.com
+building-blocks.com
 builds.soundtrackyourbrand.com
 bulten.watsons.com.tr
 business-resources.truecaller.com
@@ -3410,7 +3420,11 @@ cloud.malwarebytes.com
 cloud.threatdown.com
 cloud8.8x8.com
 cloudflareworkers.com
+cm.com/[locale]/app/*
+cm.com/[locale]/register
+cm.com/app/messagingtrial/
 cmapi.tw.coupang.com
+cmcom.atlassian.net
 cms.monespacesante.fr
 cms.nba.com
 co-cf.*.aws.indriverapp.com
@@ -3519,6 +3533,7 @@ com.cheaptickets
 com.clay.ios
 com.clearme.Clear
 com.clearme.clearapp
+com.cm.cashregister
 com.coinbase.android
 com.coinspot.app
 com.coloros.assistantscreen
@@ -3721,6 +3736,7 @@ com.stripe.android.dashboard
 com.superhuman.mail
 com.superhuman.mail 
 com.syfe
+com.ticketflow.ticketscanner
 com.tiktok.tv
 com.tiktokshop.seller
 com.tinder
@@ -3958,6 +3974,7 @@ delen/id1064839588
 delivery-webview.indrive.com
 demo.arkoselabs.com
 demo.fareharbor.com
+demo.globalticket.com/*
 demo.plaid.com
 depliantdejouets.kruidvat.be
 deriv.partners
@@ -4545,8 +4562,6 @@ https://api.requirementyogi.com
 https://api.ring.com/*
 https://api.riskrecon.com
 https://api.riskrecon.eu
-https://api.rx.originenergy.com.au/v1/gateway/schema/graphql
-https://api.rx.originenergy.com.au/v1/gateway/schema/kraken/graphql
 https://api.rx.originenergy.com.au/v1/lpg/graphql
 https://api.shop.ua.com/graphql
 https://api.simnext.bullish-test.com
@@ -5229,6 +5244,7 @@ https://github.com/circlefin/stellar-cctp
 https://github.com/circlefin/sui-cctp
 https://github.com/cloudflare/vinext
 https://github.com/cloudflare/workerd
+https://github.com/cmdotcom
 https://github.com/coinbase/*
 https://github.com/coinbase/cb-mpc
 https://github.com/coinbase/cb-mpc-go
@@ -7397,6 +7413,7 @@ login-dev.nba.com
 login-qa.nba.com
 login-sandbox.nba.com
 login-uat.nba.com
+login.cm.com
 login.delen.be 
 login.delen.ch 
 login.delen.lu 
@@ -8703,6 +8720,7 @@ www.cheaptickets.com
 www.checkfelix.com
 www.clearme.com
 www.cloudways.com
+www.cm.com
 www.coinspot.com.au
 www.compass.com
 www.counter-strike.net
