@@ -125,7 +125,6 @@
 *.assurancewireless.com
 *.atairbnb.com
 *.atg.se
-*.atlastunnel.com
 *.atspotify.com
 *.audible.(TLD)
 *.audicagame.com
@@ -951,8 +950,6 @@
 *.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
-*.sqills.com
-*.sqills.team
 *.srvcs.tumblr.com
 *.stadtwien.onmicrosoft.com
 *.stag.tomorrowland.com
@@ -1179,8 +1176,6 @@
 *stag*.uzleuven.be
 *test*.bykea.net
 3rd party services hosted at *.sophos.com
-Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
-Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 GenAI Apps under *.amazon.*
 Leaked/compromised employee accounts *.here.com
 Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
