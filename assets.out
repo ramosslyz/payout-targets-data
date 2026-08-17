@@ -141,6 +141,7 @@
 *.assurancewireless.com
 *.atairbnb.com
 *.atg.se
+*.atlastunnel.com
 *.atspotify.com
 *.audible.(TLD)
 *.audicagame.com
@@ -1723,9 +1724,11 @@ Any FIS asset is in scope
 Any Other Applications found here: https://security-en.alipay.com/home
 Any Other Sophos Product or Service
 Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
+Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
 Any host/web property verified to be owned by Twilio et al.
 Any host/web property/mobile app verified to be owned by Indeed
+Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 Any other Epic games owned asset not listed in the out of scope section
 Any other Malwarebytes asset
 Any other ThreatDown asset
@@ -2012,6 +2015,7 @@ Firefox Homepage Newtab
 Firmware
 Firmware: Mali Command Stream Frontend (CSF) Firmware
 Fleet Server
+Forge Platform
 Forge of Empires
 FortniteClient-Android-Shipping-arm64-es2.apk
 FortniteClient-Win64-Shipping.exe
@@ -2059,6 +2063,7 @@ GlotPress
 Grammarly Browser Extensions
 Grammarly Desktop for Windows
 Grammarly Desktop for macOS
+GraphQL API (bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql)
 Grepolis
 Gutenberg
 H5G
@@ -2327,6 +2332,7 @@ Opsgenie (Android)
 Opsgenie (IoS)
 Other
 Other (Misc)
+Other - (all other Atlassian targets)
 Other APK Assets
 Other Acronis Domains
 Other Acronis executables
@@ -4480,8 +4486,6 @@ http://www.underarmour.com.sg
 http://www.whynot.com/
 https://(navigate|engage|checkout|internal|cached-api|api).shoppingapp.decathlon.com/*
 https://*-prod.arlo.com
-https://*nsa-idr.cms.gov
-https://*qpp.cms.gov/
 https://10bis.co.il
 https://1win.com/betting
 https://1win.com/casino
@@ -4506,6 +4510,8 @@ https://accounts.welcomesoftware.com/
 https://acorns.com/
 https://addons.mozilla.org/en-US/firefox/addon/pinterest/
 https://admin-roundups.moneyboxapp.org
+https://admin.atlassian.com/
+https://admin.atlassian.com/atlassian-guard
 https://admin.lastpass.com
 https://admin.moneyboxapp.org
 https://admin.ring.com/*
@@ -4520,7 +4526,6 @@ https://aiven.io/docs/products/metrics/concepts/metrics-overview
 https://album.link
 https://alumni-friends.monash.edu
 https://analytics-admin.prosus.com
-https://analytics.neogov.com
 https://analytics.welcomesoftware.com/
 https://answers.irobot.com
 https://api-a.usaa.com
@@ -4568,7 +4573,6 @@ https://api.mafshoppingmalls.com
 https://api.mafshoppingmalls.com/
 https://api.moneyboxapp.com
 https://api.myntra.com
-https://api.neogov.com
 https://api.openai.com
 https://api.optimizely.com/
 https://api.paddle.com
@@ -4614,7 +4618,6 @@ https://apigw.prod.quintoandar.com.br/sales-flow-api/*
 https://apis.indeed.com/graphql
 https://apis.onecloud.harman.com
 https://app-staging.getmoneytree.com
-https://app.agency360.com
 https://app.asana.com
 https://app.aurory.io
 https://app.bitgo-test.com
@@ -4762,6 +4765,8 @@ https://apps.apple.com/us/app/chipotle-fresh-food/id327228455
 https://apps.apple.com/us/app/classdojo/id552602056
 https://apps.apple.com/us/app/coindesk-crypto-bitcoin-news/id6502816903
 https://apps.apple.com/us/app/compass-real-estate-homes/id692766504
+https://apps.apple.com/us/app/confluence-cloud/id1006971684
+https://apps.apple.com/us/app/confluence-server/id1288365159
 https://apps.apple.com/us/app/ecwid-ecommerce/id626731456
 https://apps.apple.com/us/app/exodus-crypto-bitcoin-wallet/id1414384820
 https://apps.apple.com/us/app/fishbowl-professional-network/id1005070636
@@ -4770,11 +4775,14 @@ https://apps.apple.com/us/app/hhc-24-7/id6741442288
 https://apps.apple.com/us/app/id583009522
 https://apps.apple.com/us/app/indeed-connect-for-employers/id6443822731
 https://apps.apple.com/us/app/indeed-job-search/id309735670
+https://apps.apple.com/us/app/jira-cloud-by-atlassian/id1006972087
+https://apps.apple.com/us/app/jira-server/id1405353949
 https://apps.apple.com/us/app/jora-jobs-job-search-app/id917565665	
 https://apps.apple.com/us/app/keeperchat/id1273303729?mt=12
 https://apps.apple.com/us/app/kucoin-buy-bitcoin-crypto/id1378956601?mt=8
 https://apps.apple.com/us/app/lastpass-authenticator/id1079110004
 https://apps.apple.com/us/app/lastpass-password-manager/id324613447
+https://apps.apple.com/us/app/loom-screen-recorder/id1474480829
 https://apps.apple.com/us/app/lululemon/id920098546
 https://apps.apple.com/us/app/mattermost/id1257222717
 https://apps.apple.com/us/app/mint-mobile/id1295303441
@@ -4869,6 +4877,7 @@ https://billingonline.post.ch/OnlinePayment/Web/v1/BOI
 https://billingserver.pinelabs.com
 https://binance.tr
 https://bistro.sk
+https://bitbucket.org
 https://bitgo.ae/
 https://bitso.com
 https://blablacardaily.com
@@ -4927,7 +4936,6 @@ https://cdn-app.welcomesoftware.com/
 https://cdn-pci.optimizely.com/
 https://cdn-store.opera-api.com
 https://cdn.myopenpass.com
-https://cdn.neogov.com
 https://cdn.optimizely.com/
 https://cdn.unicdn.net/apk/UnibetCasino.apk
 https://central.sophos.com
@@ -4938,6 +4946,7 @@ https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeo
 https://chrome.google.com/webstore/detail/ibotta-browser-extension/mfaedmjlefifhnhpgipjjiiekchaimpk?hl=en-US
 https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en
 https://chromewebstore.google.com/detail/indeed-recruiter-extensio/kiodpphbmnmcmnfgpnmkkhmkllnlflef
+https://chromewebstore.google.com/detail/loom-%E2%80%93-screen-recorder-sc/liecbddmkiiihnedobmlmillhodjkdmb?hl=en-US&pli=1
 https://cicforms.mioot.com/
 https://citycentredeira.com/
 https://clearpay.co.uk
@@ -4951,7 +4960,6 @@ https://cloud.unity.com
 https://cloudinary.com/console
 https://cms.adx.opera.com
 https://cms.mobile.monash/ 
-https://cmsnationaltrainingprogram.cms.gov/
 https://cockpit-eu-west-2.outscale.com/
 https://collabora.stg.inspectorio.com
 https://collections.monash.edu/
@@ -4964,6 +4972,7 @@ https://community.oppo.com/
 https://community.personio.com
 https://communityin.oppo.com/
 https://compulsoryunits.monash.edu/
+https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
 https://confluence.requirementyogi.com
 https://connect.monash.edu
 https://connect.paymaya.com/
@@ -4995,7 +5004,6 @@ https://crypto.com/exchange
 https://crypto.com/nft
 https://crypto.com/price
 https://cryptowallet.opera-api.com
-https://csscoperations.com/
 https://cstg-integ.uidapi.com
 https://customer-api.datadome.co
 https://customer-portal.paddle.com
@@ -5115,7 +5123,6 @@ https://edge.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|c
 https://edgeacademy.thetradedesk.com
 https://edgeapis.onecloud.harman.com
 https://education.cfr.org/
-https://eforms.neogov.com
 https://eim.eu-west-2.outscale.com
 https://elementor.careers
 https://emistores.pinelabs.com
@@ -5139,8 +5146,6 @@ https://etherscan.io/token/0xfe18ae03741a5b84e39c295ac9c856ed7991c38e
 https://etoropartners.com
 https://etorox.com
 https://etsypayments.com
-https://eua.cms.gov/
-https://eua.cms.gov/efi
 https://events.1password.com/api/
 https://events.onecloud.harman.com
 https://evigilation.monash.edu
@@ -5445,7 +5450,6 @@ https://hg.easy4ipcloud.com
 https://hipaa.staging.gearset.com/
 https://home.classdojo.com
 https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
-https://hr.neogov.com
 https://hr.prosus.com/
 https://hub.immutable.com/
 https://hug.personio.com
@@ -5453,6 +5457,7 @@ https://hytale.com/
 https://hytale.dev/
 https://ibconnect.internetbrands.com
 https://icu.eu-west-2.outscale.com
+https://id.atlassian.com/login
 https://id.recordedfuture.com
 https://id.unity.com
 https://identity.bugcrowd.com/
@@ -5543,7 +5548,6 @@ https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client
 https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/zISrnnxfS19jUJTUAtnFaTUkAJ27r8mE
 https://lbu.eu-west-2.outscale.com
 https://leaflet-map.bykea.net
-https://learn.neogov.com
 https://learn.newrelic.com/
 https://legacy-blockexplorer.electroneum.com
 https://lensstudio.snapchat.com/api/
@@ -5566,7 +5570,6 @@ https://liveassist23.usaa.com
 https://liveassist24.usaa.com
 https://login.aufbaubank.de
 https://login.medscape.com
-https://login.neogov.com
 https://login.paddle.com
 https://login.teamviewer.com
 https://lounge.pinelabs.com/loungeui/login
@@ -5587,6 +5590,7 @@ https://mapi.usaa.com/
 https://maps.bykea.net
 https://maps.vistarmedia.com
 https://market.android.com/details?id=com.myfitnesspal.android&rdid=com.myfitnesspal.android
+https://marketplace.atlassian.com
 https://marketplace.atlassian.com/apps/1143291390/sprintpoker-planning-poker-async-estimation?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1210722/confluence-source-editor?hosting=server
 https://marketplace.atlassian.com/apps/1210725/data-generator-for-jira?hosting=server
@@ -6186,6 +6190,7 @@ https://master.servicecentre.digitalservicing-np.lfscnp.com/
 https://matlab.mathworks.com/
 https://mattermost.com/apps/
 https://mcp-server.zomato.com/mcp
+https://mcp.atlassian.com
 https://mcp.opensea.io
 https://mcp.recordedfuture.com
 https://mcs.arlo.com
@@ -6283,7 +6288,6 @@ https://offer.tidal.com/download
 https://ofp.adx.opera.com
 https://ogws.optusnet.com.au/
 https://oma.posti.fi/
-https://onboard.neogov.com
 https://one-sit.uat.proptrack.com/
 https://one.newrelic.com
 https://oneview.threatdownstage.com
@@ -6342,7 +6346,6 @@ https://payoutapi.maya.ph/
 https://pci.kindredgroup.com
 https://pentest-app.onetrust.com/
 https://peopleview.naspers.com
-https://performance.neogov.com
 https://performancemarketing.mastercard.com/portal/
 https://pets.webmd.com
 https://pg.paymaya.com
@@ -6391,6 +6394,10 @@ https://play.google.com/store/apps/details?id=com.afterpaymobile.uk
 https://play.google.com/store/apps/details?id=com.afterpaymobile.us&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.asana.app&hl=en
 https://play.google.com/store/apps/details?id=com.aswat.carrefouruae
+https://play.google.com/store/apps/details?id=com.atlassian.android.confluence.core&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.atlassian.android.jira.core&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.atlassian.confluence.server
+https://play.google.com/store/apps/details?id=com.atlassian.jira.server&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.auth0.guardian&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.backblaze.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.belongi.citycenter&hl=en_IN
@@ -6442,6 +6449,7 @@ https://play.google.com/store/apps/details?id=com.lastpass.authenticator&hl=en_U
 https://play.google.com/store/apps/details?id=com.lastpass.lpandroid
 https://play.google.com/store/apps/details?id=com.lime.supply&hl=en_US
 https://play.google.com/store/apps/details?id=com.limebike
+https://play.google.com/store/apps/details?id=com.loom.android&hl=en_US&pli=1
 https://play.google.com/store/apps/details?id=com.maf.communities&hl=en-US
 https://play.google.com/store/apps/details?id=com.maf.share&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.maf.thatandroid
@@ -6551,7 +6559,6 @@ https://portal.afterpay.com
 https://portal.anz.kinergysolutions.com
 https://portal.clearpay.co.uk
 https://portal.clearpay.com
-https://portal.cms.gov/
 https://portal.exoscale.com/
 https://portal.iFoodpago.com.br
 https://portal.originzero.com.au
@@ -6563,7 +6570,6 @@ https://portalapi.eu.clearpay.co.uk
 https://portalapi.us.afterpay.com
 https://portalv2.lh360.com
 https://portfolio-manager-sit.uat.proptrack.com/
-https://powerdms.com/
 https://powerpak.com
 https://pprd.cybermalveillance.gouv.fr
 https://preprod-datahub.xelians.fr/
@@ -6628,13 +6634,9 @@ https://secure-signals-jssdk-integ.uidapi.com
 https://secure-signals-react-integ.uidapi.com
 https://secure-signals-srvonly-integ.uidapi.com
 https://secure-test.six-swiss-exchange.com/
-https://secure.cuehit.net
-https://secure.neogov.com
 https://secure.newegg.com
 https://secure.thefork.com
 https://securemail.usaa.com
-https://securesignin.neogov.com
-https://securesignin.powerdms.com/
 https://securitytrails.com
 https://seekcdn.com
 https://segment.com/docs/connections/sources/
@@ -6696,6 +6698,7 @@ https://staging.claytonapp.com/api
 https://staging.gearset.com/
 https://staging.luno.com.ng
 https://staging.luno.com/
+https://start.atlassian.com
 https://static-images.ifood.com.br
 https://static.mgm.mo
 https://static.usaa.com
@@ -6718,6 +6721,7 @@ https://superbet.rs
 https://supplier-connect.otto.de
 https://supplier.underarmour.com/
 https://supplier.viator.com/
+https://support.atlassian.com/rovo/docs/use-rovo-dev-cli/
 https://support.lastpass.com
 https://support.moovitapp.com/hc/en-us/articles/11389054527122-WayFinder-Augmented-Reality-helper-to-find-your-stop-iPhone-only
 https://support.newrelic.com/
@@ -6800,7 +6804,6 @@ https://ultramobile.com
 https://umiloans.com.au
 https://underarmour.co.kr
 https://underarmournext.com/
-https://unified.neogov.com
 https://unihub.monash.edu/
 https://unity.com/download
 https://unity3d.com/get-unity/download/archive
@@ -6877,6 +6880,24 @@ https://www.amazonpay.in/*
 https://www.arlo.com
 https://www.arrowfilms.com
 https://www.assurancewireless.com
+https://www.atlassian.com/enterprise/data-center/bitbucket
+https://www.atlassian.com/enterprise/data-center/confluence
+https://www.atlassian.com/enterprise/data-center/crowd
+https://www.atlassian.com/enterprise/data-center/jira
+https://www.atlassian.com/enterprise/data-center/jira/service-management
+https://www.atlassian.com/software/atlas
+https://www.atlassian.com/software/bamboo
+https://www.atlassian.com/software/compass
+https://www.atlassian.com/software/confluence
+https://www.atlassian.com/software/confluence/premium
+https://www.atlassian.com/software/crucible
+https://www.atlassian.com/software/fisheye
+https://www.atlassian.com/software/jira
+https://www.atlassian.com/software/jira/product-discovery
+https://www.atlassian.com/software/jira/service-management
+https://www.atlassian.com/software/jira/work-management
+https://www.atlassian.com/software/rovo
+https://www.atlassian.com/software/rovo-dev
 https://www.authy.com/download/
 https://www.binance.com/
 https://www.binance.us/
@@ -6905,7 +6926,6 @@ https://www.citycentremalls.com/en
 https://www.classdojo.com
 https://www.classeaudio.com
 https://www.cloudvector.com/
-https://www.cms.gov/
 https://www.coindesk.com/
 https://www.coinspot.com.au/v2/api
 https://www.coloros.com/
@@ -6954,7 +6974,6 @@ https://www.glassdoor.com/member/*
 https://www.glassdoor.com/mz-survey/*
 https://www.globalacademycme.com
 https://www.gohenry.com/
-https://www.governmentjobs.com
 https://www.homesupport.irobot.com
 https://www.hostgator.com.br/
 https://www.hostgator.com/
@@ -6991,6 +7010,8 @@ https://www.letspaylater.ph
 https://www.li.me/
 https://www.logitech.com/blog
 https://www.lookfantastic.com/
+https://www.loom.com/
+https://www.loom.com/download
 https://www.lululemon.co.jp/
 https://www.lululemon.co.nz/
 https://www.lululemon.co.uk/
@@ -7039,6 +7060,7 @@ https://www.npmjs.com/package/@exodus/errors
 https://www.npmjs.com/package/@exodus/keychain
 https://www.npmjs.com/package/@exodus/safe-string
 https://www.npmjs.com/package/@exodus/sentry-client
+https://www.npmjs.com/package/@forge/cli	
 https://www.npmjs.com/package/@privy-io/cross-app-connect
 https://www.npmjs.com/package/@privy-io/cross-app-provider
 https://www.npmjs.com/package/@privy-io/expo
@@ -7114,6 +7136,7 @@ https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
 https://www.sophos.com/en-us/products/mobile-control/free-trial
 https://www.sophos.com/en-us/products/next-gen-firewall
+https://www.sourcetreeapp.com/
 https://www.tagesanzeiger.ch
 https://www.teamviewer.com/en/products/teamviewer/
 https://www.thecurrent.com
