@@ -976,6 +976,7 @@ https://ebctest.cybersource.com/ums
 https://ebctest.cybersource.com/vdm
 https://ebctest.cybersource.com/vts
 https://solutions.visaacceptance.com/subscription
+https://usa.visa.com/gateway/api
 https://www.myvisacardportal.com/enbd/en_ae/landing/
 https://www.visa.com.az/az_az/account/registration
 images.demand.cybersource.com
@@ -1031,6 +1032,7 @@ www.visa.co.nz
 www.visa.co.th
 www.visa.co.uk
 www.visa.co.ve
+www.visa.com
 www.visa.com.az
 www.visa.com.bo
 www.visa.com.br
@@ -2686,7 +2688,6 @@ com.Hyatt
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
 hyatt.com
-jira.hyattdev.com
 login.www.vaxvacationaccess.com
 meetings.hyatt.com
 mobileapp.hyatt.com
