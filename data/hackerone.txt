@@ -998,7 +998,6 @@ test.payworks.io
 testbank.xs2a.com
 usa.visa.com
 vasdemos.visa.com
-vdam.visa.com
 vgov.catalogue.digitalcontrolroom.com
 visa.co.za
 visa.com.au
@@ -1058,7 +1057,6 @@ www.visa.com.vn
 www.visa.cz
 www.visa.de
 www.visa.dk
-www.visa.dm
 www.visa.ee
 www.visa.es
 www.visa.fi
