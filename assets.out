@@ -48,7 +48,6 @@
 *.account.here.com
 *.account.roon.app
 *.accounts.realestate.com.au
-*.acrobat.adobe.com
 *.acronis.com
 *.acronis.work
 *.ad.nl
@@ -579,7 +578,6 @@
 *.latitudepay.com.au
 *.lemonsqueezy.com
 *.libelle.nl
-*.lightroom.adobe.com
 *.link.co
 *.linktree-extensions.com
 *.livestream.com
@@ -1675,11 +1673,6 @@ ASN: AS62876
 AWS Infrastructure
 AWS infrastructure and services in use by Wise (eg: S3 buckets)
 AXIS OS
-Acrobat AI Assistant
-Acrobat Create Podcast
-Acrobat Create Presentations
-Acrobat PDF Spaces
-Acrobat Reader
 Acronis Agent
 Acronis Cloud Manager
 Acronis Cyber Infrastructure
@@ -1688,11 +1681,8 @@ Acronis DeviceLock DLP
 Acronis Snap Deploy
 Acronis True Image (formerly Acronis Cyber Protect Home Office)
 Additional Loyalty scope included under resources tab
-Adobe Acrobat Reader DC
-Adobe Commerce, Commerce B2B and Commerce Open Source
 AdwCleaner
 Affiliates or entities such as recently acquired companies
-After Effects
 Agent SDKs
 Agentic Tools
 Aiven for Apache Kafka
@@ -1722,7 +1712,6 @@ Android App
 Android Box Mobile App
 Android Playstation App
 Android SDK
-Animate
 Anker
 Any Applications under https://www.expressvpn.com/latest
 Any FIS asset is in scope
@@ -1786,7 +1775,6 @@ Atlas Charts
 Atlas Data Federation
 Atlas IAM
 Atlas Payments/Billing
-Audition
 Authentication & ATO
 Backend endpoint: bug-bounty-be.glean.com
 Backend/Non-Game
@@ -1800,7 +1788,6 @@ Beats - Osquerybeat
 Beats - Packetbeat
 Beats - Winlogbeat
 Beeper
-Behance Freelance Job creation
 Binance Desktop Application
 Binance Mobile Application for Android
 Binance Mobile Application for iOS
@@ -1819,7 +1806,6 @@ Braintree SDK
 Brand Sites
 Brave Browser Desktop
 Brave websites
-Bridge
 Broken Link
 Browser Isolation
 BrowserGuard (Firefox/Chrome/Safari browser extension)
@@ -1831,7 +1817,6 @@ Burp Suite Pro/Community
 C# SDK
 C100447517
 C103149579
-C2PA Tool
 CDNJS
 CUDA Driver APIs
 CUDA Libraries
@@ -1844,7 +1829,6 @@ Capital One Shopping Browser Extension
 Capture the Flag
 Career Scout
 Cellular Network Auth Bypass via Web/Mobile App
-Character Animator
 Chime
 China Network
 Circle Cameras
@@ -1888,7 +1872,6 @@ Coda Chrome Extension
 Codex Desktop
 CoinMarketCap Android app
 CoinMarketCap iOS app
-ColdFusion
 ColorOS
 Community Management & Communications
 Compass
@@ -1942,10 +1925,8 @@ Device: JBL PartyBox Encore 2
 Device: JBL Tour One M3
 Dia Assistant
 Dia Browser
-Dimension
 Direct Contracts
 Discovered Leaked Credentials
-Dreamweaver
 Drivers
 Drogas Latvia Android
 Drogas Latvia iOS
@@ -1981,7 +1962,6 @@ EpicOnlineServices
 Exness Investor
 Exness Trade: Online Trading
 Exodus Desktop Wallet
-Express AI Assistant
 ExpressVPN APIs
 ExpressVPN Router
 ExpressVPN VPN servers
@@ -2016,8 +1996,6 @@ Finicity Decisioning
 Finicity- Data Services
 Finicity- Open Banking Payment History application
 FireTV
-Firefly Image Models
-Firefly Video Model
 Firefox Homepage Newtab
 Firmware
 Firmware: Mali Command Stream Frontend (CSF) Firmware
@@ -2032,7 +2010,6 @@ FortniteLauncher-Win64-Shipping_EAC.exe
 FortniteLauncher.exe
 Fortress Hong Kong Android
 Fortress Hong Kong iOS
-Framemaker
 Freshcaller-iOS-App
 Freshchat-iOS-App
 Freshdesk-iOS-App
@@ -2116,11 +2093,8 @@ IT Infrastructure
 Ibotta App Data & Memory
 Id1406825640
 Identity Services
-Illustrator
 Images
 In Scope - Points only
-InCopy
-InDesign
 Indoor Cam
 Infrastructure & Internal Apps/Services
 Insomnia CLI (inso)
@@ -2199,9 +2173,6 @@ Leaked Employee API Keys
 Leaked/compromised employee accounts *.here.com
 Leaked/Сompromised Employee accounts
 Lens Studio
-Lightroom "Edit suggestions" Tech Preview
-Lightroom AI Edits
-Lightroom Classic
 Livestream software (Producer, Studio)
 Load Balancing
 Localized airbnb sites listed at the link below:
@@ -2256,7 +2227,6 @@ Marionnaud Slovakia Android
 Marionnaud Slovakia iOS
 Marionnaud Switzerland Android
 Marionnaud Switzerland iOS
-Media Encoder
 Megaphone
 Merchant Portal
 MetaMask Browser Extension
@@ -2370,15 +2340,11 @@ Password Sync for macOS
 PayPal SDK
 Peephole Cam
 Penny
-Photoshop
-Photoshop AI Assistant
 PlayStation 4
 PlayStation 5
 Podsights
 Point Smart
 Porsche-B
-Premiere Pro
-Premiere Rush
 Presentation Remotes
 Primary Assets
 Privilege Escalation
@@ -2490,7 +2456,6 @@ Starbucks Japan iOS
 Steam Client
 Steam Servers
 Stickup Cam
-Stock AI Studio
 Stream
 Streamlabs Desktop Application PC/MAC
 Stripe Apps
@@ -2526,7 +2491,6 @@ Subdomain Takeover (SDTO)
 Subdomain Takeover - konghq.com
 Subdomain takeover
 Subdomain takeover at *asana.biz
-Substance 3D
 Superdrug Android
 Superdrug iOS
 Superhuman Go
@@ -2696,7 +2660,6 @@ Workstation MFA (WMFA)
 Wrapped
 Wyze Cam V3
 X Pixel Helper (Chrome Extension)
-XD
 Yahoo Calendar
 Yahoo Finance
 Yahoo HK News
@@ -2740,12 +2703,10 @@ access.ripe.net
 accommodations.booking.com
 account-sprint.dynatracelabs.com
 account.acronis.com
-account.adobe.com
 account.booking.com
 account.box.com
 account.deezer.com
 account.krisp.ai
-account.magento.com
 account.ui.com
 accountoffers.wellsfargo.com
 accounts.cloud.com
@@ -2789,8 +2750,6 @@ admincms.monespacesante.fr
 adminstore.developer.monespacesante.fr
 adminstore.monespacesante.fr
 admintool.lime.bike
-adobe.fresco.ios
-adobeid-na1.services.adobe.com
 ads-partners.tw.coupang.com
 ads.reddit.com
 ads.snapchat.com
@@ -3195,7 +3154,6 @@ auth.ort-one-pingone.com
 auth.preprod.monespacesante.fr
 auth.privy.io
 auth.remitly.com
-auth.services.adobe.com
 auth.skypicker.com
 auth.truelayer[-sandbox].com
 auth0.com	
@@ -3493,13 +3451,6 @@ com.abercrombie.abercrombie
 com.abercrombie.hollister
 com.acronis.abc
 com.acronis.acronistrueimage
-com.adobe.Adobe-Reader
-com.adobe.PSMobile
-com.adobe.lrmobile
-com.adobe.reader
-com.adobe.scan.android
-com.adobe.scan.ios
-com.adobe.workfront
 com.affirm.central.audit
 com.affirm.internal.hackerone
 com.airbnb.android
@@ -3608,7 +3559,6 @@ com.fanduel.sportsbook
 com.finshell.finance
 com.finshell.wallet
 com.fintech.life
-com.frame.FrameIO
 com.freshchat.agent.android
 com.freshdesk.helpdesk
 com.freshservice.helpdesk
@@ -3670,7 +3620,6 @@ com.hypr.one
 com.imdbtv.livingroom
 com.immediasemi.android.blink
 com.instacart.client
-com.iphone.workfront
 com.jellybtn.boardkings
 com.jellybtn.cashkingmobile
 com.katanlabs.bubblepop
@@ -3844,7 +3793,6 @@ com.zhiliaoapp.musically
 com.zzkko
 comic-indies.pixiv.net
 comic.pixiv.net
-commercemarketplace.adobe.com
 community.8x8.com
 community.forescout.com
 community.logitech.com
@@ -3899,7 +3847,6 @@ content-service-live-testing.bfda.live.use1a.on.epicgames.com
 content-service.bfda.live.use1a.on.epicgames.com
 contentportal.marriott.com
 contentportalauth.marriott.com
-contributor.stock.adobe.com
 converse.8x8.com
 core-api-aws-dev.nba.com
 core-api-aws-prod-east1.nba.com
@@ -4245,7 +4192,6 @@ fintech-aml-kyc-tw.coupang.com
 fire-dev.wnba.com
 fire-qa.wnba.com
 fire.wnba.com
-firefly.adobe.com
 firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 fit.nba.com
@@ -4261,7 +4207,6 @@ folder.kruidvat.be
 folder.kruidvat.nl
 folder.trekpleister.nl
 folders.iciparisxl.nl
-fonts.adobe.com
 forms.cybersource.com
 forms.mobilevikings.be
 fortnite.com
@@ -4450,14 +4395,12 @@ http://datapod-1-druid-query.production.forescoutcloud.net/v3/matrixoverview
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/overlappingzones
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/zonetozone
 http://falcon-bug-bounty-flag-pgsql-dev-sandbox.e.aivencloud.com/
-http://federatedid-na1.services.adobe.com
 http://github.com/circlefin/noble-cctp
 http://github.com/cloudflare
 http://greenchannel.payoneer.com.cn/gcportal
 http://help.twilio.com
 http://ibotta.com
 http://ibt-test.six-group.com
-http://ims-na1.adobelogin.com
 http://itunes.apple.com/us/app/ibotta/id559887125
 http://logstash-props.devicecloud.production.forescoutcloud.net/api/v1/properties
 http://market.android.com/details?id=com.ibotta.android
@@ -5385,8 +5328,10 @@ https://github.com/kubernetes/test-infra
 https://github.com/kubernetes/utils
 https://github.com/kubernetes/website
 https://github.com/matomo-org
+https://github.com/matomo-org/developer-documentation
 https://github.com/matomo-org/docker
 https://github.com/matomo-org/matomo
+https://github.com/matomo-org/tracker-proxy
 https://github.com/mattermost/mattermost-plugin-ai
 https://github.com/mattermost/mattermost-plugin-boards
 https://github.com/mattermost/mattermost-plugin-calls
@@ -7447,7 +7392,6 @@ larksuite.com
 launch.playcanvas.com
 launchpad.37signals.com
 lawmanager.marriott.com
-learningmanagerstage4.adobe.com
 lego.me
 leonard.vinci.com
 libNVVM API
@@ -7537,7 +7481,6 @@ m.tw.coupang.com
 mUSD Stablecoin
 maestro.8x8.cloud
 magazine.kruidvat.be
-magento.com
 magisto.com,www.magisto.com
 mail-builder.infomaniak.com/
 mail.hostinger.com/v2
@@ -7794,7 +7737,6 @@ nbaintl.nba.com
 nbameeting.nba.com
 neoket.net
 net.bitstamp.app
-net.s2stagehance.com
 net.supertreat.solitaire
 net.wooga.junes_journey_hidden_object_mystery_game
 net.wooga.switchcraft.googleplay
@@ -7804,7 +7746,6 @@ netlify-rum.netlify.app
 netposti.fi
 networkguard.com
 new-order.eu-east-1.indriverapp.com
-new.express.adobe.com
 new.reddit.com
 new.www.vaxvacationaccess.com
 news.remitly.com
@@ -8038,9 +7979,7 @@ phlonline.vfsevisa.cn
 phlportal.vfsevisa.cn
 phone-validation.taxi.booking.com
 photo.kruidvat.be
-photos.adobe.io
 photoservice.stage.vismaonline.com
-photoshop.adobe.com
 picc.posti.fi
 pigeon.swiftfinancial.com
 pipe.deezer.com
@@ -8080,7 +8019,6 @@ portal.polygon.technology
 portal.taxi.booking.com
 portalinmobiliario.cl
 portalinmobiliario.com
-portfolio.ccpsx.com
 portland-dev.wnba.com
 portland-qa.wnba.com
 portland.wnba.com
@@ -8234,7 +8172,6 @@ remitlywallet.com
 remitresearch.com
 reno-dev.gleague.nba.com
 reno.gleague.nba.com
-repo.magento.com
 report-html-sight.stg.inspectorio.com
 report.voi.com
 res.blueskytours.globalbookingsolutions.com
@@ -8504,7 +8441,6 @@ status.delen.be
 status.larksuite.com
 status.uphold.com
 steamcommunity.com
-stock.adobe.com
 storage*.infomaniak.com
 store-display.tw.coupang.com
 store.23andme.org
