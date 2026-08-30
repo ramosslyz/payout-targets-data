@@ -23,8 +23,10 @@
 *.1debit.com
 *.3lateral.com
 *.5nine.com
+*.8x8.cloud
 *.8x8.co.uk
 *.8x8.com
+*.8x8.engineering
 *.8x8.id
 *.8x8.studio
 *.8x8.uk
@@ -616,6 +618,7 @@
 *.marionnaud.ro
 *.marionnaud.sk
 *.mas.mobilevikings.be
+*.mavenlab.com
 *.mb-cosmos.com
 *.mbamupdates.com
 *.mclead.com.au
@@ -675,6 +678,8 @@
 *.mongodb.com/*
 *.monopoly-poker.com
 *.monzo.com
+*.moobicast.com
+*.moobidesk.com
 *.moonpay.com
 *.moonpaycloud.com
 *.mortgagechoice.com.au
@@ -1591,7 +1596,6 @@
 8x8 Communication APIs
 8x8 Partner Portal
 8x8-work
-8x8.cloud
 8x8.my.site.com
 91.203.96.0/22
 910898851
@@ -1682,6 +1686,7 @@ All Motorola Devices running Android 13 and above.
 All Other NVIDIA Container Toolkit Assets
 All internet facing Sky DACH assets
 All internet facing Sky Italy assets 
+All internet facing Sky UK/ROI assets
 All other SBB owned IT assets
 All other Web and mobile APPs owned by SBB 
 All the Blockchain Infrastructure
@@ -3182,6 +3187,7 @@ bpost Parcel Lockers
 br.nba.com
 brasil-store.tomorrowland.com
 brasil.tomorrowland.com
+bridge.8x8.com
 bsp.marriott.com
 buckingfuggy.com
 bugbounty-refined-test-<bugcrowd-name>.refined.site	
