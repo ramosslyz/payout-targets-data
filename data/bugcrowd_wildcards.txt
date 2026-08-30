@@ -150,6 +150,15 @@ prod-*.nu.com.co
 *.smartline.com.au
 *.mclead.com.au
 *.report.uat.proptrack.com
+*.api.id.realestate.com.au
+*.id.realestate.com.au
+*.accounts.realestate.com.au
+*.realestate.com.au
+*.mortgagechoice.com.au
+*.demo.bp.mortgagechoice.com.au
+*.smartline.com.au
+*.mclead.com.au
+*.report.uat.proptrack.com
 *.seek.com
 *.employer.seek.com
 *.seekpass.co
