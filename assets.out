@@ -1802,6 +1802,8 @@ Bot Management
 Box Drive
 Braintree SDK
 Brand Sites
+Brave Browser Desktop
+Brave websites
 Broken Link
 Browser Isolation
 BrowserGuard (Firefox/Chrome/Safari browser extension)
@@ -3493,6 +3495,8 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -4455,7 +4459,6 @@ https://admin.moneyboxapp.org
 https://admin.ring.com/*
 https://admintool.lime.bike
 https://aemdam.usaa360.com/
-https://afterpay.com
 https://agent-contact.realestate.com.au/lead-capture-page/campaign-id/8e50c3d0-0d2b-44d1-9df6-f4e02b9a690e
 https://agent.apps.monash.edu/
 https://aiven.io/
@@ -4488,7 +4491,6 @@ https://api.bugcrowd.com
 https://api.bykea.net
 https://api.canva.com
 https://api.classdojo.com
-https://api.clearpay.com
 https://api.cloudinary.com
 https://api.cyberghostvpn.com
 https://api.datadome.co
@@ -4609,7 +4611,6 @@ https://apps.apple.com/app/thefork-manager-neo/id1295795281
 https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669
 https://apps.apple.com/at/developer/stadt-wien/id858505368
-https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/certsy/id1617796159
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
@@ -4647,7 +4648,6 @@ https://apps.apple.com/fr/app/louis-vuitton/id709101942
 https://apps.apple.com/fr/app/swapcard/id879488719
 https://apps.apple.com/gb/app/bwin-poker-and-casino-games/id410242773
 https://apps.apple.com/gb/app/bwin-sports-betting/id393760245
-https://apps.apple.com/gb/app/clearpay-buy-now-pay-later/id1474022186
 https://apps.apple.com/gb/app/indeed-flex-job-search/id1013812731
 https://apps.apple.com/gb/app/moneybox-save-and-invest/id1049797239
 https://apps.apple.com/gb/app/partycasino-play-casino-games/id818432894
@@ -4890,8 +4890,6 @@ https://chromewebstore.google.com/detail/indeed-recruiter-extensio/kiodpphbmnmcm
 https://chromewebstore.google.com/detail/loom-%E2%80%93-screen-recorder-sc/liecbddmkiiihnedobmlmillhodjkdmb?hl=en-US&pli=1
 https://cicforms.mioot.com/
 https://citycentredeira.com/
-https://clearpay.co.uk
-https://clearpay.com
 https://clickhou.se/bugcrowd
 https://clients.adstruc.com
 https://clients.multiplayer.classdojo.com/launcher/prod/latest
@@ -4979,7 +4977,6 @@ https://developer.ifood.com.br
 https://developer.mastercard.com
 https://developer.newrelic.com/
 https://developer.paddle.com
-https://developers.afterpay.com
 https://developers.elementor.com/
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
@@ -5175,6 +5172,7 @@ https://github.com/backstage/backstage
 https://github.com/base/*
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/writebook
+https://github.com/brave/*, https://github.com/brave-intl/*
 https://github.com/cashapp/cash-app-pay-android-sdk
 https://github.com/cashapp/cash-app-pay-ios-sdk
 https://github.com/cashapp/hermit
@@ -5407,7 +5405,6 @@ https://hug.personio.com
 https://hytale.com/
 https://hytale.dev/
 https://ibconnect.internetbrands.com
-https://icu.eu-west-2.outscale.com
 https://id.atlassian.com/login
 https://id.recordedfuture.com
 https://id.unity.com
@@ -6161,8 +6158,6 @@ https://mmp.otto.de
 https://mobile.monash/ 
 https://mobile.ooredoo.qa
 https://mobile.usaa.com
-https://mobileapi.afterpay.com
-https://mobileapi.clearpay.com
 https://mobileapi.staging.luno.com/
 https://mobileapp.opsgenie.com
 https://mobileapps.usaa.com/
@@ -6337,8 +6332,6 @@ https://play.google.com/store/apps/details?id=br.com.movilepay.banking.applicati
 https://play.google.com/store/apps/details?id=ch.mediamarkt
 https://play.google.com/store/apps/details?id=ch.post.it.pcc&hl=en
 https://play.google.com/store/apps/details?id=com.acorns.android&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.afterpaymobile.uk
-https://play.google.com/store/apps/details?id=com.afterpaymobile.us&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.asana.app&hl=en
 https://play.google.com/store/apps/details?id=com.aswat.carrefouruae
 https://play.google.com/store/apps/details?id=com.atlassian.android.confluence.core&hl=en_US&gl=US
@@ -6501,18 +6494,13 @@ https://pluralcheckout.pinepg.in
 https://pods.link
 https://portal-api.anz.kinergysolutions.com
 https://portal.3cx.com
-https://portal.afterpay.com
 https://portal.anz.kinergysolutions.com
-https://portal.clearpay.co.uk
-https://portal.clearpay.com
 https://portal.exoscale.com/
 https://portal.iFoodpago.com.br
 https://portal.originzero.com.au
 https://portal.riskrecon.com
 https://portal.riskrecon.eu
 https://portal.unifiedid.com
-https://portalapi.eu.clearpay.co.uk
-https://portalapi.us.afterpay.com
 https://portalv2.lh360.com
 https://portfolio-manager-sit.uat.proptrack.com/
 https://powerdms.com/
@@ -7259,7 +7247,6 @@ indrive.com
 inference.do-ai.run
 influencers.tw.coupang.com
 info.authorize.net
-info.cybersource.com
 infomaniak.events
 ingest.clairvoyance.indrive.tech
 innersloth.kidswebservices.com

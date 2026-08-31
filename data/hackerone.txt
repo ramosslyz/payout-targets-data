@@ -1021,7 +1021,6 @@ https://www.visa.com.az/az_az/account/registration
 https://www.visa.com.ua/
 images.demand.cybersource.com
 info.authorize.net
-info.cybersource.com
 merchantsignage.visa.com
 merchantsignageca.visa.com
 merchantsignageeu.visa.com
@@ -3344,6 +3343,11 @@ workflows.semrush.com
 com.quora.android
 com.quora.app.mobile
 http://poe.com
+Brave Browser Desktop
+Brave websites
+com.brave.browser
+com.brave.ios.browser
+https://github.com/brave/*, https://github.com/brave-intl/*
 Burp Collaborator
 Burp Suite DAST
 Burp Suite Extension (BApps)
