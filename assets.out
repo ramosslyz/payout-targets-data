@@ -681,6 +681,7 @@
 *.moneyback.com.hk
 *.mongodb.com/*
 *.monopoly-poker.com
+*.monzo.com
 *.moobicast.com
 *.moobidesk.com
 *.moonpay.com
@@ -823,6 +824,7 @@
 *.prijsmepper.nl
 *.primarycareondemand.mayoclinic.org
 *.privateinternetaccess.com
+*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -1208,6 +1210,7 @@
 1023499075
 103.83.120.0/22
 1032480595
+1052238659
 1057338687
 107.167.96.0/19
 1080074001
@@ -3403,6 +3406,7 @@ co-cf.*.aws.indriverapp.com
 co-gw-cf.*.aws.indriverapp.com
 co-in-gw-cf.*.aws.indriverapp.com
 co.mona.android
+co.uk.getmondo
 coaching.supernovas.indrive.com
 coalition-dev.nba.com
 coalition-qa.nba.com
@@ -3909,6 +3913,7 @@ dashboard.pluralonline.com
 dashboard.privy.io
 dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
+data-test.nba.com
 data.mail.yahoo.com
 databricks.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
@@ -4033,6 +4038,7 @@ dream-qa2.wnba.com
 dream.wnba.com
 drive.wolt.com
 dropbox.com/paper
+dwhreports.nba.com
 dwy.visa.com
 e-Commerce
 eaccounting.stage.vismaonline.com
@@ -4235,6 +4241,7 @@ github.com/kubernetes-csi
 github.com/kubernetes-retired
 github.com/uphold/*
 gitlab.com
+gldatacenter.nba.com
 gleague-dev.nba.com
 gleague-qa.nba.com
 gleague.nba.com
@@ -4319,6 +4326,7 @@ home.deriv.com
 home.privy.io
 homeloans.wellsfargo.com
 homes-and-villas.marriott.com
+hoop.nba.com
 hoopsfortroops.nba.com
 horizonchase.com
 horizonchase.com.br
@@ -7627,6 +7635,7 @@ money.x.com
 moneybird.com
 moneybirdstorage.com
 monitor.mozilla.org
+monzo.com
 moonpay.com
 motorcity.gleague.nba.com
 movie.indrive.com
@@ -7699,6 +7708,10 @@ nbaholidaycard-qa.nba.com
 nbaholidaycard.nba.com
 nbaintl.nba.com
 nbameeting.nba.com
+nbatickets-dev.nba.com
+nbatickets-qa.nba.com
+nbatickets.nba.com
+nbavideo.nba.com
 neoket.net
 net.bitstamp.app
 net.supertreat.solitaire
@@ -7819,6 +7832,9 @@ obs-sensors.iris.production.forescoutcloud.net
 ocijlbex1prd.marriott.com
 odoo14.notebleue.pro
 odul.watsons.com.tr
+official-dev.nba.com
+official-qa.nba.com
+official.nba.com
 og.com
 oklahomacity-dev.gleague.nba.com
 oklahomacity-qa.gleague.nba.com
@@ -7930,6 +7946,7 @@ pcrstudioruzb.uzleuven.be
 pdfroster-dev.nba.com
 pdfroster-qa.nba.com
 pdfroster.nba.com
+peopleanalyticsportal.nba.com
 phabricator.allizom.org
 phlonline.vfsevisa.cn
 phlportal.vfsevisa.cn
@@ -7955,6 +7972,7 @@ player-login.unity.com
 player-radio.infomaniak.com
 player.vimeo.com
 player.vrt.be
+playerhealthvideo.nba.com
 playwonderbox.com
 playwonderbox.com.br
 pm-cf.*.aws.indriverapp.com
@@ -7984,7 +8002,10 @@ postikuori.posti.fi
 pot-cf.*.aws.indriverapp.com
 pot-gw-cf.*.aws.indriverapp.com
 pr*.indriverapp.com
+pr-dev.nba.com
 pr-gw-cf.*.aws.indriverapp.com
+pr-qa.nba.com
+pr.nba.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -8033,6 +8054,7 @@ ps5.np.playstation.net
 pscp.tv
 psp.marriott.com
 psychobunny.me
+ptiw.nba.com
 public.hyatt.com
 publicsafety.ring.com
 pubtools.private.8x8cloud.net
@@ -8231,6 +8253,7 @@ sell.moonpay.com
 seller-id.tokopedia.com
 seller.temu.com
 sellerportal.newegg.com
+sems.nba.com
 sendgrid.com
 sensei.pixiv.net
 service.fing.com
@@ -8395,6 +8418,9 @@ status.delen.be
 status.larksuite.com
 status.uphold.com
 steamcommunity.com
+stockton-dev.gleague.nba.com
+stockton-qa.gleague.nba.com
+stockton.gleague.nba.com
 storage*.infomaniak.com
 store-display.tw.coupang.com
 store.23andme.org
@@ -8472,15 +8498,20 @@ t.co
 t.swapcard.com
 t.umblr.com
 tableau.fareharbor.engineering
+taiwan.nba.com
 tax.audible.com
 tax.crypto.com
 taxi.booking.com
 taxis.booking.com
 team.swapcard.com
+teamapps.nba.com
 teamdirectory.nba.com
+teaminquiry.nba.com
 teammate.indriver.io
+teamofficelist.nba.com
 teamportal.nba.com
 teams.krisp.ai
+teamvideo.nba.com
 technik.autobild.de
 technik.beta.autobild.de
 telenor.se
@@ -8498,6 +8529,9 @@ testapp.redoxengine.com
 testbank.xs2a.com
 testing.maventa.com
 teststs.uzleuven.be
+texas-dev.gleague.nba.com
+texas-qa.gleague.nba.com
+texas.gleague.nba.com
 thebrowser.company
 thisiswhyweplay.nba.com
 tickets.crypto.com
@@ -8510,6 +8544,8 @@ todentaminen.posti.fi
 todo.notebleue.pro
 tomoe.bykea.net
 toolsforhumanity.com
+townhall.nba.com
+tpp.nba.com
 tr-cf.*.aws.indriverapp.com
 tr-gw-cf.*.aws.indriverapp.com
 trade.ripio.com
@@ -8523,6 +8559,7 @@ traveler.marriott.com
 trello.com
 trendyol.com
 trm.pinepaymentsolutions.com
+trs.nba.com
 truck-api.eu-east-1.indriverapp.com
 trust.23andme.com
 try.discourse.org
@@ -8628,6 +8665,7 @@ vrt.be/vrtnws
 vth.nba.com
 vtm.be/vtmgo
 vtmgo.be
+vttp.nba.com
 vwcm.visa.com
 vœux.vinci.com
 w1.uzleuven.be
@@ -8678,6 +8716,9 @@ welcome.infomaniak.com
 wellbeing.deezer.com
 wellbeing.dzcdn.net
 welt.de
+westchester-dev.gleague.nba.com
+westchester-qa.gleague.nba.com
+westchester.gleague.nba.com
 wga.volans.tech
 whyisend.com
 widget.rentalcars.com
@@ -8691,6 +8732,9 @@ wiki.portofantwerp.com
 wiki.portofantwerpbruges.com
 wiki.teamfortress.com
 wiki.ui.com
+windycity-dev.gleague.nba.com
+windycity-qa.gleague.nba.com
+windycity.gleague.nba.com
 winecellar.zomato.com
 wings-dev.wnba.com
 wings-qa.wnba.com
@@ -8699,7 +8743,11 @@ wings.wnba.com
 winkels.torfs.be
 winter.tomorrowland.com
 winterpackages.tomorrowland.com
+wisconsin-dev.gleague.nba.com
+wisconsin-qa.gleague.nba.com
+wisconsin.gleague.nba.com
 wlr-cf.*.aws.indriverapp.com
+wnbabroadcastmanuals.nba.com
 wolt.com
 wonderboxapi.com
 wonderboxdev.com
@@ -8945,6 +8993,7 @@ www.mini.de
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
+www.monzo.com
 www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
