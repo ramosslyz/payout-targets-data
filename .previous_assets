@@ -2136,6 +2136,7 @@ Body Comp scale
 Body Scan scale
 Bot Management
 Box Drive
+Box Tools
 Braintree SDK
 Brand Sites
 Brave Browser Desktop
@@ -2848,6 +2849,7 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 Open source tools from Cloudflare
 OpenAI API Keys
 OpenPGP Cert Directory Specification
+OpenSea Solana Marketplace Program
 Opsgenie (Android)
 Opsgenie (IoS)
 Orbi 
@@ -4649,6 +4651,7 @@ com.vodafone.mpesa.ls
 com.vodafone.mpesa.mozambique
 com.vrbo.android
 com.wealthsimple
+com.wealthsimple.predict
 com.wealthsimple.wealthsimple
 com.wellsfargo.ceomobile
 com.wf.ceomobile
