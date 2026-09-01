@@ -326,13 +326,11 @@ ecom-data.trekpleister.nl
 service.trekpleister.nl
 folder.trekpleister.nl
 www.prijsmepper.nl
-Lansweeper Discovery
 app.lansweeper.com
 fb.lansweeper.com
 edge.lansweeper.com
 api.lansweeper.com
 backoffice.lansweeper.com
-https://lsagentrelay.lansweeper.com/
 app.lansweeper.com/trial
 autoupdateapi.lansweeper.com
 docs.lansweeper.com
@@ -580,8 +578,11 @@ rivian.com
 www.sbb.ch
 Mobile Apps
 www.elvetino.ch
+*elvetino.ch
 www.sbbcargo.com
+*sbbcargo.com
 www.transsicura.ch
+*transsicura.ch
 All other Web and mobile APPs owned by SBB 
 All other SBB owned IT assets
 SimScale API

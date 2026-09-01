@@ -1182,6 +1182,7 @@
 *dev*.arlo.com
 *dev.uzleuven.be
 *developer.cloud.com
+*elvetino.ch
 *ensemble*.yahoo.com
 *gateway-apc.marriott.com
 *idp*.uzleuven.be
@@ -1190,9 +1191,11 @@
 *qa*.arlo.com
 *ripio.com
 *ripiotrade.co
+*sbbcargo.com
 *stag*.uzleuven.be
 *test*.bykea.net
 *tidalhi.fi
+*transsicura.ch
 *uat.marriott.com
 *ubereats.com
 *vc.logitech.com
@@ -2172,7 +2175,6 @@ Kruidvat BE Android
 Kruidvat BE iOS
 Kruidvat NL Android
 Kruidvat NL iOS
-Lansweeper Discovery
 LaunchDarkly Open Source SDKs
 Leaked Credentials
 Leaked Credentials and Secrets (Canva Employee/Contractor)
@@ -5548,7 +5550,6 @@ https://login.paddle.com
 https://login.teamviewer.com
 https://lounge.pinelabs.com/loungeui/login
 https://lp.lime.bike/
-https://lsagentrelay.lansweeper.com/
 https://luna.amazon.com/*
 https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://m.thefork.com
