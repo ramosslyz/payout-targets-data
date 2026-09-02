@@ -717,11 +717,6 @@ https://projects.epam.com
 https://lab.epam.com
 https://opensource.epam.com
 In Scope - Points only
-https://www.epam.com/
-https://projects.epam.com
-https://lab.epam.com
-https://opensource.epam.com
-In Scope - Points only
 https://io.getdelta.ios
 https://io.getdelta.android
 https://etoropartners.com
@@ -2236,6 +2231,7 @@ https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://connect.soundcloud.com
 http://artists.soundcloud.com/
 https://soundcloud.org
+SpaceX and Starlink assets (target information and rewards detailed above on the brief)
 https://squareup.com/
 https://squareup.com/
 https://square.online
