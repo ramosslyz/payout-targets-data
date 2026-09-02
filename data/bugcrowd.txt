@@ -423,13 +423,13 @@ https://apps.apple.com/us/app/blockchain-com-buy-btc-sol/id493253309
 https://play.google.com/store/apps/details?id=piuk.blockchain.android
 api.blockchain.info
 ws.blockchain.info
-https://github.com/afterpay/sdk-ios
-https://github.com/afterpay/sdk-android
-https://github.com/cashapp/cash-app-pay-ios-sdk
-https://github.com/cashapp/cash-app-pay-android-sdk
-https://github.com/cashapp/hermit
-https://github.com/cashapp/misk
-https://github.com/square/wire
+███████████████████████████████████
+███████████████████████████████████████
+███████████████████████████████████████████████
+███████████████████████████████████████████████████
+█████████████████████████████████
+███████████████████████████████
+██████████████████████████████
 https://blofin.com
 https://apps.apple.com/tt/app/blofin/id1616804346
 https://play.google.com/store/apps/details?id=com.blofin.android
@@ -2231,6 +2231,7 @@ https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://connect.soundcloud.com
 http://artists.soundcloud.com/
 https://soundcloud.org
+SpaceX and Starlink assets (target information and rewards detailed above on the brief)
 SpaceX and Starlink assets (target information and rewards detailed above on the brief)
 https://squareup.com/
 https://squareup.com/

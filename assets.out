@@ -1110,7 +1110,6 @@
 *.voi.com
 *.voiscooters.com
 *.volkskrant.nl
-*.volkswagen.de
 *.vpn.hackerone.net
 *.vrbo.com
 *.vtm.be
@@ -5213,8 +5212,6 @@ https://github.com/RIPE-NCC/rpki-ta-0
 https://github.com/RIPE-NCC/rsyncit
 https://github.com/RIPE-NCC/whois
 https://github.com/Shopify/*
-https://github.com/afterpay/sdk-android
-https://github.com/afterpay/sdk-ios
 https://github.com/auth0/Auth0.Net
 https://github.com/auth0/auth0-java
 https://github.com/auth0/auth0-php
@@ -5228,10 +5225,6 @@ https://github.com/base/*
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/writebook
 https://github.com/brave/*, https://github.com/brave-intl/*
-https://github.com/cashapp/cash-app-pay-android-sdk
-https://github.com/cashapp/cash-app-pay-ios-sdk
-https://github.com/cashapp/hermit
-https://github.com/cashapp/misk
 https://github.com/circlefin/aptos-cctp
 https://github.com/circlefin/arc-node
 https://github.com/circlefin/arc-remote-signer
@@ -5394,7 +5387,6 @@ https://github.com/smartcontractkit/chainlink-evm/tree/develop/contracts
 https://github.com/smartcontractkit/chainlink-solana/tree/develop/contracts
 https://github.com/smartcontractkit/external-adapters-js/
 https://github.com/smartcontractkit/staking-v0.1/tree/master/contracts
-https://github.com/square/wire
 https://github.com/sveltejs/svelte
 https://github.com/tempus-ex
 https://github.com/transferwise/*
@@ -9349,8 +9341,10 @@ zooplus.net
 ███████████████████████████
 ████████████████████████████
 █████████████████████████████
+██████████████████████████████
 ███████████████████████████████
 ████████████████████████████████
+█████████████████████████████████
 ██████████████████████████████████
 ███████████████████████████████████
 ████████████████████████████████████
