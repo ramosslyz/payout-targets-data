@@ -2,6 +2,8 @@
  *.test.*.lfscnp.com
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 *-api-*.acronis.com
+*. advancedcustomfields.com
+*. bettersearchreplace.com
 *. vfsevisa.id
 *.-np.*.lfscnp.com
 *.1debit.com
@@ -41,7 +43,6 @@
 *.adsrvr.org
 *.advisor-connection.com
 *.advisorsolutions.gs.com
-*.adx.opera.com
 *.ai.8x8.vc
 *.aips-internal.com
 *.airbnb-aws.com
@@ -95,9 +96,6 @@
 *.andurildev.au
 *.andurildev.com
 *.antom.com
-*.apex-football.com
-*.apexnews.com
-*.apexscores.io
 *.api-app.telenor.se
 *.api.id.realestate.com.au
 *.api.konghq.com
@@ -246,12 +244,12 @@
 *.cyberghost.com
 *.cyberghostvpn.com
 *.cyrus-security.com
-*.dailyadvent.com
 *.dancecentral.com
 *.das.eu
 *.dash.ai
 *.dcfgateway.marriott.com
 *.de.jbl.com
+*.deliciousbrains.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demo.bp.mortgagechoice.com.au
@@ -352,7 +350,6 @@
 *.fanduel.com
 *.fareharbor.com
 *.fareharbor.engineering
-*.feednews.com
 *.fetlife.com
 *.findaya.co.id
 *.findaya.com
@@ -562,6 +559,7 @@
 *.link.co
 *.linktree-extensions.com
 *.livestream.com
+*.localwp.com
 *.logi.com
 *.logicool.co.jp
 *.logitech-channel-marketing.com
@@ -696,6 +694,7 @@
 *.nflxso.net
 *.nflxvideo.net
 *.nic.eu
+*.nitropack.io
 *.niumba.com
 *.nmfn.com
 *.nml.com
@@ -716,23 +715,13 @@
 *.openai.com
 *.openai.org
 *.openvela.com
-*.opera-mini.net
-*.opera.com
-*.opera.news
-*.opera.software
-*.opera.technology
-*.operafootball.com
-*.operanewsapp.com
 *.operationstechnology.io
-*.opr.news
 *.ops.netlify.com
 *.opsgenie.com
 *.optimuscards.com
 *.optus.com.au
 *.origindigital-pac.com.au
-*.osite99.com
 *.oslo.io
-*.osp.opera.software
 *.otherside.xyz
 *.outfra.xyz
 *.ovo.id
@@ -852,13 +841,11 @@
 *.roonlabs.com
 *.roonlabs.net
 *.router.hereapi.com
-*.rtbscale.com
 *.runnr.in
 *.s-cloud.net
 *.saltlabs.com
 *.sandbox.*.lfscnp.com
 *.savers.co.uk
-*.savi.xyz
 *.say.rocks
 *.saytechnologies.com
 *.sba.marriott.com
@@ -872,7 +859,6 @@
 *.sc-corp.net
 *.scatec.io
 *.scbe.api.here.com
-*.sec-tunnel.com
 *.securecircle.com
 *.securegatewayaccess.com
 *.securityservices.io
@@ -956,6 +942,7 @@
 *.streamlabscharity.com
 *.stripchat.com
 *.stripe.com
+*.studiopress.com
 *.stylebook.de
 *.subp-router.hereapi.com
 *.superbet.com
@@ -1124,6 +1111,8 @@
 *.worldcoin.org
 *.worldfirst.com
 *.wotif.com
+*.wpengine.io
+*.wpesvc.net
 *.x.ai
 *.x.com
 *.xiangkankeji.cn
@@ -1146,7 +1135,6 @@
 *.yelp.com
 *.yelpwifi.com
 *.youpin.cn
-*.yoyogames.com
 *.ys7.com
 *.yuga.com
 *.yugalabs.io
