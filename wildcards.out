@@ -43,6 +43,7 @@
 *.adsrvr.org
 *.advisor-connection.com
 *.advisorsolutions.gs.com
+*.adx.opera.com
 *.ai.8x8.vc
 *.aips-internal.com
 *.airbnb-aws.com
@@ -96,6 +97,9 @@
 *.andurildev.au
 *.andurildev.com
 *.antom.com
+*.apex-football.com
+*.apexnews.com
+*.apexscores.io
 *.api-app.telenor.se
 *.api.id.realestate.com.au
 *.api.konghq.com
@@ -244,6 +248,7 @@
 *.cyberghost.com
 *.cyberghostvpn.com
 *.cyrus-security.com
+*.dailyadvent.com
 *.dancecentral.com
 *.das.eu
 *.dash.ai
@@ -350,6 +355,7 @@
 *.fanduel.com
 *.fareharbor.com
 *.fareharbor.engineering
+*.feednews.com
 *.fetlife.com
 *.findaya.co.id
 *.findaya.com
@@ -612,6 +618,7 @@
 *.mercadolibre.com.mx
 *.mercadolibre.com.pe
 *.mercadolibre.com.uy
+*.mercadolibre.com.ve
 *.mercadolivre.com.br
 *.mercadopago.cl
 *.mercadopago.com
@@ -715,13 +722,23 @@
 *.openai.com
 *.openai.org
 *.openvela.com
+*.opera-mini.net
+*.opera.com
+*.opera.news
+*.opera.software
+*.opera.technology
+*.operafootball.com
+*.operanewsapp.com
 *.operationstechnology.io
+*.opr.news
 *.ops.netlify.com
 *.opsgenie.com
 *.optimuscards.com
 *.optus.com.au
 *.origindigital-pac.com.au
+*.osite99.com
 *.oslo.io
+*.osp.opera.software
 *.otherside.xyz
 *.outfra.xyz
 *.ovo.id
@@ -841,11 +858,13 @@
 *.roonlabs.com
 *.roonlabs.net
 *.router.hereapi.com
+*.rtbscale.com
 *.runnr.in
 *.s-cloud.net
 *.saltlabs.com
 *.sandbox.*.lfscnp.com
 *.savers.co.uk
+*.savi.xyz
 *.say.rocks
 *.saytechnologies.com
 *.sba.marriott.com
@@ -859,6 +878,7 @@
 *.sc-corp.net
 *.scatec.io
 *.scbe.api.here.com
+*.sec-tunnel.com
 *.securecircle.com
 *.securegatewayaccess.com
 *.securityservices.io
@@ -1004,6 +1024,7 @@
 *.trouw.nl
 *.tstaging.com
 *.tstaging.tools
+*.tucarro.com.ve
 *.tumblr.com
 *.tvg.com
 *.tweakblogs.net
@@ -1135,6 +1156,7 @@
 *.yelp.com
 *.yelpwifi.com
 *.youpin.cn
+*.yoyogames.com
 *.ys7.com
 *.yuga.com
 *.yugalabs.io
