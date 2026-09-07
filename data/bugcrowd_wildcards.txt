@@ -128,13 +128,8 @@ prod-*.nu.com.co
 *.adx.opera.com
 *.opsgenie.com
 *.optus.com.au
-*.origindigital-pac.com.au
-*.odcdn.com.au
-*.support.originenergy.com.au
-*.api.originenergy.com.au
-*.download.originenergy.com.au
-*.pinterest.com Web Apps
 *.points.com
+*.quizlet.com
 *.quizlet.com
 *.rapyd.net
 *.korta.is
@@ -171,6 +166,10 @@ prod-*.nu.com.co
 *.prd.cam.simplisafe.com (App Endpoints)
 *.skyscanner.net
 3rd party services hosted at *.sophos.com
+*.soundcloud.org
+*.s-cloud.net
+*.services.repostnetwork.com
+api-*.soundcloud.com
 *.soundcloud.org
 *.s-cloud.net
 *.services.repostnetwork.com
