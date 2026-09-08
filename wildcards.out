@@ -104,6 +104,7 @@
 *.api.id.realestate.com.au
 *.api.konghq.com
 *.api.louisvuitton.com
+*.api.originenergy.com.au
 *.api.playstation.com
 *.api.ua.com/
 *.api.vimla.se
@@ -122,7 +123,6 @@
 *.as-nmt.de
 *.asadcdn.com
 *.asana.biz
-*.assurancewireless.com
 *.atairbnb.com
 *.atg.se
 *.atlastunnel.com
@@ -279,6 +279,7 @@
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
 *.dojo.me
+*.download.originenergy.com.au
 *.dpgmedia.be
 *.dpgmedia.nl
 *.drogas.lt
@@ -710,6 +711,7 @@
 *.nr-ops.net
 *.ociadmin.cloud.8x8.com
 *.octopus.com
+*.odcdn.com.au
 *.oklink.com
 *.oktukids.com
 *.okx.com
@@ -732,6 +734,7 @@
 *.opsgenie.com
 *.optimuscards.com
 *.optus.com.au
+*.origindigital-pac.com.au
 *.osite99.com
 *.oslo.io
 *.osp.opera.software
@@ -968,6 +971,7 @@
 *.superdrug.com
 *.superhuman.com
 *.support.jbl.com
+*.support.originenergy.com.au
 *.swiftype.com
 *.swisspass.ch
 *.tdl.sh
@@ -1045,9 +1049,6 @@
 *.unrealengine.com
 *.unrealtournament.com
 *.uphold.com
-*.uscc.com
-*.uscc.net
-*.uscellular.com
 *.uzleuven.*
 *.vacationhomerentals.com
 *.varonis.com

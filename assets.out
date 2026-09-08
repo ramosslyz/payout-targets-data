@@ -120,6 +120,7 @@
 *.api.id.realestate.com.au
 *.api.konghq.com
 *.api.louisvuitton.com
+*.api.originenergy.com.au
 *.api.playstation.com
 *.api.ua.com/
 *.api.vimla.se
@@ -138,7 +139,6 @@
 *.as-nmt.de
 *.asadcdn.com
 *.asana.biz
-*.assurancewireless.com
 *.atairbnb.com
 *.atg.se
 *.atlastunnel.com
@@ -295,6 +295,7 @@
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
 *.dojo.me
+*.download.originenergy.com.au
 *.dpgmedia.be
 *.dpgmedia.nl
 *.drogas.lt
@@ -726,6 +727,7 @@
 *.nr-ops.net
 *.ociadmin.cloud.8x8.com
 *.octopus.com
+*.odcdn.com.au
 *.oklink.com
 *.oktukids.com
 *.okx.com
@@ -748,6 +750,7 @@
 *.opsgenie.com
 *.optimuscards.com
 *.optus.com.au
+*.origindigital-pac.com.au
 *.osite99.com
 *.oslo.io
 *.osp.opera.software
@@ -984,6 +987,7 @@
 *.superdrug.com
 *.superhuman.com
 *.support.jbl.com
+*.support.originenergy.com.au
 *.swiftype.com
 *.swisspass.ch
 *.tdl.sh
@@ -1061,9 +1065,6 @@
 *.unrealengine.com
 *.unrealtournament.com
 *.uphold.com
-*.uscc.com
-*.uscc.net
-*.uscellular.com
 *.uzleuven.*
 *.vacationhomerentals.com
 *.varonis.com
@@ -1831,7 +1832,6 @@ Canva Desktop (macOS / Windows)
 Capital One Shopping Browser Extension
 Capture the Flag
 Career Scout
-Cellular Network Auth Bypass via Web App/T-Life (404-200-7239)
 Chime
 China Network
 Circle Cameras
@@ -2415,7 +2415,6 @@ Savers iOS
 Scenarios with Special Bounties
 Scope Questions: Items not explicitly listed here
 Secondary Assets
-Self-Register Account on T-Mobile Microsoft Entra ID
 Services
 Services/Mobile/GenAI
 Shopify Developed Apps
@@ -2490,7 +2489,6 @@ Stripe Terminal
 Stripe Treasury
 Stripe fiat-to-crypto onramp
 Stripe for Visual Studio Code
-Subdomain Takeover
 Subdomain Takeover (SDTO)
 Subdomain Takeover - konghq.com
 Subdomain takeover
@@ -2502,7 +2500,6 @@ Superhuman Mail
 Superhuman Mail Chrome Extension
 Superhuman Mail Desktop App
 System Specification
-T&P Servers
 TF-PSA-Crypto
 TW Media: Front Page
 TW Media: News
@@ -4426,9 +4423,7 @@ https://a.klaviyo.com/api/*
 https://access-sit.uat.proptrack.com
 https://account-registration.monash.edu/
 https://account.bitpanda.com
-https://account.business.t-mobile.com
 https://account.post.ch
-https://account.t-mobile.com
 https://account.teamviewer.com
 https://accounts.cmp.optimizely.com/
 https://accounts.hytale.com/login
@@ -4459,10 +4454,12 @@ https://analytics.welcomesoftware.com/
 https://answers.irobot.com
 https://api-a.usaa.com
 https://api-app.datadome.co/
+https://api-businessportal.origin.com.au
 https://api-core.deriv.com
 https://api-iam.intercom.io
 https://api-js.datadome.co
 https://api-next.flatmates.com.au
+https://api-portal.originzero.com.au
 https://api-prod.retailsso.com
 https://api-prod.thatconceptstore.com/
 https://api-ws.thefork.com
@@ -4515,10 +4512,10 @@ https://api.requirementyogi.com
 https://api.ring.com/*
 https://api.riskrecon.com
 https://api.riskrecon.eu
+https://api.rx.originenergy.com.au/v1/lpg/graphql
 https://api.shop.ua.com/graphql
 https://api.simnext.bullish-test.com
 https://api.staging.luno.com/
-https://api.t-mobile.com
 https://api.test.latitudefinancial.com
 https://api.thefork.com
 https://api.thefork.io
@@ -4529,8 +4526,6 @@ https://api.tripadvisor.com
 https://api.unity.com
 https://api.us1.fga.dev/
 https://api.usaa.com/
-https://api.vistarmedia.com
-https://api.vistarmedia.eu
 https://api.voiapp.io/
 https://api.welcomesoftware.com/
 https://api.wyzecam.com
@@ -4726,7 +4721,6 @@ https://apps.apple.com/us/app/share-rewards/id1465450657
 https://apps.apple.com/us/app/simplisafe-home-security-app/id555798051
 https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788
-https://apps.apple.com/us/app/t-mobile/id561625752
 https://apps.apple.com/us/app/tesla/id582007913
 https://apps.apple.com/us/app/tripadvisor-plan-book-trips/id284876795
 https://apps.apple.com/us/app/under-armour/id1092704571
@@ -4750,17 +4744,10 @@ https://asana.com/download
 https://aspen-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/entitlements/{entitlement_id}
 https://aspen-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/robots/{robot_id}/entitlements
 https://aspen-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/users/{user_id}/entitlements
-https://assets-cdn.vistarmedia.com
-https://assets.development.amazon-tacticalplanner.com
-https://assets.platform.blis.com
-https://assets.platform.development.blis.com
-https://assets.platform.rc.blis.com
 https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050
 https://atjunction.com/
 https://atlantis-ext.myopenpass.com
 https://atlassian.ost-consulting.be
-https://audience-builder.vistarmedia.com
-https://audiencelogos.blis.com
 https://audio.20min.ch/
 https://auth-adx.op-mobile.opera.com
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
@@ -4797,7 +4784,6 @@ https://bitbucket.org
 https://bitgo.ae/
 https://bitso.com
 https://blablacardaily.com
-https://blis.com
 https://blockexplorer.electroneum.com
 https://blofin.com
 https://blog.bitpanda.com/en
@@ -4829,6 +4815,7 @@ https://bugs.opera.com/
 https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.rivian.com/api
+https://businessportal.origin.com.au
 https://butlerfortrello.com/
 https://buyersedge.co.nz
 https://c.realme.com/eg/
@@ -4867,7 +4854,6 @@ https://citycentredeira.com/
 https://clearpay.co.uk
 https://clearpay.com
 https://clickhou.se/bugcrowd
-https://clients.adstruc.com
 https://clients.multiplayer.classdojo.com/launcher/prod/latest
 https://cloud.langfuse.com/
 https://cloud.oppo.com/
@@ -4911,8 +4897,6 @@ https://coral.20min.ch/
 https://core-prod.uidapi.com
 https://cp.expressapisv2.net
 https://create.gx.games
-https://creative.infinity.blismedia.com
-https://creatives.vistarmedia.com
 https://credit.pinelabs.com
 https://crosskey.io/stores/s-pankki/apis
 https://crypto.com/exchange
@@ -4922,31 +4906,30 @@ https://cryptowallet.opera-api.com
 https://cstg-integ.uidapi.com
 https://customer-api.datadome.co
 https://customer-portal.paddle.com
+https://customerportal.winconnect.com.au/login
 https://customers.us1.fga.dev/
 https://d1.utv.usaa.com
 https://d2.utv.usaa.com
 https://daily.blablacar.fr
 https://dash.zoop.com.br/
-https://dashboard-101.moengage.com
 https://dashboard.fga.dev/
 https://dashboard.pantheon.io
 https://dashboard.rapyd.net/
 https://data.limeinternal.com
 https://data.prosus.com/
 https://datadome.co
+https://dataportal.originenergy.com.au
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
 https://dcfgatewaytst1.marriott.com/
 https://ddosportal.optus.com.au
 https://dealflow.prosus.com
 https://dealflowapi.prosus.com
 https://delta.app
-https://demo.adstruc.com
 https://demo.priceless.com/
 https://desk.thetradedesk.com
 https://desktop-sit.uat.proptrack.com
 https://desktop.water-link.be/
 https://dev.tutoring.classdojo.com
-https://devedge.t-mobile.com
 https://developer.ifood.com.br
 https://developer.mastercard.com
 https://developer.newrelic.com/
@@ -4957,13 +4940,10 @@ https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
 https://developers.oppomobile.com/
 https://developers.retail.lightspeed.app
-https://development.wmaudience.com
-https://digits.t-mobile.com
 https://dimensions.cloudinary.com
 https://directlink.eu-west-2.outscale.com
 https://disclosure-test.six-exchange-regulation.com/
 https://doc.komoju.com/docs/fields-overview
-https://docker-staging.adstruc.com
 https://docs.bugcrowd.com/
 https://docs.eazybi.com/
 https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1208823298#gid=1208823298
@@ -4982,7 +4962,6 @@ https://docs.newrelic.com/
 https://docs.sophos.com/central/customer/help/en-us/ManageYourProducts/ThreatAnalysisCenter/Integrations/Sophos/NDR/index.html
 https://docs.tempus-ex.com
 https://docs.world.org/world-chain/reference/address-book
-https://docsite.vistarmedia.com
 https://donate.mastercard.com
 https://download.krisp.ai/mac
 https://download.krisp.ai/win
@@ -5379,21 +5358,11 @@ https://identity.majidalfuttaim.com
 https://identity.monash.edu
 https://identity.monash.edu/
 https://images.latitudepayapps.com/
-https://imply-pivot.blis.com
-https://imply-pivot.test.blis.com
-https://imply.blis.com
-https://imply.internal.platform.blis.com
-https://imply.platform.blis.com
-https://imply.platform.development.blis.com
-https://imply.platform.rc.blis.com
-https://imply.test.blis.com
-https://imply.wmaudience.com
 https://ims.monash.edu
 https://indeed.com
 https://indonesiavoa.vfsevisa.id/
 https://infiniteathlete.ai
 https://interestfree.com.au
-https://internal.platform.blis.com
 https://interviews.monash.edu/
 https://investor.bullish.com/
 https://investor.irobot.com
@@ -5408,10 +5377,8 @@ https://itunes.apple.com/us/app/cash-app/id711923939?mt=8
 https://itunes.apple.com/us/app/quizlet-flashcards/id546473125
 https://itunes.apple.com/us/app/vacation-rentals-owner-app-by-tripadvisor/id1045663228?mt=8
 https://jaguar.here.com
-https://jenkins-github.gcp.blis.com
 https://jet-external.com
 https://jira.requirementyogi.com
-https://job-svc-b.vistarmedia.com
 https://jobs.mgm.mo
 https://jointhemoment.net/
 https://jp-api-staging.getmoneytree.com
@@ -5500,7 +5467,6 @@ https://manager.trial.lsk.lightspeed.app/
 https://mapi-a.usaa.com
 https://mapi.usaa.com/
 https://maps.bykea.net
-https://maps.vistarmedia.com
 https://market.android.com/details?id=com.myfitnesspal.android&rdid=com.myfitnesspal.android
 https://marketplace.atlassian.com
 https://marketplace.atlassian.com/apps/1143291390/sprintpoker-planning-poker-async-estimation?hosting=cloud&tab=overview
@@ -5568,6 +5534,7 @@ https://marketplace.atlassian.com/apps/1212507/smart-attachments-for-jira?hostin
 https://marketplace.atlassian.com/apps/1212523/requirements-yogi?hosting=cloud
 https://marketplace.atlassian.com/apps/1212632/look-and-feel-for-bitbucket-server?hosting=datacenter
 https://marketplace.atlassian.com/apps/1212778/my-reminders-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1212796/balsamiq-wireframes-for-jira-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1212840/reminders-for-bitbucket?hosting=datacenter
 https://marketplace.atlassian.com/apps/1212840/reminders-for-bitbucket?hosting=server&tab=overview
 https://marketplace.atlassian.com/apps/1213019/k-sso-saml-sso-oauth-kerberos-user-management-for-bitbucket?hosting=datacenter
@@ -5575,6 +5542,7 @@ https://marketplace.atlassian.com/apps/1213091/esu-sum-up-kpi-budget-reporting-p
 https://marketplace.atlassian.com/apps/1213092/google-drive-for-confluence-official-legacy-editor-only?hosting=cloud
 https://marketplace.atlassian.com/apps/1213146/risk-register?hosting=cloud
 https://marketplace.atlassian.com/apps/1213346/issue-sync-integration-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1213404/balsamiq-wireframes-for-confluence-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1213545/work-time-tracking-calendar-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1213545/work-time-tracking-calendar-for-jira?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1213649/custom-fields-for-jira-cloud?hosting=cloud&tab=overview
@@ -6072,6 +6040,7 @@ https://marketplace.atlassian.com/apps/2501894527/throughput-charts-for-scrum-ka
 https://marketplace.atlassian.com/apps/253/scroll-imagemap-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/253/scroll-imagemap-for-confluence?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/254/gliffy-diagrams-for-confluence?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/256/balsamiq-wireframes-for-confluence?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/2576221793/easy-markdown-exporter-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=datacenter
@@ -6098,6 +6067,7 @@ https://marketplace.atlassian.com/apps/4909/content-exporter-word-pdf-html?tab=o
 https://marketplace.atlassian.com/apps/4977/email-this-issue?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/5043/switch-user-su-for-jira?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/5142/toolkit-plugin-for-jira?hosting=datacenter
+https://marketplace.atlassian.com/apps/5161/balsamiq-wireframes-for-jira?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/7019/scroll-pdf-exporter-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/7019/scroll-pdf-exporter-for-confluence?hosting=datacenter
 https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=cloud
@@ -6124,7 +6094,6 @@ https://mein.wien.gv.at/broker/api/*
 https://member.webmd.com
 https://metabase.pwn.intigriti.rocks/
 https://metamask.github.io/phishing-warning/<vX.Y.Z>
-https://metrobyt-mobile.com
 https://metroconnect.app.ridewithvia.com
 https://mg.n0c.com/
 https://mgm.mo
@@ -6239,7 +6208,6 @@ https://osu.eu-west-2.outscale.com
 https://ota.onecloud.harman.com
 https://paasportal.episerver.net/
 https://paasportal.episerver.net/api/v1.0/
-https://packages.cortexpowered.com
 https://paddle.net
 https://parcelhubeurope.com
 https://partner-feeds.20min.ch
@@ -6276,10 +6244,6 @@ https://pinepgconsole.in:9099
 https://pioneer.truata.com/
 https://pit.water-link.be/
 https://pixabay.com/
-https://platform.blis.com
-https://platform.blismedia.com
-https://platform.development.blis.com
-https://platform.development2.blis.com
 https://platform.infiniteathlete.ai
 https://platform.nexo.com/
 https://platform.nexo.com/api/1/create_recurring_payment
@@ -6299,7 +6263,6 @@ https://platform.nexo.com/api/trading/advanced/facade/api/v1/fees
 https://platform.nexo.com/api/trading/advanced/facade/api/v1/order/futures
 https://platform.nexo.com/api/trading/advanced/facade/api/v1/withdraw
 https://platform.openai.com/playground
-https://platform.rc.blis.com
 https://play.fga.dev/
 https://play.google.com/store/apps/details?hl=en&id=co.bitx.android.wallet
 https://play.google.com/store/apps/details?id=at.com.media.markt
@@ -6412,7 +6375,6 @@ https://play.google.com/store/apps/details?id=com.teamviewer.host.market&hl=en&g
 https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
 https://play.google.com/store/apps/details?id=com.transferwise.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.tranzmate&hl=en_US
 https://play.google.com/store/apps/details?id=com.tripadvisor.tripadvisor&hl=en
@@ -6464,12 +6426,15 @@ https://plugins.matomo.org/developer/innocraft
 https://plugins.matomo.org/developer/matomo-org
 https://pluralcheckout.pinepg.in
 https://pods.link
+https://portal-api.anz.kinergysolutions.com
 https://portal.3cx.com
 https://portal.afterpay.com
+https://portal.anz.kinergysolutions.com
 https://portal.clearpay.co.uk
 https://portal.clearpay.com
 https://portal.exoscale.com/
 https://portal.iFoodpago.com.br
+https://portal.originzero.com.au
 https://portal.riskrecon.com
 https://portal.riskrecon.eu
 https://portal.unifiedid.com
@@ -6483,13 +6448,10 @@ https://preprod-datahub.xelians.fr/
 https://preprod-xam.xelians.fr/
 https://priceless.com/golf/
 https://printerdriver.posti.com/
-https://privacy.blismedia.com
 https://privateinternetaccess.com/api/client/v5
 https://pro.posti.fi
 https://prod.euid.eu
 https://prod.uidapi.com
-https://production-delivery-metrics-svc.vistarmedia.com
-https://production-dynam-creative.vistarmedia.com
 https://production.maf.auth0.com
 https://production.maf.auth0.com/api/v2/
 https://profreg.medscape.com
@@ -6500,7 +6462,6 @@ https://pyszne.pl
 https://quantum-events.onecloud.harman.com
 https://quicksight.aws.amazon.com
 https://rc.fstr.rocks
-https://rc.wmaudience.com
 https://redash-staging.getmoneytree.com/
 https://refinedsites.refinedwiki.com
 https://regatta.aiven.io/
@@ -6560,21 +6521,17 @@ https://service.post.ch/ele-klp/ele/
 https://service.post.ch/zopa/app/
 https://services.chipotle.com
 https://services.unity.com
-https://sfleet.cortexpowered.com
-https://sflower.cortexpowered.com
 https://shop.ifood.com.br
 https://shop.monash.edu/
 https://shop.post.ch/shop
 https://shop.posti.fi
+https://sign.originzero.com.au
 https://signal.pulsepoint.com/hcp365/#/dashboard/advertiser/6603/overview
 https://signal.pulsepoint.com/hcpexplorer/#/dashboard/eventsExplorer
-https://signature.blis.com
 https://simnext.bullish-test.com
 https://simplisafe.co.uk
 https://simplisafe.com
 https://sip2.dmp.gouv.fr
-https://sitepixel.blis.com
-https://sitepixel.dev.blis.com
 https://skippayments.com
 https://skipthedishes.com
 https://smbu-api.maf.ae/
@@ -6589,16 +6546,14 @@ https://songlink.io
 https://soundcloud.com
 https://soundcloud.org
 https://speeddials.opera.com
-https://sprint.com
 https://square.online
 https://squareup.com/
 https://src.mastercard.com/*
 https://src.mastercard.com/profile/enroll
+https://ssu.staging.myconnect.com.au/get-connected
 https://stadtwien-my.sharepoint.com/
 https://staff.monash
 https://staging-api.bany.dev/
-https://staging-login.vistarmedia.com
-https://staging-trafficking.vistarmedia.com
 https://staging.claytonapp.com
 https://staging.claytonapp.com/api
 https://staging.gearset.com/
@@ -6615,7 +6570,6 @@ https://store.hytale.com/
 https://store.retail.lightspeed.app
 https://store.steampowered.com/app/4245930/Amiko_Legends/
 https://store.unity.com
-https://storybook.vistarmedia.com
 https://stp.wien.gv.at
 https://student.classdojo.com
 https://student.monash
@@ -6635,7 +6589,6 @@ https://support.newrelic.com/
 https://support.okta.com
 https://supportportal.thalesgroup.com
 https://sycamore.moneyboxapp.org
-https://t-mobile.com
 https://takeaway.com
 https://taxify.eu/
 https://teach.classdojo.com
@@ -6644,11 +6597,9 @@ https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/polling
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/upload
 https://teleoptiprd.otto.de
 https://tempus-ex.com
-https://tess.service-now.com
 https://testflight.apple.com/join/Y4cHu289
 https://testflight.apple.com/join/vwFxXX7t
 https://testnet-blockexplorer.electroneum.com
-https://tfb.t-mobile.com
 https://thatconceptstore.com
 https://thinkglobalhealth.org
 https://thueringer-foerderportal.eu
@@ -6661,7 +6612,6 @@ https://torquemag.io
 https://tr.ee
 https://tracker.bugcrowd.com
 https://tracker.naspers.com/
-https://transcodes-cdn.vistarmedia.com
 https://transfer.underarmour.com/
 https://transferwise.com
 https://translate.elementor.com/
@@ -6763,10 +6713,8 @@ https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_oi_appl/
 https://wibi.wien.gv.at/
 https://widget.thefork.com
 https://wien.at
-https://wiki.atom-lens.com
 https://wise-sandbox.com/
 https://wise.com
-https://wmaudience.com
 https://world.planethoster.net
 https://worldscan.org/address/0xDe7Ec97CFDeE9F20f9d256F4a0A0d694479fa2E0
 https://wowjobs.ca
@@ -6788,7 +6736,6 @@ https://www.allsaints.me/
 https://www.amazonpay.in/*
 https://www.arlo.com
 https://www.arrowfilms.com
-https://www.assurancewireless.com
 https://www.atlassian.com/enterprise/data-center/bitbucket
 https://www.atlassian.com/enterprise/data-center/confluence
 https://www.atlassian.com/enterprise/data-center/crowd
@@ -6987,6 +6934,7 @@ https://www.opposhop.cn/
 https://www.opposhop.cn/m/
 https://www.optus.com.au/osp-ecare
 https://www.optus.com.au/prepaid/activate
+https://www.originenergy.com.au/
 https://www.osl.com/en
 https://www.osl.com/hk-en
 https://www.otto.de
@@ -7102,6 +7050,8 @@ https://www.webproteus.com/lpro-web/login
 https://www.weebly.com/
 https://www.whosampled.com/
 https://www.wien.gv.at
+https://www.winconnect.com.au/get-connected/
+https://www.winconnect.com.au/moving-out/
 https://www.wyze.com/products/wyze-cam
 https://www.xvideos.net/app/
 https://www.yeswehack.com
@@ -7123,6 +7073,7 @@ https://zhongbao-ear.heytap.com/
 https://zhongbao.heytap.com/
 https://zuora-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/notifications/raas
 hub-api-sandbox.remitly.io
+hub.myconnect.com.au
 hub.vroid.com
 hub.vznkul.be/* 
 hub.vznkul.be/services/interhub/InterHubService
@@ -7631,6 +7582,7 @@ myaccount.trouw.nl
 myaccount.volkskrant.nl
 myaccount.vtm.be
 myanmar.visa.com
+myconnect.com.au
 mynexuz.be
 mynexuzhealth/id1459856321
 myself.tw.coupang.com
@@ -7930,6 +7882,8 @@ portal.23andme.com
 portal.arkoselabs.com
 portal.enterprise.uphold.com
 portal.gofoodmerchant.co.id
+portal.myconnect.com.au
+portal.myconnect.com.au/new-connection
 portal.nextcloud.com
 portal.polygon.technology
 portal.taxi.booking.com

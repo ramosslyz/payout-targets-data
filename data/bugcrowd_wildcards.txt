@@ -128,6 +128,11 @@ prod-*.nu.com.co
 *.adx.opera.com
 *.opsgenie.com
 *.optus.com.au
+*.origindigital-pac.com.au
+*.odcdn.com.au
+*.support.originenergy.com.au
+*.api.originenergy.com.au
+*.download.originenergy.com.au
 *.points.com
 *.quizlet.com
 *.quizlet.com
@@ -175,10 +180,6 @@ api-*.soundcloud.com
 *.services.repostnetwork.com
 api-*.soundcloud.com
 *.statuspage.io
-*.uscc.net
-*.uscc.com
-*.uscellular.com
-*.assurancewireless.com
 *.tesla.cn
 *.tesla.services
 *.tesla.com
