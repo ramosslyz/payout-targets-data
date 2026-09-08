@@ -579,6 +579,7 @@
 *.libelle.nl
 *.lightroom.adobe.com
 *.link.co
+*.linktree-extensions.com
 *.livestream.com
 *.localwp.com
 *.logi.com
@@ -784,6 +785,7 @@
 *.piaservers.net
 *.pinterest.com Web Apps
 *.pipopay.com
+*.plannthat.com
 *.platacard.mx
 *.platformservices.io
 *.play.ownit.se
@@ -4454,6 +4456,7 @@ https://agent.apps.monash.edu/
 https://aiven.io/
 https://aiven.io/clickhouse
 https://aiven.io/docs/products/metrics/concepts/metrics-overview
+https://album.link
 https://alumni-friends.monash.edu
 https://analytics-admin.prosus.com
 https://analytics.neogov.com
@@ -4605,6 +4608,7 @@ https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/certsy/id1617796159
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
+https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
 https://apps.apple.com/au/app/realestate-com-au-property/id404667893
 https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
 https://apps.apple.com/be/app/mediamarkt-belgi%C3%AB/id958993034
@@ -4751,6 +4755,7 @@ https://apps.facebook.com/vegas_downtown_slots
 https://apps.microsoft.com/detail/3cx/9NW77489NGJ0
 https://apps.yeswehack.com
 https://armourhouse.underarmour.com
+https://artist.link
 https://asana.com
 https://asana.com/apps?category=made-by-asana
 https://asana.com/download
@@ -5483,6 +5488,9 @@ https://life.pulsepoint.com/Buyer/#/campaign
 https://life.pulsepoint.com/EngagementAudience/#/dashboard
 https://life.pulsepoint.com/MediaPlanner/#/dashboard/targetview
 https://lifeapi.pulsepoint.com
+https://linktr.ee
+https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
+https://linktree.com
 https://liveassist.usaa.com/
 https://liveassist11.usaa.com/
 https://liveassist12.usaa.com/
@@ -6180,6 +6188,7 @@ https://myapi.arlo.com
 https://myapp.monash.edu/
 https://mydesktop.usaa.com
 https://mylightspeed.app
+https://mylink.page
 https://myopenpass.com
 https://myopenpassdemo.com/
 https://myplutus.pinelabs.my
@@ -6213,6 +6222,8 @@ https://oauth.ring.com/*
 https://ob-sandbox.gocardless.io
 https://octopus.com
 https://octopus.com/downloads
+https://odesli.co
+https://odesli.com
 https://oes.optusnet.com.au/
 https://ofa.adx.opera.com
 https://offer.tidal.com/download
@@ -6470,11 +6481,14 @@ https://play.google.com/store/search?q=Schweizer+Finanzmuseum&c=apps
 https://play.google.com/store/search?q=chipotle+mexican+grill&c=apps
 https://play.google.com/store/search?q=mall+of+emirates&c=apps&hl=en_IN
 https://play.google.com/store/search?q=mattermost&c=apps
+https://play.google.com/store/search?q=plann&c=apps
 https://play.google.com/store/search?q=simplisafe&c=apps
 https://play.immutable.com
+https://playlist.link
 https://plugins.matomo.org/developer/innocraft
 https://plugins.matomo.org/developer/matomo-org
 https://pluralcheckout.pinepg.in
+https://pods.link
 https://portal-api.anz.kinergysolutions.com
 https://portal.3cx.com
 https://portal.afterpay.com
@@ -6599,6 +6613,8 @@ https://snc.underarmour.com/
 https://snctest-c.underarmour.com/
 https://snctest-s.underarmour.com/
 https://solutions.visaacceptance.com/subscription
+https://song.link
+https://songlink.io
 https://soundcloud.com
 https://soundcloud.org
 https://speeddials.opera.com
@@ -6672,6 +6688,7 @@ https://tms.onecloud.harman.com
 https://tools-api.cryptocompare.com/
 https://toom.de
 https://torquemag.io
+https://tr.ee
 https://tracker.bugcrowd.com
 https://tracker.naspers.com/
 https://transcodes-cdn.vistarmedia.com
