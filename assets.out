@@ -1817,6 +1817,8 @@ Box Drive
 Box Tools
 Braintree SDK
 Brand Sites
+Brave Browser Desktop
+Brave websites
 Broken Link
 Browser Isolation
 BrowserGuard (Firefox/Chrome/Safari browser extension)
@@ -3495,6 +3497,8 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -5161,6 +5165,7 @@ https://github.com/base/*
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/trix
 https://github.com/basecamp/writebook
+https://github.com/brave/*, https://github.com/brave-intl/*
 https://github.com/circlefin/aptos-cctp
 https://github.com/circlefin/arc-node
 https://github.com/circlefin/arc-remote-signer
@@ -6231,6 +6236,7 @@ https://ofp.adx.opera.com
 https://ogws.optusnet.com.au/
 https://oma.posti.fi/
 https://onboard.neogov.com
+https://onchain.cc/
 https://one-sit.uat.proptrack.com/
 https://one.newrelic.com
 https://oneview.threatdownstage.com
@@ -8281,7 +8287,6 @@ shoppers.instacart.com
 sign.dropbox.com
 signature-insights.api.cx.metamask.io
 signin.auth.welt.de
-signrequest.com
 signup.sendgrid.com
 simperium.com
 simplenote.com
@@ -8352,7 +8357,6 @@ speelgoedfolder.kruidvat.be
 speelgoedfolder.kruidvat.nl
 splunk-phantom-nlb.marriott.com
 sporza.be
-sr-staging-1.com
 sso-sprint.dynatracelabs.com
 sso.8x8.com
 sso.8x8pilot.com
