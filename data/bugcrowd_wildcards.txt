@@ -60,6 +60,7 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.etsy.com
 *.certinia.com
 *.kiln.it
+*.kiln.it
 *.central.arubanetworks.com
 *.movilepay.com
 *.movilepay.com.br
@@ -89,8 +90,6 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.dev.*.lfscnp.com
 *.sandbox.*.lfscnp.com
 *.-np.*.lfscnp.com
-*.linktree-extensions.com
-*.plannthat.com
 bugcrowd-*your-own-instance*.cloud.mattermost.com/
 *.gp.monash.edu
 *.myfitnesspal.com
