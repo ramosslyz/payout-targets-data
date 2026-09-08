@@ -123,6 +123,7 @@
 *.as-nmt.de
 *.asadcdn.com
 *.asana.biz
+*.assurancewireless.com
 *.atairbnb.com
 *.atg.se
 *.atlastunnel.com
@@ -766,6 +767,7 @@
 *.petbook.de
 *.piaservers.com
 *.piaservers.net
+*.pinterest.com Web Apps
 *.pipopay.com
 *.plannthat.com
 *.platacard.mx
@@ -858,7 +860,6 @@
 *.router.hereapi.com
 *.rtbscale.com
 *.runnr.in
-*.s-cloud.net
 *.saltlabs.com
 *.sandbox.*.lfscnp.com
 *.savers.co.uk
@@ -892,7 +893,6 @@
 *.services-prod.nsvcs.net
 *.services.klaviyo.com
 *.services.netlify.com
-*.services.repostnetwork.com
 *.shein.com
 *.sheingsp.com
 *.shopify.com
@@ -931,7 +931,6 @@
 *.sol-data.com
 *.solarcity.com
 *.sonyentertainmentnetwork.com
-*.soundcloud.org
 *.soundon.global
 *.soyoustart.com
 *.spiketrap.io
@@ -1049,6 +1048,9 @@
 *.unrealengine.com
 *.unrealtournament.com
 *.uphold.com
+*.uscc.com
+*.uscc.net
+*.uscellular.com
 *.uzleuven.*
 *.vacationhomerentals.com
 *.varonis.com
@@ -1180,7 +1182,6 @@ analytics-*.8x8.com
 api*.hubapi.com
 api*.hubspot.com
 api*.netflix.com
-api-*.soundcloud.com
 api-gw-cf.*.aws.indriverapp.com
 app*.hubspot.com
 app-*.easy4ipcloud.com
