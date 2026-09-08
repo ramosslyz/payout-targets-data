@@ -384,10 +384,6 @@ https://marketplace.atlassian.com/apps/1213404/balsamiq-wireframes-for-confluenc
 https://marketplace.atlassian.com/apps/1212796/balsamiq-wireframes-for-jira-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/5161/balsamiq-wireframes-for-jira?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/256/balsamiq-wireframes-for-confluence?hosting=datacenter&tab=overview
-https://marketplace.atlassian.com/apps/1213404/balsamiq-wireframes-for-confluence-cloud?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1212796/balsamiq-wireframes-for-jira-cloud?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/5161/balsamiq-wireframes-for-jira?hosting=datacenter&tab=overview
-https://marketplace.atlassian.com/apps/256/balsamiq-wireframes-for-confluence?hosting=datacenter&tab=overview
 api.coinmarketcap.com
 pro-api.coinmarketcap.com
 https://www.binance.com/
@@ -1631,6 +1627,21 @@ https://app.opsgenie.com
 https://mobileapp.opsgenie.com
 Opsgenie (IoS)
 Opsgenie (Android)
+https://app.optimizely.com/
+https://cdn.optimizely.com/
+https://cdn-pci.optimizely.com/
+https://optimizely-edge.com
+https://api.optimizely.com/
+https://dxc.episerver.net/ 
+https://paasportal.episerver.net/
+https://paasportal.episerver.net/api/v1.0/
+https://app.welcomesoftware.com/
+https://accounts.welcomesoftware.com/
+https://api.welcomesoftware.com/
+https://cdn-app.welcomesoftware.com/
+https://analytics.welcomesoftware.com/
+https://flags.expeng.optimizely.com
+https://accounts.cmp.optimizely.com/
 https://play.google.com/store/apps/details?id=au.com.optus.selfservice&hl=en_AU&gl=US
 https://webmail.optusnet.com.au/
 https://apps.apple.com/au/app/my-optus/id503716230
@@ -2233,6 +2244,12 @@ https://marketplace.atlassian.com/apps/1224167/security-for-confluence-enhanced-
 https://marketplace.atlassian.com/apps/1229376/security-for-jira-enhanced-secret-scanner-by-soteri?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1229376/security-for-jira-enhanced-secret-scanner-by-soteri?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1221399/security-for-bitbucket-enhanced-secret-scanner-by-soteri?hosting=datacenter&tab=overview
+https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US
+https://soundcloud.com
+https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
+https://connect.soundcloud.com
+http://artists.soundcloud.com/
+https://soundcloud.org
 SpaceX and Starlink assets (target information and rewards detailed above on the brief)
 https://squareup.com/
 https://squareup.com/
@@ -2266,79 +2283,6 @@ https://marketplace.atlassian.com/apps/1226592/great-gadgets-for-confluence-clou
 https://marketplace.atlassian.com/apps/1217117/project-team-for-jira-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1237211/devops-gadgets-for-jira-insights-from-github-bb?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1234296/azure-sync-for-jira-assets?hosting=cloud
-Self-Register Account on T-Mobile Microsoft Entra ID
-Cellular Network Auth Bypass via Web App/T-Life (404-200-7239)
-T&P Servers
-https://t-mobile.com
-https://account.t-mobile.com
-https://api.t-mobile.com
-https://metrobyt-mobile.com
-https://sprint.com
-https://tfb.t-mobile.com
-https://devedge.t-mobile.com
-https://tess.service-now.com
-https://digits.t-mobile.com
-https://account.business.t-mobile.com
-https://t-mobile.com
-https://metrobyt-mobile.com
-https://sprint.com
-https://api.vistarmedia.com
-https://packages.cortexpowered.com
-https://api.vistarmedia.eu
-https://production-dynam-creative.vistarmedia.com
-https://storybook.vistarmedia.com
-https://creatives.vistarmedia.com
-https://sflower.cortexpowered.com
-https://production-delivery-metrics-svc.vistarmedia.com
-https://maps.vistarmedia.com
-https://transcodes-cdn.vistarmedia.com
-https://assets-cdn.vistarmedia.com
-https://docker-staging.adstruc.com
-https://staging-trafficking.vistarmedia.com
-https://job-svc-b.vistarmedia.com
-https://docsite.vistarmedia.com
-https://sfleet.cortexpowered.com
-https://audience-builder.vistarmedia.com
-https://staging-login.vistarmedia.com
-https://clients.adstruc.com
-https://demo.adstruc.com
-https://dashboard-101.moengage.com
-https://www.assurancewireless.com
-https://assets.platform.blis.com
-https://assets.development.amazon-tacticalplanner.com
-https://assets.platform.development.blis.com
-https://assets.platform.rc.blis.com
-https://audiencelogos.blis.com
-https://blis.com
-https://creative.infinity.blismedia.com
-https://development.wmaudience.com
-https://imply-pivot.blis.com
-https://imply-pivot.test.blis.com
-https://imply.blis.com
-https://imply.internal.platform.blis.com
-https://imply.platform.blis.com
-https://imply.platform.development.blis.com
-https://imply.platform.rc.blis.com
-https://imply.test.blis.com
-https://imply.wmaudience.com
-https://internal.platform.blis.com
-https://jenkins-github.gcp.blis.com
-https://platform.blis.com
-https://platform.blismedia.com
-https://platform.development.blis.com
-https://platform.development2.blis.com
-https://platform.rc.blis.com
-https://privacy.blismedia.com
-https://rc.wmaudience.com
-https://signature.blis.com
-https://sitepixel.blis.com
-https://sitepixel.dev.blis.com
-https://wiki.atom-lens.com
-https://wmaudience.com
-Subdomain Takeover
-Leaked Credentials
-https://apps.apple.com/us/app/t-mobile/id561625752
-https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
 Self-Register Account on T-Mobile Microsoft Entra ID
 Cellular Network Auth Bypass via Web App/T-Life (404-200-7239)
 T&P Servers

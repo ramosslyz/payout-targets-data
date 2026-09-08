@@ -876,6 +876,7 @@
 *.router.hereapi.com
 *.rtbscale.com
 *.runnr.in
+*.s-cloud.net
 *.saltlabs.com
 *.sandbox.*.lfscnp.com
 *.savers.co.uk
@@ -909,6 +910,7 @@
 *.services-prod.nsvcs.net
 *.services.klaviyo.com
 *.services.netlify.com
+*.services.repostnetwork.com
 *.shein.com
 *.sheingsp.com
 *.shopify.com
@@ -947,6 +949,7 @@
 *.sol-data.com
 *.solarcity.com
 *.sonyentertainmentnetwork.com
+*.soundcloud.org
 *.soundon.global
 *.soyoustart.com
 *.spiketrap.io
@@ -2814,6 +2817,7 @@ apcgateway.marriott.com
 api*.hubapi.com
 api*.hubspot.com
 api*.netflix.com
+api-*.soundcloud.com
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
 api-eu.floqast.app
@@ -4337,6 +4341,7 @@ http://api.na1.insightly.com/v3.1/
 http://app.scaleft.com/
 http://apps.connect.monash.edu/
 http://arcanitegames.ca/
+http://artists.soundcloud.com/
 http://auth.ripio.com
 http://backend-api.devicecloud.production.forescoutcloud.net/api/v1/settings
 http://bumba.global
@@ -4428,10 +4433,12 @@ https://account.business.t-mobile.com
 https://account.post.ch
 https://account.t-mobile.com
 https://account.teamviewer.com
+https://accounts.cmp.optimizely.com/
 https://accounts.hytale.com/login
 https://accounts.lastpass.com
 https://accounts.opera.com
 https://accounts.webmd.com
+https://accounts.welcomesoftware.com/
 https://acorns.com/
 https://addons.mozilla.org/en-US/firefox/addon/pinterest/
 https://admin-roundups.moneyboxapp.org
@@ -4452,6 +4459,7 @@ https://album.link
 https://alumni-friends.monash.edu
 https://analytics-admin.prosus.com
 https://analytics.neogov.com
+https://analytics.welcomesoftware.com/
 https://answers.irobot.com
 https://api-a.usaa.com
 https://api-app.datadome.co/
@@ -4500,6 +4508,7 @@ https://api.moneyboxapp.com
 https://api.myntra.com
 https://api.neogov.com
 https://api.openai.com
+https://api.optimizely.com/
 https://api.paddle.com
 https://api.paymaya.com/
 https://api.pcrs.kape.com
@@ -4531,6 +4540,7 @@ https://api.usaa.com/
 https://api.vistarmedia.com
 https://api.vistarmedia.eu
 https://api.voiapp.io/
+https://api.welcomesoftware.com/
 https://api.wyzecam.com
 https://api.x.immutable.com/
 https://api.yeswehack.com
@@ -4563,6 +4573,7 @@ https://app.intercom.io/
 https://app.latitudepayapps.com/
 https://app.navan.com
 https://app.opsgenie.com
+https://app.optimizely.com/
 https://app.recordedfuture.com
 https://app.requirementyogi.com
 https://app.ring.com/*
@@ -4571,6 +4582,7 @@ https://app.saltlabs.com/
 https://app.staging.luno.com/
 https://app.staging.saltlabs.com/
 https://app.thousandeyes.com/
+https://app.welcomesoftware.com/
 https://app.wisdomtreeconnect.com
 https://app.wisdomtreeconnect.com/api/
 https://app.wisdomtreeconnect.com/o/token/
@@ -4723,6 +4735,7 @@ https://apps.apple.com/us/app/save-to-pinterest/id6473649042
 https://apps.apple.com/us/app/share-rewards/id1465450657
 https://apps.apple.com/us/app/shuffles-by-pinterest/id1573869498
 https://apps.apple.com/us/app/simplisafe-home-security-app/id555798051
+https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788
 https://apps.apple.com/us/app/t-mobile/id561625752
 https://apps.apple.com/us/app/tesla/id582007913
@@ -4846,9 +4859,12 @@ https://casino.partycasino.com
 https://casino.sportingbet.com
 https://catering.chipotle.com
 https://cb.simplisafe.com
+https://cdn-app.welcomesoftware.com/
+https://cdn-pci.optimizely.com/
 https://cdn-store.opera-api.com
 https://cdn.myopenpass.com
 https://cdn.neogov.com
+https://cdn.optimizely.com/
 https://cdn.unicdn.net/apk/UnibetCasino.apk
 https://central.sophos.com
 https://central.sophos.com/
@@ -4888,6 +4904,7 @@ https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
 https://confluence.requirementyogi.com
 https://connect.monash.edu
 https://connect.paymaya.com/
+https://connect.soundcloud.com
 https://consensus2026.sandbox.events.coindesk.com/
 https://console-stage.neon.build/
 https://console.aiven.io/login
@@ -4987,6 +5004,7 @@ https://download.krisp.ai/win
 https://download.opera.com
 https://drive.google.com/file/d/17IX06JcI2Nn7hbg9kDps5iK6oVi9U71O/view?usp=sharing
 https://drp.myoppo.com/
+https://dxc.episerver.net/ 
 https://e-global.heytap.com/marketing/login
 https://e.oppo.com/
 https://ebctest.cybersource.com/CGK2
@@ -5077,6 +5095,7 @@ https://finance.quintoandar.com.br/*
 https://financeiro.hostgator.com.br
 https://financialforce.com
 https://fivetran.com/login
+https://flags.expeng.optimizely.com
 https://flo.uri.sh
 https://flourish.studio/
 https://flow.opera.com
@@ -6228,6 +6247,7 @@ https://opensea.io/
 https://opensource.epam.com
 https://operaneon.com
 https://ops-sso.adsrvr.org/
+https://optimizely-edge.com
 https://optout-prod.uidapi.com
 https://optout.prod.euid.eu
 https://optus.my.site.com/MyHub/s/
@@ -6238,6 +6258,8 @@ https://ort-authenticator.pingone.com/*
 https://ort-desktop.pingone.com/*
 https://osu.eu-west-2.outscale.com
 https://ota.onecloud.harman.com
+https://paasportal.episerver.net/
+https://paasportal.episerver.net/api/v1.0/
 https://packages.cortexpowered.com
 https://paddle.net
 https://parcelhubeurope.com
@@ -6404,6 +6426,7 @@ https://play.google.com/store/apps/details?id=com.scu.bsafe
 https://play.google.com/store/apps/details?id=com.siilo.android&hl=en
 https://play.google.com/store/apps/details?id=com.sixgroup.debixplus
 https://play.google.com/store/apps/details?id=com.sixgroup.id&hl=en_US&pli=1
+https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.squareup&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.squareup.cash
 https://play.google.com/store/apps/details?id=com.swapcard.apps.android&hl=fr
@@ -6591,6 +6614,8 @@ https://snctest-s.underarmour.com/
 https://solutions.visaacceptance.com/subscription
 https://song.link
 https://songlink.io
+https://soundcloud.com
+https://soundcloud.org
 https://speeddials.opera.com
 https://sprint.com
 https://square.online
