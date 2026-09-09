@@ -840,15 +840,6 @@ https://www.mankind.co.uk/
 https://www.illamasqua.com/
 https://www.matalan.co.uk
 https://www.enjoyselfish.com
-https://www.cultbeauty.co.uk/
-https://www.lookfantastic.com/
-https://www.myprotein.com/
-https://www.myvitamins.com/
-https://www.arrowfilms.com
-https://www.mankind.co.uk/
-https://www.illamasqua.com/
-https://www.matalan.co.uk
-https://www.enjoyselfish.com
 Hypixel Public APIs
 Hytale Game Client
 Hytale Game Server
@@ -1213,8 +1204,6 @@ https://artist.link
 https://pods.link
 https://playlist.link
 https://mylink.page
-https://marketplace.atlassian.com/apps/1230303/project-templates-for-jira?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1235430/space-templates-for-confluence?tab=overview&hosting=cloud
 ██████████████████
 ███████████████
 ██████████████████████████
@@ -1235,6 +1224,19 @@ https://staging.luno.com/
 https://staging.luno.com.ng
 https://api.staging.luno.com/
 https://app.staging.luno.com/
+https://www.crateandbarrel.me
+https://api-prod.thatconceptstore.com/
+https://apps.apple.com/app/id1503045795
+https://play.google.com/store/apps/details?id=com.maf.thatandroid
+https://thatconceptstore.com
+https://www.cb2.ae/en
+https://www.allsaints.me/
+https://www.lululemon.me
+https://lapi.yellowblocks.me
+https://www.shiseido.me/
+lego.me
+psychobunny.me
+fashion4less.me
 https://marketplace.atlassian.com/apps/1223655/magic-estimations-async-and-planning-poker-sizing-for-jira?hosting=cloud&tab=overview
 dashboard.magic.link
 auth.magic.link
@@ -2468,6 +2470,13 @@ https://itunes.apple.com/us/app/vacation-rentals-owner-app-by-tripadvisor/id1045
 http://marlo.ext.tripadvisor.com
 chainabuse-staging.com
 api.chainabuse-staging.com
+https://www.20min.ch
+https://coral.20min.ch/
+https://api.20min.ch/
+https://videoplayer.20min.ch
+https://partner-feeds.20min.ch
+https://screenplayer.20min.ch
+https://audio.20min.ch/
 https://www.20min.ch
 https://coral.20min.ch/
 https://api.20min.ch/
