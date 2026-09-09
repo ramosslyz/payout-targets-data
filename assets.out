@@ -894,6 +894,8 @@
 *.sc-corp.net
 *.scatec.io
 *.scbe.api.here.com
+*.scopely.com
+*.scopely.io
 *.sec-tunnel.com
 *.securecircle.com
 *.securegatewayaccess.com
@@ -1134,6 +1136,7 @@
 *.wise.com
 *.wissen-sie-mehr.de
 *.withairbnb.com
+*.withbuddies.com
 *.withspotify.com
 *.wlo.link
 *.wolt.com
@@ -2034,6 +2037,9 @@ G Hub
 GHE
 GS Select iOS app
 GameMaker Studio 2
+Games Tier 1
+Games Tier 2
+Games Tier 3
 Gardener
 Gateway
 Gemini
@@ -2772,6 +2778,7 @@ ai-tools.infomaniak.com
 ai.portswigger.net
 ai.x.GrokApp
 ai.x.grok
+air.com.bitrhymes.bingo
 air.com.buffalo_studios.newflashbingo
 air.com.playtika.cvs
 air.com.playtika.slotomania
@@ -3542,6 +3549,7 @@ com.fanduel.sportsbook
 com.finshell.finance
 com.finshell.wallet
 com.fintech.life
+com.foxnextgames.m3
 com.freshchat.agent.android
 com.freshdesk.helpdesk
 com.freshservice.helpdesk
@@ -3566,6 +3574,9 @@ com.gs.mobile.trader
 com.gs.pfmg.wellness
 com.gs.pwmdigital.external
 com.gs.pwmdigital.external.android
+com.gsn.android.casino
+com.gsn.android.tripeaks
+com.gsn.grandcasino
 com.hcom.android
 com.here.app.maps
 com.hey.app.ios
@@ -3610,6 +3621,7 @@ com.katanlabs.matchballgame
 com.katanlabs.worm.ioeatemall
 com.kayak.android
 com.kayak.travel
+com.kitkagames.fallbuddies
 com.konylabs.capitalone
 com.larksuite.suite
 com.linkedin.android
@@ -3670,6 +3682,7 @@ com.paypal.android.p2pmobile
 com.paypal.merchant
 com.paypal.merchant.client
 com.peterandlinda.iOCNotes
+com.pieyel.scrabble
 com.playtika.caesarscasino
 com.playtika.wsop.gp
 com.priceline.android.negotiator
@@ -3688,6 +3701,9 @@ com.robinhood.gateway
 com.robinhood.global Android
 com.robinhood.money
 com.romwe
+com.scopely.monopolygo
+com.scopely.startrek
+com.scopely.yux
 com.security.BatteryCam
 com.shopai.apps
 com.skypicker.Skypicker
@@ -3750,6 +3766,7 @@ com.whoop.android
 com.whoop.iphone
 com.wikibuy.prod.main
 com.wisdomtree.wtprime
+com.withbuddies.dice.free
 com.wolt.android
 com.wolt.courierapp
 com.wooga.pearlsperil
@@ -4128,7 +4145,6 @@ extranet.uzleuven.be
 fab.com
 falcon-sandbox.com
 fareharborsites.com
-fashion4less.me
 faucet-api.polygon.technology/
 faucet.polygon.technology
 fb.lansweeper.com
@@ -4475,7 +4491,6 @@ https://api-js.datadome.co
 https://api-next.flatmates.com.au
 https://api-portal.originzero.com.au
 https://api-prod.retailsso.com
-https://api-prod.thatconceptstore.com/
 https://api-ws.thefork.com
 https://api.20min.ch/
 https://api.aiven.io/login
@@ -4599,7 +4614,6 @@ https://apps.apple.com/app/bitpanda-buy-bitcoin-crypto/id1449018960
 https://apps.apple.com/app/bitx-wallet/id927362479
 https://apps.apple.com/app/chia-signer/id6504493785 
 https://apps.apple.com/app/id1216446440
-https://apps.apple.com/app/id1503045795
 https://apps.apple.com/app/id1635031432
 https://apps.apple.com/app/infomaniak-kdrive/id1482778676
 https://apps.apple.com/app/mall-of-the-emirates-moe/id1449578693
@@ -5450,7 +5464,6 @@ https://kyc.ripio.com/
 https://l.usaa.com/
 https://lab.epam.com
 https://landrover.here.com
-https://lapi.yellowblocks.me
 https://lastpass.com
 https://lastpass.com/misc_download2.php
 https://latitudeinfinity.com.au
@@ -6387,7 +6400,6 @@ https://play.google.com/store/apps/details?id=com.limebike
 https://play.google.com/store/apps/details?id=com.loom.android&hl=en_US&pli=1
 https://play.google.com/store/apps/details?id=com.maf.communities&hl=en-US
 https://play.google.com/store/apps/details?id=com.maf.share&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.maf.thatandroid
 https://play.google.com/store/apps/details?id=com.media.markt
 https://play.google.com/store/apps/details?id=com.media.saturn
 https://play.google.com/store/apps/details?id=com.monashuniversity.mspace.android&pcampaignid=web_share
@@ -6663,7 +6675,6 @@ https://testflight.apple.com/join/Y4cHu289
 https://testflight.apple.com/join/vwFxXX7t
 https://testnet-blockexplorer.electroneum.com
 https://tfb.t-mobile.com
-https://thatconceptstore.com
 https://thinkglobalhealth.org
 https://thueringer-foerderportal.eu
 https://ticket.multiplayer.classdojo.com
@@ -6797,7 +6808,6 @@ https://www.agoda.com/account/agodacash
 https://www.agoda.com/account/cashback
 https://www.agoda.com/book/
 https://www.akhwien.at
-https://www.allsaints.me/
 https://www.amazonpay.in/*
 https://www.arlo.com
 https://www.arrowfilms.com
@@ -6839,7 +6849,6 @@ https://www.canva.com/en_au/help/chatgpt-templates/
 https://www.canva.com/integrations/slack/
 https://www.carrefouruae.com/
 https://www.carsdirect.com
-https://www.cb2.ae/en
 https://www.cfr.org/
 https://www.chime.com
 https://www.chipotle.co.uk
@@ -6853,7 +6862,6 @@ https://www.coinspot.com.au/v2/api
 https://www.coloros.com/
 https://www.coral.co.uk
 https://www.coral.co.uk/en/games
-https://www.crateandbarrel.me
 https://www.creditkarma.com/reviews/
 https://www.creditkarma.com/savings
 https://www.cultbeauty.co.uk/
@@ -6934,7 +6942,6 @@ https://www.logitech.com/blog
 https://www.lookfantastic.com/
 https://www.loom.com/
 https://www.loom.com/download
-https://www.lululemon.me
 https://www.magicplanetmena.com/
 https://www.majidalfuttaimproperties.com/en
 https://www.malloftheemirates.com
@@ -7038,7 +7045,6 @@ https://www.saturn.de
 https://www.sdx.com/
 https://www.sharerewards.com/
 https://www.shffls.com
-https://www.shiseido.me/
 https://www.skidxb.com/
 https://www.skroutz.gr
 https://www.smartposti.ee
@@ -7179,8 +7185,11 @@ id.posti.fi
 id.stg.inspectorio.com
 id.superhuman.com
 id.tw.coupang.com
+id1427744264
 id1520720139
 id1534920947
+id1541153375
+id1621328561
 id635150066
 id6443932656
 id6472513080
@@ -7342,7 +7351,6 @@ launch.playcanvas.com
 launchpad.37signals.com
 lawmanager.marriott.com
 learningmanagerstage4.adobe.com
-lego.me
 leonard.vinci.com
 libNVVM API
 liberty-dev.wnba.com
@@ -8021,7 +8029,6 @@ proxy-production.lime.bike
 ps5.np.playstation.net
 pscp.tv
 psp.marriott.com
-psychobunny.me
 ptiw.nba.com
 public.hyatt.com
 publicsafety.ring.com
