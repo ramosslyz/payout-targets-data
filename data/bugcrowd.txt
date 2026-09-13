@@ -799,9 +799,6 @@ https://flourish.studio/
 https://xyzbmojn.net/
 flourish-user-templates.com
 flourish-user-preview.com
-https://github.com/freedomofpress/securedrop
-https://github.com/freedomofpress/securedrop-workstation
-https://github.com/freedomofpress/securedrop-client
 https://staging.gearset.com/
 https://staging.gearset.com/
 https://hipaa.staging.gearset.com/
@@ -2191,6 +2188,13 @@ https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
 https://play.google.com/store/apps/details?id=au.com.seek&hl=en_AU&gl=US
 https://apps.apple.com/au/app/certsy/id1617796159
 https://play.google.com/store/apps/details?id=com.certsy.app
+https://seekcdn.com
+https://graphql.seek.com
+https://auth.seek.com
+https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
+https://play.google.com/store/apps/details?id=au.com.seek&hl=en_AU&gl=US
+https://apps.apple.com/au/app/certsy/id1617796159
+https://play.google.com/store/apps/details?id=com.certsy.app
 ███████████████████
 ████████████
 ███████████████
@@ -2576,6 +2580,18 @@ Upwork - Messages
 Upwork - Mobile Application IOS
 Upwork - Mobile Application Android
 Upwork - api.upwork.com/graphql
+https://www.upwork.com
+Upwork - Android Application
+Upwork - iOS Application
+Upwork Dash Messenger Desktop Version (www.upwork.com/downloads)
+www.upwork.com/api 
+Direct Contracts
+api.upwork.com/graphql
+Upwork - Marketplace Portal
+Upwork - Messages
+Upwork - Mobile Application IOS
+Upwork - Mobile Application Android
+Upwork - api.upwork.com/graphql
 https://api.usaa.com/
 https://api-a.usaa.com
 https://b2bapi-a.usaa.com
@@ -2746,7 +2762,6 @@ https://www.wyze.com/products/wyze-cam
 █████████████████████████
 █████████████████████
 █████████████████
-https://marketplace.atlassian.com/apps/1228719/gitprotect-io-for-jira-backup-restore-dr-data-management?hosting=cloud
 staging-app.bany.dev
 https://staging-api.bany.dev/
 https://www.ynab.com/

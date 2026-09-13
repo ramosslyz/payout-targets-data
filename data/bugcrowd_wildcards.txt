@@ -160,6 +160,17 @@ prod-*.nu.com.co
 *.jobapi.net
 *.sol-data.com
 *.aips-internal.com
+*.seek.com
+*.employer.seek.com
+*.seekpass.co
+*.jobsdb.com
+*.jobstreet.com
+*.myseek.xyz
+*.outfra.xyz
+*.skinfra.xyz
+*.jobapi.net
+*.sol-data.com
+*.aips-internal.com
 *.prd.cam.simplisafe.com (HSP Endpoints)
 *.prd.platform.simplisafe.com (HSP Endpoints)
 *.prd.services.simplisafe.com (HSP Endpoints)
