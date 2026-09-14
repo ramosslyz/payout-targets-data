@@ -14,6 +14,7 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.bitdefender.com
 *.bitgo.com
 *.blofin.com
+*.boltable.eu
 *.gov.bugcrowd.net
 *.bugcrowd.com/auth/*
 *.canva.com
@@ -62,6 +63,8 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.central.arubanetworks.com
 *.movilepay.com
 *.movilepay.com.br
+*.imperva.com
+*.incapsula.com
 *.imperva.com
 *.incapsula.com
 *.indeedflex.com

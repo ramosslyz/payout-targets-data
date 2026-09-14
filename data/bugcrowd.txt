@@ -913,6 +913,9 @@ https://api.x.immutable.com/
 https://www.cloudvector.com/
 https://supportportal.thalesgroup.com
 PTaaS Reference
+https://www.cloudvector.com/
+https://supportportal.thalesgroup.com
+PTaaS Reference
 https://indeed.com
 https://apis.indeed.com/graphql
 https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch
@@ -2516,8 +2519,6 @@ https://my.mintmobile.com
 https://my.ultramobile.com
 https://play.google.com/store/apps/details?id=com.uvnv.mintsim
 https://apps.apple.com/us/app/mint-mobile/id1295303441
-https://mintmobile.com
-https://ultramobile.com
 https://web-retailer-portal.ultramobile.com
 https://www.underarmour.com
 https://www.underarmour.co.uk
