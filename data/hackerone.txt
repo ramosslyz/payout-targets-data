@@ -2436,8 +2436,7 @@ meliplay.com.pe
 meliplay.com.uy
 mercadobackoffice.com
 mercadoenvios.com.ve
-mercadolibreexperience.cl
-mercadolivreexperience.com.br/
+mercadolibreexperience.com.*
 mercadopago.com.ve
 mercadoplay.co
 mercadoplay.com.pe
@@ -3301,6 +3300,11 @@ www.semrush.com
 com.quora.android
 com.quora.app.mobile
 http://poe.com
+Brave Browser Desktop
+Brave websites
+com.brave.browser
+com.brave.ios.browser
+https://github.com/brave/*, https://github.com/brave-intl/*
 Burp Collaborator
 Burp Suite DAST
 Burp Suite Extension (BApps)
