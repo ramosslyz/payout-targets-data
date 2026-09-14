@@ -122,20 +122,6 @@ unified.cloudways.com
 www.cloudways.com
 css-tricks.com
 Any related DPG media domain
-profiles-api.datacamp.com
-app.datacamp.com/certification
-app.datacamp.com/groups
-app.datacamp.com/learn
-assessment-api.datacamp.com
-assessment-v2.datacamp.com 
-assessment.datacamp.com
-campus.datacamp.com
-com.datacamp
-https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
-practice.datacamp.com
-projects.datacamp.com
-www.datacamp.com
-www.datacamp.com/datalab
 myaccount.demorgen.be
 www.demorgen.be
 www.demorgen.be/abonnementen
@@ -481,6 +467,10 @@ mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
 https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050
 https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_oi_appl/
+https://auth2.pdq.com/
+https://library.pdq.com/
+https://portal.pdq.com/
+https://app.pdq.com/
 api.personio-dev.com
 api.personio.com
 https://community.personio.com
@@ -748,18 +738,6 @@ Brand Sites
 myaccount.vtm.be
 vtm.be/vtmgo
 vtmgo.be
-1467907532
-alchemy.veriff.com
-api.flamingo-eu.veriff.com
-api.us.veriff.me
-api.veriff.me
-com.veriff.demo
-louvre.veriff.me
-magic.veriff.me
-station.veriff.com
-stationapi.veriff.com
-developers.veriff.me
-www.veriff.com
 Voi – e-scooters & e-bikes
 Voi – e-scooter & e-bike hire
 https://api.voiapp.io/
