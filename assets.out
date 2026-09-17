@@ -1841,6 +1841,7 @@ Beats - Osquerybeat
 Beats - Packetbeat
 Beats - Winlogbeat
 Beeper
+BigQuery
 Binance Desktop Application
 Binance Mobile Application for Android
 Binance Mobile Application for iOS
@@ -2891,6 +2892,8 @@ api-sandbox.uphold.com
 api-sandbox.uphold.com/graphql
 api-staging.airtable.com
 api-uat-bugbounty.nonprod.syfe.com
+api-wallet-sandbox.venly.io
+api-wallet.venly.io
 api-wallet.web3auth.io
 api.23andme.com
 api.8x8.com
@@ -2898,6 +2901,7 @@ api.adm.cloud.com
 api.airbnb.com
 api.alasco.de
 api.anthropic.com
+api.arkane.network
 api.atg.se
 api.binance.com
 api.blockchain.info
@@ -3014,6 +3018,7 @@ api.prd.commerce.simplisafe.com
 api.preprod.monespacesante.fr
 api.privateinternetaccess.com
 api.privy.io
+api.pro.faraday.ai
 api.prod.whoop.com
 api.pub1.infomaniak.cloud
 api.pub2.infomaniak.cloud
@@ -3022,6 +3027,7 @@ api.razorpay.com
 api.reddit.com
 api.remitly.io
 api.robinhood.com
+api.row.pro
 api.ryadom.kz
 api.sandbox.topperpay.com
 api.savers.co.uk
@@ -3326,7 +3332,6 @@ business.snapchat.com
 business.tiktok.com
 business.truecaller.com
 businesshelp.snapchat.com
-buy.faraday.ai
 buy.logitech.com
 buy.moonpay.com
 by.visa.com
@@ -3872,8 +3877,10 @@ configure.mini.de
 confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
+connect.arkane.network 
 connect.posti.fi
 connect.secure.wellsfargo.com
+connect.venly.io
 console-backend.truelayer[-sandbox].com
 console.anthropic.com
 console.circle.com
@@ -7469,6 +7476,7 @@ login-api.truelayer[-sandbox].com
 login-dev.nba.com
 login-qa.nba.com
 login-uat.nba.com
+login.arkane.network
 login.cm.com
 login.delen.be 
 login.delen.ch 
@@ -7486,6 +7494,7 @@ login.remitly.com
 login.starbucks.co.jp
 login.swapcard.com
 login.truelayer[-sandbox].com
+login.venly.io
 login.www.vaxvacationaccess.com
 logiq.logitech.io
 logistica.redelcom.cl
@@ -7580,6 +7589,7 @@ mcdalerts-uat.nba.com
 mcdalerts.nba.com
 mch*.indriverapp.com
 mcp.8x8.com
+mcp.faraday.ai
 mcp.staging.airtable.com
 mcp.stripe.com
 mds.marriott.com
@@ -8095,6 +8105,7 @@ priority.eu-east-1.indriverapp.com
 pro-api.coinmarketcap.com
 pro.coinmarketcap.com
 pro.doctolib.(fr|de|it) (see "Free features for healthcare professionals"))
+pro.faraday.ai
 procuration.bpost.be
 prod-*.nu.com.co
 prod-*.nu.com.mx
@@ -8736,6 +8747,7 @@ w1.uzleuven.be
 w1.uzleuven.be/random
 wallet-sandbox.uphold.com
 wallet.tg
+wallet.venly.io
 wallet.web3auth.io
 walletbot.me
 wallets.api.playstation.com

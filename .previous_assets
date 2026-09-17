@@ -2148,6 +2148,7 @@ Beats - Packetbeat
 Beats - Winlogbeat
 Beeper
 Behance Freelance Job creation
+BigQuery
 Binance Desktop Application
 Binance Mobile Application for Android
 Binance Mobile Application for iOS
@@ -3722,6 +3723,7 @@ api.prd.commerce.simplisafe.com
 api.preprod.monespacesante.fr
 api.privateinternetaccess.com
 api.privy.io
+api.pro.faraday.ai
 api.prod.innovexperiments.com
 api.prod.whoop.com
 api.profiler.firefox.com
@@ -3734,6 +3736,7 @@ api.recordedfuture.com
 api.reddit.com
 api.remitly.io
 api.robinhood.com
+api.row.pro
 api.ryadom.kz
 api.s-kaupat.fi
 api.sandbox.topperpay.com
@@ -9952,6 +9955,7 @@ mcdalerts-uat.nba.com
 mcdalerts.nba.com
 mch*.indriverapp.com
 mcp.8x8.com
+mcp.faraday.ai
 mcp.staging.airtable.com
 mcp.stripe.com
 mds.marriott.com
@@ -10605,6 +10609,7 @@ pro-api.coinmarketcap.com
 pro.coinbase.com
 pro.coinmarketcap.com
 pro.doctolib.(fr|de|it) (see "Free features for healthcare professionals"))
+pro.faraday.ai
 procuration.bpost.be
 prod-*.nu.com.co
 prod-*.nu.com.mx
