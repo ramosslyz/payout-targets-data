@@ -90,7 +90,6 @@ web-mh.dmp.gouv.fr
 lps.dmp.gouv.fr
 lps2.dmp.gouv.fr
 https://sip2.dmp.gouv.fr
-Dovecot IMAP Server and Pigeonhole SIEVE (see "Software packages" and "Source code")
 app.expressmailguard.com
 expressvpn.jobs
 ExpressVPN APIs
@@ -414,6 +413,7 @@ https://api.pluralonline.com
 https://api.pluralpay.in
 https://pinepg.in
 https://pluralcheckout.pinepg.in
+PowerDNS authoritative server, recursor and DNSdist (see "Software packages" and "Source-code")
 api.privateinternetaccess.com
 https://privateinternetaccess.com/api/client/v5
 PIA VPN servers
