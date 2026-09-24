@@ -2,8 +2,6 @@
  *.test.*.lfscnp.com
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 *-api-*.acronis.com
-*. advancedcustomfields.com
-*. bettersearchreplace.com
 *. vfsevisa.id
 *.-np.*.lfscnp.com
 *.1debit.com
@@ -158,6 +156,7 @@
 *.bitdefender.com
 *.bitdefender.net
 *.bitgo.com
+*.bitoasis.net
 *.blinkforhome.com/*
 *.blofin.com
 *.boardkingsgame.com
@@ -234,6 +233,7 @@
 *.cognitiveperformer.com
 *.coinbase-corp.com
 *.coinbase.com
+*.coindcx.com
 *.computerbild.de
 *.consumer.worldcoin.org
 *.contactallerg(y|ie).uzleuven.be
@@ -255,9 +255,11 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
+*.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
-*.deliciousbrains.com
+*.dell.com/*
+*.delltechnologies.com/* 
 *.demo.bp.mortgagechoice.com.au
 *.demorgen.be
 *.deribit.com
@@ -582,7 +584,6 @@
 *.lightroom.adobe.com
 *.link.co
 *.linktree-extensions.com
-*.localwp.com
 *.logi.com
 *.logicool.co.jp
 *.logitech-channel-marketing.com
@@ -719,7 +720,6 @@
 *.nflxvideo.net
 *.nic.eu
 *.ninjakiwi.me
-*.nitropack.io
 *.niumba.com
 *.nkstatic.com
 *.nmfn.com
@@ -987,7 +987,6 @@
 *.streamlabscharity.com
 *.stripchat.com
 *.stripe.com
-*.studiopress.com
 *.stylebook.de
 *.subp-router.hereapi.com
 *.super.xyz
@@ -1035,7 +1034,7 @@
 *.toolsforhumanity.com
 *.topperpay.com
 *.tospotify.com
-*.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
+*.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org
 *.trainpal.com,*.mytrainpal.com
 *.transferwise.com
 *.travelbook.de
@@ -1049,9 +1048,6 @@
 *.trip.com
 *.triplinkintl.com
 *.trouw.nl
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tucarro.com.ve
@@ -1164,8 +1160,6 @@
 *.worldcoin.org
 *.worldfirst.com
 *.wotif.com
-*.wpengine.io
-*.wpesvc.net
 *.x.ai
 *.x.com
 *.xiangkankeji.cn
