@@ -4,7 +4,6 @@
 *.alipayplus.com
 *.antom.com
 *.worldfirst.com
-*.contentsquare.com
 *.cyberghostvpn.com
 *.cyberghost.com
 *.captcha-delivery.com
