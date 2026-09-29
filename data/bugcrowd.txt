@@ -957,7 +957,7 @@ https://marketplace.atlassian.com/apps/1212840/reminders-for-bitbucket?hosting=s
 https://marketplace.atlassian.com/apps/1212840/reminders-for-bitbucket?hosting=datacenter
 https://marketplace.atlassian.com/apps/1236742/advanced-content-status-labels-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/31399/jql-tricks-plugin?hosting=cloud&tab=overview
-https://apps.apple.com/us/app/jora-jobs-job-search-app/id917565665	
+https://apps.apple.com/au/app/jora-jobs-job-search-work/id917565665
 https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US	
 https://www.thuisbezorgd.nl/
 https://takeaway.com

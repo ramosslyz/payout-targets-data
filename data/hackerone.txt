@@ -836,12 +836,15 @@ openfinance.unico.io
 secure.unico.io
 unico.io
 Crypto infrastructure for cold and hot wallets
+http://t.me/wallet
+http://t.me/walt
 p2p.walletbot.me
 pay.wallet.tg
 wallet.tg
 walletbot.me
 wallettg.com
 wallettg.net
+walt.io
 api.vault.chiatest.net
 https://apps.apple.com/app/chia-signer/id6504493785 
 https://github.com/Chia-Network/chia-blockchain
