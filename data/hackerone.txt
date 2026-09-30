@@ -1029,6 +1029,7 @@ https://ebctest.cybersource.com/vroom
 https://ebctest.cybersource.com/vts
 https://solutions.visaacceptance.com/subscription
 https://usa.visa.com/gateway/api
+https://www.currencycloud.com/
 https://www.myvisacardportal.com/enbd/en_ae/landing/
 https://www.visa.com.az/az_az/account/registration
 https://www.visa.com.ua/
@@ -1059,7 +1060,6 @@ visaonchainanalytics.com
 visasgic.api-xperience.com
 vwcm.visa.com
 www.authorize.net
-www.currencycloud.com
 www.cybersource.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.com
@@ -3565,8 +3565,6 @@ smarttrader.deriv.com
 com.tinder
 fetlife.com
 fetlifemail.com
-dashboard.algolia.com
-www.algolia.com
 1142114207
 1257641454
 1343620481

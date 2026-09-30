@@ -2,8 +2,6 @@
  *.test.*.lfscnp.com
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 *-api-*.acronis.com
-*. advancedcustomfields.com
-*. bettersearchreplace.com
 *. vfsevisa.id
 *.-np.*.lfscnp.com
 *.1debit.com
@@ -60,8 +58,6 @@
 *.alasco.rocks
 *.aleenote.cn
 *.aleenote.com
-*.algolia.net
-*.algolianet.com
 *.alipayplus.com
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
@@ -258,7 +254,6 @@
 *.dash.ai
 *.dcfgateway.marriott.com
 *.de.jbl.com
-*.deliciousbrains.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demo.bp.mortgagechoice.com.au
@@ -589,7 +584,6 @@
 *.lightroom.adobe.com
 *.link.co
 *.linktree-extensions.com
-*.localwp.com
 *.logi.com
 *.logicool.co.jp
 *.logitech-channel-marketing.com
@@ -728,7 +722,6 @@
 *.nflxvideo.net
 *.nic.eu
 *.ninjakiwi.me
-*.nitropack.io
 *.niumba.com
 *.nkstatic.com
 *.nmfn.com
@@ -999,7 +992,6 @@
 *.streamlabscharity.com
 *.stripchat.com
 *.stripe.com
-*.studiopress.com
 *.stylebook.de
 *.subp-router.hereapi.com
 *.super.xyz
@@ -1177,8 +1169,6 @@
 *.worldcoin.org
 *.worldfirst.com
 *.wotif.com
-*.wpengine.io
-*.wpesvc.net
 *.x.ai
 *.x.com
 *.xiangkankeji.cn
