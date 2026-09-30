@@ -1437,6 +1437,7 @@ App Services/Realm
 Atlas Charts
 Atlas Data Federation
 Atlas IAM
+Atlas Infinite
 Atlas Payments/Billing
 Cluster-To-Cluster sync
 Compass
@@ -1446,6 +1447,8 @@ Enterprise Edition Products and Tools
 Jira Projects
 MongoDB Assistant
 MongoDB Atlas
+MongoDB Atlas Agent Engine 
+MongoDB Atlas Agent Engine CLI and First Party Libraries
 MongoDB Community Server
 MongoDB Connectors
 MongoDB IntelliJ Plugin
@@ -1457,6 +1460,7 @@ MongoDB Toolchain
 Relational Migrator
 University Platform
 VS Code Plugin
+voyageai.com
 *ripio.com
 *ripiotrade.co
 Web3 - Smart Contracts Scope

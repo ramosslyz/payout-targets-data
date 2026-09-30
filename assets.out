@@ -254,6 +254,7 @@
 *.coinbase.com
 *.computerbild.de
 *.consumer.worldcoin.org
+*.contactallerg(y|ie).uzleuven.be
 *.cp.dyson.com
 *.creditkarma.ca
 *.creditkarma.co.uk
@@ -587,6 +588,7 @@
 *.kruidvat.be
 *.kruidvat.nl
 *.kruidvatkids.nl
+*.kwsdose.be
 *.labs.8x8.com
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
@@ -687,6 +689,7 @@
 *.miot-spec.org
 *.mipay.com
 *.mipay.net
+*.mir.uzleuven.be
 *.mitt.vimla.se
 *.mittforetag.telenor.se
 *.miui.cn
@@ -819,6 +822,7 @@
 *.playstation.net
 *.playticorp.com
 *.playtika.com
+*.playuzleuven.be
 *.playwsop.com
 *.pns.hk
 *.points.com
@@ -1073,6 +1077,9 @@
 *.trip.com
 *.triplinkintl.com
 *.trouw.nl
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tucarro.com.ve
@@ -1105,6 +1112,7 @@
 *.uscc.com
 *.uscc.net
 *.uscellular.com
+*.uzleuven.*
 *.vacationhomerentals.com
 *.varonis.com
 *.varonis.io
@@ -1221,22 +1229,26 @@
 *.zomato.com
 *app.simple-reports.com/demo
 *dev*.arlo.com
+*dev.uzleuven.be
 *developer.cloud.com
 *elvetino.ch
 *ensemble*.yahoo.com
 *gateway-apc.marriott.com
+*idp*.uzleuven.be
 *inf.fndlsb.net
 *omega*.yahoo.com
 *qa*.arlo.com
 *ripio.com
 *ripiotrade.co
 *sbbcargo.com
+*stag*.uzleuven.be
 *test*.bykea.net
 *tidalhi.fi
 *transsicura.ch
 *uat.marriott.com
 *ubereats.com
 *vc.logitech.com
+*werkenbij.intergamma.nl
 /blog/ (or translated equivalent) endpoints on our sites
 1.1.1.1 Resolver
 1013961111
@@ -1363,6 +1375,7 @@
 193.109.229.0/24
 193.110.154.0/24
 193.5.66.0/23
+193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111
 193.8.251.0/24
 194.209.121.0/24
 194.35.79.0/24
@@ -1824,6 +1837,7 @@ Assets owned by RIPE NCC
 Atlas Charts
 Atlas Data Federation
 Atlas IAM
+Atlas Infinite
 Atlas Payments/Billing
 Authentication & ATO
 Backend endpoint: bug-bounty-be.glean.com
@@ -1857,6 +1871,7 @@ BuddyPress Core
 Burp Collaborator
 Burp Suite DAST
 Burp Suite Pro/Community
+C# SDK
 C100447517
 C103149579
 CDNJS
@@ -2133,6 +2148,7 @@ Infrastructure & Internal Apps/Services
 Insomnia CLI (inso)
 Insomnia Desktop Client
 Intellectual Property on Public Domains
+Java SDK
 Jetpack
 Jira
 Jira Projects
@@ -2287,6 +2303,8 @@ Moneyback Android
 Moneyback iOS
 MongoDB Assistant
 MongoDB Atlas
+MongoDB Atlas Agent Engine 
+MongoDB Atlas Agent Engine CLI and First Party Libraries
 MongoDB Community Server
 MongoDB Connectors
 MongoDB IntelliJ Plugin
@@ -2371,6 +2389,7 @@ Other assets
 Other assets owned by Personio
 Other non-production infrastructure
 Other related e-commerce services
+PHP SDK
 PIA VPN servers
 PNS Android
 PNS iOS
@@ -2394,6 +2413,7 @@ Protocol of the Swiss Post Voting System
 Protocol of the Swiss Post Voting System 2.0 (Whitepaper)
 Public API
 Public Others Target
+React Native SDK
 Recon Data
 Recruitment services
 Relational Migrator
@@ -2417,6 +2437,7 @@ Roblox Client
 Roblox Engine
 Roblox Studio
 Rockstar Games Launcher
+Rust SDK
 SAP AI Core
 SAP Business Network for Asset Collaboration
 SAP Business Network for Logistics	
@@ -2589,6 +2610,7 @@ Trello Mobile App for Android
 Trello Mobile App for iOS
 Trello Third Party Powerups
 Tribal Wars
+TrueLayer for Magento (Magento plugin)
 TrustedFirmware-A (TF-A)
 TrustedFirmware-M (TF-M)
 TrustedServer 100,000 Bonus Award (See Program Policy for Info)
@@ -2672,6 +2694,7 @@ Watsons Turkey iOS
 Watsons Vietnam Android
 Watsons Vietnam iOS
 Web Playback SDK
+Web SDK
 Web3 - Smart Contracts Scope
 Whatnot: Shop, Sell, Connect
 Wickr Me Android
@@ -2860,8 +2883,6 @@ api-sandbox.uphold.com
 api-sandbox.uphold.com/graphql
 api-staging.airtable.com
 api-uat-bugbounty.nonprod.syfe.com
-api-wallet-sandbox.venly.io
-api-wallet.venly.io
 api-wallet.web3auth.io
 api.23andme.com
 api.8x8.com
@@ -2869,7 +2890,6 @@ api.adm.cloud.com
 api.airbnb.com
 api.alasco.de
 api.anthropic.com
-api.arkane.network
 api.atg.se
 api.binance.com
 api.blockchain.info
@@ -2965,6 +2985,7 @@ api.midtrans.com
 api.monespacesante.fr
 api.moonpay.com
 api.moonx-dev.com
+api.mtls.truelayer[-sandbox].com
 api.nba.com
 api.neon.opera.com/neon/pub
 api.neon.opera.com/neon/store
@@ -3021,6 +3042,7 @@ api.taxjar.com
 api.theperfumeshop.com
 api.tidal.com
 api.trello.com
+api.truelayer[-sandbox].com
 api.tumblr.com
 api.twilio.com
 api.unleashed.be
@@ -3126,6 +3148,7 @@ app.ticketmaster.com.au
 app.ticketmaster.com.mx
 app.ticketmaster.eu
 app.ticketmaster.ie
+app.truelayer[-sandbox].com
 app.watsons.com.tr
 app.whoop.com
 app3.rewire.to
@@ -3178,6 +3201,7 @@ auth.digital.delen.lu
 auth.dmp.gouv.fr
 auth.monespacesante.fr
 auth.moonpay.com
+auth.mtls.truelayer[-sandbox].com
 auth.nextcloud.com
 auth.ort-one-pingone.com
 auth.preprod.monespacesante.fr
@@ -3185,11 +3209,13 @@ auth.privy.io
 auth.remitly.com
 auth.services.adobe.com
 auth.skypicker.com
+auth.truelayer[-sandbox].com
 auth0.com	
 auth0.net
 authentication.clearme.com
 authentication.wolt.com
 autocomplete.booking.com
+autodiscover.uzleuven.be
 autoupdateapi.lansweeper.com
 b5s.hackerone-ext-content.com
 backend-sdk.uat.private.unico.run
@@ -3352,6 +3378,8 @@ capitanes.gleague.nba.com
 capturingreality.com
 cardpayments.remitly.io
 cards.remitly.io
+cardsonline.azdiest.be
+cardsonlinetst.azdiest.be
 career.bpost.be
 careers.booking.com
 careers.capital.com
@@ -3838,15 +3866,15 @@ configure.bmw.de
 configure.mini.de
 confluence.hyattdev.com
 connect.8x8.com
-connect.arkane.network 
 connect.posti.fi
 connect.secure.wellsfargo.com
-connect.venly.io
+console-backend.truelayer[-sandbox].com
 console.anthropic.com
 console.circle.com
 console.ort-one-pingone.com
 console.posti.com
 console.tink.com
+console.truelayer[-sandbox].com
 console.x.ai
 console.x.com
 contact-dev.nba.com
@@ -4104,6 +4132,7 @@ ecom-static.kruidvat.be
 ecom-static.kruidvat.nl
 ecommerce.hostinger.com
 ecosystem-experience.super-id.net
+ecrf.uzleuven.be
 edge.bookbeat.com
 edge.lansweeper.com
 edgeapi.slack.com
@@ -4167,8 +4196,10 @@ expressvpn.jobs
 external-api.lime.bike
 external.indrive.dev
 external.logitech.com
+extranet-asa.uzleuven.be
 extranet.marionnaud.ch
 extranet.s-pankki.fi
+extranet.uzleuven.be
 extras-acc.landmarkcinemas.com
 extras.landmarkcinemas.com
 fab.com
@@ -4205,6 +4236,7 @@ fiat.a.exodus.io
 file-storage-front.eu-east-1.indriverapp.com
 file.larksuite.com
 files-stg.inspectorio.com
+files.uzleuven.be
 fileupload-video.tw.coupang.com
 fileupload.tw.coupang.com
 fintech-aml-kyc-tw.coupang.com
@@ -4809,6 +4841,7 @@ https://apps.apple.com/us/app/under-armour/id1092704571
 https://apps.apple.com/us/app/usaa-mobile/id312325565
 https://apps.apple.com/us/app/verily-me/id6448808133
 https://apps.apple.com/us/app/viator-tours-activities/id434832826
+https://apps.apple.com/us/app/vinted-pre-loved-marketplace/id632064380
 https://apps.apple.com/us/app/wise-ex-transferwise/id612261027
 https://apps.apple.com/us/developer/10bis-co-il-ltd/id434368194
 https://apps.apple.com/us/developer/skipthedishes/id969229980
@@ -4861,6 +4894,7 @@ https://b2blsapi-a.usaa.com
 https://b2blsapi.usaa.com
 https://backblaze.com
 https://backend.ibotta.com/
+https://badger.it.vinted.com
 https://basescan.org/address/0xf469eC9dEBf7F0adEBA4d1Db2FF5c70707bEeB30
 https://bb1.simplisafe.com
 https://bb2.simplisafe.com
@@ -4917,6 +4951,7 @@ https://c.realme.com/ru/
 https://carecredit.com.au
 https://careers.etsy.com
 https://careers.thetradedesk.com
+https://careers.vinted.com
 https://cas-cf.euce1.indriverapp.com/api/passkey
 https://cash.app
 https://cashback.opera.com/
@@ -4965,6 +5000,7 @@ https://community.exoscale.com/
 https://community.oppo.com/
 https://community.personio.com
 https://communityin.oppo.com/
+https://company.vinted.com
 https://compulsoryunits.monash.edu/
 https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
 https://confluence.requirementyogi.com
@@ -6301,6 +6337,7 @@ https://neon.opera.com/cards/
 https://net.geo.opera.com
 https://newrelic.com/
 https://newrelic.com/blog
+https://news.vinted.com
 https://nexo.com/
 https://next.flatmates.com.au
 https://nice.wfmusaa.com
@@ -6552,6 +6589,7 @@ https://play.google.com/store/apps/details?id=ee.mtakso.client
 https://play.google.com/store/apps/details?id=es.grupobme.bmeconecta
 https://play.google.com/store/apps/details?id=es.mediamarkt.app
 https://play.google.com/store/apps/details?id=exodusmovement.exodus&hl=en_IN
+https://play.google.com/store/apps/details?id=fr.vinted
 https://play.google.com/store/apps/details?id=id.co.bankfama.android&hl=en
 https://play.google.com/store/apps/details?id=id.dana&hl=en
 https://play.google.com/store/apps/details?id=io.gonative.android.xjndrq&hl=fr
@@ -6652,6 +6690,8 @@ https://sandbox-buy.paddle.com
 https://sandbox-checkout-service.paddle.com
 https://sandbox-login.paddle.com
 https://sandbox-vendors.paddle.com
+https://sandbox.vinted.com
+https://sandbox.vintedgo.com
 https://sb-console-api.fireblocks.io
 https://sb-mobile-api.fireblocks.io
 https://schulenwien.onmicrosoft.com
@@ -6777,6 +6817,7 @@ https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/upload
 https://teleoptiprd.otto.de
 https://tempus-ex.com
 https://tess.service-now.com
+https://test-escalations.vintedgo.com
 https://testflight.apple.com/join/Y4cHu289
 https://testflight.apple.com/join/vwFxXX7t
 https://testnet-blockexplorer.electroneum.com
@@ -7207,6 +7248,9 @@ https://www.venturatvos.com
 https://www.verisign.com
 https://www.vfsglobalcustomerexperience.com/CustomerFeedback/GeneralFeedback/Index
 https://www.vidaxl.(at|be|bg|ch|co.uk.com|com.au|com.ua|com|cz|de|dk|ee|es|fi|fr|gr|ie|is|it|hr|hu|lt|lv|no|nl|pl|pt|ro|se|si|sk|uk|ae|ca|jp)
+https://www.vinted.com
+https://www.vinted.net
+https://www.vintedgo.com
 https://www.visa.com.az/az_az/account/registration
 https://www.visa.com.ua/
 https://www.visaforkorea-sl.com/
@@ -7462,6 +7506,7 @@ ksuite.infomaniak.com
 ksuite.infomaniak.com/*/kdrive/*/preview/*
 kubernetes-csi.github.io
 kubernetes.io
+kumulus.uzleuven.be
 kws-companion/id1342124012
 kyc-onboarding.booking.com
 kyc.a.exodus.io
@@ -7490,6 +7535,8 @@ links.geneva-staging.chat
 links.geneva-staging.com
 links.portswigger.net
 liquidfiles.nexuzhealth.com
+liquidfiles.uzleuven.be
+liquidfilestest.uzleuven.be
 lirportal.ripe.net
 list-v2--netlify-plugins.netlify.app
 lists.nextcloud.com
@@ -7507,10 +7554,10 @@ logilife.logitech.com
 login-4ngbets.us.betfair.com
 login-4njbets.us.betfair.com
 login-accpt.portofantwerpbruges.com
+login-api.truelayer[-sandbox].com
 login-dev.nba.com
 login-qa.nba.com
 login-uat.nba.com
-login.arkane.network
 login.cm.com
 login.delen.be 
 login.delen.ch 
@@ -7527,7 +7574,7 @@ login.rei.com
 login.remitly.com
 login.starbucks.co.jp
 login.swapcard.com
-login.venly.io
+login.truelayer[-sandbox].com
 login.www.vaxvacationaccess.com
 logiq.logitech.io
 logistica.redelcom.cl
@@ -7718,8 +7765,10 @@ mgs.marriott.com
 mijn.gamma.be/*
 mijn.gamma.nl/*
 mijn.karwei.nl/*
+mijnacc.uzleuven.be
 minerva.robinhood.com
 mipartnerprivileges.marriott.com
+mirc.uzleuven.be
 mix-dev.monash.edu/*
 mix-qat.monash.edu/*
 mobile.clearme.com
@@ -7749,6 +7798,8 @@ msg-gw-cf.*.aws.indriverapp.com
 msg.playcanvas.com
 mta-sts.wearehackerone.com
 mus1.badoo.com
+mx1.uzleuven.be
+mx2.uzleuven.be
 my-accpt.portofantwerp.com
 my-accpt.portofantwerpbruges.com
 my.account.sony.com
@@ -7942,6 +7993,7 @@ oklahomacity-qa.gleague.nba.com
 oklahomacity.gleague.nba.com
 om.vodafone.mva
 onboarding-*.cloud.com
+onboarding-api.truelayer.com
 onboarding.cloud.com
 onboarding.greenhouse.io
 one-world-radio-tomorrowland/id1485778856
@@ -8010,13 +8062,16 @@ passwordchallenge.marriott.com
 pastela.app
 pay*.indriverapp.com
 pay-admin.exodus.io
+pay-api.truelayer[-sandbox].com
 pay.8x8.com
 pay.exodus.io
 pay.ibex.exchange
 pay.tokopediax.com
+pay.truelayer[-sandbox].com
 pay.tw.coupang.com
 pay.wallet.tg
 paybridge.booking.com
+paydirect.truelayer[-sandbox].com
 payment.backend-capital.com
 payment.bingo.com
 payment.casinohuone.com
@@ -8027,10 +8082,12 @@ payment.ottokasino.com
 payment.pixiv.net
 payment.storspelare.se
 payment.storspiller.com
+payment.truelayer[-sandbox].com
 payment.tw.coupang.com
 payment.unibet.(com­|it|se|co.uk|be|nl|dk|ro|ee|ie|com.au|mt)
 payment.vladcazino.ro
 paymentcomponent.booking.com
+payments-experience-api.truelayer[-sandbox].com
 payments.geneva-staging.chat
 payments.geneva-staging.com
 payments.hostinger.com
@@ -8042,6 +8099,7 @@ payroll.razorpay.com
 pb.deribit.com
 pc-cf.*.aws.indriverapp.com
 pc-gw-cf.*.aws.indriverapp.com
+pcrstudioruzb.uzleuven.be
 pdfroster-dev.nba.com
 pdfroster-qa.nba.com
 pdfroster.nba.com
@@ -8104,6 +8162,8 @@ pr-qa.nba.com
 pr.nba.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
+prddnighting01.uzleuven.be
+prddsplunkhf.uzleuven.be
 premium.pixiv.net
 preprod.am.monespacesante.fr
 preprod.api.monespacesante.fr
@@ -8164,6 +8224,7 @@ quickstamp-gb.bpost.be
 ra-cf.*.aws.indriverapp.com
 ra-gw-cf.*.aws.indriverapp.com
 rafflee.co.uk
+random.uzleuven.be/random/
 raptor*.bykea.net
 raptors905-dev.gleague.nba.com
 raptors905-qa.gleague.nba.com
@@ -8361,6 +8422,7 @@ session-share.playstation.com
 settings.superhuman.com
 sfc-cf.*.aws.indriverapp.com
 sfc-gw-cf.*.aws.indriverapp.com
+sftp.reports.truelayer.com
 sftp://ftp.developersites.com.au:45875
 sgnl.ai
 sgnl.cloud
@@ -8374,6 +8436,7 @@ share.portofantwerp.com
 share.portofantwerpbruges.com
 share.portswigger.net
 shop-id.tokopedia.com
+shop-pay-app-api.truelayer.com
 shop.app
 shop.dyson.co.za
 shop.dyson.tw
@@ -8386,6 +8449,7 @@ shop.trouw.nl
 shop.tw.coupang.com
 shop.whoop.com
 shop.wyndhamvacationownership.trisept.travel
+shopify-admin.truelayer.com
 shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
@@ -8532,6 +8596,7 @@ streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 sts.delen.be 
+sts.uzleuven.be
 studio-api.swapcard.com
 studio.swapcard.com
 style.23andme.org
@@ -8612,6 +8677,7 @@ test.payworks.io
 testapi.redoxengine.com
 testapp.redoxengine.com
 testbank.xs2a.com
+teststs.uzleuven.be
 texas-dev.gleague.nba.com
 texas-qa.gleague.nba.com
 texas.gleague.nba.com
@@ -8656,6 +8722,7 @@ trendyol.com
 trm.pinepaymentsolutions.com
 trs.nba.com
 truck-api.eu-east-1.indriverapp.com
+truelayer-signing
 trust.23andme.com
 try.discourse.org
 tucarro.com
@@ -8689,12 +8756,14 @@ us.cloud.com
 us.forescout.cloud
 us1.badoo.com
 usa.visa.com
+user-authentication-api.truelayer[-sandbox].com
 user-profile-staging.8x8.com
 user-profile.8x8.com
 usercontent.apps.nextcloud.com
 usercontent.koho.ca
 userprofile-acc.landmarkcinemas.com
 userprofile-ui.landmarkcinemas.com
+users-api.truelayer.com
 uwa.mobilevikings.be
 v0.app
 v0.dev
@@ -8755,6 +8824,7 @@ voi.com
 voices.nba.com
 volans.tech
 vote.nba.com
+voyageai.com
 vpn.mobilevikings.be
 vpn01.syd.optusnet.com.au
 vroid.com
@@ -8767,9 +8837,10 @@ vtmgo.be
 vttp.nba.com
 vwcm.visa.com
 vœux.vinci.com
+w1.uzleuven.be
+w1.uzleuven.be/random
 wallet-sandbox.uphold.com
 wallet.tg
-wallet.venly.io
 wallet.web3auth.io
 walletbot.me
 wallets.api.playstation.com
@@ -8804,6 +8875,7 @@ webapps.portofantwerp.com
 webapps.portofantwerpbruges.com
 webauthn.me	
 webhooks.booking.com
+webhooks.truelayer[-sandbox].com
 webtoolbox.notebleue.pro
 webwinkel.parool.nl
 webwinkel.trouw.nl
@@ -8856,6 +8928,7 @@ world.hey.com
 world.hyatt.com
 world.org
 worldcoin.org
+wp5-truststroke.uzleuven.be
 wps-cps.cv.dmp.gouv.fr
 wps-cps.dmp.gouv.fr
 wps-cps.dmp.monespacesante.fr
@@ -9197,6 +9270,7 @@ www.uphold.com
 www.upwork.com/api 
 www.urbanclap.com
 www.urbancompany.com
+www.uzleuven.be
 www.valmo.in
 www.valvesoftware.com
 www.veriff.com
@@ -9340,6 +9414,7 @@ ywh.update.zecible.fr
 ywh.zcb.fr
 zelleservice.my.salesforce.com
 zelleservice.my.site.com
+ziekenhuisschool.be
 zooplus.net
 ███
 ████

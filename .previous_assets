@@ -1448,6 +1448,7 @@
 *uat.marriott.com
 *ubereats.com
 *vc.logitech.com
+*werkenbij.intergamma.nl
 .NET Driver
 /blog/ (or translated equivalent) endpoints on our sites
 /blog/ endpoints on our sites
@@ -2133,6 +2134,7 @@ Atlas
 Atlas Charts
 Atlas Data Federation
 Atlas IAM
+Atlas Infinite
 Atlas Payments/Billing
 Audition
 Authentication & ATO
@@ -2816,6 +2818,8 @@ Moneyback Android
 Moneyback iOS
 MongoDB Assistant
 MongoDB Atlas
+MongoDB Atlas Agent Engine 
+MongoDB Atlas Agent Engine CLI and First Party Libraries
 MongoDB BI Connector
 MongoDB Community Server
 MongoDB Community Server Local Instance
@@ -6082,6 +6086,7 @@ https://apps.apple.com/us/app/under-armour/id1092704571
 https://apps.apple.com/us/app/usaa-mobile/id312325565
 https://apps.apple.com/us/app/verily-me/id6448808133
 https://apps.apple.com/us/app/viator-tours-activities/id434832826
+https://apps.apple.com/us/app/vinted-pre-loved-marketplace/id632064380
 https://apps.apple.com/us/app/wise-ex-transferwise/id612261027
 https://apps.apple.com/us/app/xfinity/id1178765645
 https://apps.apple.com/us/app/zola-baby-registry/id6446598574
@@ -6147,6 +6152,7 @@ https://b2blsapi.usaa.com
 https://baby.zola.com/
 https://backblaze.com
 https://backend.ibotta.com/
+https://badger.it.vinted.com
 https://base.org
 https://basescan.org/address/0xf469eC9dEBf7F0adEBA4d1Db2FF5c70707bEeB30
 https://bb1.simplisafe.com
@@ -6237,6 +6243,7 @@ https://candle.etoro.com
 https://carecredit.com.au
 https://careers.etsy.com
 https://careers.thetradedesk.com
+https://careers.vinted.com
 https://cas-cf.euce1.indriverapp.com/api/passkey
 https://cash.app
 https://cashback.opera.com/
@@ -6301,6 +6308,7 @@ https://community.exoscale.com/
 https://community.oppo.com/
 https://community.personio.com
 https://communityin.oppo.com/
+https://company.vinted.com
 https://compulsoryunits.monash.edu/
 https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
 https://confluence.requirementyogi.com
@@ -8242,6 +8250,7 @@ https://neon.opera.com/cards/
 https://net.geo.opera.com
 https://newrelic.com/
 https://newrelic.com/blog
+https://news.vinted.com
 https://nexo.com/
 https://next.flatmates.com.au
 https://nice.wfmusaa.com
@@ -8542,6 +8551,7 @@ https://play.google.com/store/apps/details?id=es.grupobme.bmeconecta
 https://play.google.com/store/apps/details?id=es.mediamarkt.app
 https://play.google.com/store/apps/details?id=exodusmovement.exodus&hl=en_IN
 https://play.google.com/store/apps/details?id=fr.gouv.tchap.a&hl=fr
+https://play.google.com/store/apps/details?id=fr.vinted
 https://play.google.com/store/apps/details?id=id.co.bankfama.android&hl=en
 https://play.google.com/store/apps/details?id=id.dana&hl=en
 https://play.google.com/store/apps/details?id=io.aurory.seekersoftokane&hl=en_CA
@@ -8696,6 +8706,8 @@ https://sandbox-login.paddle.com
 https://sandbox-vendors.paddle.com
 https://sandbox.directly.com/dashboard/index
 https://sandbox.open-xchange.com
+https://sandbox.vinted.com
+https://sandbox.vintedgo.com
 https://sb-console-api.fireblocks.io
 https://sb-mobile-api.fireblocks.io
 https://scalews.withings.com
@@ -8894,6 +8906,7 @@ https://temp-target.ai
 https://templates.etoro.com
 https://tempus-ex.com
 https://tess.service-now.com
+https://test-escalations.vintedgo.com
 https://test.m4sv.bugbounty.akinox.dev/
 https://testflight.apple.com/join/533gFghn
 https://testflight.apple.com/join/FuaxsScP
@@ -9493,6 +9506,9 @@ https://www.vfsvisaservice.com/
 https://www.vfsvisaservice.com/IHC-SouthKorea-Appointment
 https://www.vidaxl.(at|be|bg|ch|co.uk.com|com.au|com.ua|com|cz|de|dk|ee|es|fi|fr|gr|ie|is|it|hr|hu|lt|lv|no|nl|pl|pt|ro|se|si|sk|uk|ae|ca|jp)
 https://www.vidaxl{at|be|bg|ch|co.uk.com|com.au|com.ua|com|cz|de|dk|ee|es|fi|fr|gr|ie|is|it|hr|hu|lt|lv|no|nl|pl|pt|ro|se|si|sk|uk|ae|ca|jp}
+https://www.vinted.com
+https://www.vinted.net
+https://www.vintedgo.com
 https://www.visa.com.az/az_az/account/registration
 https://www.visa.com.ua/
 https://www.visaforkorea-sl.com/
@@ -11500,6 +11516,7 @@ voi.com
 voices.nba.com
 volans.tech
 vote.nba.com
+voyageai.com
 vpn.mobilevikings.be
 vpn.mozilla.org
 vpn01.syd.optusnet.com.au
