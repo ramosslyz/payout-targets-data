@@ -620,9 +620,9 @@ https://business.rivian.com/api
 https://rivian.com/api/gql/content/graphql
 https://rivian.com/api/gql/gateway/graphql
 https://rivian.com/api/gql/orders/graphql
-1570215232
+Rivian iOS Application
 basecamp.rivian.com
-com.rivian.android.consumer
+Rivian Android Application
 rivian.com
  Mobile Apps
 www.sbb.ch

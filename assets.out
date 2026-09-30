@@ -992,6 +992,8 @@
 *.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
+*.sqills.com
+*.sqills.team
 *.srvcs.tumblr.com
 *.stadtwien.onmicrosoft.com
 *.stag.tomorrowland.com
@@ -1335,7 +1337,6 @@
 1541949985
 1552455423
 1558129454
-1570215232
 1579372261
 1579530451
 1589071345
@@ -2410,6 +2411,8 @@ Reno9Pro+5G
 Reno9Pro5G
 Ring Alarm
 Ring Smart Lighting Bridge
+Rivian Android Application
+Rivian iOS Application
 Roblox Client
 Roblox Engine
 Roblox Studio
@@ -2814,7 +2817,6 @@ akismet.com
 alchemy.veriff.com
 alert.logitech.com
 alerts.ninjakiwi.com
-alfred-uat-31.nonprod.syfe.com
 alfred.syfe.com
 alipayhk.com
 all-inclusive.marriott.com
@@ -3718,7 +3720,6 @@ com.ring.neighborhoods
 com.ringapp
 com.ripio.android
 com.ripio.ios
-com.rivian.android.consumer
 com.robinhood.android
 com.robinhood.gateway
 com.robinhood.global Android
