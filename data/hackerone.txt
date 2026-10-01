@@ -1421,7 +1421,6 @@ wallet.web3auth.io
 api-eu.floqast.app
 Any public (Internet-facing) infrastructure owned and operated by Palantir.
 Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
-All Evergreen Assets (Excluding staging)
 App Services/Realm
 Atlas Charts
 Atlas Data Federation
@@ -1433,17 +1432,18 @@ Compass
 Database Tools
 Drivers
 Enterprise Edition Products and Tools
+Evergreen
 Jira Projects
 MongoDB Assistant
 MongoDB Atlas
 MongoDB Atlas Agent Engine 
 MongoDB Atlas Agent Engine CLI and First Party Libraries
-MongoDB Community Server
 MongoDB Connectors
 MongoDB IntelliJ Plugin
 MongoDB MCP Server
 MongoDB Owned GitHub Repositories
 MongoDB Partner Integrations
+MongoDB Server
 MongoDB Shell
 MongoDB Toolchain
 Relational Migrator
