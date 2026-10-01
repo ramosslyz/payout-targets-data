@@ -1222,7 +1222,6 @@ publicsafety.ring.com
 http://ibt-test.six-group.com
 https://apps.apple.com/ch/app/debix/id1581440132?l=en-GB
 https://apps.apple.com/mx/app/debix/id1581440132
-https://apps.apple.com/mx/app/schweizer-finanzmuseum/id1225222871
 https://apps.apple.com/mx/app/six-id/id1620496931
 https://apps.apple.com/us/app/bme-conecta/id6443938949
 https://disclosure-test.six-exchange-regulation.com/
@@ -1230,7 +1229,6 @@ https://fx-qa.np.bolsasymercados.es/
 https://play.google.com/store/apps/details?id=com.sixgroup.debixplus
 https://play.google.com/store/apps/details?id=com.sixgroup.id&hl=en_US&pli=1
 https://play.google.com/store/apps/details?id=es.grupobme.bmeconecta
-https://play.google.com/store/search?q=Schweizer+Finanzmuseum&c=apps
 https://secure-test.six-swiss-exchange.com/
 https://web3.sdx.com
 https://www.sdx.com/
@@ -1338,7 +1336,6 @@ v0.app
 v0.dev
 vercel.app
 vercel.com
-ab-platform-api.eu-east-1.indriverapp.com
 alternativa.film
 api.ryadom.kz
 auroratechaward.com
@@ -1349,8 +1346,6 @@ couriers.indrive.com
 debug.clairvoyance.indrive.tech
 delivery-webview.indrive.com
 external.indrive.dev
-file-storage-front.eu-east-1.indriverapp.com
-https://cas-cf.euce1.indriverapp.com/api/passkey
 indrive.com
 ingest.clairvoyance.indrive.tech
 intercity.indrive.com
@@ -1358,19 +1353,13 @@ invisionu.education
 job.ryadom.kz
 landing.ryadom.kz
 media.indrive.com
-messenger.eu-east-1.indriverapp.com
 movie.indrive.com
-new-order.eu-east-1.indriverapp.com
 oymyakon.indriver.io
-priority.eu-east-1.indriverapp.com
-profile-api.eu-east-1.indriverapp.com
 ryadom.kz
 sso.ryadom.kz
 teammate.indriver.io
-truck-api.eu-east-1.indriverapp.com
 url-checker.indrive.com
 volans.tech
-watchdocs.indriverapp.com
 web.ryadom.kz
 wga.volans.tech
 Android & iOS App for REI Customers
@@ -2048,15 +2037,6 @@ transact.playstation.com
 wallets.api.playstation.com
 web.np.playstation.com
 www.playstation.com
-*-asia-south1.truecaller.com
-*-eu.truecaller.com
-*-noneu.truecaller.com
-448142450
-business-resources.truecaller.com
-business.truecaller.com
-com.truecaller
-web.truecaller.com
-www.truecaller.com
 281796108
 406056744
 9wzdncrfj3mb
