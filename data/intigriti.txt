@@ -124,6 +124,20 @@ unified.cloudways.com
 www.cloudways.com
 css-tricks.com
 Any related DPG media domain
+profiles-api.datacamp.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
+assessment-api.datacamp.com
+assessment-v2.datacamp.com 
+assessment.datacamp.com
+campus.datacamp.com
+com.datacamp
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
+practice.datacamp.com
+projects.datacamp.com
+www.datacamp.com
+www.datacamp.com/datalab
 myaccount.demorgen.be
 www.demorgen.be
 www.demorgen.be/abonnementen
@@ -701,6 +715,36 @@ shop.trouw.nl
 webwinkel.trouw.nl
 www.trouw.nl
 www.trouw.nl/abonnementen
+api.truelayer[-sandbox].com
+api.mtls.truelayer[-sandbox].com
+auth.truelayer[-sandbox].com
+auth.mtls.truelayer[-sandbox].com
+app.truelayer[-sandbox].com
+login-api.truelayer[-sandbox].com
+login.truelayer[-sandbox].com
+onboarding-api.truelayer.com
+pay-api.truelayer[-sandbox].com
+pay.truelayer[-sandbox].com
+paydirect.truelayer[-sandbox].com
+payment.truelayer[-sandbox].com
+payments-experience-api.truelayer[-sandbox].com
+user-authentication-api.truelayer[-sandbox].com
+users-api.truelayer.com
+C# SDK
+console-backend.truelayer[-sandbox].com
+console.truelayer[-sandbox].com
+sftp.reports.truelayer.com
+Java SDK
+PHP SDK
+TrueLayer for Magento (Magento plugin)
+shopify-admin.truelayer.com
+shop-pay-app-api.truelayer.com
+truelayer-signing
+webhooks.truelayer[-sandbox].com
+iOS SDK
+React Native SDK
+Web SDK
+Rust SDK
 TrustedFirmware-A (TF-A)
 TrustedFirmware-M (TF-M)
 TF-PSA-Crypto
@@ -765,6 +809,14 @@ Brand Sites
 myaccount.vtm.be
 vtm.be/vtmgo
 vtmgo.be
+api-wallet.venly.io
+api.arkane.network
+connect.arkane.network 
+connect.venly.io
+login.arkane.network
+login.venly.io
+wallet.venly.io
+api-wallet-sandbox.venly.io
 1467907532
 alchemy.veriff.com
 api.flamingo-eu.veriff.com
@@ -777,6 +829,26 @@ station.veriff.com
 stationapi.veriff.com
 developers.veriff.me
 www.veriff.com
+564141518
+accountsettings.connect.identity.stagaws.visma.com
+admin.stage.vismaonline.com
+aiassistant.stage.vismaonline.com
+api.workbox.dk
+app.workbox.dk
+authz.workbox.dk
+com.visma.blue
+connect.identity.stagaws.visma.com
+eaccounting.stage.vismaonline.com
+eaccountingprinting.stage.vismaonline.com
+identity.stage.vismaonline.com
+myservices-api.stage.vismaonline.com
+myservices.stage.vismaonline.com
+oauth.developers.stagaws.visma.com
+photoservice.stage.vismaonline.com
+ai-testing.maventa.com
+ax-stage.maventa.com
+autointerface.stag.visma.net
+testing.maventa.com
 Voi – e-scooters & e-bikes
 Voi – e-scooter & e-bike hire
 https://api.voiapp.io/
