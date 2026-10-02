@@ -264,7 +264,6 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
-*.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.dell.com/*
@@ -1839,8 +1838,6 @@ Box Drive
 Box Tools
 Braintree SDK
 Brand Sites
-Brave Browser Desktop
-Brave websites
 Broken Link
 Browser Isolation
 BrowserGuard (Firefox/Chrome/Safari browser extension)
@@ -3058,13 +3055,9 @@ app.alasco.de
 app.basecamp.com
 app.box.com
 app.circle.com
-app.datacamp.com/certification
-app.datacamp.com/groups
-app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
-app.demand.cybersource.com
 app.deriv.com
 app.drogas.lt
 app.drogas.lv
@@ -3155,9 +3148,6 @@ arc.net
 arrive-server.shopifycloud.com
 arsentomsky.indrive.com
 askpeopleteam.visa.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com 
-assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.koho.ca
@@ -3361,7 +3351,6 @@ campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
-campus.datacamp.com
 cancellation.prod.ps.welt.de
 canton-dev.gleague.nba.com
 canton-qa.gleague.nba.com
@@ -3461,6 +3450,8 @@ claude.ai
 clay.earth
 clearme.atlassian.net
 clearme.com
+cleveland-dev.gleague.nba.com
+cleveland-qa.gleague.nba.com
 cleveland.gleague.nba.com
 clicks.koho.ca
 client-api.arkoselabs.com
@@ -3484,6 +3475,9 @@ co-in-cf.mena.meso1.aws.indriverapp.com
 co-in-gw-scf.sa.apse1.aws.indriverapp.com
 co.mona.android
 co.uk.getmondo
+coachellavalley-dev.gleague.nba.com
+coachellavalley-qa.gleague.nba.com
+coachellavalley.gleague.nba.com
 coalition-dev.nba.com
 coalition-qa.nba.com
 coban.pixiv.net
@@ -3569,8 +3563,6 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
-com.brave.browser
-com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -3592,7 +3584,6 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
-com.datacamp
 com.dd.doordash
 com.deribit
 com.dolap.android
@@ -4711,7 +4702,6 @@ https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/certsy/id1617796159
-https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/jora-jobs-job-search-work/id917565665
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
@@ -5269,7 +5259,6 @@ https://github.com/base/*
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/trix
 https://github.com/basecamp/writebook
-https://github.com/brave/*, https://github.com/brave-intl/*
 https://github.com/circlefin/aptos-cctp
 https://github.com/circlefin/arc-node
 https://github.com/circlefin/arc-remote-signer
@@ -6785,7 +6774,6 @@ https://snapnames.com/
 https://snc.underarmour.com/
 https://snctest-c.underarmour.com/
 https://snctest-s.underarmour.com/
-https://solutions.visaacceptance.com/subscription
 https://song.link
 https://songlink.io
 https://soundcloud.com
@@ -7422,7 +7410,6 @@ ignite-dev.gleague.nba.com
 ignite-qa.gleague.nba.com
 ignite.gleague.nba.com
 ik.watsons.com.tr
-images.demand.cybersource.com
 img.swapcard.com
 imove.bpost.cloud
 ims-na1.adobelogin.com
@@ -7438,7 +7425,6 @@ indicative-pricing.taxi.booking.com
 indrive.com
 inference.do-ai.run
 influencers.tw.coupang.com
-info.authorize.net
 infomaniak.events
 ingest.clairvoyance.indrive.tech
 innersloth.kidswebservices.com
@@ -7549,6 +7535,9 @@ l75pvbdyjo.infomaniak.site
 lakeland-dev.gleague.nba.com
 lakeland-qa.gleague.nba.com
 lakeland.gleague.nba.com
+laketown-dev.gleague.nba.com
+laketown-qa.gleague.nba.com
+laketown.gleague.nba.com
 landing.ryadom.kz
 lark-frontier.byteoversea.com
 larksuite.com
@@ -8071,6 +8060,8 @@ origenbanking.com
 origencard.com
 origendebit.com
 origenfinance.com
+osceola-qa.gleague.nba.com
+osceola.gleague.nba.com
 outage.logitech.com
 outagehistory.logitech.com
 outlook.insightly.com
@@ -8201,7 +8192,6 @@ ppw.euce1.indriverapp.com
 pr-dev.nba.com
 pr-qa.nba.com
 pr.nba.com
-practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -8242,8 +8232,6 @@ profiel.vrt.be
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profile.playstation.com
-profiles-api.datacamp.com
-projects.datacamp.com
 projects.nextcloud.com
 promo.tw.coupang.com
 prow.k8s.io
@@ -8410,6 +8398,7 @@ sandbox.braintreegateway.com
 sandbox.developer.plus.authorize.net
 sandbox.secure.checkout.visa.com
 sandbox.securegateway.com
+sandiego.gleague.nba.com
 santacruz-dev.gleague.nba.com
 santacruz-qa.gleague.nba.com
 santacruz.gleague.nba.com
@@ -8805,6 +8794,8 @@ validationlist.bpost.be
 valkyries-dev.wnba.com
 valkyries-qa.wnba.com
 valkyries.wnba.com
+valley-qa.gleague.nba.com
+valley.gleague.nba.com
 vap.8x8.com
 vasdemos.visa.com
 vault2.faraday.ai
@@ -9018,8 +9009,6 @@ www.creditkarma.ca
 www.crowdstrike.com
 www.crowdstrike.org
 www.cybersource.com
-www.datacamp.com
-www.datacamp.com/datalab
 www.ddfcontent.com
 www.delen.bank
 www.delen.be/en 
