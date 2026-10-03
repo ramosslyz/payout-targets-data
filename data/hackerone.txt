@@ -3019,8 +3019,6 @@ CrowdStrike public infrastructure
 apps.apple.com/us/app/crowdstrike-falcon/id1458815656
 falcon-sandbox.com
 hybrid-analysis.com
-onum-labs.com
-onum.com
 play.google.com/store/apps/details?id=com.crowdstrike.falconmobile
 sgnl.ai
 sgnl.cloud
