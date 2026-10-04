@@ -17,11 +17,6 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.boltable.eu
 *.gov.bugcrowd.net
 *.bugcrowd.com/auth/*
-*.canva.com
-*.canva-apps.com
-*.canva.tech
-*.canva.cn
-*.canva-apps.cn
 *.chimepayments.com
 *.chime.com
 *.1debit.com
@@ -93,6 +88,7 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.plannthat.com
 *.lululemon.com
 bugcrowd-*your-own-instance*.cloud.mattermost.com/
+*.gp.monash.edu
 *.gp.monash.edu
 *.myfitnesspal.com
 *.nr-data.net

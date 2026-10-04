@@ -200,11 +200,6 @@
 *.bz-berlin.de
 *.caesarsgames.com
 *.call-control.ie
-*.canva-apps.cn
-*.canva-apps.com
-*.canva.cn
-*.canva.com
-*.canva.tech
 *.capital.com
 *.capitalone.ca
 *.capitalone.com
@@ -1537,7 +1532,6 @@
 3d.cs.money
 3rd Party Integrations (Hytale-side issues only)
 3rd party services hosted at *.sophos.com
-3rd-Party Provider Vulnerability
 3rdparty-apis.coinmarketcap.com
 403546234
 403684733
@@ -1778,7 +1772,6 @@ Anything that Clearly Affects Northwestern Mutual But is Not Own by Northwestern
 App Services/Realm
 Applications/Extensions under https://www.cyberghostvpn.com/download
 Applications/Extensions under https://www.privateinternetaccess.com/download
-Apps SDK Sandboxing
 Arc on Mac
 Arc on Windows
 Area 1
@@ -1848,10 +1841,6 @@ CDNJS
 CUDA Driver APIs
 CUDA Libraries
 CUDA Runtime APIs
-Canva (Android)
-Canva (Chrome Extension)
-Canva (iOS)
-Canva Desktop (macOS / Windows)
 Capital One Shopping Browser Extension
 Capture the Flag
 Career Scout
@@ -2193,8 +2182,6 @@ Kruidvat NL iOS
 Lakebase-Supported extensions
 LaunchDarkly Open Source SDKs
 Leaked Credentials
-Leaked Credentials and Secrets (Canva Employee/Contractor)
-Leaked Credentials and Secrets (Canva User)
 Leaked Employee API Keys
 Leaked/compromised employee accounts *.here.com
 Leaked/Сompromised Employee accounts
@@ -4562,7 +4549,6 @@ https://api.blts.kape.com
 https://api.bookbeat.com
 https://api.bugcrowd.com
 https://api.bykea.net
-https://api.canva.com
 https://api.classdojo.com
 https://api.cloudinary.com
 https://api.cyberghostvpn.com
@@ -6984,10 +6970,6 @@ https://www.bookbeat.com
 https://www.bostonacoustics.com
 https://www.bowerswilkins.com
 https://www.bwin.com
-https://www.canva.com
-https://www.canva.com/developers/
-https://www.canva.com/en_au/help/chatgpt-templates/
-https://www.canva.com/integrations/slack/
 https://www.carrefouruae.com/
 https://www.carsdirect.com
 https://www.cb2.ae/en
