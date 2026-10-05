@@ -315,6 +315,7 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
+*.data.api.platform.here.com
 *.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
@@ -774,6 +775,7 @@
 *.mercadoshops.com.py
 *.mercadoshops.com.uy
 *.metamask.io
+*.metrics.platform.here.com
 *.metronome.com
 *.mevo.com
 *.mgbcareconnect.org
@@ -939,6 +941,7 @@
 *.pipopay.com
 *.plannthat.com
 *.platacard.mx
+*.platform.here.com
 *.platformservices.io
 *.play.ownit.se
 *.playstation.com
@@ -2050,6 +2053,7 @@ All other Assets
 All other SBB owned IT assets
 All other Web and mobile APPs owned by SBB 
 All other games not listed in other target tables
+All other related services owned by HERE
 All the Blockchain Infrastructure
 Amazon Subsidiaries (Please only actively test explicitly stated scope)
 AmpliFi
@@ -2523,6 +2527,8 @@ Grepolis
 Gutenberg
 H5G
 H5G/Agency
+HERE WeGo Android
+HERE WeGo iOS
 HEY.app
 HEY.exe
 HPE Aruba Networking Central - New UI (see Scope Details)
@@ -2687,6 +2693,8 @@ Leaked Credentials
 Leaked Credentials and Secrets (Canva Employee/Contractor)
 Leaked Credentials and Secrets (Canva User)
 Leaked Employee API Keys
+Leaked Service Credentials
+Leaked/Compromised Employee Credentials
 Leaked/compromised employee accounts *.here.com
 Leaked/Сompromised Employee accounts
 Left 4 Dead
@@ -3439,11 +3447,13 @@ accommodations.booking.com
 account-sprint.dynatracelabs.com
 account.acronis.com
 account.adobe.com
+account.api.here.com
 account.booking.com
 account.box.com
 account.brave.com
 account.deezer.com
 account.fr.cloud.gov
+account.here.com
 account.krisp.ai
 account.magento.com
 account.ui.com
@@ -4825,6 +4835,10 @@ com.zhiliao.musically.livewallpaper
 com.zhiliaoapp.musically
 com.zopim.android
 com.zzkko
+comets-dev.wnba.com
+comets-qa.wnba.com
+comets-uat.wnba.com
+comets.wnba.com
 comic-indies.pixiv.net
 comic.pixiv.net
 commerce.coinbase.com
@@ -4970,8 +4984,12 @@ cweb-ott-qa.nba.com
 cweb-ott-uat-preview.nba.com
 cweb-ott-uat-uc-preview.nba.com
 cweb-ott-uat-uc.nba.com
+cweb-ott-uat.nba.com
 cweb-ott-uc-preview.nba.com
 cweb-ott-uc.nba.com
+cweb-ott-wnba-dev.nba.com
+cweb-ott-wnba-qa.nba.com
+cweb-ott-wnba.nba.com
 cweb-ott.nba.com
 cweb-qa-aws-preview.nba.com
 cweb-slot1-ott-dev.nba.com
@@ -5066,6 +5084,7 @@ dev.courtside.nba.com
 dev.epicgames.com/*
 dev.stats.gleague.nba.com
 dev.stats.nba.com
+dev.stats.wnba.com
 devcenter.unico.io
 developer*.earlywarning.com
 developer-api.crypto.com
@@ -9163,6 +9182,7 @@ https://vtxapp9d.underarmour.com/
 https://vtxapp9p.underarmour.com/
 https://vtxapp9q.underarmour.com/
 https://vtxappd.underarmour.com/
+https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/status-lists
 https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/mdvm
 https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/pns
 https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/rwsca
@@ -9787,6 +9807,7 @@ identity.clearme.com
 identity.nba.com
 identity.porsche.com
 identity.stage.vismaonline.com
+identity.wnba.com
 identity.yoti.com
 identityforce.com
 identityforcevault.com
@@ -10015,6 +10036,8 @@ lightsparkdev/js-sdk
 lightsparkdev/kotlin-sdk
 lightsparkdev/lightspark-crypto-uniffi
 lightsparkdev/swift-wallet-sdk
+lineemup-dev.wnba.com
+lineemup.wnba.com
 link.tw.coupang.com
 linkpop.com
 links.geneva-staging.chat
@@ -10025,6 +10048,7 @@ liquidfiles.uzleuven.be
 liquidfilestest.uzleuven.be
 lirportal.ripe.net
 list-v2--netlify-plugins.netlify.app
+listing.here.com
 lists.nextcloud.com
 lists.wordpress.org
 live-backstage.tiktok.com
@@ -10045,11 +10069,14 @@ login-4njbets.us.betfair.com
 login-accpt.portofantwerpbruges.com
 login-api.truelayer[-sandbox].com
 login-dev.nba.com
+login-dev.wnba.com
 login-ia.tvg.com
 login-pabets.tvg.com
 login-qa.nba.com
+login-qa.wnba.com
 login-sandbox.nba.com
 login-uat.nba.com
+login-uat.wnba.com
 login.arkane.network
 login.cm.com
 login.delen.be 
@@ -10073,6 +10100,7 @@ login.swapcard.com
 login.truelayer[-sandbox].com
 login.tvg.com
 login.venly.io
+login.wnba.com
 login.www.vaxvacationaccess.com
 logiq.logitech.io
 logistica.redelcom.cl
@@ -10152,6 +10180,7 @@ manager.infomaniak.com/v3/*
 mangerbouger.fr
 map.8x8.com
 map.snapchat.com
+mapcreator.here.com
 mapi.moneyback.com.hk
 mark8.syfe.com
 marketing.fareharbor.com
@@ -10316,6 +10345,7 @@ mobileapi.lystit.com
 mobileapi.na1.insightly.com
 mobileapp.hyatt.com
 mobilevikings.be
+mobilitygraph.hereapi.com
 mod.reddit.com
 modefestival.com
 mokapos.com
@@ -10668,6 +10698,7 @@ passkeys.foundation
 passport.larksuite.com
 passwordchallenge.marriott.com
 pastela.app
+pata.wnba.com
 pay*.indriverapp.com
 pay-admin.exodus.io
 pay-api.truelayer[-sandbox].com
@@ -10747,6 +10778,7 @@ platformtest.cat.earlywarning.io
 play.google.com/store/apps/details?id=com.crowdstrike.falconmobile
 play.google.com/store/apps/details?id=fr.assurancemaladie.monespacesante&showAllReviews=true (Android)
 playartifact.com
+playbook.wnba.com
 playcanv.as
 playcanvas.com
 player-login.unity.com
@@ -10989,6 +11021,7 @@ register.bpost.be
 register.capital.com
 registre.notebleue.pro
 registry.gitlab.com
+registry.service.api.platform.here.com
 rei.com
 relay.firefox.com
 relay.passkeys.foundation
@@ -11142,6 +11175,7 @@ scrutiny.swiftfinancial.com
 sdg.data.gov
 se.mathem.mathem
 search.brave.com
+search.hereapi.com
 secure-dfadmin.deriv.com
 secure-supply-xml.booking.com
 secure.booking.com
@@ -11578,6 +11612,7 @@ trade.ripio.com
 training.ui.com
 transact.playstation.com
 transactions.transactional.unico.app
+transit.hereapi.com
 translate.badoo.com
 travel.crypto.com
 travelagents.marriott.com/
@@ -11596,6 +11631,7 @@ trv-cf.euce1.indriverapp.com
 try.discourse.org
 tucarro.com
 tucarro.com.co
+tue.wnba.com
 tumoto.com
 tunnistus.s-ryhma.fi
 turing.exodus.io
@@ -11672,6 +11708,7 @@ vault2.faraday.ai
 vcc-*.8x8.com
 vcc-ce.8x8.com
 vdam.visa.com
+vector.hereapi.com
 vector.prd.iat.it.xvservice.net
 vercel.app
 vercel.com
@@ -11785,6 +11822,7 @@ webhooks.booking.com
 webhooks.gamma.redoxstage.com
 webhooks.truelayer[-sandbox].com
 webmail.ownit.nu
+webtask.run
 webtoolbox.notebleue.pro
 webwinkel.ad.nl
 webwinkel.parool.nl
@@ -12396,6 +12434,7 @@ xoswap-graphql-p.a.exodus.io
 xoswap-graphql.a.exodus.io
 xs2a.banking.playground.klarna.com
 xtramile.grabpay.com
+xyz.api.here.com
 yelptop100.com
 yhteystietoni.posti.fi
 yimg.com

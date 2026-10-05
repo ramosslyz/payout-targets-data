@@ -29,8 +29,6 @@
 *.acc-pub.mobilevikings.be
 *.acc.mobilevikings.be
 *.acceptance.cloud.8x8.com
-*.account.api.here.com
-*.account.here.com
 *.account.roon.app
 *.accounts.realestate.com.au
 *.acrobat.adobe.com
@@ -251,6 +249,7 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
+*.data.api.platform.here.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.dell.com/*
@@ -512,7 +511,6 @@
 *.indriver.io
 *.indriverapp.com
 *.infomaniak.com
-*.infra-prod.nsvcs.net
 *.inpli.se
 *.insider.in
 *.insight.io
@@ -647,6 +645,7 @@
 *.mercadopago.com.mx
 *.mercadopago.com.pe
 *.mercadopago.com.uy
+*.metrics.platform.here.com
 *.metronome.com
 *.mevo.com
 *.mgbcareconnect.org
@@ -678,7 +677,6 @@
 *.mmwebc.dev
 *.mobile-messenger.intercom.com
 *.mobilevikings.be
-*.mobilitygraph.hereapi.com
 *.mona.co
 *.moneyback.com.hk
 *.mongodb.com/*
@@ -720,7 +718,9 @@
 *.nflxso.net
 *.nflxvideo.net
 *.nic.eu
+*.ninjakiwi.me
 *.niumba.com
+*.nkstatic.com
 *.nmfn.com
 *.nml.com
 *.nnip.com
@@ -735,7 +735,6 @@
 *.oktukids.com
 *.okx.com
 *.oncatapult.com
-*.onegraph.com
 *.onevasco.com
 *.openai.com
 *.openai.org
@@ -749,7 +748,6 @@
 *.operanewsapp.com
 *.operationstechnology.io
 *.opr.news
-*.ops.netlify.com
 *.opsgenie.com
 *.optimuscards.com
 *.optus.com.au
@@ -790,6 +788,7 @@
 *.pipopay.com
 *.plannthat.com
 *.platacard.mx
+*.platform.here.com
 *.platformservices.io
 *.play.ownit.se
 *.playstation.com
@@ -914,9 +913,7 @@
 *.seoquake.com
 *.serious.li
 *.seriously.com
-*.services-prod.nsvcs.net
 *.services.klaviyo.com
-*.services.netlify.com
 *.services.repostnetwork.com
 *.shein.com
 *.sheingsp.com
@@ -958,6 +955,7 @@
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
 *.soundon.global
+*.souparea.com
 *.soyoustart.com
 *.spiketrap.io
 *.spinaway.com
@@ -1045,6 +1043,9 @@
 *.trip.com
 *.triplinkintl.com
 *.trouw.nl
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tucarro.com.ve
@@ -1201,7 +1202,6 @@ Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DI
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 GenAI Apps under *.amazon.*
 Hilton Third Party Applications - *.hilton.com
-Leaked/compromised employee accounts *.here.com
 Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 analytics-*.8x8.com
 api*.hubapi.com

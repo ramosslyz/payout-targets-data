@@ -326,6 +326,7 @@ https://dashboard.fga.dev/
 https://api.us1.fga.dev/
 https://customers.us1.fga.dev/
 https://play.fga.dev/
+webtask.run
 https://github.com/auth0/auth0.js
 https://github.com/auth0/lock
 https://github.com/auth0/auth0-spa-js
@@ -925,6 +926,20 @@ https://play.google.com/store/apps/details?id=com.indeed.resume
 https://apps.apple.com/us/app/indeed-connect-for-employers/id6443822731
 https://chromewebstore.google.com/detail/indeed-recruiter-extensio/kiodpphbmnmcmnfgpnmkkhmkllnlflef
 Any host/web property/mobile app verified to be owned by Indeed
+https://indeed.com
+https://apis.indeed.com/graphql
+https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch
+https://apps.apple.com/us/app/indeed-job-search/id309735670
+https://play.google.com/store/apps/details?id=com.syftapp.android
+https://apps.apple.com/gb/app/indeed-flex-job-search/id1013812731
+Career Scout
+https://resume.com
+https://wowjobs.ca
+https://apps.apple.com/us/app/%E5%B1%A5%E6%AD%B4%E6%9B%B8%E4%BD%9C%E6%88%90-%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%89/id1484451230
+https://play.google.com/store/apps/details?id=com.indeed.resume
+https://apps.apple.com/us/app/indeed-connect-for-employers/id6443822731
+https://chromewebstore.google.com/detail/indeed-recruiter-extensio/kiodpphbmnmcmnfgpnmkkhmkllnlflef
+Any host/web property/mobile app verified to be owned by Indeed
 https://marketplace.atlassian.com/apps/1218151/capacity-tracker?hosting=cloud&tab=overview
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
 https://api.intercom.com
@@ -1479,7 +1494,6 @@ https://apps.apple.com/us/app/myfitnesspal-calorie-counter/id341232718
 https://app.navan.com
 https://marketplace.atlassian.com/apps/1222843/aio-tests-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1219230/advanced-portal-reports-for-service-desk?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1238203/self-service-portal-report?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1234378/modify-my-request?hosting=cloud&tab=overview
 https://secure.neogov.com
 https://login.neogov.com
@@ -2297,7 +2311,6 @@ https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://connect.soundcloud.com
 http://artists.soundcloud.com/
 https://soundcloud.org
-SpaceX and Starlink assets (target information and rewards detailed above on the brief)
 ████████████
 ██████████████
 █████████████

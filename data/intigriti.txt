@@ -197,10 +197,21 @@ service.fing.com
 app.fing.com
 Fing desktop
 www.fing.com*
-955837609
-com.here.app.maps
-https://jaguar.here.com
-https://landrover.here.com
+registry.service.api.platform.here.com
+search.hereapi.com
+transit.hereapi.com
+vector.hereapi.com
+mobilitygraph.hereapi.com
+account.api.here.com
+account.here.com
+listing.here.com
+mapcreator.here.com
+xyz.api.here.com
+HERE WeGo iOS
+HERE WeGo Android
+Leaked/Compromised Employee Credentials
+Leaked Service Credentials
+All other related services owned by HERE
 hln.be/inloggen
 hln.be/login
 hln.be/registreren
@@ -492,6 +503,18 @@ mynexuzhealth/id1459856321
 liquidfiles.nexuzhealth.com
  idp-contact.nexuzhealth.be
 media.nexuzhealth.be/patient/ 
+analytics.ninjakiwi.com
+api.ninjakiwi.com
+guts.ninjakiwi.com
+battles.tv
+data.ninjakiwi.com
+ninja.kiwi
+ninjakiwi.com
+alerts.ninjakiwi.com
+boomer2.ninjakiwi.com
+ct.ninjakiwi.com
+mynk-dash.ninjakiwi.com
+mynk.ninjakiwi.com
 https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050
 https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_oi_appl/
 https://auth2.pdq.com/
@@ -597,7 +620,6 @@ tnt.posti.com
 todentaminen.posti.fi
 yhteystietoni.posti.fi
 access.ripe.net
-https://github.com/RIPE-NCC/rpki-commons
 https://github.com/RIPE-NCC/rpki-core
 https://github.com/RIPE-NCC/whois
 lirportal.ripe.net
@@ -605,6 +627,7 @@ lirportal.ripe.net
 https://github.com/RIPE-NCC/rpki-monitoring
 https://github.com/RIPE-NCC/rpki-ta-0
 Assets owned by RIPE NCC
+https://github.com/RIPE-NCC/rpki-commons
 https://business.rivian.com/api
 https://rivian.com/api/gql/content/graphql
 https://rivian.com/api/gql/gateway/graphql
@@ -701,10 +724,36 @@ shop.trouw.nl
 webwinkel.trouw.nl
 www.trouw.nl
 www.trouw.nl/abonnementen
-TrustedFirmware-A (TF-A)
-TrustedFirmware-M (TF-M)
-TF-PSA-Crypto
-OP-TEE
+api.truelayer[-sandbox].com
+api.mtls.truelayer[-sandbox].com
+auth.truelayer[-sandbox].com
+auth.mtls.truelayer[-sandbox].com
+app.truelayer[-sandbox].com
+login-api.truelayer[-sandbox].com
+login.truelayer[-sandbox].com
+onboarding-api.truelayer.com
+pay-api.truelayer[-sandbox].com
+pay.truelayer[-sandbox].com
+paydirect.truelayer[-sandbox].com
+payment.truelayer[-sandbox].com
+payments-experience-api.truelayer[-sandbox].com
+user-authentication-api.truelayer[-sandbox].com
+users-api.truelayer.com
+C# SDK
+console-backend.truelayer[-sandbox].com
+console.truelayer[-sandbox].com
+sftp.reports.truelayer.com
+Java SDK
+PHP SDK
+TrueLayer for Magento (Magento plugin)
+shopify-admin.truelayer.com
+shop-pay-app-api.truelayer.com
+truelayer-signing
+webhooks.truelayer[-sandbox].com
+iOS SDK
+React Native SDK
+Web SDK
+Rust SDK
 autodiscover.uzleuven.be
 ecrf.uzleuven.be
 extranet-asa.uzleuven.be

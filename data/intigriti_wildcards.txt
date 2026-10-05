@@ -65,15 +65,14 @@
 sos-*.exo.io
 sks-*.exo.io
 *.internal.exoscale.ch
-*.account.api.here.com
-*.account.here.com
-*.mobilitygraph.hereapi.com
+*.data.api.platform.here.com
+*.metrics.platform.here.com
+*.platform.here.com
 *.router.hereapi.com
-*.scbe.api.here.com
 *.subp-router.hereapi.com
-Leaked/compromised employee accounts *.here.com
-*.here.com
 *.hereapi.com
+*.scbe.api.here.com
+*.here.com
 *.hln.be
 *.parool.nl
 *.humo.be
@@ -132,6 +131,9 @@ Leaked/compromised employee accounts *.here.com
 *.monzo.com
 *.prod-ffs.io
 *.nexuzhealth.*
+*.ninjakiwi.me
+*.nkstatic.com
+*.souparea.com
 *.app.personio-dev.com
 *.app.personio.com
 *.personio-internal.de
@@ -152,6 +154,9 @@ Leaked/compromised employee accounts *.here.com
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net

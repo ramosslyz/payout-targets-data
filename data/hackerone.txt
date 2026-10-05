@@ -1,10 +1,10 @@
 https://github.com/omacom/omarchy
 d-you Wallet Android Test
 d-you Wallet iOS Test
+https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/status-lists
 https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/mdvm
 https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/pns
 https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/rwsca
-https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/status-lists
 https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/wpb
 1477299281
 943905271
@@ -440,6 +440,10 @@ coalition-dev.nba.com
 coalition-qa.nba.com
 com.nbaimd.gametime.nba2011
 com.nbaimd.gametime.universal
+comets-dev.wnba.com
+comets-qa.wnba.com
+comets-uat.wnba.com
+comets.wnba.com
 communityassist.nba.com
 contact-dev.nba.com
 contact-qa.nba.com
@@ -487,8 +491,12 @@ cweb-ott-qa.nba.com
 cweb-ott-uat-preview.nba.com
 cweb-ott-uat-uc-preview.nba.com
 cweb-ott-uat-uc.nba.com
+cweb-ott-uat.nba.com
 cweb-ott-uc-preview.nba.com
 cweb-ott-uc.nba.com
+cweb-ott-wnba-dev.nba.com
+cweb-ott-wnba-qa.nba.com
+cweb-ott-wnba.nba.com
 cweb-ott.nba.com
 cweb-qa-aws-preview.nba.com
 cweb-slot1-ott-dev.nba.com
@@ -508,6 +516,7 @@ detroit.gleague.nba.com
 dev.courtside.nba.com
 dev.stats.gleague.nba.com
 dev.stats.nba.com
+dev.stats.wnba.com
 dream-dev.wnba.com
 dream-qa.wnba.com
 dream-qa2.wnba.com
@@ -567,6 +576,7 @@ identity-server-uat.nba.com
 identity-server.nba.com
 identity-uat.nba.com
 identity.nba.com
+identity.wnba.com
 ignite-dev.gleague.nba.com
 ignite-qa.gleague.nba.com
 ignite.gleague.nba.com
@@ -590,12 +600,18 @@ liberty-dev.wnba.com
 liberty-qa.wnba.com
 liberty-qa2.wnba.com
 liberty.wnba.com
+lineemup-dev.wnba.com
+lineemup.wnba.com
 lockervision.nba.com
 lockervisionteam.nba.com
 login-dev.nba.com
+login-dev.wnba.com
 login-qa.nba.com
+login-qa.wnba.com
 login-uat.nba.com
+login-uat.wnba.com
 login.nba.com
+login.wnba.com
 longisland-dev.gleague.nba.com
 longisland-qa.gleague.nba.com
 longisland.gleague.nba.com
@@ -672,10 +688,12 @@ oklahomacity.gleague.nba.com
 ontario.gleague.nba.com
 osceola-qa.gleague.nba.com
 osceola.gleague.nba.com
+pata.wnba.com
 pdfroster-dev.nba.com
 pdfroster-qa.nba.com
 pdfroster.nba.com
 peopleanalyticsportal.nba.com
+playbook.wnba.com
 playerhealthvideo.nba.com
 portland-dev.wnba.com
 portland-qa.wnba.com
@@ -767,6 +785,7 @@ thisiswhyweplay.nba.com
 townhall.nba.com
 tpp.nba.com
 trs.nba.com
+tue.wnba.com
 valkyries-dev.wnba.com
 valkyries-qa.wnba.com
 valkyries.wnba.com
@@ -1558,19 +1577,6 @@ Public API
 calendar.notion.so
 mail.notion.so
 notion.id
-MetaMask Browser Extension
-MetaMask SDK
-Snaps
-Third Party Snaps
-api-wallet.web3auth.io
-https://metamask.github.io/phishing-warning/<vX.Y.Z>
-io.metamask
-io.metamask.Metamask
-mUSD Stablecoin
-metamask.io
-signature-insights.api.cx.metamask.io
-snaps.metamask.io
-wallet.web3auth.io
 api-eu.floqast.app
 Any public (Internet-facing) infrastructure owned and operated by Palantir.
 Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
@@ -2534,15 +2540,6 @@ api2.frontapp.com
 app.frontapp.com
 com.frontapp.mobile
 com.frontapp.mobile
-api.netlify.com
-app.netlify.com
-internal-docs.netlify.com
-internal.netlify.com
-list-v2--netlify-plugins.netlify.app
-netlify-cdp-loader.netlify.app
-netlify-rum.netlify.app
-screenshot-proxy.netlify.app
-supportal.netlify.app
 *inf.fndlsb.net
 1413721906
 1485539253
@@ -3438,6 +3435,11 @@ www.semrush.com
 com.quora.android
 com.quora.app.mobile
 http://poe.com
+Brave Browser Desktop
+Brave websites
+com.brave.browser
+com.brave.ios.browser
+https://github.com/brave/*, https://github.com/brave-intl/*
 Burp Collaborator
 Burp Suite DAST
 Burp Suite Pro/Community
