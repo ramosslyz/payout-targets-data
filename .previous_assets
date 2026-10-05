@@ -10903,6 +10903,7 @@ protectionfraudeparcheques.com
 prow.k8s.io
 proxy-production.lime.bike
 ps-cf.euce1.indriverapp.com
+ps-gw-cf.euce1.indriverapp.com
 ps5.np.playstation.net
 pscp.tv
 psp.marriott.com
@@ -10938,7 +10939,10 @@ quickstamp-gb.bpost.be
 qwantjunior.com
 r.etoro.com
 ra-cf.*.aws.indriverapp.com
+ra-cf.euce1.indriverapp.com
 ra-gw-cf.*.aws.indriverapp.com
+ra-gw-cf.euce1.indriverapp.com
+ra-gw-scf.euce1.indriverapp.com
 rafflee.co.uk
 rancher.ninjakiwi.com
 rancher.ninjakiwi.me
@@ -10950,7 +10954,9 @@ raptors905-qa.gleague.nba.com
 raptors905.gleague.nba.com
 ras1.optus.com.au 
 rates.rewire.com
+rc-cf.africa.afso1.aws.indriverapp.com
 rc-gw-cf.*.aws.indriverapp.com
+rc-gw-scf.sa.apse1.aws.indriverapp.com
 rea-group.com
 reach.hostinger.com
 read.amazon.com
@@ -11077,6 +11083,7 @@ router.geneva-staging.com
 row.pro
 rp-cf.*.aws.indriverapp.com
 rp-gw-cf.*.aws.indriverapp.com
+rp-gw-scf.sa.apse1.aws.indriverapp.com
 rpc.blockdaemon.testnet.arc.network
 rpc.drpc.testnet.arc.network
 rpc.quicknode.testnet.arc.network
@@ -11084,6 +11091,8 @@ rpc.testnet.arc.network
 rpm-sequoia
 rps.3cx.com
 rs-cf.*.aws.indriverapp.com
+rs-gw-cf.africa.afso1.aws.indriverapp.com
+rs-gw-scf.sa.apse1.aws.indriverapp.com
 rs-open-api.tw.coupang.com
 rs.visa.com
 rsm-cf.*.aws.indriverapp.com
@@ -11118,6 +11127,9 @@ santacruz.gleague.nba.com
 sap.api-xperience.com
 sapi-live.lh.us-west-2.prd.23andme.us
 sc-cf.*.aws.indriverapp.com
+sc-cf.euce1.indriverapp.com
+sc-gw-cf.euce1.indriverapp.com
+sc-gw-scf.euce1.indriverapp.com
 scan.clearme.com
 scan.nextcloud.com
 scan.snapchat.com
@@ -11179,6 +11191,7 @@ session-share.playstation.com
 settings.superhuman.com
 sfc-cf.*.aws.indriverapp.com
 sfc-gw-cf.*.aws.indriverapp.com
+sfc-gw-scf.sa.apse1.aws.indriverapp.com
 sftp.gamma.redoxstage.com
 sftp.reports.truelayer.com
 sftp://ftp.developersites.com.au:45875
@@ -11259,6 +11272,7 @@ smtp.sendgrid.net
 smtp2go.com
 sn-api-cf.*.aws.indriverapp.com
 sn-api-gw-cf.*.aws.indriverapp.com
+sn-api-gw-scf.sa.apse1.aws.indriverapp.com
 snappublisher.snapchat.com
 snaps.metamask.io
 snapshooter.com
@@ -11312,6 +11326,8 @@ sr.visa.com
 srp-idtheft.com
 ssh.fr.cloud.gov
 ssm-marriottms.saviyntcloud.com
+ssn-lb-cf.africa.afso1.aws.indriverapp.com
+ssn-lb-scf.sa.apse1.aws.indriverapp.com
 sso-sprint.dynatracelabs.com
 sso.8x8.com
 sso.8x8pilot.com
@@ -11440,6 +11456,8 @@ support.steampowered.com
 support.varonis.com
 supportal.netlify.app
 sur-cf.*.aws.indriverapp.com
+sur-gw-cf.euce1.indriverapp.com
+sur-gw-scf.euce1.indriverapp.com
 survey.vinci.com
 survey.visa.com
 surveyserver.nextcloud.com
@@ -11551,7 +11569,11 @@ toolsforhumanity.com
 townhall.nba.com
 tpp.nba.com
 tr-cf.*.aws.indriverapp.com
+tr-cf.euce1.indriverapp.com
 tr-gw-cf.*.aws.indriverapp.com
+tr-gw-cf.euce1.indriverapp.com
+tr-gw-scf.euce1.indriverapp.com
+tr-scf.euce1.indriverapp.com
 trade.ripio.com
 training.ui.com
 transact.playstation.com
@@ -11570,6 +11592,7 @@ trs.nba.com
 truck-api.eu-east-1.indriverapp.com
 truelayer-signing
 trust.23andme.com
+trv-cf.euce1.indriverapp.com
 try.discourse.org
 tucarro.com
 tucarro.com.co
@@ -11581,7 +11604,10 @@ tw.coupang.com
 tw.coupangcorp.com
 tw.coupangls.com
 twinmotion.unrealengine.com
+txd-cf.cis.euce1.aws.indriverapp.com
+txf-cf.cis.euce1.aws.indriverapp.com
 txm-cf.*.aws.indriverapp.com
+txm-gw-cf.cis.euce1.aws.indriverapp.com
 uapi-front.etoro.com
 uat-bugbounty.nonprod.syfe.com
 uatcms.optimuscards.com
@@ -11685,7 +11711,9 @@ visa.in
 visainnovationprogram.com
 visaonchainanalytics.com
 visasgic.api-xperience.com
+vm-cf.mena.meso1.aws.indriverapp.com
 vm-gw-cf.*.aws.indriverapp.com
+vm-gw-scf.sa.apse1.aws.indriverapp.com
 voapi.8x8.com
 vod.infomaniak.com
 voi.com
@@ -11720,12 +11748,16 @@ wallets.api.playstation.com
 wallettg.com
 wallettg.net
 walt.io
+was-cf.africa.afso1.aws.indriverapp.com
 was-gw-cf.*.aws.indriverapp.com
+was-gw-scf.sa.apse1.aws.indriverapp.com
 wasapi.watsons.com.tr
 watch-ng.nba.com
 watch.global.nba.com
 watchdocs.indriverapp.com
 watchlistapi.etoro.com
+wd1-cf.euce1.indriverapp.com
+wd1-gw-cf.euce1.indriverapp.com
 wd2*.indriverapp.com
 weather.opera-api.com
 web-edge.clearme.com
@@ -11795,6 +11827,8 @@ wisconsin-dev.gleague.nba.com
 wisconsin-qa.gleague.nba.com
 wisconsin.gleague.nba.com
 wlr-cf.*.aws.indriverapp.com
+wlr-cf.euce1.indriverapp.com
+wlr-scf.euce1.indriverapp.com
 wmr.3cx.net
 wnbabroadcastmanuals.nba.com
 wolt.com
