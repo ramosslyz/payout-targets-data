@@ -197,21 +197,6 @@ service.fing.com
 app.fing.com
 Fing desktop
 www.fing.com*
-registry.service.api.platform.here.com
-search.hereapi.com
-transit.hereapi.com
-vector.hereapi.com
-mobilitygraph.hereapi.com
-account.api.here.com
-account.here.com
-listing.here.com
-mapcreator.here.com
-xyz.api.here.com
-HERE WeGo iOS
-HERE WeGo Android
-Leaked/Compromised Employee Credentials
-Leaked Service Credentials
-All other related services owned by HERE
 hln.be/inloggen
 hln.be/login
 hln.be/registreren
