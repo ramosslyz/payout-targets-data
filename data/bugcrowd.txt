@@ -2666,9 +2666,6 @@ https://www.verisign.com
 https://apps.apple.com/us/app/viator-tours-activities/id434832826
 https://play.google.com/store/apps/details?id=com.viator.mobile.android&hl=en_US&gl=US
 https://supplier.viator.com/
-https://www.toursgds.com/
-https://www.toursgds.com/ToursGdsService?wsdl
-https://www.toursgds.com/SupplierService?wsdl
 https://partners.viator.com
 https://travelagents.viator.com
 https://help.supplier.viator.com/en
