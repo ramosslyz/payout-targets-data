@@ -534,12 +534,15 @@ ywh.dev.zecible.fr
 ywh.crons.zecible.fr
 ywh.routage.zecible.fr
 ywh.update.zecible.fr
-odoo14.notebleue.pro
+git.notebleue.pro
 registre.notebleue.pro
 svn.notebleue.pro
 todo.notebleue.pro
 webtoolbox.notebleue.pro
 cam.notebleue.pro
+ywh.verify.zecible.fr
+ywh.static.zcb.fr
+odoo.zecible.pro
 https://toom.de
 https://api.toom.de
 https://www.vidaxl.(at|be|bg|ch|co.uk.com|com.au|com.ua|com|cz|de|dk|ee|es|fi|fr|gr|ie|is|it|hr|hu|lt|lv|no|nl|pl|pt|ro|se|si|sk|uk|ae|ca|jp)

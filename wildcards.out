@@ -31,7 +31,6 @@
 *.acceptance.cloud.8x8.com
 *.account.roon.app
 *.accounts.realestate.com.au
-*.acrobat.adobe.com
 *.acronis.com
 *.acronis.work
 *.ad.nl
@@ -56,6 +55,8 @@
 *.alasco.rocks
 *.aleenote.cn
 *.aleenote.com
+*.algolia.net
+*.algolianet.com
 *.alipayplus.com
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
@@ -575,7 +576,6 @@
 *.latitudepay.com.au
 *.lemonsqueezy.com
 *.libelle.nl
-*.lightroom.adobe.com
 *.link.co
 *.linktree-extensions.com
 *.logi.com
