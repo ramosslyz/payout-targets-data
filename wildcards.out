@@ -250,6 +250,7 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
+*.data.api.platform.here.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.dell.com/*
@@ -457,6 +458,8 @@
 *.hellofax.com
 *.hellosign.com
 *.helloworks.com
+*.here.com
+*.hereapi.com
 *.hey.bild.de
 *.hey.com
 *.hhc247.org
@@ -642,6 +645,7 @@
 *.mercadopago.com.mx
 *.mercadopago.com.pe
 *.mercadopago.com.uy
+*.metrics.platform.here.com
 *.metronome.com
 *.mevo.com
 *.mgbcareconnect.org
@@ -714,9 +718,7 @@
 *.nflxso.net
 *.nflxvideo.net
 *.nic.eu
-*.ninjakiwi.me
 *.niumba.com
-*.nkstatic.com
 *.nmfn.com
 *.nml.com
 *.nnip.com
@@ -745,7 +747,6 @@
 *.operationstechnology.io
 *.opr.news
 *.opsgenie.com
-*.optimuscards.com
 *.optus.com.au
 *.orbitz.com
 *.origindigital-pac.com.au
@@ -784,6 +785,7 @@
 *.pipopay.com
 *.plannthat.com
 *.platacard.mx
+*.platform.here.com
 *.platformservices.io
 *.play.ownit.se
 *.playstation.com
@@ -872,6 +874,7 @@
 *.roonessentials.net
 *.roonlabs.com
 *.roonlabs.net
+*.router.hereapi.com
 *.rtbscale.com
 *.runnr.in
 *.s-cloud.net
@@ -891,6 +894,7 @@
 *.sc-core.net
 *.sc-corp.net
 *.scatec.io
+*.scbe.api.here.com
 *.scopely.com
 *.scopely.io
 *.sec-tunnel.com
@@ -948,7 +952,6 @@
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
 *.soundon.global
-*.souparea.com
 *.soyoustart.com
 *.spiketrap.io
 *.spinaway.com
@@ -978,6 +981,7 @@
 *.stripchat.com
 *.stripe.com
 *.stylebook.de
+*.subp-router.hereapi.com
 *.super.xyz
 *.superbet.com
 *.superbet.gr
@@ -1019,7 +1023,6 @@
 *.tomorrowland.com
 *.tools.thefork.tech
 *.toolsforhumanity.com
-*.topperpay.com
 *.tospotify.com
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org
 *.trainpal.com,*.mytrainpal.com
@@ -1035,9 +1038,6 @@
 *.trip.com
 *.triplinkintl.com
 *.trouw.nl
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tucarro.com.ve
@@ -1066,7 +1066,6 @@
 *.unreal-agents.jitsi.net
 *.unrealengine.com
 *.unrealtournament.com
-*.uphold.com
 *.uscc.com
 *.uscc.net
 *.uscellular.com
@@ -1078,7 +1077,6 @@
 *.venmo.com
 *.vercel.com
 *.vercel.live
-*.veriff.com
 *.verily.com/
 *.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)

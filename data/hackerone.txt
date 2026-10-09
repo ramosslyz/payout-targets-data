@@ -163,8 +163,6 @@ https://bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com/
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 https://bug-bounty-rest.k8s.tools-001.d-use-1.braze-dev.com/
 GitHub Actions in our Public Repositories 
-Insomnia CLI (inso)
-Insomnia Desktop Client
 Kong Gateway Enterprise
 Kong Gateway OSS
 Kong Gateway Plugins (Kong-Supported Only)
@@ -1056,6 +1054,7 @@ https://ebctest.cybersource.com/tms
 https://ebctest.cybersource.com/tss
 https://ebctest.cybersource.com/ums
 https://ebctest.cybersource.com/underwriting
+https://ebctest.cybersource.com/varm
 https://ebctest.cybersource.com/vdm
 https://ebctest.cybersource.com/vroom
 https://ebctest.cybersource.com/vts
@@ -2787,7 +2786,6 @@ www.ultimateears.com
 *uat.marriott.com
 455004730
 activities.marriott.com
-all-inclusive.marriott.com
 apcgateway.marriott.com
 app-insiders.marriott.com
 auth-apc.marriott.com

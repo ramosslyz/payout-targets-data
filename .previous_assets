@@ -2301,6 +2301,20 @@ Crypto.com Wallet Extension
 Crypto.com mobile app APIs that require an account
 Customer Connected Domain
 Customer Portal
+Cvent  Core-Attendee Hub Mobile iOS -> https://apps.apple.com/us/app/cvent-events/id1491335576
+Cvent CSN Destination Guide -> https://www.cvent.com/meeting-event-planning/*
+Cvent CSN Suppliers -> https://app.cvent.com/Subscribers/RFP/*
+Cvent CSN-RFP -> https://app.cvent.com/Subscribers/Suppliers/* 
+Cvent Core-Admin -> https://app.cvent.com/Subscribers/Admin/*
+Cvent Core-Appointments -> https://app.cvent.com/Subscribers/Appointments/*
+Cvent Core-Attendee Hub Mobile Android -> https://play.google.com/store/apps/details?id=com.cvent.mobile.eventapp
+Cvent Core-Attendee Hub Web -> https://web.cvent.com/hub/events/*
+Cvent Core-Flex -> https://web.cvent.com/event/* 
+Cvent Core-Paygo -> https://www.cvent.com/en/event-management-software/free-trial
+Cvent Core-Planner -> https://app.cvent.com/Subscribers/Events2/*  & https://events.app.cvent.com/events/*
+Cvent Core-Survey -> https://app.cvent.com/Subscribers/Inquisium/* 
+Cvent OSS-OnArrival Mobile Android -> https://play.google.com/store/apps/details?id=com.cvent.onarrival
+Cvent OSS-OnArrival Mobile iOS -> https://apps.apple.com/us/app/onarrival/id680778967
 CyberGhost VPN servers
 DRM (Digital Rights Management) System
 DS proxy (see https://github.com/demarches-simplifiees/ds_proxy)
@@ -6586,6 +6600,7 @@ https://ebctest.cybersource.com/tms
 https://ebctest.cybersource.com/tss
 https://ebctest.cybersource.com/ums
 https://ebctest.cybersource.com/underwriting
+https://ebctest.cybersource.com/varm
 https://ebctest.cybersource.com/vdm
 https://ebctest.cybersource.com/vroom
 https://ebctest.cybersource.com/vts
@@ -7435,6 +7450,7 @@ https://marketplace.atlassian.com/apps/1211109/user-management-and-license-optim
 https://marketplace.atlassian.com/apps/1211111/elements-copy-sync-jira-issue-sync?hosting=cloud
 https://marketplace.atlassian.com/apps/1211116/countdown-timer?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1211136/refined-macro-toolkit-content-formatting-macros?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1211141/xsd-viewer?hosting=cloud
 https://marketplace.atlassian.com/apps/1211159/advanced-codeblocks-for-confluence/version-history
 https://marketplace.atlassian.com/apps/1211159/advanced-codeblocks-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1211159/advanced-codeblocks-for-confluence?hosting=datacenter&tab=overview
@@ -7474,6 +7490,7 @@ https://marketplace.atlassian.com/apps/1211642/subversion-alm-for-the-enterprise
 https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=datacenter
 https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=server
+https://marketplace.atlassian.com/apps/1211675/git-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1211715/inbox-hook-for-bitbucket-server?hosting=server
 https://marketplace.atlassian.com/apps/1211738/file-tagging-plugin-for-crucible?hosting=server
 https://marketplace.atlassian.com/apps/1211800/glossary?hosting=cloud
@@ -7485,6 +7502,7 @@ https://marketplace.atlassian.com/apps/1211923/k-sso-saml-sso-oauth-kerberos-use
 https://marketplace.atlassian.com/apps/1211923/k-sso-saml-sso-oauth-kerberos-user-management-for-jira?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1211976/gauge-gadget?hosting=cloud
 https://marketplace.atlassian.com/apps/1212012/discussion-for-confluence?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1212035/edit-custom-field-values?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1212078/easy-agile-user-story-maps-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1212078/easy-agile-user-story-maps-for-jira?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1212096/customfield-editor-for-jira?hosting=cloud&tab=overview
@@ -7520,6 +7538,7 @@ https://marketplace.atlassian.com/apps/1213091/esu-sum-up-kpi-budget-reporting-p
 https://marketplace.atlassian.com/apps/1213092/google-drive-for-confluence-official-legacy-editor-only?hosting=cloud
 https://marketplace.atlassian.com/apps/1213146/risk-register?hosting=cloud
 https://marketplace.atlassian.com/apps/1213231/checklists-for-jira-pro-by-herocoders?hosting=cloud
+https://marketplace.atlassian.com/apps/1213313/atlas-crm-customers-and-sales-in-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1213346/issue-sync-integration-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1213404/balsamiq-wireframes-for-confluence-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1213440/asana-importer-plugin-for-jira?hosting=server
@@ -7594,6 +7613,7 @@ https://marketplace.atlassian.com/apps/1215979/dependency-graph-plugin-for-bambo
 https://marketplace.atlassian.com/apps/1216054/agile-retrospectives-for-confluence?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1216054/agile-retrospectives-for-confluence?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1216056/refined-toolkit-for-confluence-cloud?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1216060/atlas-crm-customers-in-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1216074/insight-macro-for-confluence?hosting=datacenter
 https://marketplace.atlassian.com/apps/1216074/insight-macro-for-confluence?hosting=server
 https://marketplace.atlassian.com/apps/1216079/statuspage-for-jira-service-management?hosting=cloud
@@ -7647,6 +7667,7 @@ https://marketplace.atlassian.com/apps/1217224/countdown-gadget?hosting=cloud&ta
 https://marketplace.atlassian.com/apps/1217230/jira-service-management-widget?hosting=cloud
 https://marketplace.atlassian.com/apps/1217289/announcement-plugin-for-bamboo?hosting=server
 https://marketplace.atlassian.com/apps/1217371/intercom-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1217471/sonarqube-connector-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1217566/github-links-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1217608/scroll-documents-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1217608/scroll-documents-for-confluence?hosting=datacenter&tab=overview
@@ -7868,6 +7889,7 @@ https://marketplace.atlassian.com/apps/1222084/spreadsheet-issue-field-editor?ho
 https://marketplace.atlassian.com/apps/1222102/webhook-manager-for-confluence-cloud?hosting=cloud
 https://marketplace.atlassian.com/apps/1222124/sticker-printer-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1222132/jenkins-integration-for-bitbucket-server?hosting=server
+https://marketplace.atlassian.com/apps/1222136/topdesk-jira-integration?hosting=cloud
 https://marketplace.atlassian.com/apps/1222147/opsgenie?hosting=cloud
 https://marketplace.atlassian.com/apps/1222150/gantt-suite-for-jira?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1222150/gantt-suite-for-jira?tab=overview&hosting=datacenter
@@ -7959,6 +7981,7 @@ https://marketplace.atlassian.com/apps/1224927/time-tracking-timesheet-cost-trac
 https://marketplace.atlassian.com/apps/1224984/glass-project-information-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1224994/poll-maker-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1225000/smart-images-for-confluence?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1225059/apptime-free-time-tracking-planning-team-mangement?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1225123/jira-snapshots-time-stamped-baselines-into-confluence?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1225145/image-editor-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1225264/?tab=overview&hosting=cloud
@@ -8072,6 +8095,7 @@ https://marketplace.atlassian.com/apps/1229459/elements-overview-custom-display-
 https://marketplace.atlassian.com/apps/1229489/easy-calendar-integration-for-jira-sync-issues-ics-export?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1229545/access-agent-for-jira-snapshots-for-confluence?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1229704/cloud-migration-planner?hosting=cloud
+https://marketplace.atlassian.com/apps/1229840/visualizer-for-confluence-markdown-plantuml-mermaid-erd?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1229906/confluence-mail-archiving-plugin?tab=overview&hosting=datacenter
 https://marketplace.atlassian.com/apps/1229958/issue-sync-lite?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1229966/scrum-master-assistant-for-jira?hosting=cloud&tab=overview
@@ -8277,6 +8301,7 @@ https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosti
 https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=server
 https://marketplace.atlassian.com/apps/738419736/microsoft-fabric-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/772972/release-report-for-fisheye?hosting=server
+https://marketplace.atlassian.com/apps/792203801/frank-not-your-regular-hr-solution?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/856555290/salesforge-crm-leads-deals-customers-management-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/924938813/agile-wip-charts-for-scrum-kanban-safe-gadgets-reports?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/9475/switch-user-su-for-confluence?hosting=datacenter&tab=overview

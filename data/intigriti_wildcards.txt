@@ -63,6 +63,14 @@
 sos-*.exo.io
 sks-*.exo.io
 *.internal.exoscale.ch
+*.data.api.platform.here.com
+*.metrics.platform.here.com
+*.platform.here.com
+*.router.hereapi.com
+*.subp-router.hereapi.com
+*.hereapi.com
+*.scbe.api.here.com
+*.here.com
 *.hln.be
 *.parool.nl
 *.humo.be
@@ -121,9 +129,6 @@ sks-*.exo.io
 *.monzo.com
 *.prod-ffs.io
 *.nexuzhealth.*
-*.ninjakiwi.me
-*.nkstatic.com
-*.souparea.com
 *.app.personio-dev.com
 *.app.personio.com
 *.personio-internal.de
@@ -144,9 +149,6 @@ sks-*.exo.io
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net
@@ -157,12 +159,8 @@ sks-*.exo.io
 *.mir.uzleuven.be
 *idp*.uzleuven.be
 *stag*.uzleuven.be
-*.optimuscards.com
-*.topperpay.com
-*.uphold.com
 *.vtm.be
 *.vtmgo.be
-*.veriff.com
 *.voi.com
 *.voiscooters.com
 *.water-link.be/

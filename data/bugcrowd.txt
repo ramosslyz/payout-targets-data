@@ -79,6 +79,7 @@ https://marketplace.atlassian.com/apps/1224848/banners-for-confluence?hosting=cl
 https://marketplace.atlassian.com/apps/1237524/dashboard-assistant-for-jira-cloud?hosting=cloud
 https://marketplace.atlassian.com/apps/1238098/project-access-review-for-jira-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1238069/file-type-checker-for-jira-cloud?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1225059/apptime-free-time-tracking-planning-team-mangement?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1219112/easy-templates-for-jira-issues?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1236389/easy-progress-hill-charts-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1236512/easy-action-items-checklist-templates-and-automation?hosting=cloud&tab=overview
@@ -346,6 +347,14 @@ https://marketplace.atlassian.com/apps/1237517/captionizer-ai-image-analyzer
 https://marketplace.atlassian.com/apps/1218474/compliance-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1217194/optimizer-for-jira-cleaner-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1222276/workflows-for-confluence?hosting=cloud
+https://marketplace.atlassian.com/apps/1211141/xsd-viewer?hosting=cloud
+https://marketplace.atlassian.com/apps/1213313/atlas-crm-customers-and-sales-in-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1216060/atlas-crm-customers-in-confluence?hosting=cloud
+https://marketplace.atlassian.com/apps/1222136/topdesk-jira-integration?hosting=cloud
+https://marketplace.atlassian.com/apps/1212035/edit-custom-field-values?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1211675/git-for-confluence?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1229840/visualizer-for-confluence-markdown-plantuml-mermaid-erd?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/792203801/frank-not-your-regular-hr-solution?hosting=cloud&tab=overview
 AXIS OS
 https://play.google.com/store/apps/details?id=com.backblaze.android&hl=en_US&gl=US
 https://apps.apple.com/us/app/backblaze/id628638330
@@ -651,6 +660,20 @@ https://marketplace.atlassian.com/apps/1216979/smart-courses-for-confluence-lms?
 https://marketplace.atlassian.com/apps/1225000/smart-images-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1218080/smart-tables-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1234678/smart-terms-for-jira-glossary?hosting=cloud&tab=overview
+Cvent CSN-RFP -> https://app.cvent.com/Subscribers/Suppliers/* 
+Cvent CSN Suppliers -> https://app.cvent.com/Subscribers/RFP/*
+Cvent CSN Destination Guide -> https://www.cvent.com/meeting-event-planning/*
+Cvent Core-Survey -> https://app.cvent.com/Subscribers/Inquisium/* 
+Cvent Core-Appointments -> https://app.cvent.com/Subscribers/Appointments/*
+Cvent Core-Admin -> https://app.cvent.com/Subscribers/Admin/*
+Cvent Core-Planner -> https://app.cvent.com/Subscribers/Events2/*  & https://events.app.cvent.com/events/*
+Cvent Core-Flex -> https://web.cvent.com/event/* 
+Cvent Core-Paygo -> https://www.cvent.com/en/event-management-software/free-trial
+Cvent Core-Attendee Hub Web -> https://web.cvent.com/hub/events/*
+Cvent Core-Attendee Hub Mobile Android -> https://play.google.com/store/apps/details?id=com.cvent.mobile.eventapp
+Cvent  Core-Attendee Hub Mobile iOS -> https://apps.apple.com/us/app/cvent-events/id1491335576
+Cvent OSS-OnArrival Mobile Android -> https://play.google.com/store/apps/details?id=com.cvent.onarrival
+Cvent OSS-OnArrival Mobile iOS -> https://apps.apple.com/us/app/onarrival/id680778967
 https://console.delltechnologies.com/nav/administration
 https://console.delltechnologies.com/nav/invoice
 https://console.delltechnologies.com/nav/billing
@@ -765,6 +788,7 @@ https://blog.etsy.com
 https://careers.etsy.com
 https://help.etsy.com
 https://community.etsy.com
+https://marketplace.atlassian.com/apps/1217471/sonarqube-connector-for-jira?hosting=cloud&tab=overview
 https://bugcrowd.charm.felixforus.ca/home
 https://bugcrowd.lucky.felixforus.ca
 https://marketplace.atlassian.com/apps/1216661/actionableagile-for-jira-agile-metrics?hosting=cloud&tab=overview
