@@ -264,7 +264,6 @@
 *.das.eu
 *.dash.ai
 *.data.api.platform.here.com
-*.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.dell.com/*
@@ -1054,6 +1053,9 @@
 *.trip.com
 *.triplinkintl.com
 *.trouw.nl
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tucarro.com.ve
@@ -1094,7 +1096,6 @@
 *.venmo.com
 *.vercel.com
 *.vercel.live
-*.veriff.com
 *.verily.com/
 *.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)
@@ -1287,7 +1288,6 @@
 146.109.68.0/24
 146.109.8.0/21
 146.109.8.0/22
-1467907532
 1474700 (Steam app id)
 1475021574
 1476615877
@@ -1531,6 +1531,7 @@
 3CX Phone System
 3CX SBC
 3d.cs.money
+3rd Party Integrations (Hytale-side issues only)
 3rd party services hosted at *.sophos.com
 3rd-Party Provider Vulnerability
 3rdparty-apis.coinmarketcap.com
@@ -1824,6 +1825,7 @@ BuddyPress Core
 Burp Collaborator
 Burp Suite DAST
 Burp Suite Pro/Community
+C# SDK
 C100447517
 C103149579
 CDNJS
@@ -2100,7 +2102,11 @@ HubSpot Android Mobile App
 HubSpot Sales Office 365 add-in
 HubSpot iOS Mobile App
 Hyperdrive
+Hypixel Public APIs
 HyprUnlock.exe
+Hytale Game Client
+Hytale Game Server
+Hytale Launcher
 ICI Paris XL Android
 ICI Paris XL iOS
 Ibotta App Data & Memory
@@ -2111,6 +2117,7 @@ In Scope - Points only
 Indoor Cam
 Infrastructure & Internal Apps/Services
 Intellectual Property on Public Domains
+Java SDK
 Jetpack
 Jira
 Jira Projects
@@ -2346,6 +2353,7 @@ Other assets
 Other assets owned by Personio
 Other non-production infrastructure
 Other related e-commerce services
+PHP SDK
 PIA VPN servers
 PNS Android
 PNS iOS
@@ -2368,6 +2376,7 @@ Protocol of the Swiss Post Voting System
 Protocol of the Swiss Post Voting System 2.0 (Whitepaper)
 Public API
 Public Others Target
+React Native SDK
 Recon Data
 Recruitment services
 Relational Migrator
@@ -2391,6 +2400,7 @@ Roblox Client
 Roblox Engine
 Roblox Studio
 Rockstar Games Launcher
+Rust SDK
 SAP AI Core
 SAP Business Network for Asset Collaboration
 SAP Business Network for Logistics	
@@ -2555,6 +2565,7 @@ Trello Mobile App for Android
 Trello Mobile App for iOS
 Trello Third Party Powerups
 Tribal Wars
+TrueLayer for Magento (Magento plugin)
 TrustedServer 100,000 Bonus Award (See Program Policy for Info)
 Trustwallet Android App
 Trustwallet Chrome Extension
@@ -2635,6 +2646,7 @@ Watsons Turkey iOS
 Watsons Vietnam Android
 Watsons Vietnam iOS
 Web Playback SDK
+Web SDK
 Web3 - Smart Contracts Scope
 Whatnot: Shop, Sell, Connect
 Wickr Me Android
@@ -2781,7 +2793,6 @@ airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 ak-static-dev.nba.com
 akismet.com
-alchemy.veriff.com
 alert.logitech.com
 alfred.syfe.com
 alipayhk.com
@@ -2880,7 +2891,6 @@ api.ezvizlife.com
 api.faraday.ai
 api.fi.dyson.com
 api.figma.com
-api.flamingo-eu.veriff.com
 api.foliofn.com
 api.fortress.com.hk
 api.geneva-staging.com
@@ -2928,6 +2938,7 @@ api.midtrans.com
 api.monespacesante.fr
 api.moonpay.com
 api.moonx-dev.com
+api.mtls.truelayer[-sandbox].com
 api.nba.com
 api.neon.opera.com/neon/pub
 api.neon.opera.com/neon/store
@@ -2981,13 +2992,12 @@ api.syfe.com
 api.taxjar.com
 api.theperfumeshop.com
 api.trello.com
+api.truelayer[-sandbox].com
 api.tumblr.com
 api.twilio.com
 api.unleashed.be
 api.upwork.com/graphql
-api.us.veriff.me
 api.vault.chiatest.net
-api.veriff.me
 api.vhx.tv
 api.vimeo.com
 api.watsons.co.id
@@ -3018,9 +3028,6 @@ app.alasco.de
 app.basecamp.com
 app.box.com
 app.circle.com
-app.datacamp.com/certification
-app.datacamp.com/groups
-app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -3088,6 +3095,7 @@ app.ticketmaster.com.au
 app.ticketmaster.com.mx
 app.ticketmaster.eu
 app.ticketmaster.ie
+app.truelayer[-sandbox].com
 app.watsons.com.tr
 app.whoop.com
 app.workbox.dk
@@ -3112,9 +3120,6 @@ arc.net
 arrive-server.shopifycloud.com
 arsentomsky.indrive.com
 askpeopleteam.visa.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com 
-assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.koho.ca
@@ -3144,12 +3149,14 @@ auth.digital.delen.lu
 auth.dmp.gouv.fr
 auth.monespacesante.fr
 auth.moonpay.com
+auth.mtls.truelayer[-sandbox].com
 auth.nextcloud.com
 auth.ort-one-pingone.com
 auth.preprod.monespacesante.fr
 auth.privy.io
 auth.remitly.com
 auth.skypicker.com
+auth.truelayer[-sandbox].com
 auth0.com	
 auth0.net
 authentication.clearme.com
@@ -3245,7 +3252,6 @@ bma.bumble.com
 boards.greenhouse.io
 book.applevacations.com
 book.beachbound.com
-book.booktandl.com
 book.cheapcaribbean.com
 booking.applevacations.com
 booking.beachbound.com
@@ -3315,7 +3321,6 @@ campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
-campus.datacamp.com
 cancellation.prod.ps.welt.de
 canton-dev.gleague.nba.com
 canton-qa.gleague.nba.com
@@ -3551,7 +3556,6 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
-com.datacamp
 com.dd.doordash
 com.deribit
 com.dolap.android
@@ -3767,7 +3771,6 @@ com.urbanclap.urbanclap
 com.valmo.valmo
 com.valvesoftware.Steam
 com.venmo
-com.veriff.demo
 com.vilcsak.bitcoin2
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
@@ -3842,11 +3845,13 @@ connect.identity.stagaws.visma.com
 connect.posti.fi
 connect.secure.wellsfargo.com
 connect.venly.io
+console-backend.truelayer[-sandbox].com
 console.anthropic.com
 console.circle.com
 console.ort-one-pingone.com
 console.posti.com
 console.tink.com
+console.truelayer[-sandbox].com
 console.x.ai
 console.x.com
 contact-dev.nba.com
@@ -4030,7 +4035,6 @@ developers.pismo.io
 developers.reddit.com
 developers.tiktok.com
 developers.tw.coupangcorp.com
-developers.veriff.me
 device.marriott.com
 dh-cf.mena.meso1.aws.indriverapp.com
 dh-gw-scf.sa.apse1.aws.indriverapp.com
@@ -4406,6 +4410,7 @@ http://api.koho.ca/partner
 http://api.na1.insightly.com/v3.1/
 http://app.scaleft.com/
 http://apps.connect.monash.edu/
+http://arcanitegames.ca/
 http://artists.soundcloud.com/
 http://auth.ripio.com
 http://backend-api.devicecloud.production.forescoutcloud.net/api/v1/settings
@@ -4503,6 +4508,7 @@ https://account.post.ch
 https://account.t-mobile.com
 https://account.teamviewer.com
 https://accounts.cmp.optimizely.com/
+https://accounts.hytale.com/login
 https://accounts.lastpass.com
 https://accounts.opera.com
 https://accounts.webmd.com
@@ -4670,7 +4676,6 @@ https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/certsy/id1617796159
-https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/jora-jobs-job-search-work/id917565665
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
@@ -5456,6 +5461,8 @@ https://hr.neogov.com
 https://hr.prosus.com/
 https://hub.immutable.com/
 https://hug.personio.com
+https://hytale.com/
+https://hytale.dev/
 https://ibconnect.internetbrands.com
 https://id.atlassian.com/login
 https://id.recordedfuture.com
@@ -5626,6 +5633,7 @@ https://marketplace.atlassian.com/apps/1211459/mobility-for-jira-mobile-jira-tea
 https://marketplace.atlassian.com/apps/1211562/checklists-for-jira-enterprise-by-herocoders?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1211596/whos-looking-for-jira-cloud?hosting=cloud
 https://marketplace.atlassian.com/apps/1211616/scroll-translations-for-confluence?hosting=datacenter
+https://marketplace.atlassian.com/apps/1211625/sumup-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1211636/scroll-viewport-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1211636/scroll-viewport-for-confluence?hosting=datacenter
 https://marketplace.atlassian.com/apps/1211639/comment-history-for-jira?hosting=cloud&tab=overview
@@ -5898,7 +5906,6 @@ https://marketplace.atlassian.com/apps/1221796/dependency-mapper-for-jira?hostin
 https://marketplace.atlassian.com/apps/1221826/status-time-reports-time-in-status?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1221826/status-time?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1221832/jsfiddle-for-confluence?tab=overview&hosting=cloud
-https://marketplace.atlassian.com/apps/1221853/enterprise-social-networking-polls-votes-for-confluence?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1221946/release-management-roadmap-jira-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1221973/content-tools-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1222010/jira-cloud-migration-assistant?hosting=datacenter
@@ -5913,7 +5920,6 @@ https://marketplace.atlassian.com/apps/1222147/opsgenie?hosting=cloud
 https://marketplace.atlassian.com/apps/1222150/gantt-suite-for-jira?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1222150/gantt-suite-for-jira?tab=overview&hosting=datacenter
 https://marketplace.atlassian.com/apps/1222276/workflows-for-confluence?hosting=cloud
-https://marketplace.atlassian.com/apps/1222309/agile-user-story-mapping-board-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1222405/meetical-for-confluence-cloud
 https://marketplace.atlassian.com/apps/1222474/work-status-time-tracking-calendar-for-jira?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1222532/prism-syntax-highlighter-for-confluence?tab=overview&hosting=cloud
@@ -5942,7 +5948,6 @@ https://marketplace.atlassian.com/apps/1223298/agile-risk-management-for-jira-cl
 https://marketplace.atlassian.com/apps/1223344/qality-plus-test-management-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1223382/previous-next-navigation?hosting=cloud
 https://marketplace.atlassian.com/apps/1223409/raley-purchase-orders?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1223423/teamboard-resource-management-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1223455/advanced-bulk-edit-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1223471/trophies-for-confluence-gamification?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1223472/trophies-for-jira-gamification?hosting=cloud&tab=overview
@@ -5953,12 +5958,10 @@ https://marketplace.atlassian.com/apps/1223493/custom-css-code-for-confluence?ho
 https://marketplace.atlassian.com/apps/1223533/?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1223655/magic-estimations-async-and-planning-poker-sizing-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1223780/tissue-table-of-linked-issues?hosting=cloud
-https://marketplace.atlassian.com/apps/1223793/confluence-whiteboard-process-workflow-visualization?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1223877/advanced-agile-boards?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1224009/content-mirror-for-confluence?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1224025/ai-insights-for-jira-service-management?hosting=cloud
 https://marketplace.atlassian.com/apps/1224071/esign-electronic-signatures-for-confluence?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1224087/whiteboard-process-workflow-visualization-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1224103/cards-panels?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1224117/api-token-authentication-for-bitbucket?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1224117/api-token-authentication-for-bitbucket?hosting=server&tab=overview
@@ -5966,7 +5969,6 @@ https://marketplace.atlassian.com/apps/1224142/monday-com-for-confluence?hosting
 https://marketplace.atlassian.com/apps/1224167/security-for-confluence-enhanced-secret-scanner-by-soteri?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1224167/security-for-confluence-enhanced-secret-scanner-by-soteri?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1224380/microsoft-power-bi-for-confluence?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1224383/agile-user-story-mapping-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1224394/?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1224410/manage-users-for-jira-cloud?hosting=cloud
 https://marketplace.atlassian.com/apps/1224419/microsoft-stream-for-confluence?hosting=cloud&tab=overview
@@ -5980,13 +5982,11 @@ https://marketplace.atlassian.com/apps/1224583/microsoft-forms-for-confluence-cl
 https://marketplace.atlassian.com/apps/1224584/google-forms-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1224654/multilevel-select-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1224678/monday-com-for-jira?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1224759/agile-scrum-planning-poker-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1224763/coji-confluence-pages-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1224766/portfolio-forecaster?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1224766/portfolio-forecaster?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1224799/scroll-content-quality-for-confluence
 https://marketplace.atlassian.com/apps/1224848/banners-for-confluence?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1224927/time-tracking-timesheet-cost-tracker-resource-management?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1224984/glass-project-information-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1225000/smart-images-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1225059/apptime-free-time-tracking-planning-team-mangement?hosting=cloud&tab=overview
@@ -5997,7 +5997,6 @@ https://marketplace.atlassian.com/apps/1225346/hubspot-crm-for-confluence-hubspo
 https://marketplace.atlassian.com/apps/1225375/site-statistics-for-jira-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1225449/intelligent-user-manager-ium-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1225519/elements-publish-to-confluence-create-pages-from-jira?hosting=cloud
-https://marketplace.atlassian.com/apps/1225654/ui-wireframes-mockup-prototype-diagrams-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1225664/form-macro-builder-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1226102/elements-publish-to-confluence-jira-helper-app?hosting=cloud
 https://marketplace.atlassian.com/apps/1226127/confluence-cloud-for-microsoft-teams?hosting=cloud
@@ -6006,7 +6005,6 @@ https://marketplace.atlassian.com/apps/1226187/time-in-status-reports?hosting=cl
 https://marketplace.atlassian.com/apps/1226195/align-okr-with-roadmap?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1226236/easy-reports-custom-charts-for-jira-dashboard-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1226236/easy-reports-custom-charts-for-jira-dashboard-confluence?hosting=datacenter&tab=overview
-https://marketplace.atlassian.com/apps/1226280/ui-wireframes-mockup-prototype-diagrams-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1226295/variants-for-scroll-documents?hosting=cloud
 https://marketplace.atlassian.com/apps/1226295/variants-for-scroll-documents?hosting=datacenter
 https://marketplace.atlassian.com/apps/1226380/decisions-helper-for-confluence?hosting=cloud
@@ -6030,6 +6028,7 @@ https://marketplace.atlassian.com/apps/1227226/?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1227238/translations-for-scroll-documents?hosting=cloud
 https://marketplace.atlassian.com/apps/1227238/translations-for-scroll-documents?hosting=datacenter
 https://marketplace.atlassian.com/apps/1227353/snowflake-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1227484/advanced-formula-fields-calculated-custom-fields-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1227541/ai-badges-for-confluence?tab=overview
 https://marketplace.atlassian.com/apps/1227543/ai-grammar-for-confluence?tab=overview
 https://marketplace.atlassian.com/apps/1227544/ai-summary-for-confluence?tab=overview
@@ -6057,7 +6056,6 @@ https://marketplace.atlassian.com/apps/1227901/application-tunnels?hosting=datac
 https://marketplace.atlassian.com/apps/1227949/hackathon-workflow-alan?hosting=cloud
 https://marketplace.atlassian.com/apps/1227949/hackathon-workflow-alan?hosting=datacenter
 https://marketplace.atlassian.com/apps/1228019/issue-hierarchy-structure?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1228080/agile-roadmaps-timeline-product-discovery-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1228109/recurring-checklists-and-report?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1228240/hubspot-jira-crm-issue-link-integration-collaboration?hosting=cloud&tab=reviews
 https://marketplace.atlassian.com/apps/1228296/rapidoc-openapi-swagger-specification-ui-for-confluence?hosting=cloud&tab=overview
@@ -6065,7 +6063,6 @@ https://marketplace.atlassian.com/apps/1228657/easy-peasy-roadmap-for-jira?hosti
 https://marketplace.atlassian.com/apps/1228694/revyz-backup-restore?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1228719/gitprotect-io-for-jira-backup-restore-dr-data-management?hosting=cloud
 https://marketplace.atlassian.com/apps/1228815?tab=overview&hosting=cloud
-https://marketplace.atlassian.com/apps/1228867/assetit-it-asset-management-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1228868/esign-document-management?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1228920/issue-work-item-summary-description-templates-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1228937/atlas-for-jira-cloud?hosting=cloud&tab=overview
@@ -6089,7 +6086,6 @@ https://marketplace.atlassian.com/apps/1229958/issue-sync-lite?hosting=cloud&tab
 https://marketplace.atlassian.com/apps/1229966/scrum-master-assistant-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1230009/issue-ai-analytics-for-jira-cloud-private-ai?hosting=datacenter
 https://marketplace.atlassian.com/apps/1230032/databricks-visualization?hosting=cloud
-https://marketplace.atlassian.com/apps/1230085/agile-test-management-ad-hoc-test-qa-checklist-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1230161/linksy-advanced-issue-linking?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1230243/worklogs-time-tracking-timesheets?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1230303/project-templates-for-jira?hosting=cloud&tab=overview
@@ -6122,7 +6118,6 @@ https://marketplace.atlassian.com/apps/1232142/elements-connect-helper-app?hosti
 https://marketplace.atlassian.com/apps/1232254/bump-build-number?hosting=datacenter
 https://marketplace.atlassian.com/apps/1232262/ai-support-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1232285/jira-confluence-smart-chips-for-google-docs-slides-sheets?tab=overview&hosting=cloud
-https://marketplace.atlassian.com/apps/1232398/roadmaps-timeline-gantt-chart-structure-for-confluence?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1232491?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1232506/jsm-assets-microsoft-entra-id-azure-ad-beta-integration?hosting=cloud
 https://marketplace.atlassian.com/apps/1232630/external-data-for-jira-fields-extension?hosting=cloud
@@ -6179,7 +6174,6 @@ https://marketplace.atlassian.com/apps/1235733/ai-autofill-for-jira?hosting=clou
 https://marketplace.atlassian.com/apps/1235901/html-macro-pro-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1235944/intelligent-user-manager-ium-for-confluence-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1236139/capybara-github-azure-devops-for-jira-service-management?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1236175/spreadsheet-structure-table-gantt-chart-on-forge-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1236240/burnup-burndown-chart-gadget-forecast-on-jira-dashboard?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1236248/jenkins-for-confluence/?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1236260/?tab=overview&hosting=cloud
@@ -6230,6 +6224,7 @@ https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-conflue
 https://marketplace.atlassian.com/apps/2785074762/cumulative-flow-diagrams-cfd-for-jira-agile-charts-gadgets?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/2836020067/created-vs-resolved-charts-for-jira-agile-gadgets-reports?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/2903137599/sprintretro-pro-retrospective-metrics-suite?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/29496/jira-workflow-toolbox?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/2974674253/assets-analytics-custom-dashboards-reporting-for-jira
 https://marketplace.atlassian.com/apps/3076252818/gliffy-zero-egress-compliance-ready-diagramming?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/31399/jql-tricks-plugin?hosting=cloud&tab=overview
@@ -6260,7 +6255,6 @@ https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosti
 https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=datacenter
 https://marketplace.atlassian.com/apps/738419736/microsoft-fabric-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/792203801/frank-not-your-regular-hr-solution?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/856555290/salesforge-crm-leads-deals-customers-management-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/924938813/agile-wip-charts-for-scrum-kanban-safe-gadgets-reports?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/9475/switch-user-su-for-confluence?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/974024200/radar-assets-inventory-for-jsm?hosting=cloud&tab=overview
@@ -6771,6 +6765,7 @@ https://static.usaa.com
 https://status.mobile.monash/
 https://storage.googleapis.com/kubernetes-release/
 https://store.epicgames.com/p/amiko-arena-a5986d
+https://store.hytale.com/
 https://store.retail.lightspeed.app
 https://store.steampowered.com/app/4245930/Amiko_Legends/
 https://store.unity.com
@@ -7542,6 +7537,7 @@ logilife.logitech.com
 login-4ngbets.us.betfair.com
 login-4njbets.us.betfair.com
 login-accpt.portofantwerpbruges.com
+login-api.truelayer[-sandbox].com
 login-dev.nba.com
 login-dev.wnba.com
 login-qa.nba.com
@@ -7565,6 +7561,7 @@ login.rei.com
 login.remitly.com
 login.starbucks.co.jp
 login.swapcard.com
+login.truelayer[-sandbox].com
 login.venly.io
 login.wnba.com
 login.www.vaxvacationaccess.com
@@ -7582,7 +7579,6 @@ longisland-dev.gleague.nba.com
 longisland-qa.gleague.nba.com
 longisland.gleague.nba.com
 lookup.nextcloud.com
-louvre.veriff.me
 loyalty.tw.coupang.com
 lps.dmp.gouv.fr
 lps2.dmp.gouv.fr
@@ -7603,7 +7599,6 @@ m.reddit.com
 m.tw.coupang.com
 maestro.8x8.cloud
 magazine.kruidvat.be
-magic.veriff.me
 magisto.com,www.magisto.com
 mail.hostinger.com
 mail.infomaniak.com
@@ -7983,6 +7978,7 @@ oklahomacity-qa.gleague.nba.com
 oklahomacity.gleague.nba.com
 om.vodafone.mva
 onboarding-*.cloud.com
+onboarding-api.truelayer.com
 onboarding.cloud.com
 onboarding.greenhouse.io
 one-world-radio-tomorrowland/id1485778856
@@ -8051,13 +8047,16 @@ passwordchallenge.marriott.com
 pastela.app
 pata.wnba.com
 pay-admin.exodus.io
+pay-api.truelayer[-sandbox].com
 pay.8x8.com
 pay.exodus.io
 pay.ibex.exchange
 pay.tokopediax.com
+pay.truelayer[-sandbox].com
 pay.tw.coupang.com
 pay.wallet.tg
 paybridge.booking.com
+paydirect.truelayer[-sandbox].com
 payment.backend-capital.com
 payment.bingo.com
 payment.casinohuone.com
@@ -8068,10 +8067,12 @@ payment.ottokasino.com
 payment.pixiv.net
 payment.storspelare.se
 payment.storspiller.com
+payment.truelayer[-sandbox].com
 payment.tw.coupang.com
 payment.unibet.(com­|it|se|co.uk|be|nl|dk|ro|ee|ie|com.au|mt)
 payment.vladcazino.ro
 paymentcomponent.booking.com
+payments-experience-api.truelayer[-sandbox].com
 payments.geneva-staging.chat
 payments.geneva-staging.com
 payments.hostinger.com
@@ -8146,7 +8147,6 @@ ppw.euce1.indriverapp.com
 pr-dev.nba.com
 pr-qa.nba.com
 pr.nba.com
-practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -8187,8 +8187,6 @@ profiel.vrt.be
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profile.playstation.com
-profiles-api.datacamp.com
-projects.datacamp.com
 projects.nextcloud.com
 promo.tw.coupang.com
 prow.k8s.io
@@ -8416,6 +8414,7 @@ servicenl.iciparisxl.be
 session-share.playstation.com
 settings.superhuman.com
 sfc-gw-scf.sa.apse1.aws.indriverapp.com
+sftp.reports.truelayer.com
 sftp://ftp.developersites.com.au:45875
 sgnl.ai
 sgnl.cloud
@@ -8429,6 +8428,7 @@ share.portofantwerp.com
 share.portofantwerpbruges.com
 share.portswigger.net
 shop-id.tokopedia.com
+shop-pay-app-api.truelayer.com
 shop.app
 shop.dyson.co.za
 shop.dyson.tw
@@ -8441,6 +8441,7 @@ shop.trouw.nl
 shop.tw.coupang.com
 shop.whoop.com
 shop.wyndhamvacationownership.trisept.travel
+shopify-admin.truelayer.com
 shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
@@ -8532,8 +8533,6 @@ staking-api.polygon.technology
 staking.polygon.technology
 static*.twilio.com
 static.apps.nextcloud.com
-station.veriff.com
-stationapi.veriff.com
 stats-dev.gleague.nba.com
 stats-dev.nba.com
 stats-qa.gleague.nba.com
@@ -8712,6 +8711,7 @@ trello.com
 trendyol.com
 trm.pinepaymentsolutions.com
 trs.nba.com
+truelayer-signing
 trust.23andme.com
 trv-cf.euce1.indriverapp.com
 try.discourse.org
@@ -8749,12 +8749,14 @@ us.cloud.com
 us.forescout.cloud
 us1.badoo.com
 usa.visa.com
+user-authentication-api.truelayer[-sandbox].com
 user-profile-staging.8x8.com
 user-profile.8x8.com
 usercontent.apps.nextcloud.com
 usercontent.koho.ca
 userprofile-acc.landmarkcinemas.com
 userprofile-ui.landmarkcinemas.com
+users-api.truelayer.com
 uwa.mobilevikings.be
 v0.app
 v0.dev
@@ -8870,6 +8872,7 @@ webapps.portofantwerp.com
 webapps.portofantwerpbruges.com
 webauthn.me	
 webhooks.booking.com
+webhooks.truelayer[-sandbox].com
 webtask.run
 webtoolbox.notebleue.pro
 webwinkel.parool.nl
@@ -8993,8 +8996,6 @@ www.creditkarma.ca
 www.crowdstrike.com
 www.crowdstrike.org
 www.cybersource.com
-www.datacamp.com
-www.datacamp.com/datalab
 www.ddfcontent.com
 www.delen.bank
 www.delen.be/en 
@@ -9270,7 +9271,6 @@ www.urbancompany.com
 www.uzleuven.be
 www.valmo.in
 www.valvesoftware.com
-www.veriff.com
 www.vfsvisaonline.com
 www.vimeo.com
 www.vinci-vie.fr
