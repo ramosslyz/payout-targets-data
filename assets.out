@@ -264,6 +264,7 @@
 *.das.eu
 *.dash.ai
 *.data.api.platform.here.com
+*.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.dell.com/*
@@ -760,6 +761,7 @@
 *.operationstechnology.io
 *.opr.news
 *.opsgenie.com
+*.optimuscards.com
 *.optus.com.au
 *.orbitz.com
 *.origindigital-pac.com.au
@@ -1036,6 +1038,7 @@
 *.tomorrowland.com
 *.tools.thefork.tech
 *.toolsforhumanity.com
+*.topperpay.com
 *.tospotify.com
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org
 *.trainpal.com,*.mytrainpal.com
@@ -1079,6 +1082,7 @@
 *.unreal-agents.jitsi.net
 *.unrealengine.com
 *.unrealtournament.com
+*.uphold.com
 *.uscc.com
 *.uscc.net
 *.uscellular.com
@@ -1090,6 +1094,7 @@
 *.venmo.com
 *.vercel.com
 *.vercel.live
+*.veriff.com
 *.verily.com/
 *.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)
@@ -1282,6 +1287,7 @@
 146.109.68.0/24
 146.109.8.0/21
 146.109.8.0/22
+1467907532
 1474700 (Steam app id)
 1475021574
 1476615877
@@ -1525,7 +1531,6 @@
 3CX Phone System
 3CX SBC
 3d.cs.money
-3rd Party Integrations (Hytale-side issues only)
 3rd party services hosted at *.sophos.com
 3rd-Party Provider Vulnerability
 3rdparty-apis.coinmarketcap.com
@@ -2095,11 +2100,7 @@ HubSpot Android Mobile App
 HubSpot Sales Office 365 add-in
 HubSpot iOS Mobile App
 Hyperdrive
-Hypixel Public APIs
 HyprUnlock.exe
-Hytale Game Client
-Hytale Game Server
-Hytale Launcher
 ICI Paris XL Android
 ICI Paris XL iOS
 Ibotta App Data & Memory
@@ -2582,6 +2583,8 @@ UniFi Wireless Access Points
 UniFi-Play
 University Platform
 UnrealEditorFortnite-Win64-Shipping.exe
+Uphold: Buy BTC, ETH and 300+
+Uphold: Buy BTC, ETH and 360+
 Upwork - Android Application
 Upwork - Marketplace Portal
 Upwork - Messages
@@ -2778,6 +2781,7 @@ airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 ak-static-dev.nba.com
 akismet.com
+alchemy.veriff.com
 alert.logitech.com
 alfred.syfe.com
 alipayhk.com
@@ -2816,6 +2820,8 @@ api-gw-scf.sa.apse1.aws.indriverapp.com
 api-js.datadome.co
 api-partner.spotify.com
 api-polygon-tokens.polygon.technology/
+api-sandbox.uphold.com
+api-sandbox.uphold.com/graphql
 api-staging.airtable.com
 api-uat-bugbounty.nonprod.syfe.com
 api-wallet-sandbox.venly.io
@@ -2874,6 +2880,7 @@ api.ezvizlife.com
 api.faraday.ai
 api.fi.dyson.com
 api.figma.com
+api.flamingo-eu.veriff.com
 api.foliofn.com
 api.fortress.com.hk
 api.geneva-staging.com
@@ -2931,6 +2938,7 @@ api.paybox.sh
 api.personio-dev.com
 api.personio.com
 api.pns.hk
+api.portal.enterprise.uphold.com 
 api.portofantwerp.com
 api.portofantwerpbruges.com
 api.posti.fi
@@ -2949,6 +2957,7 @@ api.remitly.io
 api.robinhood.com
 api.row.pro
 api.ryadom.kz
+api.sandbox.topperpay.com
 api.savers.co.uk
 api.segment.io
 api.sendgrid.com
@@ -2976,7 +2985,9 @@ api.tumblr.com
 api.twilio.com
 api.unleashed.be
 api.upwork.com/graphql
+api.us.veriff.me
 api.vault.chiatest.net
+api.veriff.me
 api.vhx.tv
 api.vimeo.com
 api.watsons.co.id
@@ -3007,6 +3018,9 @@ app.alasco.de
 app.basecamp.com
 app.box.com
 app.circle.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -3053,6 +3067,7 @@ app.paybox.sh
 app.pharmacy.superdrug.com
 app.pullrequest.com
 app.rewire.to
+app.sandbox.topperpay.com
 app.savers.co.uk
 app.segment.com
 app.sendgrid.com
@@ -3097,6 +3112,9 @@ arc.net
 arrive-server.shopifycloud.com
 arsentomsky.indrive.com
 askpeopleteam.visa.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com 
+assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.koho.ca
@@ -3297,6 +3315,7 @@ campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
+campus.datacamp.com
 cancellation.prod.ps.welt.de
 canton-dev.gleague.nba.com
 canton-qa.gleague.nba.com
@@ -3532,6 +3551,7 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
+com.datacamp
 com.dd.doordash
 com.deribit
 com.dolap.android
@@ -3747,6 +3767,7 @@ com.urbanclap.urbanclap
 com.valmo.valmo
 com.valvesoftware.Steam
 com.venmo
+com.veriff.demo
 com.vilcsak.bitcoin2
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
@@ -4009,6 +4030,7 @@ developers.pismo.io
 developers.reddit.com
 developers.tiktok.com
 developers.tw.coupangcorp.com
+developers.veriff.me
 device.marriott.com
 dh-cf.mena.meso1.aws.indriverapp.com
 dh-gw-scf.sa.apse1.aws.indriverapp.com
@@ -4036,12 +4058,16 @@ dns1.optus.net.au
 do.co
 doaction.org
 docs.anthropic.com
+docs.api.enterprise.uphold.com
 docs.gitlab.com
 docs.lansweeper.com
 docs.launchdarkly.com
 docs.nextcloud.com
+docs.optimuscards.com
 docs.redoxengine.com
 docs.superhuman.com
+docs.topperpay.com
+docs.uphold.com
 docsend.com
 docuflow.stg.inspectorio.com
 doordash.DoorDashConsumer
@@ -4269,6 +4295,7 @@ github.com/binary-com
 github.com/deriv-com
 github.com/kubernetes-csi
 github.com/kubernetes-retired
+github.com/uphold/*
 github.com/wordpress
 gitlab.com
 gldatacenter.nba.com
@@ -4299,6 +4326,7 @@ grae.nba.com
 grandrapids-dev.gleague.nba.com
 grandrapids-qa.gleague.nba.com
 grandrapids.gleague.nba.com
+graphql.sandbox.topperpay.com/graphql
 gravatar.com
 green.nba.com
 greensboro-dev.gleague.nba.com
@@ -4378,7 +4406,6 @@ http://api.koho.ca/partner
 http://api.na1.insightly.com/v3.1/
 http://app.scaleft.com/
 http://apps.connect.monash.edu/
-http://arcanitegames.ca/
 http://artists.soundcloud.com/
 http://auth.ripio.com
 http://backend-api.devicecloud.production.forescoutcloud.net/api/v1/settings
@@ -4476,7 +4503,6 @@ https://account.post.ch
 https://account.t-mobile.com
 https://account.teamviewer.com
 https://accounts.cmp.optimizely.com/
-https://accounts.hytale.com/login
 https://accounts.lastpass.com
 https://accounts.opera.com
 https://accounts.webmd.com
@@ -4644,6 +4670,7 @@ https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/certsy/id1617796159
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/jora-jobs-job-search-work/id917565665
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
@@ -5429,8 +5456,6 @@ https://hr.neogov.com
 https://hr.prosus.com/
 https://hub.immutable.com/
 https://hug.personio.com
-https://hytale.com/
-https://hytale.dev/
 https://ibconnect.internetbrands.com
 https://id.atlassian.com/login
 https://id.recordedfuture.com
@@ -5955,7 +5980,6 @@ https://marketplace.atlassian.com/apps/1224583/microsoft-forms-for-confluence-cl
 https://marketplace.atlassian.com/apps/1224584/google-forms-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1224654/multilevel-select-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1224678/monday-com-for-jira?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1224724/todo-checklist-with-forge?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1224759/agile-scrum-planning-poker-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1224763/coji-confluence-pages-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1224766/portfolio-forecaster?hosting=cloud&tab=overview
@@ -5967,7 +5991,6 @@ https://marketplace.atlassian.com/apps/1224984/glass-project-information-for-jir
 https://marketplace.atlassian.com/apps/1225000/smart-images-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1225059/apptime-free-time-tracking-planning-team-mangement?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1225123/jira-snapshots-time-stamped-baselines-into-confluence?tab=overview&hosting=cloud
-https://marketplace.atlassian.com/apps/1225145/image-editor-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1225264/?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1225290/moscow-agile-prioritization-with-forge?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1225346/hubspot-crm-for-confluence-hubspot-integration?hosting=cloud&tab=overview
@@ -5976,7 +5999,6 @@ https://marketplace.atlassian.com/apps/1225449/intelligent-user-manager-ium-for-
 https://marketplace.atlassian.com/apps/1225519/elements-publish-to-confluence-create-pages-from-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1225654/ui-wireframes-mockup-prototype-diagrams-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1225664/form-macro-builder-for-confluence?hosting=cloud
-https://marketplace.atlassian.com/apps/1225724/email-confluence-page?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1226102/elements-publish-to-confluence-jira-helper-app?hosting=cloud
 https://marketplace.atlassian.com/apps/1226127/confluence-cloud-for-microsoft-teams?hosting=cloud
 https://marketplace.atlassian.com/apps/1226140/issue-translator-free?hosting=cloud&tab=overview
@@ -6003,7 +6025,6 @@ https://marketplace.atlassian.com/apps/1226883/google-sheets-for-confluence-work
 https://marketplace.atlassian.com/apps/1226884/google-docs-for-confluence-workspace-connector?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1226885/google-slides-workspace-connector-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1227085/forms-checklists-for-jira?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1227112/eisenhower-task-management-todo-priority-matrix-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1227136/issue-picker-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1227226/?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1227238/translations-for-scroll-documents?hosting=cloud
@@ -6242,6 +6263,7 @@ https://marketplace.atlassian.com/apps/792203801/frank-not-your-regular-hr-solut
 https://marketplace.atlassian.com/apps/856555290/salesforge-crm-leads-deals-customers-management-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/924938813/agile-wip-charts-for-scrum-kanban-safe-gadgets-reports?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/9475/switch-user-su-for-confluence?hosting=datacenter&tab=overview
+https://marketplace.atlassian.com/apps/974024200/radar-assets-inventory-for-jsm?hosting=cloud&tab=overview
 https://marketplace.auth0.com
 https://marketplace.ifood.com.br
 https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
@@ -6749,7 +6771,6 @@ https://static.usaa.com
 https://status.mobile.monash/
 https://storage.googleapis.com/kubernetes-release/
 https://store.epicgames.com/p/amiko-arena-a5986d
-https://store.hytale.com/
 https://store.retail.lightspeed.app
 https://store.steampowered.com/app/4245930/Amiko_Legends/
 https://store.unity.com
@@ -7561,6 +7582,7 @@ longisland-dev.gleague.nba.com
 longisland-qa.gleague.nba.com
 longisland.gleague.nba.com
 lookup.nextcloud.com
+louvre.veriff.me
 loyalty.tw.coupang.com
 lps.dmp.gouv.fr
 lps2.dmp.gouv.fr
@@ -7581,6 +7603,7 @@ m.reddit.com
 m.tw.coupang.com
 maestro.8x8.cloud
 magazine.kruidvat.be
+magic.veriff.me
 magisto.com,www.magisto.com
 mail.hostinger.com
 mail.infomaniak.com
@@ -8100,6 +8123,7 @@ politico.eu
 portal-api.coinmarketcap.com
 portal.23andme.com
 portal.arkoselabs.com
+portal.enterprise.uphold.com
 portal.gofoodmerchant.co.id
 portal.myconnect.com.au
 portal.myconnect.com.au/new-connection
@@ -8122,6 +8146,7 @@ ppw.euce1.indriverapp.com
 pr-dev.nba.com
 pr-qa.nba.com
 pr.nba.com
+practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -8162,6 +8187,8 @@ profiel.vrt.be
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profile.playstation.com
+profiles-api.datacamp.com
+projects.datacamp.com
 projects.nextcloud.com
 promo.tw.coupang.com
 prow.k8s.io
@@ -8505,6 +8532,8 @@ staking-api.polygon.technology
 staking.polygon.technology
 static*.twilio.com
 static.apps.nextcloud.com
+station.veriff.com
+stationapi.veriff.com
 stats-dev.gleague.nba.com
 stats-dev.nba.com
 stats-qa.gleague.nba.com
@@ -8526,6 +8555,7 @@ stats.vinci.com
 stats.wnba.com
 status.delen.be 
 status.larksuite.com
+status.uphold.com
 steamcommunity.com
 stockton-dev.gleague.nba.com
 stockton-qa.gleague.nba.com
@@ -8698,6 +8728,7 @@ txd-cf.cis.euce1.aws.indriverapp.com
 txf-cf.cis.euce1.aws.indriverapp.com
 txm-gw-cf.cis.euce1.aws.indriverapp.com
 uat-bugbounty.nonprod.syfe.com
+uatcms.optimuscards.com
 uber.com
 uber.marriott.com
 uc.8x8pilot.com
@@ -8803,6 +8834,7 @@ vwcm.visa.com
 vœux.vinci.com
 w1.uzleuven.be
 w1.uzleuven.be/random
+wallet-sandbox.uphold.com
 wallet.tg
 wallet.venly.io
 walletbot.me
@@ -8961,6 +8993,8 @@ www.creditkarma.ca
 www.crowdstrike.com
 www.crowdstrike.org
 www.cybersource.com
+www.datacamp.com
+www.datacamp.com/datalab
 www.ddfcontent.com
 www.delen.bank
 www.delen.be/en 
@@ -9138,6 +9172,7 @@ www.nba.com
 www.netflix.com
 www.onsexprime.fr
 www.onthewaterfrontfestival.com
+www.optimuscards.com
 www.orbitz.com
 www.ottocasino.se
 www.ottokasino.com
@@ -9204,6 +9239,7 @@ www.theperfumeshop.com
 www.tink.com
 www.tiqets.com
 www.tomorrowland.com
+www.topperpay.com
 www.torfs.be
 www.torfs.nl
 www.tradepmr.com
@@ -9227,12 +9263,14 @@ www.udemy.com
 www.ultimateears.com
 www.unibet.(com­|it|se|co.uk|be|nl|dk|ro|ee|ie|com.au|mt)
 www.universalorlandovacations.com
+www.uphold.com
 www.upwork.com/api 
 www.urbanclap.com
 www.urbancompany.com
 www.uzleuven.be
 www.valmo.in
 www.valvesoftware.com
+www.veriff.com
 www.vfsvisaonline.com
 www.vimeo.com
 www.vinci-vie.fr

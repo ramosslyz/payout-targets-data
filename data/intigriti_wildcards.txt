@@ -41,6 +41,7 @@
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -159,8 +160,12 @@ sks-*.exo.io
 *.mir.uzleuven.be
 *idp*.uzleuven.be
 *stag*.uzleuven.be
+*.optimuscards.com
+*.topperpay.com
+*.uphold.com
 *.vtm.be
 *.vtmgo.be
+*.veriff.com
 *.voi.com
 *.voiscooters.com
 *.water-link.be/

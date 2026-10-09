@@ -497,15 +497,25 @@ https://marketplace.atlassian.com/apps/1221754/translator-for-confluence?hosting
 https://marketplace.atlassian.com/apps/1222649/macrosuite-easy-html-button-hide-content-divider-tabs?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1223472/trophies-for-jira-gamification?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1224103/cards-panels?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1224724/todo-checklist-with-forge?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1223471/trophies-for-confluence-gamification?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1225290/moscow-agile-prioritization-with-forge?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1225145/image-editor-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1230540/cosmos-intranet-for-confluence?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1227112/eisenhower-task-management-todo-priority-matrix-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/974024200/radar-assets-inventory-for-jsm?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1231591/shoppie-assets-integrated-shop-for-jsm?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1225724/email-confluence-page?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1230161/linksy-advanced-issue-linking?hosting=cloud&tab=overview
+https://www.canva.com
+https://www.canva.com/developers/
+Apps SDK Sandboxing
+https://api.canva.com
+https://www.canva.com/en_au/help/chatgpt-templates/
+https://www.canva.com/integrations/slack/
+Canva Desktop (macOS / Windows)
+Canva (iOS)
+Canva (Android)
+Canva (Chrome Extension)
+Leaked Credentials and Secrets (Canva Employee/Contractor)
+Leaked Credentials and Secrets (Canva User)
+3rd-Party Provider Vulnerability
 https://www.canva.com
 https://www.canva.com/developers/
 Apps SDK Sandboxing
@@ -885,16 +895,6 @@ https://www.mankind.co.uk/
 https://www.illamasqua.com/
 https://www.matalan.co.uk
 https://www.enjoyselfish.com
-Hypixel Public APIs
-Hytale Game Client
-Hytale Game Server
-Hytale Launcher
-https://accounts.hytale.com/login
-https://store.hytale.com/
-https://hytale.com/
-3rd Party Integrations (Hytale-side issues only)
-https://hytale.dev/
-http://arcanitegames.ca/
 https://chrome.google.com/webstore/detail/ibotta-browser-extension/mfaedmjlefifhnhpgipjjiiekchaimpk?hl=en-US
 http://market.android.com/details?id=com.ibotta.android
 http://itunes.apple.com/us/app/ibotta/id559887125

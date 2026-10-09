@@ -84,6 +84,20 @@ unified.cloudways.com
 www.cloudways.com
 css-tricks.com
 Any related DPG media domain
+profiles-api.datacamp.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
+assessment-api.datacamp.com
+assessment-v2.datacamp.com 
+assessment.datacamp.com
+campus.datacamp.com
+com.datacamp
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
+practice.datacamp.com
+projects.datacamp.com
+www.datacamp.com
+www.datacamp.com/datalab
 myaccount.demorgen.be
 www.demorgen.be
 www.demorgen.be/abonnementen
@@ -697,6 +711,26 @@ mirc.uzleuven.be
 prddnighting01.uzleuven.be
 w1.uzleuven.be/random
 ziekenhuisschool.be
+Uphold: Buy BTC, ETH and 360+
+Uphold: Buy BTC, ETH and 300+
+docs.uphold.com
+wallet-sandbox.uphold.com
+api-sandbox.uphold.com
+api-sandbox.uphold.com/graphql
+portal.enterprise.uphold.com
+api.portal.enterprise.uphold.com 
+docs.api.enterprise.uphold.com
+app.sandbox.topperpay.com
+api.sandbox.topperpay.com
+graphql.sandbox.topperpay.com/graphql
+docs.topperpay.com
+uatcms.optimuscards.com
+docs.optimuscards.com
+status.uphold.com
+www.uphold.com
+www.topperpay.com
+www.optimuscards.com
+github.com/uphold/*
 API's
 Sockets
 Mobile Applications
@@ -718,6 +752,18 @@ login.arkane.network
 login.venly.io
 wallet.venly.io
 api-wallet-sandbox.venly.io
+1467907532
+alchemy.veriff.com
+api.flamingo-eu.veriff.com
+api.us.veriff.me
+api.veriff.me
+com.veriff.demo
+louvre.veriff.me
+magic.veriff.me
+station.veriff.com
+stationapi.veriff.com
+developers.veriff.me
+www.veriff.com
 564141518
 accountsettings.connect.identity.stagaws.visma.com
 admin.stage.vismaonline.com
