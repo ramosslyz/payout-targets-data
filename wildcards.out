@@ -964,6 +964,8 @@
 *.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
+*.sqills.com
+*.sqills.team
 *.srvcs.tumblr.com
 *.stadtwien.onmicrosoft.com
 *.stag.tomorrowland.com
@@ -1040,6 +1042,9 @@
 *.trip.com
 *.triplinkintl.com
 *.trouw.nl
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tucarro.com.ve

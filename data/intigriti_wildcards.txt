@@ -141,6 +141,8 @@ sks-*.exo.io
  *.rivian.com
 *.swisspass.ch
 *.sbb.ch
+*.sqills.com
+*.sqills.team
 *.superdrug.com
 *.savers.co.uk
 *.theperfumeshop.com
@@ -149,6 +151,9 @@ sks-*.exo.io
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net
