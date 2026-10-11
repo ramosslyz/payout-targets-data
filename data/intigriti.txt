@@ -157,21 +157,6 @@ service.fing.com
 app.fing.com
 Fing desktop
 www.fing.com*
-HERE WeGo iOS
-HERE WeGo Android
-registry.service.api.platform.here.com
-search.hereapi.com
-transit.hereapi.com
-vector.hereapi.com
-mobilitygraph.hereapi.com
-account.api.here.com
-account.here.com
-listing.here.com
-mapcreator.here.com
-xyz.api.here.com
-Leaked/Compromised Employee Credentials
-Leaked Service Credentials
-All other related services owned by HERE
 hln.be/inloggen
 hln.be/login
 hln.be/registreren
@@ -425,17 +410,6 @@ forms.mobilevikings.be
 co.uk.getmondo
 www.monzo.com
 monzo.com
- new CDI-based architecture
-All Other NVIDIA Container Toolkit Assets
-libNVVM API
-Nsight Systems
-NVIDIA Nsight Developer Tools
-NVRTC library
-CUDA Libraries
-NVCC
-nvJitLink APIs
-CUDA Runtime APIs
-CUDA Driver APIs
 https://platform.nexo.com/api/1/create_recurring_payment
 https://platform.nexo.com/api/1/exchange_order
 https://platform.nexo.com/api/1/exchange_request_quote
