@@ -409,6 +409,8 @@ https://api.pluralonline.com
 https://api.pluralpay.in
 https://pinepg.in
 https://pluralcheckout.pinepg.in
+https://developers.woohoo.in/
+https://www.woohoo.in/
 api.privateinternetaccess.com
 https://privateinternetaccess.com/api/client/v5
 PIA VPN servers

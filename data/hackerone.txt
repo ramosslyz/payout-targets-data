@@ -3168,36 +3168,6 @@ v1. kidswebservices.com
 v1staging.kidswebservices.com 
 wonderboxapi.com
 wonderboxdev.com
-AdwCleaner
-Any other Malwarebytes asset
-Any other ThreatDown asset
-BrowserGuard (Firefox/Chrome/Safari browser extension)
-Malwarebytes Anti-Exploit
-Malwarebytes Privacy (VPN)
-Malwarebytes Remediation for CrowdStrike
-Malwarebytes Support Tool (MBST)
-Malwarebytes ToolSet (MBTS)
-Malwarebytes Windows Firewall Control
-Malwarebytes for Mac
-Malwarebytes for Teams
-Malwarebytes for Windows
-ThreatDown Browser Phishing Protection
-ThreatDown Device Control
-ThreatDown Endpoint Detection & Response (EDR)
-ThreatDown Endpoint Protection
-ThreatDown Patch Management
-USB Flash Drive Control
-blog.malwarebytes.com
-cloud.malwarebytes.com
-cloud.threatdown.com
-com.malwarebytes.Malwarebytes
-forums.malwarebytes.com
-https://oneview.threatdownstage.com
-my.malwarebytes.com
-oneview.threatdown.com
-org.malwarebytes.antimalware
-support.malwarebytes.com
-www.malwarebytes.com
 Capture the Flag
 Coda Chrome Extension
 Grammarly Browser Extensions
