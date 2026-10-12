@@ -250,6 +250,7 @@ https://apps.apple.com/fr/app/infomaniak-swisstransfer/id6737686335
 https://play.google.com/store/apps/details?id=com.infomaniak.sync
 api.pub1.infomaniak.cloud
 api.pub2.infomaniak.cloud
+manager.infomaniak.com/*proxy*
 https://yeswehack.staging.komoju.com
 https://doc.komoju.com/docs/fields-overview
 Crown Jewel Heist
