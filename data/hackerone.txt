@@ -2785,15 +2785,12 @@ www.ultimateears.com
 *gateway-apc.marriott.com
 *uat.marriott.com
 455004730
-activities.marriott.com
 apcgateway.marriott.com
 app-insiders.marriott.com
 auth-apc.marriott.com
 bilt.marriott.com
 bpa2.marriott.com
 bsp.marriott.com
-cache.marriott.com
-careers.marriott.com
 channel-portal.homes-and-villas.marriott.com
 ci-propertyconversionportal.marriott.com
 contentportal.marriott.com
@@ -2801,43 +2798,26 @@ contentportalauth.marriott.com
 cpp.marriott.com
 device.marriott.com
 editionhotels.com
-efast.marriott.com
 eidhelp.marriott.com
 esupplier.marriott.com
-giftcards.marriott.com
-gifts.marriott.com
 help.marriott.com
 homes-and-villas.marriott.com
-hotel-deals.marriott.com
-hotel-development.marriott.com
 hotshoppeservices.com
-http://www.shopmarriott.com
-https://dcfgatewaytst1.marriott.com/
-https://gatewaydsapdev2.marriott.com/
 https://gatewaydsapprd.marriott.com/v1/
 https://gatewaydsapprd.marriott.com/v2/
-https://gatewaydsaptst1.marriott.com/
-https://gatewaydsaptst2.marriott.com/
-ifast.marriott.com
-jobs.marriott.com
 join.marriott.com
 joinmarriottbonvoy.com
 joinrewards.marriott.com
 lawmanager.marriott.com
-marriottfranchisetransactions.marriott.com
 marrtool.com
 mds.marriott.com
 meetmarriottbonvoy.marriott.com
 mgs.marriott.com
-mipartnerprivileges.marriott.com
-moments.marriott.com
 moments.marriottbonvoy.com
-oasisprod.marriott.com
 ocijlbex1prd.marriott.com
 owa.marriott.com
 passwordchallenge.marriott.com
 prod-mipaasiaasservices.marriott.com
-psp.marriott.com
 reservations.all-inclusive.marriott.com
 smetrics.marriott.com
 splunk-phantom-nlb.marriott.com
@@ -2851,7 +2831,6 @@ wechat.api.marriott.com
 www.giving.marriott.com
 www.marriott.com
 www.members.marriott.com
-www.ritzcarlton.com/
 www.travel-brilliantly.marriott.com
 140.95.0.0/16
 199.66.248.0/22
@@ -3174,7 +3153,6 @@ Grammarly Browser Extensions
 Grammarly Desktop for Windows
 Grammarly Desktop for macOS
 Superhuman Go
-Superhuman Mail
 Superhuman Mail Chrome Extension
 Superhuman Mail Desktop App
 coda.grammarly.com
@@ -3392,6 +3370,11 @@ www.semrush.com
 com.quora.android
 com.quora.app.mobile
 http://poe.com
+Brave Browser Desktop
+Brave websites
+com.brave.browser
+com.brave.ios.browser
+https://github.com/brave/*, https://github.com/brave-intl/*
 Burp Collaborator
 Burp Suite DAST
 Burp Suite Pro/Community

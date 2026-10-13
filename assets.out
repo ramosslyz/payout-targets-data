@@ -970,8 +970,6 @@
 *.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
-*.sqills.com
-*.sqills.team
 *.srvcs.tumblr.com
 *.stadtwien.onmicrosoft.com
 *.stag.tomorrowland.com
@@ -1804,6 +1802,8 @@ Box Drive
 Box Tools
 Braintree SDK
 Brand Sites
+Brave Browser Desktop
+Brave websites
 Broken Link
 Browser Isolation
 BuddyPress Core
@@ -2491,7 +2491,6 @@ Subdomain takeover at *asana.biz
 Superdrug Android
 Superdrug iOS
 Superhuman Go
-Superhuman Mail
 Superhuman Mail Chrome Extension
 Superhuman Mail Desktop App
 System Specification
@@ -2706,7 +2705,6 @@ aces-qa2.wnba.com
 aces.wnba.com
 actionnaires.vinci.com
 activate.3cx.com
-activities.marriott.com
 adayevrak.watsons.com.tr
 adb.nba.com
 adm.cloud.com
@@ -3249,7 +3247,6 @@ ca-gw-cf.latam-mx.usea1.aws.indriverapp.com
 ca.account.sony.com
 ca.koho
 cache.judge.me
-cache.marriott.com
 caldav.larksuite.com
 calendar.infomaniak.com
 calendar.notion.so
@@ -3298,7 +3295,6 @@ career.bpost.be
 careers.booking.com
 careers.capital.com
 careers.indrive.com
-careers.marriott.com
 careers.remitly.com
 careers.tiktok.com
 careers.ui.com
@@ -3487,6 +3483,8 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -4076,7 +4074,6 @@ editionhotels.com
 editorial.one
 education.github.com
 eero Devices
-efast.marriott.com
 effecthouse.tiktok.com
 eg.ht
 egaming.kinepolis.es
@@ -4236,9 +4233,7 @@ getorigen.com
 getsurenow.com
 gh-mail.expressvpn.com
 gift.starbucks.co.jp
-giftcards.marriott.com
 gifts.grab.com
-gifts.marriott.com
 gist.github.com
 git.notebleue.pro
 github.com
@@ -4343,8 +4338,6 @@ horizonchaseturbo.com
 horizons.hostinger.com
 hosting-ik.com
 hostinger.com
-hotel-deals.marriott.com
-hotel-development.marriott.com
 hotornot.com
 hotshoppeservices.com
 hpanel.hostinger.com
@@ -4435,7 +4428,6 @@ http://www.byreal.io
 http://www.kiwi.com/stories
 http://www.lululemon.co.kr/
 http://www.rei.com/learn/expert-advice
-http://www.shopmarriott.com
 http://www.underarmour.com.sg
 http://www.whynot.com/
 https://(navigate|engage|checkout|internal|cached-api|api).shoppingapp.decathlon.com/*
@@ -4591,10 +4583,10 @@ https://app.insomnia.rest/
 https://app.intercom.com
 https://app.intercom.io/
 https://app.latitudepayapps.com/
+https://app.magicestimations.com
 https://app.navan.com
 https://app.opsgenie.com
 https://app.optimizely.com/
-https://app.pdq.com/
 https://app.recordedfuture.com
 https://app.requirementyogi.com
 https://app.ring.com/*
@@ -4811,7 +4803,6 @@ https://auth.riskrecon.eu
 https://auth.seek.com
 https://auth.thetradedesk.com
 https://auth.wyze.com
-https://auth2.pdq.com/
 https://authn.usaa.com/
 https://autoupdate.geo.opera.com
 https://b2bapi-a.usaa.com
@@ -4974,7 +4965,6 @@ https://data.prosus.com/
 https://datadome.co
 https://dataportal.originenergy.com.au
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
-https://dcfgatewaytst1.marriott.com/
 https://ddosportal.optus.com.au
 https://dealflow.prosus.com
 https://dealflowapi.prosus.com
@@ -5132,11 +5122,8 @@ https://forum.newrelic.com
 https://fw.ring.com/*
 https://fx-qa.np.bolsasymercados.es/
 https://gateway.optus.com.au/api/ai-search/search/v1
-https://gatewaydsapdev2.marriott.com/
 https://gatewaydsapprd.marriott.com/v1/
 https://gatewaydsapprd.marriott.com/v2/
-https://gatewaydsaptst1.marriott.com/
-https://gatewaydsaptst2.marriott.com/
 https://gcsm.oppoit.com/
 https://gemcreditline.co.nz
 https://gemfinance.co.nz
@@ -5182,6 +5169,7 @@ https://github.com/base/*
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/trix
 https://github.com/basecamp/writebook
+https://github.com/brave/*, https://github.com/brave-intl/*
 https://github.com/circlefin/aptos-cctp
 https://github.com/circlefin/arc-node
 https://github.com/circlefin/arc-remote-signer
@@ -5493,7 +5481,6 @@ https://learn.newrelic.com/
 https://legacy-blockexplorer.electroneum.com
 https://lensstudio.snapchat.com/api/
 https://library.elementor.com/
-https://library.pdq.com/
 https://lieferando.de
 https://life.pulsepoint.com/Buyer/#/campaign
 https://life.pulsepoint.com/EngagementAudience/#/dashboard
@@ -6281,6 +6268,7 @@ https://napoleonsports.be
 https://nbs.pinelabs.com
 https://neon.opera.com/cards/
 https://net.geo.opera.com
+https://new-food.bolt.eu
 https://newrelic.com/
 https://newrelic.com/blog
 https://news.vinted.com
@@ -6568,7 +6556,6 @@ https://portal.anz.kinergysolutions.com
 https://portal.exoscale.com/
 https://portal.iFoodpago.com.br
 https://portal.originzero.com.au
-https://portal.pdq.com/
 https://portal.riskrecon.com
 https://portal.riskrecon.eu
 https://portal.unifiedid.com
@@ -7313,7 +7300,6 @@ idp-cf.euce1.indriverapp.com
 idp-gw-cf.latam-mx.usea1.aws.indriverapp.com
 idp-scf.euce1.indriverapp.com
 idpay-uat.unico.io
-ifast.marriott.com
 iframe.arkoselabs.com
 iframe.moonx-dev.com
 ignite-dev.gleague.nba.com
@@ -7384,7 +7370,6 @@ jlml-wf.indrive.com
 jlml.indrive.com
 job.ryadom.kz
 jobs.kiwi.com
-jobs.marriott.com
 jobs.vinci.com
 join.marriott.com
 join.whoop.com
@@ -7577,7 +7562,6 @@ marketplace.digitalocean.com
 marketplace.gamemaker.io
 marketplace.tw.coupangcorp.com
 marquee.gs.com
-marriottfranchisetransactions.marriott.com
 marrtool.com
 matomo.cloud
 matrix.redditspace.com
@@ -7696,7 +7680,6 @@ mijn.gamma.nl/*
 mijn.karwei.nl/*
 mijnacc.uzleuven.be
 minerva.robinhood.com
-mipartnerprivileges.marriott.com
 mirc.uzleuven.be
 mix-dev.monash.edu/*
 mix-qat.monash.edu/*
@@ -7711,7 +7694,6 @@ mobilitygraph.hereapi.com
 mod.reddit.com
 modefestival.com
 mokapos.com
-moments.marriott.com
 moments.marriottbonvoy.com
 money.x.com
 moneybird.com
@@ -7906,7 +7888,6 @@ nummus.robinhood.com
 nvJitLink APIs
 nycbasketball.nba.com
 nz.co.vista.android.movie.mjrtheatres
-oasisprod.marriott.com
 oauth.deriv.com
 oauth.developers.stagaws.visma.com
 obs-sensors.iris.acceptance.forescoutcloud.net
@@ -8132,7 +8113,6 @@ ps-cf.euce1.indriverapp.com
 ps-gw-cf.euce1.indriverapp.com
 ps5.np.playstation.net
 pscp.tv
-psp.marriott.com
 psychobunny.me
 ptiw.nba.com
 public.hyatt.com
@@ -9128,7 +9108,6 @@ www.priceline.com
 www.prijsmepper.nl
 www.quip.com
 www.redoxengine.com
-www.ritzcarlton.com/
 www.rockstargames.com
 www.royalarena.dk
 www.s-pankki.fi

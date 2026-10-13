@@ -463,6 +463,7 @@ https://apps.apple.com/ee/app/bolt-food/id1451492388
 https://play.google.com/store/apps/details?id=com.bolt.deliveryclient
 https://taxify.eu/
 https://bolt.eu/
+https://new-food.bolt.eu
 https://marketplace.atlassian.com/apps/1217938/company-calendar-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1213545/work-time-tracking-calendar-for-jira?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1217938/company-calendar-planner-for-jira?hosting=datacenter&tab=overview
@@ -1284,6 +1285,7 @@ lego.me
 psychobunny.me
 fashion4less.me
 https://marketplace.atlassian.com/apps/1223655/magic-estimations-async-and-planning-poker-sizing-for-jira?hosting=cloud&tab=overview
+https://app.magicestimations.com
 ████████████████████
 ███████████████
 ██████████████
