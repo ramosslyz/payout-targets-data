@@ -94,15 +94,59 @@ www.onthewaterfrontfestival.com
 www.royalarena.dk
 Any host/web property verified to be owned by Twilio et al.
 Twilio APIs
+accounts.twilio.com
+api.authy.com
 api.segment.io
+api.segmentapis.com
 api.sendgrid.com
+api.sendgrid.com
+api.stytch.com
 api.twilio.com
 app.segment.com
 app.sendgrid.com
+assistants.twilio.com
+blog.twilio.com
+bulkexports.twilio.com
+client.dev
+com.authy
+com.authy.authy
+connectedapps.dev
+console.twilio.com
+content.twilio.com
+conversations.twilio.com
+events.twilio.com
+flex-api.twilio.com
+frontline-api.twilio.com
+github.com/segmentio
+github.com/sendgrid
+github.com/stytchauth/is-agent
+github.com/stytchauth/samlshield
+github.com/stytchauth/stytch-android
+github.com/stytchauth/stytch-browser
+github.com/stytchauth/stytch-dotnet
+github.com/stytchauth/stytch-go
+github.com/stytchauth/stytch-ios
+github.com/stytchauth/stytch-ios-dfp
+github.com/stytchauth/stytch-java
+github.com/stytchauth/stytch-management-go
+github.com/stytchauth/stytch-management-python
+github.com/stytchauth/stytch-mobile
+github.com/stytchauth/stytch-node
+github.com/stytchauth/stytch-php
+github.com/stytchauth/stytch-python
+github.com/stytchauth/stytch-ruby
+github.com/stytchauth/stytch-rust
+github.com/stytchauth/terraform-provider-stytch
+github.com/twilio
+github.com/twilio-labs
+help.twilio.com
 http://help.twilio.com
 http://tsock.us1.twilio.com
 http://twilio.com/blog
+https://github.com/stytchauth
 https://segment.com/docs/connections/sources/
+https://stytch.com/blog
+https://stytch.com/dashboard
 https://www.authy.com/download/
 https://www.authy.com/download/
 https://www.twilio.com/docs/authy/api
@@ -110,10 +154,40 @@ https://www.twilio.com/docs/libraries
 https://www.twilio.com/docs/verify/api
 https://www.twilio.com/en-us/blog/get-started-webrtc
 https://www.twilio.com/login?g=%2fconsole%3f&t=2b1c98334b25c1a785ef15b6556396290e3c704a9b57fc40687cbccd79c46a8c
+iam.twilio.com
+insights.twilio.com
+intelligence.twilio.com
+isagent.dev
+knowledge.twilio.com
+lookups.twilio.com
+management.stytch.com
+marketplace.twilio.com
 mc.sendgrid.com
+memory.twilio.com
+messaging.twilio.com
+monitor.twilio.com
+notify.twilio.com
+numbers.twilio.com
+oauth.twilio.com
+platform.segmentapis.com
+preview.twilio.com
+pricing.twilio.com
+profile.segment.com
+proxy.twilio.com
+routes.twilio.com
 sendgrid.com
+serverless.twilio.com
 signup.sendgrid.com
 smtp.sendgrid.net
+smtp.sendgrid.net
+studio.twilio.com
+sync.twilio.com
+taskrouter.twilio.com
+telemetry.stytch.com
+test.stytch.com
+trunking.twilio.com
+tsock.us1.twilio.com
+twilio.com
 com.dd.doordash
 doordash.DoorDashConsumer
 www.doordash.com
@@ -1570,6 +1644,7 @@ Notion Authentication
 Notion Desktop App
 Notion Frontend
 Notion Integrations
+Notion MCP
 Privilege Escalation
 Product API
 Public API
@@ -3043,7 +3118,6 @@ Elastic Credentials
 Software Supply Chain
 Subdomain takeover
 GS Select iOS app
-api.foliofn.com
 apigw.foliofn.com
 com.gs.gsnow.external
 com.gs.gstrader.external

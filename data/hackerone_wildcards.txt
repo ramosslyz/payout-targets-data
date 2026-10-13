@@ -525,12 +525,9 @@ www.paypal-*.com
 *.ayco.com
 *.claritymoney.com
 *.folioclient.com
-*.foliodigitalwealth.com
-*.foliofirst.com
 *.foliofn.com
 *.folioidentity.com
 *.folioinstitutional.com
-*.folioinvesting.com
 *.global-liquidity.gs.com
 *.goldman.com
 *.goldmanpfm.com

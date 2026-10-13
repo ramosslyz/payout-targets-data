@@ -314,9 +314,6 @@ https://trello.com/power-ups/55a5d917446f51777421000a/slack
 https://trello.com/power-ups/56940ede94fd60cf95f7ce6a/zendesk
 https://trello.com/power-ups/6048e897c73d032a983e2a7c/dashcards
 Third Party Marketplace Apps
-https://app.aurory.io
-https://store.epicgames.com/p/amiko-arena-a5986d
-https://store.steampowered.com/app/4245930/Amiko_Legends/
 config.cic-bug-bounty.auth0app.com
 https://manage.cic-bug-bounty.auth0app.com/
 https://play.google.com/store/apps/details?id=com.auth0.guardian&hl=en_US&gl=US
@@ -400,16 +397,6 @@ https://play.google.com/store/apps/details?id=com.bitgo.verify&hl=en_US
 https://apps.apple.com/us/app/bitgo-verify/id1608937235
 https://play.google.com/store/apps/details?id=com.bitgo.mobileapp
 https://apps.apple.com/us/app/bitgo/id6739010408
-https://web.bitpanda.com
-https://www.bitpanda.com/
-https://api.bitpanda.com
-wss://socket.bitpanda.com
-All the Blockchain Infrastructure
-https://account.bitpanda.com
-https://play.google.com/store/apps/details?id=com.bitpanda.bitpanda
-https://apps.apple.com/app/bitpanda-buy-bitcoin-crypto/id1449018960
-https://blog.bitpanda.com/en
-https://www.bitpanda.com/academy/en/
 https://bitso.com
 https://nvio.mx/
 https://nvio.ar/
@@ -457,13 +444,6 @@ https://marketplace.atlassian.com/apps/1223298/agile-risk-management-for-jira-cl
 https://marketplace.atlassian.com/apps/1226195/align-okr-with-roadmap?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1218036/agile-project-forecast-metrics-roadmap-portfolio?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1218555/easy-pdf-html-word-export-to-custom-documents?hosting=cloud
-https://apps.apple.com/ee/app/bolt-fast-affordable-rides/id675033630
-https://play.google.com/store/apps/details?id=ee.mtakso.client
-https://apps.apple.com/ee/app/bolt-food/id1451492388
-https://play.google.com/store/apps/details?id=com.bolt.deliveryclient
-https://taxify.eu/
-https://bolt.eu/
-https://new-food.bolt.eu
 https://marketplace.atlassian.com/apps/1217938/company-calendar-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1213545/work-time-tracking-calendar-for-jira?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1217938/company-calendar-planner-for-jira?hosting=datacenter&tab=overview
@@ -2559,8 +2539,6 @@ http://my.mintmobile.com/
 http://my.ultramobile.com
 https://my.mintmobile.com
 https://my.ultramobile.com
-https://play.google.com/store/apps/details?id=com.uvnv.mintsim
-https://apps.apple.com/us/app/mint-mobile/id1295303441
 https://mintmobile.com
 https://ultramobile.com
 https://web-retailer-portal.ultramobile.com
@@ -2680,15 +2658,6 @@ https://marketplace.atlassian.com/apps/1217652/content-status-for-confluence?hos
 https://marketplace.atlassian.com/apps/1235238/morph-ai-powered-content-formatting-for-confluence?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1211800/glossary?hosting=cloud
 https://marketplace.atlassian.com/apps/1235579/comment-toolkit-for-jira?hosting=cloud&tab=overview
-epptool-ctld.verisign-grs.com (EPP service; DNS related)
-a.root-servers.net (DNS service; DNS related)
-j.root-servers.net (DNS service; DNS related)
-https://www.verisign.com
-https://youcouldbe.com
-https://blog.verisign.com
-https://namestudioforsocial.com/
-https://namestudio.com
-https://www.verisign.com
 https://apps.apple.com/us/app/viator-tours-activities/id434832826
 https://play.google.com/store/apps/details?id=com.viator.mobile.android&hl=en_US&gl=US
 https://supplier.viator.com/
@@ -2805,9 +2774,6 @@ https://www.wyze.com/products/wyze-cam
 █████████████████████
 █████████████████
 https://marketplace.atlassian.com/apps/1228719/gitprotect-io-for-jira-backup-restore-dr-data-management?hosting=cloud
-staging-app.bany.dev
-https://staging-api.bany.dev/
-https://www.ynab.com/
 Zendesk AI
 Zendesk Front End
 Zendesk Suite

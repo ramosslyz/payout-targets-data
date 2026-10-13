@@ -160,7 +160,6 @@
 *.boardkingsgame.com
 *.bokundemo.com
 *.bokuntest.com
-*.boltable.eu
 *.bookabach.co.nz
 *.booking.com
 *.boozt.com
@@ -374,12 +373,9 @@
 *.flowsecurity.app
 *.flugladen.de
 *.folioclient.com
-*.foliodigitalwealth.com
-*.foliofirst.com
 *.foliofn.com
 *.folioidentity.com
 *.folioinstitutional.com
-*.folioinvesting.com
 *.foretagsportalen.telenor.se
 *.forspotify.com
 *.fortnite.com
@@ -445,7 +441,6 @@
 *.gspublishing.com
 *.gsselect.com
 *.gtflabs.io
-*.gtld-servers.net (DNS service; DNS related)
 *.hackerone-ext-content.com
 *.hackerone-user-content.com/
 *.happening.dev
@@ -1032,6 +1027,9 @@
 *.trip.com
 *.triplinkintl.com
 *.trouw.nl
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tucarro.com.ve
@@ -1074,7 +1072,6 @@
 *.vercel.live
 *.verily.com/
 *.verilyme.com/
-*.verisign-grs.com (DNS service; DNS related)
 *.vfsai.com
 *.vfsevisa.com
 *.vfsglobal.(com|co.uk|ca)

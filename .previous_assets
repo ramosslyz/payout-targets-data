@@ -2909,6 +2909,7 @@ Notion Authentication
 Notion Desktop App
 Notion Frontend
 Notion Integrations
+Notion MCP
 Nsight Systems
 OIDC-based API keys
 OKX Android APK
@@ -3486,6 +3487,7 @@ accounts.shopify.com
 accounts.snapchat.com
 accounts.stage.evernote.com
 accounts.superhuman.com
+accounts.twilio.com
 accounts.x.ai
 accountsettings.connect.identity.stagaws.visma.com
 accountshomolog.acesso.io
@@ -3635,6 +3637,7 @@ api.anthropic.com
 api.arkane.network
 api.atg.se
 api.au.frontegg.com
+api.authy.com
 api.avtoelon.uz
 api.binance.com
 api.blockchain.info
@@ -3795,6 +3798,7 @@ api.s-kaupat.fi
 api.sandbox.topperpay.com
 api.savers.co.uk
 api.segment.io
+api.segmentapis.com
 api.sendgrid.com
 api.services.simplisafe.com (App Endpoints)
 api.services.simplisafe.com (HSP Endpoints)
@@ -3810,6 +3814,7 @@ api.stage.evernote.com
 api.steampowered.com
 api.stg.inspectorio.com
 api.stripe.com
+api.stytch.com
 api.super-id.net
 api.superdrug.com
 api.swapcard.com
@@ -3994,6 +3999,7 @@ assets.hyatt.com
 assets.koho.ca
 assets.spotify.com
 assets.tumblr.com
+assistants.twilio.com
 astra.datastax.com
 asupport.suivo.com
 ath-cf.*.aws.indriverapp.com
@@ -4146,6 +4152,7 @@ blog.indrive.com
 blog.malwarebytes.com
 blog.playcanvas.com
 blog.remitly.com
+blog.twilio.com
 blog.ui.com
 blog.unico.io
 blog.watsons.com.tr
@@ -4197,6 +4204,7 @@ bugzilla.mozilla.org
 builder.hostinger.com
 building-blocks.com
 builds.soundtrackyourbrand.com
+bulkexports.twilio.com
 bullsheet.me
 bulten.watsons.com.tr
 business-resources.truecaller.com
@@ -4376,6 +4384,7 @@ cleveland-qa.gleague.nba.com
 cleveland.gleague.nba.com
 clicks.koho.ca
 client-api.arkoselabs.com
+client.dev
 clientcert.gamma.redoxstage.com
 clinic.lemonaidhealth.com
 cloud.app.box.com
@@ -4502,6 +4511,8 @@ com.application.zomatomerchant
 com.aqupepgames.projectpepe
 com.atebits.Tweetie2
 com.audible.application
+com.authy
+com.authy.authy
 com.badoo.hotornot
 com.badoo.mobile
 com.badoo.twa
@@ -4894,6 +4905,7 @@ connect.identity.stagaws.visma.com
 connect.posti.fi
 connect.secure.wellsfargo.com
 connect.venly.io
+connectedapps.dev
 console-backend.truelayer[-sandbox].com
 console.anthropic.com
 console.circle.com
@@ -4902,6 +4914,7 @@ console.ort-one-pingone.com
 console.posti.com
 console.tink.com
 console.truelayer[-sandbox].com
+console.twilio.com
 console.x.ai
 console.x.com
 contact-dev.nba.com
@@ -4919,9 +4932,11 @@ content-api-sandbox.nba.com
 content-api-uat.nba.com
 content-service-live-testing.bfda.live.use1a.on.epicgames.com
 content-service.bfda.live.use1a.on.epicgames.com
+content.twilio.com
 contentportal.marriott.com
 contentportalauth.marriott.com
 contributor.stock.adobe.com
+conversations.twilio.com
 converse.8x8.com
 core-api-aws-dev.nba.com
 core-api-aws-prod-east1.nba.com
@@ -5308,6 +5323,7 @@ euria.infomaniak.com
 evening-earth.gamma.redoxstage.com
 events.launchdarkly.com
 events.onecloud.harman.com
+events.twilio.com
 evisa.gov.mz
 ews-fusion.my.site.com
 exchange-p.exodus.io
@@ -5404,6 +5420,7 @@ firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 fit.nba.com
 fizzy.do
+flex-api.twilio.com
 flights.booking.com
 flourish-user-preview.com
 flourish-user-templates.com
@@ -5438,6 +5455,7 @@ fraudarmorservice.com
 fraudscout.com
 friends.porsche-design.com
 frontgatetickets.com
+frontline-api.twilio.com
 fsf-gw-cf.euce1.indriverapp.com
 fsf-scf.euce1.indriverapp.com
 fulfillment.23andme.com
@@ -5491,6 +5509,28 @@ github.com/binary-com
 github.com/deriv-com
 github.com/kubernetes-csi
 github.com/kubernetes-retired
+github.com/segmentio
+github.com/sendgrid
+github.com/stytchauth/is-agent
+github.com/stytchauth/samlshield
+github.com/stytchauth/stytch-android
+github.com/stytchauth/stytch-browser
+github.com/stytchauth/stytch-dotnet
+github.com/stytchauth/stytch-go
+github.com/stytchauth/stytch-ios
+github.com/stytchauth/stytch-ios-dfp
+github.com/stytchauth/stytch-java
+github.com/stytchauth/stytch-management-go
+github.com/stytchauth/stytch-management-python
+github.com/stytchauth/stytch-mobile
+github.com/stytchauth/stytch-node
+github.com/stytchauth/stytch-php
+github.com/stytchauth/stytch-python
+github.com/stytchauth/stytch-ruby
+github.com/stytchauth/stytch-rust
+github.com/stytchauth/terraform-provider-stytch
+github.com/twilio
+github.com/twilio-labs
 github.com/uphold/*
 github.com/wordpress
 gitlab.com
@@ -5580,6 +5620,7 @@ help.nextcloud.com
 help.redoxengine.com
 help.sketchfab.com
 help.steampowered.com
+help.twilio.com
 help.ui.com
 help.uisp.com
 helpcenter-tw.coupangcorp.com
@@ -7136,6 +7177,7 @@ https://github.com/spiffe/spire
 https://github.com/square/okhttp
 https://github.com/square/okio
 https://github.com/square/wire
+https://github.com/stytchauth
 https://github.com/sveltejs/svelte
 https://github.com/tchapgouv
 https://github.com/tempus-ex
@@ -9043,6 +9085,8 @@ https://student.classdojo.com
 https://student.monash
 https://studentplacements.monash.edu
 https://studiopress.blog
+https://stytch.com/blog
+https://stytch.com/dashboard
 https://suggestions.opera-api.com
 https://super.xyz
 https://superbet.pl
@@ -9783,6 +9827,7 @@ iRobot Roomba™ 505
 iRobot Roomba™ 705
 ia.tvg.com
 iam.atg.se
+iam.twilio.com
 iat.it.xvservice.net
 ibc-go
 ic3-cf.euce1.indriverapp.com
@@ -9902,10 +9947,12 @@ innovation.superdrug.com
 insight2.tradepmr.com
 insights.deribit.com
 insights.judgeme.dev
+insights.twilio.com
 institutional.coinbase.com
 insuritly.com
 int.32red.com
 int2cruises.udaanindia.com
+intelligence.twilio.com
 intensedebate.com
 intercity-*.eu-east-1.indriverapp.com
 intercity.indrive.com
@@ -9944,6 +9991,7 @@ is-cf.euce1.indriverapp.com
 isa-cf.*.aws.indriverapp.com
 isa-cf.euce1.indriverapp.com
 isa-gw-cf.euce1.indriverapp.com
+isagent.dev
 ispdesign.ui.com
 issuer.idpay-uat.unico.io
 it.niedermann.owncloud.notes
@@ -10012,6 +10060,7 @@ kmeet.infomaniak.com
 knowage.developer.monespacesante.fr
 knowage.monespacesante.fr
 knowledge.nextcloud.com
+knowledge.twilio.com
 knox.beta.blendlabs.com
 kolesa.kz
 konfigurator.bmw-motorrad.de
@@ -10155,6 +10204,7 @@ longisland-qa.gleague.nba.com
 longisland.gleague.nba.com
 lookatme.com.ph
 lookup.nextcloud.com
+lookups.twilio.com
 louvre.veriff.me
 loyalty.tw.coupang.com
 lps.dmp.gouv.fr
@@ -10210,6 +10260,7 @@ manage-teams.nba.com
 manage-uat.nba.com
 manage.grab.co
 manage.nba.com
+management.stytch.com
 manager.infomaniak.com/*proxy*
 manager.infomaniak.com/v3/*
 mangerbouger.fr
@@ -10227,6 +10278,7 @@ marketplace.fedramp.gov
 marketplace.gamemaker.io
 marketplace.magento.com
 marketplace.tw.coupangcorp.com
+marketplace.twilio.com
 marquee.gs.com
 marriottfranchisetransactions.marriott.com
 marrtool.com
@@ -10311,6 +10363,7 @@ meliplay.com.pe
 meliplay.com.uy
 member.tw.coupang.com
 member.watsons.com.tw
+memory.twilio.com
 memphis-dev.gleague.nba.com
 memphis-qa.gleague.nba.com
 memphis.gleague.nba.com
@@ -10341,6 +10394,7 @@ mercury-qa.wnba.com
 mercury-qa2.wnba.com
 mercury.wnba.com
 merino.services.mozilla.com
+messaging.twilio.com
 messenger.eu-east-1.indriverapp.com
 meta-api.reddit.com
 metahuman.unrealengine.com
@@ -10391,6 +10445,7 @@ moneybird.com
 moneybirdstorage.com
 mongodb.live/*
 monitor.mozilla.org
+monitor.twilio.com
 monitormyidentity.com
 monzo.com
 moonpay.com
@@ -10611,6 +10666,7 @@ northernarizona-qa.gleague.nba.com
 northernarizona.gleague.nba.com
 notes.services.box.com
 notification-front-web.tw.coupang.com
+notify.twilio.com
 notion.id
 notula-accpt.portofantwerpbruges.com
 novel.pixiv.net
@@ -10619,6 +10675,7 @@ npmjs.com
 npmjs.org
 ns1.optusnet.com.au
 ns2.optusnet.com.au
+numbers.twilio.com
 nummus.robinhood.com
 nvJitLink APIs
 nycbasketball.nba.com
@@ -10627,6 +10684,7 @@ oasisprod.marriott.com
 oauth-sandbox.gocardless.com
 oauth.deriv.com
 oauth.developers.stagaws.visma.com
+oauth.twilio.com
 ob.gocardless.com
 obs-sensors.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
@@ -10809,6 +10867,7 @@ platform.cat.earlywarning.io
 platform.cloudways.com
 platform.enjin.io
 platform.remix.com
+platform.segmentapis.com
 platform.tiktokpangle.us
 platformtest.cat.earlywarning.io
 play.google.com/store/apps/details?id=com.crowdstrike.falconmobile
@@ -10933,8 +10992,10 @@ presentationtracking.netflix.com
 press.porsche-design.com
 press.porsche.com
 press.priceline.com
+preview.twilio.com
 priceline.com
 pricerunner.com
+pricing.twilio.com
 prime.coinbase.com
 primevideo.com/*
 priority.eu-east-1.indriverapp.com
@@ -10960,6 +11021,7 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profile.playstation.com
+profile.segment.com
 profiler.firefox.com
 profiles-api.datacamp.com
 projects.datacamp.com
@@ -10970,6 +11032,7 @@ promos.tvg.com
 protectionfraudeparcheques.com
 prow.k8s.io
 proxy-production.lime.bike
+proxy.twilio.com
 ps-cf.euce1.indriverapp.com
 ps-gw-cf.euce1.indriverapp.com
 ps5.np.playstation.net
@@ -11149,6 +11212,7 @@ ro.superbet.sport
 rockstarnorth.com
 roominglist.hyatt.com
 router.geneva-staging.com
+routes.twilio.com
 row.pro
 rp-cf.*.aws.indriverapp.com
 rp-gw-cf.*.aws.indriverapp.com
@@ -11241,6 +11305,7 @@ sequoia-openpgp
 sequoia-policy-config
 sequoia-wot
 seraphicsecurity.com
+serverless.twilio.com
 serveur12.notebleue.com
 service.fing.com
 service.iciparisxl.nl
@@ -11486,6 +11551,7 @@ studio-fa-porsche.com
 studio-fa-porsche.de
 studio-fa-porsche.net
 studio.swapcard.com
+studio.twilio.com
 studiofaporsche.at
 studiofaporsche.com
 studiofaporsche.de
@@ -11541,6 +11607,7 @@ swisstransfer.infomaniak.com
 sync.infomaniak.com
 sync.logitech.com
 sync.services.mozilla.com
+sync.twilio.com
 syndication-dev.nba.com
 syndication-qa.nba.com
 syndication.nba.com
@@ -11569,6 +11636,7 @@ taiwan.nba.com
 talk.brave.com
 tapi-demo.etoro.com
 tapi-real.etoro.com
+taskrouter.twilio.com
 tax.audible.com
 tax.crypto.com
 taxi.booking.com
@@ -11584,6 +11652,7 @@ teams.krisp.ai
 teamvideo.nba.com
 technik.autobild.de
 technik.beta.autobild.de
+telemetry.stytch.com
 telenor.se
 teleport.fareharbor.engineering
 template.uat.foodstorm.com
@@ -11595,6 +11664,7 @@ terra-*.indriverapp.com
 test*.redoxengine.com
 test.deribit.com
 test.payworks.io
+test.stytch.com
 testapi.redoxengine.com
 testapp.redoxengine.com
 testbank.xs2a.com
@@ -11662,9 +11732,11 @@ trm.pinepaymentsolutions.com
 trs.nba.com
 truck-api.eu-east-1.indriverapp.com
 truelayer-signing
+trunking.twilio.com
 trust.23andme.com
 trv-cf.euce1.indriverapp.com
 try.discourse.org
+tsock.us1.twilio.com
 tucarro.com
 tucarro.com.co
 tue.wnba.com
@@ -11675,6 +11747,7 @@ tvg.com
 tw.coupang.com
 tw.coupangcorp.com
 tw.coupangls.com
+twilio.com
 twinmotion.unrealengine.com
 txd-cf.cis.euce1.aws.indriverapp.com
 txf-cf.cis.euce1.aws.indriverapp.com

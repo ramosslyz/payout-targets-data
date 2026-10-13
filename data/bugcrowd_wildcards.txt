@@ -14,7 +14,6 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.bitdefender.com
 *.bitgo.com
 *.blofin.com
-*.boltable.eu
 *.gov.bugcrowd.net
 *.bugcrowd.com/auth/*
 *.canva.com
@@ -199,8 +198,6 @@ api-*.soundcloud.com
 *.bokundemo.com
 *.bokuntest.com
 *.api.ua.com/
-*.gtld-servers.net (DNS service; DNS related)
-*.verisign-grs.com (DNS service; DNS related)
 *.viatorinc.com
 *.viator.com
 *.volkswagen.de
