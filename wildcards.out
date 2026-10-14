@@ -160,6 +160,7 @@
 *.boardkingsgame.com
 *.bokundemo.com
 *.bokuntest.com
+*.boltable.eu
 *.bookabach.co.nz
 *.booking.com
 *.boozt.com
@@ -248,6 +249,8 @@
 *.das.eu
 *.dash.ai
 *.data.api.platform.here.com
+*.dbt.com
+*.dbtlabs.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.dell.com/*
@@ -392,6 +395,7 @@
 *.genoapay.com
 *.germany.politico.eu
 *.gesundheitsverbund.at
+*.getdbt.com
 *.gethypr.com
 *.github.net
 *.githubapp.com
@@ -441,6 +445,7 @@
 *.gspublishing.com
 *.gsselect.com
 *.gtflabs.io
+*.gtld-servers.net (DNS service; DNS related)
 *.hackerone-ext-content.com
 *.hackerone-user-content.com/
 *.happening.dev
@@ -1072,6 +1077,7 @@
 *.vercel.live
 *.verily.com/
 *.verilyme.com/
+*.verisign-grs.com (DNS service; DNS related)
 *.vfsai.com
 *.vfsevisa.com
 *.vfsglobal.(com|co.uk|ca)

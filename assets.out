@@ -173,6 +173,7 @@
 *.boardkingsgame.com
 *.bokundemo.com
 *.bokuntest.com
+*.boltable.eu
 *.bookabach.co.nz
 *.booking.com
 *.boozt.com
@@ -261,6 +262,8 @@
 *.das.eu
 *.dash.ai
 *.data.api.platform.here.com
+*.dbt.com
+*.dbtlabs.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.dell.com/*
@@ -405,6 +408,7 @@
 *.genoapay.com
 *.germany.politico.eu
 *.gesundheitsverbund.at
+*.getdbt.com
 *.gethypr.com
 *.github.net
 *.githubapp.com
@@ -454,6 +458,7 @@
 *.gspublishing.com
 *.gsselect.com
 *.gtflabs.io
+*.gtld-servers.net (DNS service; DNS related)
 *.hackerone-ext-content.com
 *.hackerone-user-content.com/
 *.happening.dev
@@ -1085,6 +1090,7 @@
 *.vercel.live
 *.verily.com/
 *.verilyme.com/
+*.verisign-grs.com (DNS service; DNS related)
 *.vfsai.com
 *.vfsevisa.com
 *.vfsglobal.(com|co.uk|ca)
@@ -1386,6 +1392,7 @@
 198.142.235.18
 198.142.65.253
 199.66.248.0/22
+1console.twilio.com
 1pw-scim.prd.iat.it.xvservice.net
 1w.cash
 1w.run
@@ -1704,6 +1711,7 @@ All internet facing Sky UK/ROI assets
 All other SBB owned IT assets
 All other Web and mobile APPs owned by SBB 
 All other related services owned by HERE
+All the Blockchain Infrastructure
 Amazon Subsidiaries (Please only actively test explicitly stated scope)
 AmpliFi
 Anchor
@@ -2537,7 +2545,6 @@ TrustedServer 100,000 Bonus Award (See Program Policy for Info)
 Trustwallet Android App
 Trustwallet Chrome Extension
 Trustwallet iOS App
-Twilio APIs
 UCRM
 UEFN
 UFiber
@@ -2668,6 +2675,7 @@ Zendesk Mobile Applications
 Zendesk Public Repositories
 Zendesk Suite
 [Unico] Liveness Bypass
+a.root-servers.net (DNS service; DNS related)
 a5s.hackerone-ext-content.com
 ab-api-gw-cf.global.aws.indriverapp.com
 ab-api-gw-scf.global.aws.indriverapp.com
@@ -4111,6 +4119,7 @@ en.kolikkopelit.com
 en.ottokasino.com
 enroll.clearme.com
 epaper.welt.de
+epptool-ctld.verisign-grs.com (EPP service; DNS related)
 erie-dev.gleague.nba.com
 erie-qa.gleague.nba.com
 erie.gleague.nba.com
@@ -4428,7 +4437,6 @@ http://falcon-bug-bounty-flag-pgsql-dev-sandbox.e.aivencloud.com/
 http://github.com/circlefin/noble-cctp
 http://github.com/cloudflare
 http://greenchannel.payoneer.com.cn/gcportal
-http://help.twilio.com
 http://ibotta.com
 http://ibt-test.six-group.com
 http://itunes.apple.com/us/app/ibotta/id559887125
@@ -4457,8 +4465,6 @@ http://socialdeal.nl/inspirations/bluemonday/
 http://t.me/wallet
 http://t.me/walt
 http://testnet.bybit.eu
-http://tsock.us1.twilio.com
-http://twilio.com/blog
 http://unifysquare.com/
 http://unisys.com/
 http://urc-auth-uefn.live.ucs.on.epicgames.com/
@@ -4491,6 +4497,7 @@ https://a.klaviyo.com/api/*
 https://access-sit.uat.proptrack.com
 https://access.ripe.net
 https://account-registration.monash.edu/
+https://account.bitpanda.com
 https://account.business.t-mobile.com
 https://account.post.ch
 https://account.t-mobile.com
@@ -4535,6 +4542,7 @@ https://api-prod.thatconceptstore.com/
 https://api-ws.thefork.com
 https://api.20min.ch/
 https://api.aiven.io/login
+https://api.bitpanda.com
 https://api.blablalines.com
 https://api.blts.kape.com
 https://api.bookbeat.com
@@ -4614,6 +4622,7 @@ https://app-qa.chime.com/login
 https://app-staging.getmoneytree.com
 https://app.agency360.com
 https://app.asana.com
+https://app.aurory.io
 https://app.bitgo-test.com
 https://app.bitgo.com
 https://app.bitrise.io/app/51a95edaab331ec5/installable-artifacts/e5213e1a814bf0ba/public-install-page/bed0d33f048271d6828c5a4a979ecc96
@@ -4649,6 +4658,7 @@ https://appgallery.huawei.com/#/app/C102099703?locale=zh_CN&source=appshare&subs
 https://appgallery.huawei.com/app/C101186357
 https://apphouse.underarmour.com/
 https://apps.apple.com/am/app/maya-your-all-in-one-money-app/id991673877
+https://apps.apple.com/app/bitpanda-buy-bitcoin-crypto/id1449018960
 https://apps.apple.com/app/bitx-wallet/id927362479
 https://apps.apple.com/app/chia-signer/id6504493785 
 https://apps.apple.com/app/id1216446440
@@ -4680,6 +4690,8 @@ https://apps.apple.com/de/app/otto-shopping-m%C3%B6bel/id404844644
 https://apps.apple.com/de/app/saturn-deutschland/id557562682
 https://apps.apple.com/de/app/teamviewer-quicksupport/id661649585
 https://apps.apple.com/de/app/teamviewer-remote-control/id692035811
+https://apps.apple.com/ee/app/bolt-fast-affordable-rides/id675033630
+https://apps.apple.com/ee/app/bolt-food/id1451492388
 https://apps.apple.com/es/app/mediamarkt-comprar-online/id1438532508
 https://apps.apple.com/es/app/osl-buy-bitcoin-crypto/id6743699672
 https://apps.apple.com/fr/app/blablalines-covoiturage/id1225543288
@@ -4773,6 +4785,7 @@ https://apps.apple.com/us/app/lastpass-password-manager/id324613447
 https://apps.apple.com/us/app/loom-screen-recorder/id1474480829
 https://apps.apple.com/us/app/lululemon/id920098546
 https://apps.apple.com/us/app/mattermost/id1257222717
+https://apps.apple.com/us/app/mint-mobile/id1295303441
 https://apps.apple.com/us/app/monash-study/id1462126829
 https://apps.apple.com/us/app/moovit-all-transit-options/id498477945
 https://apps.apple.com/us/app/myfitnesspal-calorie-counter/id341232718
@@ -4869,11 +4882,14 @@ https://blablacardaily.com
 https://blis.com
 https://blockexplorer.electroneum.com
 https://blofin.com
+https://blog.bitpanda.com/en
 https://blog.etsy.com
 https://blog.lastpass.com
 https://blog.thefork.com/
+https://blog.verisign.com
 https://bluetooth-events.onecloud.harman.com
 https://board.pinelabs.com
+https://bolt.eu/
 https://booking.mgm.mo/
 https://bounty-fastly.datashield.co
 https://bounty-nginx.datashield.co
@@ -5458,6 +5474,7 @@ https://investor.irobot.com
 https://io.getdelta.android
 https://io.getdelta.ios
 https://iphone-xml.booking.com/json/
+https://it-fivetran.com
 https://itunes.apple.com/app/carrefour-uae/id626805470
 https://itunes.apple.com/fr/app/blablacar-trusted-carpooling/id341329033?l=en&mt=8
 https://itunes.apple.com/gb/app/unibet-casino-slots-games/id905382680
@@ -6296,6 +6313,8 @@ https://myopenpass.com
 https://myopenpassdemo.com/
 https://myplutus.pinelabs.my
 https://myvpn.usaa.com
+https://namestudio.com
+https://namestudioforsocial.com/
 https://napoleoncasino.be
 https://napoleoncasino.be/en-be/game/hogamba-crash?demo=false
 https://napoleoncasino.be/nl-be/game/plinko-napoleon?demo=false
@@ -6305,6 +6324,7 @@ https://napoleonsports.be
 https://nbs.pinelabs.com
 https://neon.opera.com/cards/
 https://net.geo.opera.com
+https://new-food.bolt.eu
 https://newrelic.com/
 https://newrelic.com/blog
 https://news.vinted.com
@@ -6443,11 +6463,13 @@ https://play.google.com/store/apps/details?id=com.belongi.citycenter&hl=en_IN
 https://play.google.com/store/apps/details?id=com.belongi.moe
 https://play.google.com/store/apps/details?id=com.bitgo.mobileapp
 https://play.google.com/store/apps/details?id=com.bitgo.verify&hl=en_US
+https://play.google.com/store/apps/details?id=com.bitpanda.bitpanda
 https://play.google.com/store/apps/details?id=com.bitso.alpha
 https://play.google.com/store/apps/details?id=com.bitso.wallet&pcampaignid=web_share
 https://play.google.com/store/apps/details?id=com.blablalines
 https://play.google.com/store/apps/details?id=com.blofin.android
 https://play.google.com/store/apps/details?id=com.blofin.wallet.wallet
+https://play.google.com/store/apps/details?id=com.bolt.deliveryclient
 https://play.google.com/store/apps/details?id=com.bookbeat.android&hl=en&pli=1
 https://play.google.com/store/apps/details?id=com.booking&hl=en
 https://play.google.com/store/apps/details?id=com.booking.hotelmanager&hl=en
@@ -6537,6 +6559,7 @@ https://play.google.com/store/apps/details?id=com.tranzmate&hl=en_US
 https://play.google.com/store/apps/details?id=com.tripadvisor.tripadvisor&hl=en
 https://play.google.com/store/apps/details?id=com.ua.shop&hl=en
 https://play.google.com/store/apps/details?id=com.usaa.mobile.android.usaa&hl=en
+https://play.google.com/store/apps/details?id=com.uvnv.mintsim
 https://play.google.com/store/apps/details?id=com.verily.me
 https://play.google.com/store/apps/details?id=com.viator.mobile.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.vimlaapp&hl=en
@@ -6545,6 +6568,7 @@ https://play.google.com/store/apps/details?id=com.worldcoin
 https://play.google.com/store/apps/details?id=de.cellular.ottohybrid&hl=de
 https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost
 https://play.google.com/store/apps/details?id=edu.monash.monashmobile
+https://play.google.com/store/apps/details?id=ee.mtakso.client
 https://play.google.com/store/apps/details?id=es.grupobme.bmeconecta
 https://play.google.com/store/apps/details?id=es.mediamarkt.app
 https://play.google.com/store/apps/details?id=exodusmovement.exodus&hl=en_IN
@@ -6668,7 +6692,6 @@ https://securesignin.neogov.com
 https://securesignin.powerdms.com/
 https://securitytrails.com
 https://seekcdn.com
-https://segment.com/docs/connections/sources/
 https://selector.viator.com
 https://selfcare.ooredoo.qa
 https://send2.co/
@@ -6716,6 +6739,7 @@ https://src.mastercard.com/profile/enroll
 https://ssu.staging.myconnect.com.au/get-connected
 https://stadtwien-my.sharepoint.com/
 https://staff.monash
+https://staging-api.bany.dev/
 https://staging-login.vistarmedia.com
 https://staging-trafficking.vistarmedia.com
 https://staging.claytonapp.com
@@ -6729,8 +6753,10 @@ https://static.mgm.mo
 https://static.usaa.com
 https://status.mobile.monash/
 https://storage.googleapis.com/kubernetes-release/
+https://store.epicgames.com/p/amiko-arena-a5986d
 https://store.hytale.com/
 https://store.retail.lightspeed.app
+https://store.steampowered.com/app/4245930/Amiko_Legends/
 https://store.unity.com
 https://storybook.vistarmedia.com
 https://stp.wien.gv.at
@@ -6756,6 +6782,7 @@ https://supportportal.thalesgroup.com
 https://sycamore.moneyboxapp.org
 https://t-mobile.com
 https://takeaway.com
+https://taxify.eu/
 https://teach.classdojo.com
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/package
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/polling
@@ -6862,6 +6889,7 @@ https://walletproxy.tapayments.com
 https://walletproxy1.tapayments.com
 https://walletproxy2.tapayments.com
 https://web-retailer-portal.ultramobile.com
+https://web.bitpanda.com
 https://web.teamviewer.com
 https://web3.sdx.com
 https://webapp.simplisafe.co.uk
@@ -6916,10 +6944,11 @@ https://www.atlassian.com/software/jira/service-management
 https://www.atlassian.com/software/jira/work-management
 https://www.atlassian.com/software/rovo
 https://www.atlassian.com/software/rovo-dev
-https://www.authy.com/download/
 https://www.binance.com/
 https://www.binance.us/
 https://www.bitdefender.com/business/smb-products/business-security.html?cid=ppc|b|google|smb&s_kwcid=AL!6076!3!514235572261!p!!g!!bitdefender%20business&utm_term=bitdefender%20business&utm_campaign=USA+SMB+Branded+30&utm_source=adwords&utm_medium=ppc&hsa_acc=8155205354&hsa_cam=7848657822&hsa_grp=124745713150&hsa_ad=514235572261&hsa_src=g&hsa_tgt=kwd-308396066873&hsa_kw=bitdefender%20business&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwqIiFBhAHEiwANg9szk-Rr3iSn4mrwsvAUOn-pzrO12ufWDmyCLopWigaLQW0t_xtlBE65RoCr6kQAvD_BwE
+https://www.bitpanda.com/
+https://www.bitpanda.com/academy/en/
 https://www.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://www.blockchain.com/
 https://www.bluehost.com/
@@ -7166,11 +7195,6 @@ https://www.thuisbezorgd.nl/
 https://www.tickets.mgm.mo/
 https://www.tilalalghaf.com/en
 https://www.tripadvisor.com
-https://www.twilio.com/docs/authy/api
-https://www.twilio.com/docs/libraries
-https://www.twilio.com/docs/verify/api
-https://www.twilio.com/en-us/blog/get-started-webrtc
-https://www.twilio.com/login?g=%2fconsole%3f&t=2b1c98334b25c1a785ef15b6556396290e3c704a9b57fc40687cbccd79c46a8c
 https://www.underarmour.cn
 https://www.underarmour.co.uk
 https://www.underarmour.com
@@ -7181,6 +7205,7 @@ https://www.usaa.com
 https://www.usaainsurance.com/
 https://www.user.quintoandar.com.br/admin/*
 https://www.venturatvos.com
+https://www.verisign.com
 https://www.vfsglobalcustomerexperience.com/CustomerFeedback/GeneralFeedback/Index
 https://www.vidaxl.(at|be|bg|ch|co.uk.com|com.au|com.ua|com|cz|de|dk|ee|es|fi|fr|gr|ie|is|it|hr|hu|lt|lv|no|nl|pl|pt|ro|se|si|sk|uk|ae|ca|jp)
 https://www.vinted.com
@@ -7224,6 +7249,7 @@ https://www.winconnect.com.au/moving-out/
 https://www.wyze.com/products/wyze-cam
 https://www.xvideos.net/app/
 https://www.yeswehack.com
+https://www.ynab.com/
 https://www.zoop.com.br
 https://www.zoop.ws
 https://wwws-staging.moneytree.jp/link/
@@ -7233,6 +7259,7 @@ https://xv-cp.apis-staging.xvtest.net/
 https://xyzbmojn.net/
 https://yeswehack.com
 https://yeswehack.staging.komoju.com
+https://youcouldbe.com
 https://yourdelivery.de
 https://yrityksennoutopiste.posti.fi
 https://zhongbao-ear.heytap.com/
@@ -7389,6 +7416,7 @@ it.xvservice.net
 itmss://apps.apple.com/us/app/id1510360750?ign-mscache=1
 itv7.itv.com
 ix2smbdyjt.infomaniak.site
+j.root-servers.net (DNS service; DNS related)
 jakelu.posti.fi
 jeux-concours.marionnaud.fr
 jimmobile.be
@@ -8494,6 +8522,7 @@ sso.marriott.com
 sso.oft.hyatt.com
 sso.ryadom.kz
 stage.landmarkcinemas.com
+staging-app.bany.dev
 staging.airtable.com
 staging.kidswebservices.com
 staging.magisto.com
@@ -8909,6 +8938,7 @@ wps-cps.dmp.monespacesante.fr
 wpscan.com
 ws.blockchain.info
 ws.sorare.com
+wss://socket.bitpanda.com
 www-all.nba.com
 www-dev.nba.com
 www-dev.wnba.com

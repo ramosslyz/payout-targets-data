@@ -317,6 +317,8 @@
 *.dash.ai
 *.data.api.platform.here.com
 *.datacamp.com
+*.dbt.com
+*.dbtlabs.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.deliciousbrains.com
@@ -474,6 +476,7 @@
 *.genoapay.com
 *.germany.politico.eu
 *.gesundheitsverbund.at
+*.getdbt.com
 *.gethypr.com
 *.getmeetio.com
 *.github.net
@@ -1664,6 +1667,7 @@
 198.142.235.18
 198.142.65.253
 199.66.248.0/22
+1console.twilio.com
 1pw-scim.prd.iat.it.xvservice.net
 1v1.lol
 1w.cash
@@ -7332,6 +7336,7 @@ https://investor.irobot.com
 https://io.getdelta.android
 https://io.getdelta.ios
 https://iphone-xml.booking.com/json/
+https://it-fivetran.com
 https://itunes.apple.com/app/carrefour-uae/id626805470
 https://itunes.apple.com/ch/app/postcard-creator/id820354055?mt=8
 https://itunes.apple.com/fr/app/blablacar-trusted-carpooling/id341329033?l=en&mt=8
