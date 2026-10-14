@@ -856,9 +856,6 @@ https://marketplace.atlassian.com/apps/1220137/portfolio-by-herocoders-structure
 https://marketplace.atlassian.com/apps/1211562/checklists-for-jira-enterprise-by-herocoders?tab=overview&hosting=cloud
 https://www.hostgator.com.br/
 https://financeiro.hostgator.com.br
-█████████████████████████████████████████
-██████████████████████████████████
-███████████████████████████████████████████████████████████
 HPE Aruba Networking Wireless - AOS-10.7 and above Gateways (GW)
 HPE Aruba Networking Wireless - AOS-10.7 and above Access Points (AP)
 HPE Aruba Networking Central - New UI (see Scope Details)
