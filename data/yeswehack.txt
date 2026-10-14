@@ -369,6 +369,10 @@ https://supplier-connect.otto.de
 https://retail-api.otto.de
 api.ovh.com
 www.ovh.com
+https://www.onedoc.ch
+https://pro.onedoc.ch
+https://api.onedoc.ch
+https://telehealth.onedoc.ch
 https://www.ooredoo.qa
 https://mobile.ooredoo.qa
 https://selfcare.ooredoo.qa
