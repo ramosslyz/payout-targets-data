@@ -99,7 +99,6 @@ api.authy.com
 api.segment.io
 api.segmentapis.com
 api.sendgrid.com
-api.sendgrid.com
 api.stytch.com
 api.twilio.com
 app.segment.com
@@ -167,7 +166,6 @@ routes.twilio.com
 sendgrid.com
 serverless.twilio.com
 signup.sendgrid.com
-smtp.sendgrid.net
 smtp.sendgrid.net
 studio.twilio.com
 sync.twilio.com
