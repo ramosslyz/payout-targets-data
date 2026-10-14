@@ -2,7 +2,6 @@
  *.test.*.lfscnp.com
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 *-api-*.acronis.com
-*. vfsevisa.id
 *.-np.*.lfscnp.com
 *.1debit.com
 *.3lateral.com
@@ -270,11 +269,9 @@
 *.devicelock.com
 *.dibz.co.uk
 *.digitalocean.com
-*.directverify.in
 *.district.in
 *.dns.eu
 *.docsend.com
-*.docswallet.com
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
 *.dojo.me
@@ -726,7 +723,6 @@
 *.oktukids.com
 *.okx.com
 *.oncatapult.com
-*.onevasco.com
 *.openai.com
 *.openai.org
 *.openvela.com
@@ -1075,10 +1071,6 @@
 *.verily.com/
 *.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)
-*.vfsai.com
-*.vfsevisa.com
-*.vfsglobal.(com|co.uk|ca)
-*.vfsglobal.by
 *.vhx.tv
 *.viator.com
 *.viatorinc.com

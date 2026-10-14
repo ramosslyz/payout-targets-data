@@ -482,24 +482,6 @@ Core Assets In-Scope Products (for the full list please visit https://en.securit
 Non Core Assets In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)
 https://thueringer-foerderportal.eu
 https://login.aufbaubank.de
-www.vfsvisaonline.com
-biometservices.com
-agents.tasheer.com
-https://equatorialguinea-evisa.com
-https://online.srilankaevisa.lk/lka/en/login
-https://vfs.mioot.com/
-https://vfseu.mioot.com/
-https://indonesiavoa.vfsevisa.id/
-https://vc.tasheer.com/
-https://cicforms.mioot.com/
-https://vfsforms.mioot.com/
-https://mohesr.vfsglobal.com/forms/CVUAE/admin/
-phlonline.vfsevisa.cn
-phlportal.vfsevisa.cn
-evisa.gov.mz
-https://uketa.vfsglobal.com/forms/UKETA/
-https://www.vfsglobalcustomerexperience.com/CustomerFeedback/GeneralFeedback/Index
-https://www.visaforkorea-sl.com/
 www.vinci.com
 leonard.vinci.com
 castor.vinci.com

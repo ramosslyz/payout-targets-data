@@ -90,14 +90,6 @@ storage*.infomaniak.com
 *.ownit.se
 *.bredbandsbolaget.se
 *.europolitan.se
-*.vfsglobal.(com|co.uk|ca)
-*.vfsevisa.com
-*.onevasco.com
-*.directverify.in
-*.docswallet.com
-*.vfsglobal.by
-*. vfsevisa.id
-*.vfsai.com
 *.vidaxl.org
 *.vidaxl.io
 *.vidaxl.net

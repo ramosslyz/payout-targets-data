@@ -15,7 +15,6 @@
 (se|fi|uk).bingo.com
 *-api-*.acronis.com
 *-vpn.8x8.com
-*. vfsevisa.id
 *.-np.*.lfscnp.com
 *.1debit.com
 *.3lateral.com
@@ -283,11 +282,9 @@
 *.devicelock.com
 *.dibz.co.uk
 *.digitalocean.com
-*.directverify.in
 *.district.in
 *.dns.eu
 *.docsend.com
-*.docswallet.com
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
 *.dojo.me
@@ -739,7 +736,6 @@
 *.oktukids.com
 *.okx.com
 *.oncatapult.com
-*.onevasco.com
 *.openai.com
 *.openai.org
 *.openvela.com
@@ -1088,10 +1084,6 @@
 *.verily.com/
 *.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)
-*.vfsai.com
-*.vfsevisa.com
-*.vfsglobal.(com|co.uk|ca)
-*.vfsglobal.by
 *.vhx.tv
 *.viator.com
 *.viatorinc.com
@@ -2737,7 +2729,6 @@ affiliate-id.tokopedia.com
 affiliate.meesho.com
 africa.visa.com
 agents.hostinger.com
-agents.tasheer.com
 aguacaliente-dev.gleague.nba.com
 aguacaliente-qa.gleague.nba.com
 aguacaliente.gleague.nba.com
@@ -3184,7 +3175,6 @@ biolibre.cl
 biolibre.co
 biolibre.mx
 biolivre.com.br
-biometservices.com
 birmingham-dev.gleague.nba.com
 birmingham-qa.gleague.nba.com
 birmingham.gleague.nba.com
@@ -4121,7 +4111,6 @@ eufyMake Studio(2D UV)
 euria.infomaniak.com
 events.launchdarkly.com
 events.twilio.com
-evisa.gov.mz
 ews-fusion.my.site.com
 exchange.opera.com
 exness.com
@@ -4929,7 +4918,6 @@ https://chrome.google.com/webstore/detail/ibotta-browser-extension/mfaedmjlefifh
 https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en
 https://chromewebstore.google.com/detail/indeed-recruiter-extensio/kiodpphbmnmcmnfgpnmkkhmkllnlflef
 https://chromewebstore.google.com/detail/loom-%E2%80%93-screen-recorder-sc/liecbddmkiiihnedobmlmillhodjkdmb?hl=en-US&pli=1
-https://cicforms.mioot.com/
 https://citycentredeira.com/
 https://clickhou.se/bugcrowd
 https://clients.adstruc.com
@@ -5031,10 +5019,6 @@ https://disclosure-test.six-exchange-regulation.com/
 https://docker-staging.adstruc.com
 https://docs.bugcrowd.com/
 https://docs.eazybi.com/
-https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1208823298#gid=1208823298
-https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1281087877#gid=1281087877
-https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1767553194#gid=1767553194
-https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1817816238#gid=1817816238
 https://docs.keeper.io/en/keeperpam
 https://docs.keeper.io/en/keeperpam/commander-cli/overview
 https://docs.keeper.io/en/keeperpam/privileged-access-manager/getting-started/gateways
@@ -5107,7 +5091,6 @@ https://eforms.neogov.com
 https://eim.eu-west-2.outscale.com
 https://elementor.careers
 https://emistores.pinelabs.com
-https://equatorialguinea-evisa.com
 https://equella.monash.edu
 https://esp-jssdk-integ.uidapi.com
 https://esp-srvonly-integ.uidapi.com
@@ -5447,7 +5430,6 @@ https://imply.test.blis.com
 https://imply.wmaudience.com
 https://ims.monash.edu
 https://indeed.com
-https://indonesiavoa.vfsevisa.id/
 https://infiniteathlete.ai
 https://interestfree.com.au
 https://internal.platform.blis.com
@@ -6266,7 +6248,6 @@ https://mobile.usaa.com
 https://mobileapi.staging.luno.com/
 https://mobileapp.opsgenie.com
 https://mobileapps.usaa.com/
-https://mohesr.vfsglobal.com/forms/CVUAE/admin/
 https://monash.app.nutrip.com
 https://monashcollege.edu.au
 https://monster-customizer.classdojo.com/cf6dfa68-1a81-4c6d-bc0b-38f3666b37d6/index.html
@@ -6339,7 +6320,6 @@ https://onchain.cc/
 https://one-sit.uat.proptrack.com/
 https://one.newrelic.com
 https://online.monash.edu/
-https://online.srilankaevisa.lk/lka/en/login
 https://op.paymaya.com/
 https://open.sincera.io
 https://openai.com/
@@ -6827,7 +6807,6 @@ https://uae.voxcinemas.com/
 https://ui.com/distributors/
 https://ui.com/training/partners/
 https://uiscoop.payzippy.com
-https://uketa.vfsglobal.com/forms/UKETA/
 https://ultramobile.com
 https://umiloans.com.au
 https://underarmour.co.kr
@@ -6849,14 +6828,10 @@ https://v.utv.usaa.com
 https://valuations-sit.uat.proptrack.com
 https://vault-staging.getmoneytree.com
 https://vault.chiatest.net/
-https://vc.tasheer.com/
 https://vendor.riskrecon.com
 https://vendor.riskrecon.eu
 https://vendors.paddle.com
 https://vendorss.usaa.com
-https://vfs.mioot.com/
-https://vfseu.mioot.com/
-https://vfsforms.mioot.com/
 https://videoplayer.20min.ch
 https://vlagg.usaa.com
 https://vlapi.usaa.com
@@ -7195,14 +7170,12 @@ https://www.usaainsurance.com/
 https://www.user.quintoandar.com.br/admin/*
 https://www.venturatvos.com
 https://www.verisign.com
-https://www.vfsglobalcustomerexperience.com/CustomerFeedback/GeneralFeedback/Index
 https://www.vidaxl.(at|be|bg|ch|co.uk.com|com.au|com.ua|com|cz|de|dk|ee|es|fi|fr|gr|ie|is|it|hr|hu|lt|lv|no|nl|pl|pt|ro|se|si|sk|uk|ae|ca|jp)
 https://www.vinted.com
 https://www.vinted.net
 https://www.vintedgo.com
 https://www.visa.com.az/az_az/account/registration
 https://www.visa.com.ua/
-https://www.visaforkorea-sl.com/
 https://www.vr.fi/
 https://www.vtcprodapi.maf.ae/svc/svcHifi.svc/SaveOCRReceipt
 https://www.vwfs.co.in
@@ -8061,8 +8034,6 @@ pdfroster.nba.com
 peopleanalyticsportal.nba.com
 pf-gw-cf.euce1.indriverapp.com
 pf-gw-scf.euce1.indriverapp.com
-phlonline.vfsevisa.cn
-phlportal.vfsevisa.cn
 phone-validation.taxi.booking.com
 photo.kruidvat.be
 photoservice.stage.vismaonline.com
@@ -9246,7 +9217,6 @@ www.urbancompany.com
 www.uzleuven.be
 www.valmo.in
 www.valvesoftware.com
-www.vfsvisaonline.com
 www.vimeo.com
 www.vinci-vie.fr
 www.vinci.com
