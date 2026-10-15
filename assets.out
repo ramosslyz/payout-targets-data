@@ -114,7 +114,6 @@
 *.api.id.realestate.com.au
 *.api.konghq.com
 *.api.louisvuitton.com
-*.api.originenergy.com.au
 *.api.playstation.com
 *.api.ua.com/
 *.api.vimla.se
@@ -166,7 +165,6 @@
 *.bionic.ai
 *.bitdefender.com
 *.bitdefender.net
-*.bitgo.com
 *.blinkforhome.com/*
 *.blofin.com
 *.boardkingsgame.com
@@ -288,7 +286,6 @@
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
 *.dojo.me
-*.download.originenergy.com.au
 *.dpgmedia.be
 *.dpgmedia.nl
 *.drogas.lt
@@ -731,7 +728,6 @@
 *.nr-ops.net
 *.ociadmin.cloud.8x8.com
 *.octopus.com
-*.odcdn.com.au
 *.oklink.com
 *.oktukids.com
 *.okx.com
@@ -752,7 +748,6 @@
 *.optimuscards.com
 *.optus.com.au
 *.orbitz.com
-*.origindigital-pac.com.au
 *.osite99.com
 *.oslo.io
 *.osp.opera.software
@@ -994,7 +989,6 @@
 *.superdrug.com
 *.superhuman.com
 *.support.jbl.com
-*.support.originenergy.com.au
 *.swaps.xyz
 *.swisspass.ch
 *.teams.cloudflare.com
@@ -4500,12 +4494,10 @@ https://analytics.welcomesoftware.com/
 https://answers.irobot.com
 https://api-a.usaa.com
 https://api-app.datadome.co/
-https://api-businessportal.origin.com.au
 https://api-core.deriv.com
 https://api-iam.intercom.io
 https://api-js.datadome.co
 https://api-next.flatmates.com.au
-https://api-portal.originzero.com.au
 https://api-prod.retailsso.com
 https://api-prod.thatconceptstore.com/
 https://api-ws.thefork.com
@@ -4559,9 +4551,7 @@ https://api.requirementyogi.com
 https://api.ring.com/*
 https://api.riskrecon.com
 https://api.riskrecon.eu
-https://api.rx.originenergy.com.au/v1/lpg/graphql
 https://api.shop.ua.com/graphql
-https://api.simnext.bullish-test.com
 https://api.staging.luno.com/
 https://api.t-mobile.com
 https://api.test.latitudefinancial.com
@@ -4593,8 +4583,6 @@ https://app-staging.getmoneytree.com
 https://app.agency360.com
 https://app.asana.com
 https://app.aurory.io
-https://app.bitgo-test.com
-https://app.bitgo.com
 https://app.bitrise.io/app/51a95edaab331ec5/installable-artifacts/e5213e1a814bf0ba/public-install-page/bed0d33f048271d6828c5a4a979ecc96
 https://app.chime.com
 https://app.datadome.co
@@ -4849,7 +4837,6 @@ https://billingserver.pinelabs.com
 https://binance.tr
 https://bistro.sk
 https://bitbucket.org
-https://bitgo.ae/
 https://bitso.com
 https://blablacardaily.com
 https://blis.com
@@ -4884,7 +4871,6 @@ https://bugs.opera.com/
 https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.rivian.com/api
-https://businessportal.origin.com.au
 https://butlerfortrello.com/
 https://buyersedge.co.nz
 https://c.realme.com/eg/
@@ -4976,7 +4962,6 @@ https://cryptowallet.opera-api.com
 https://cstg-integ.uidapi.com
 https://customer-api.datadome.co
 https://customer-portal.paddle.com
-https://customerportal.winconnect.com.au/login
 https://customers.us1.fga.dev/
 https://d1.utv.usaa.com
 https://d2.utv.usaa.com
@@ -4989,7 +4974,6 @@ https://dashboard.rapyd.net/
 https://data.limeinternal.com
 https://data.prosus.com/
 https://datadome.co
-https://dataportal.originenergy.com.au
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
 https://ddosportal.optus.com.au
 https://dealflow.prosus.com
@@ -6571,12 +6555,9 @@ https://plugins.matomo.org/developer/innocraft
 https://plugins.matomo.org/developer/matomo-org
 https://pluralcheckout.pinepg.in
 https://pods.link
-https://portal-api.anz.kinergysolutions.com
 https://portal.3cx.com
-https://portal.anz.kinergysolutions.com
 https://portal.exoscale.com/
 https://portal.iFoodpago.com.br
-https://portal.originzero.com.au
 https://portal.pdq.com/
 https://portal.riskrecon.com
 https://portal.riskrecon.eu
@@ -6676,12 +6657,10 @@ https://shop.lululemon.com
 https://shop.monash.edu/
 https://shop.post.ch/shop
 https://shop.posti.fi
-https://sign.originzero.com.au
 https://signal.pulsepoint.com/hcp365/#/dashboard/advertiser/6603/overview
 https://signal.pulsepoint.com/hcpexplorer/#/dashboard/eventsExplorer
 https://signature.blis.com
 https://signup.ticketmaster.com/bugbountytest
-https://simnext.bullish-test.com
 https://simplisafe.co.uk
 https://simplisafe.com
 https://sip2.dmp.gouv.fr
@@ -6703,7 +6682,6 @@ https://speeddials.opera.com
 https://sprint.com
 https://src.mastercard.com/*
 https://src.mastercard.com/profile/enroll
-https://ssu.staging.myconnect.com.au/get-connected
 https://stadtwien-my.sharepoint.com/
 https://staff.monash
 https://staging-api.bany.dev/
@@ -6822,7 +6800,6 @@ https://us.eufy.com/products/t88511d1
 https://us.eufy.com/products/t88711w1
 https://us.identity.konghq.com/*
 https://usa.visa.com/gateway/api
-https://usdstandard.com/
 https://utv.usaa.com
 https://v.utv.usaa.com
 https://valuations-sit.uat.proptrack.com
@@ -7095,7 +7072,6 @@ https://www.opposhop.cn/
 https://www.opposhop.cn/m/
 https://www.optus.com.au/osp-ecare
 https://www.optus.com.au/prepaid/activate
-https://www.originenergy.com.au/
 https://www.osl.com/en
 https://www.osl.com/hk-en
 https://www.otto.de
@@ -7206,8 +7182,6 @@ https://www.webmd.com
 https://www.webproteus.com/lpro-web/login
 https://www.whosampled.com/
 https://www.wien.gv.at
-https://www.winconnect.com.au/get-connected/
-https://www.winconnect.com.au/moving-out/
 https://www.wyze.com/products/wyze-cam
 https://www.xvideos.net/app/
 https://www.yeswehack.com
@@ -7227,7 +7201,6 @@ https://zhongbao-ear.heytap.com/
 https://zhongbao.heytap.com/
 https://zuora-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/notifications/raas
 hub-api-sandbox.remitly.io
-hub.myconnect.com.au
 hub.vroid.com
 hub.vznkul.be/* 
 hub.vznkul.be/services/interhub/InterHubService
@@ -7768,7 +7741,6 @@ myaccount.trouw.nl
 myaccount.volkskrant.nl
 myaccount.vtm.be
 myanmar.visa.com
-myconnect.com.au
 mynexuz.be
 mynexuzhealth/id1459856321
 myself.tw.coupang.com
@@ -8069,8 +8041,6 @@ portal.23andme.com
 portal.arkoselabs.com
 portal.enterprise.uphold.com
 portal.gofoodmerchant.co.id
-portal.myconnect.com.au
-portal.myconnect.com.au/new-connection
 portal.nextcloud.com
 portal.polygon.technology
 portal.taxi.booking.com

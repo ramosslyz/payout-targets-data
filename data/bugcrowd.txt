@@ -364,6 +364,14 @@ Mac Restore Downloaders
 Windows Restore Downloaders
 Git Repositories (b2-sdk-java & B2 Command Line Tool)
 https://backblaze.com
+https://play.google.com/store/apps/details?id=com.backblaze.android&hl=en_US&gl=US
+https://apps.apple.com/us/app/backblaze/id628638330
+Mac Personal Backup Clients
+Windows Personal Backup Clients
+Mac Restore Downloaders
+Windows Restore Downloaders
+Git Repositories (b2-sdk-java & B2 Command Line Tool)
+https://backblaze.com
 https://marketplace.atlassian.com/apps/1213404/balsamiq-wireframes-for-confluence-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1212796/balsamiq-wireframes-for-jira-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/5161/balsamiq-wireframes-for-jira?hosting=datacenter&tab=overview
@@ -392,10 +400,6 @@ Bitdefender Total Security
 Bitdefender Antimalware Engines
 https://www.bitdefender.com/business/smb-products/business-security.html?cid=ppc|b|google|smb&s_kwcid=AL!6076!3!514235572261!p!!g!!bitdefender%20business&utm_term=bitdefender%20business&utm_campaign=USA+SMB+Branded+30&utm_source=adwords&utm_medium=ppc&hsa_acc=8155205354&hsa_cam=7848657822&hsa_grp=124745713150&hsa_ad=514235572261&hsa_src=g&hsa_tgt=kwd-308396066873&hsa_kw=bitdefender%20business&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwqIiFBhAHEiwANg9szk-Rr3iSn4mrwsvAUOn-pzrO12ufWDmyCLopWigaLQW0t_xtlBE65RoCr6kQAvD_BwE
 Bitdefender BOX v2
-https://app.bitgo.com
-https://app.bitgo-test.com
-https://bitgo.ae/
-https://usdstandard.com/
 https://play.google.com/store/apps/details?id=com.bitgo.verify&hl=en_US
 https://apps.apple.com/us/app/bitgo-verify/id1608937235
 https://play.google.com/store/apps/details?id=com.bitgo.mobileapp
@@ -492,8 +496,6 @@ https://gov.bugcrowd.net
 https://identity.bugcrowd.com/
 https://bullish.com/
 https://investor.bullish.com/
-https://simnext.bullish-test.com
-https://api.simnext.bullish-test.com
 https://marketplace.atlassian.com/apps/1221754/translator-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1222649/macrosuite-easy-html-button-hide-content-divider-tabs?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1223472/trophies-for-jira-gamification?hosting=cloud&tab=overview
@@ -1589,6 +1591,15 @@ https://openai.com/
 https://platform.openai.com/playground
 Other
 Codex Desktop
+https://api.openai.com
+https://chat.openai.com
+https://chat.openai.com
+Third Party Targets
+OpenAI API Keys
+https://openai.com/
+https://platform.openai.com/playground
+Other
+Codex Desktop
 Agentic Tools
 https://openai.com/
 Other
@@ -1868,24 +1879,6 @@ https://marketplace.atlassian.com/apps/1237740?tab=overview&hosting=cloud
 ████████████████████████
 ████████████████████████
 ████████████████████████████
-https://www.originenergy.com.au/
-https://dataportal.originenergy.com.au
-https://api.rx.originenergy.com.au/v1/lpg/graphql
-https://www.winconnect.com.au/moving-out/
-https://www.winconnect.com.au/get-connected/
-https://customerportal.winconnect.com.au/login
-portal.myconnect.com.au
-myconnect.com.au
-portal.myconnect.com.au/new-connection
-hub.myconnect.com.au
-https://ssu.staging.myconnect.com.au/get-connected
-https://portal.anz.kinergysolutions.com
-https://portal-api.anz.kinergysolutions.com
-https://portal.originzero.com.au
-https://api-portal.originzero.com.au
-https://sign.originzero.com.au
-https://businessportal.origin.com.au
-https://api-businessportal.origin.com.au
 https://www.osl.com/hk-en
 https://www.osl.com/en
 https://play.google.com/store/apps/details?id=com.oslmobile.global
@@ -2218,6 +2211,9 @@ SAP AI Core
 SAP BusinessOne
 Gardener
 SAP Concur
+https://marketplace.atlassian.com/apps/1218251/s-notify-email-encryption-for-jira?hosting=datacenter
+https://marketplace.atlassian.com/apps/1218509/s-notify-email-encryption-for-confluence?hosting=datacenter
+https://marketplace.atlassian.com/apps/1226720/s-notify-email-encryption-for-bitbucket?hosting=datacenter
 https://marketplace.atlassian.com/apps/1218251/s-notify-email-encryption-for-jira?hosting=datacenter
 https://marketplace.atlassian.com/apps/1218509/s-notify-email-encryption-for-confluence?hosting=datacenter
 https://marketplace.atlassian.com/apps/1226720/s-notify-email-encryption-for-bitbucket?hosting=datacenter
