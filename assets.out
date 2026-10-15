@@ -356,6 +356,7 @@
 *.exodus.com
 *.exodus.io
 *.expedia-aarp.com
+*.expedia.biz
 *.expedia.com
 *.expediaagents.com
 *.expediacruises.com
@@ -1394,6 +1395,8 @@
 1w.cash
 1w.run
 1win.com
+1wintoken.com
+1wtoken.com
 202.139.138.208/28
 203.13.127.0/24
 203.13.128.0/27
@@ -5031,6 +5034,10 @@ https://disclosure-test.six-exchange-regulation.com/
 https://docker-staging.adstruc.com
 https://docs.bugcrowd.com/
 https://docs.eazybi.com/
+https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1208823298#gid=1208823298
+https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1281087877#gid=1281087877
+https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1767553194#gid=1767553194
+https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1817816238#gid=1817816238
 https://docs.keeper.io/en/keeperpam
 https://docs.keeper.io/en/keeperpam/commander-cli/overview
 https://docs.keeper.io/en/keeperpam/privileged-access-manager/getting-started/gateways
@@ -5772,7 +5779,6 @@ https://marketplace.atlassian.com/apps/1218865/advanced-children-display-for-con
 https://marketplace.atlassian.com/apps/1218888/simple-custom-reports-charts-time-in-status-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1218960/scrum-poker-estimates-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1218974/insight-azure-integration?hosting=datacenter
-https://marketplace.atlassian.com/apps/1219003/enriched-profiles-for-jsm?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1219004/worklogs-time-tracking-and-reports?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1219094/insight-sccm-integration?hosting=datacenter
 https://marketplace.atlassian.com/apps/1219099/stagil-tables-todo-checklists-reports-statistics?hosting=cloud&tab=overview
@@ -5979,7 +5985,6 @@ https://marketplace.atlassian.com/apps/1225375/site-statistics-for-jira-cloud?ho
 https://marketplace.atlassian.com/apps/1225449/intelligent-user-manager-ium-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1225496/?hosting=cloud
 https://marketplace.atlassian.com/apps/1225519/elements-publish-to-confluence-create-pages-from-jira?hosting=cloud
-https://marketplace.atlassian.com/apps/1225551/typeform-integration-for-jsm?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1225654/ui-wireframes-mockup-prototype-diagrams-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1225664/form-macro-builder-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1225798/screenjar-screen-recorder-for-jira?tab=overview&hosting=cloud
@@ -6050,7 +6055,6 @@ https://marketplace.atlassian.com/apps/1228657/easy-peasy-roadmap-for-jira?hosti
 https://marketplace.atlassian.com/apps/1228694/revyz-backup-restore?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1228719/gitprotect-io-for-jira-backup-restore-dr-data-management?hosting=cloud
 https://marketplace.atlassian.com/apps/1228815?tab=overview&hosting=cloud
-https://marketplace.atlassian.com/apps/1228848/release-planning-and-reports-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1228867/assetit-it-asset-management-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1228868/esign-document-management?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1228920/issue-work-item-summary-description-templates-for-jira?hosting=cloud&tab=overview
@@ -6620,8 +6624,6 @@ https://portalv2.lh360.com
 https://portfolio-manager-sit.uat.proptrack.com/
 https://powerdms.com/
 https://powerpak.com
-https://preprod-datahub.xelians.fr/
-https://preprod-xam.xelians.fr/
 https://priceless.com/golf/
 https://printerdriver.posti.com/
 https://privacy.blismedia.com
@@ -6730,6 +6732,9 @@ https://snapnames.com/
 https://snc.underarmour.com/
 https://snctest-c.underarmour.com/
 https://snctest-s.underarmour.com/
+https://solscan.io/account/B2RFzpckwjtHXHMrPMKarg6Cj6xkSdT6mru4gJiJE87L
+https://solscan.io/account/GWvQinGBRa7ZUzhXY23MrLjdsx3KfRGxH8yXURBwrz1R
+https://solscan.io/account/sxzuA7TuRvjVbrXkJUgrYq2hfjVf3RFd8WFaSxt2rYm
 https://song.link
 https://songlink.io
 https://soundcloud.com
@@ -6996,7 +7001,6 @@ https://www.developersites.com.au/testing-2505-houston/
 https://www.developersites.com.au/testing-2505-lms/
 https://www.dmp.fr
 https://www.dmp.gouv.fr
-https://www.enjoyselfish.com
 https://www.epam.com/
 https://www.etsy.com
 https://www.etsy.com/developers/documentation/getting_started/api_basics
@@ -7026,7 +7030,6 @@ https://www.homesupport.irobot.com
 https://www.hostgator.com.br/
 https://www.hostgator.com/
 https://www.ifood.com.br
-https://www.illamasqua.com/
 https://www.imou.com
 https://www.intercom.com/
 https://www.internetbrands.com

@@ -520,8 +520,6 @@ essentials.vinci.com
 www.chaire-arpenter.fr
 www.habileoh.com
 stats.vinci.com
-https://preprod-xam.xelians.fr/
-https://preprod-datahub.xelians.fr/
 https://yeswehack.com
 https://api.yeswehack.com
 https://apps.yeswehack.com

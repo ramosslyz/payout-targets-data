@@ -87,12 +87,6 @@ https://marketplace.atlassian.com/apps/1218801/upraise-for-employee-garrison?hos
 https://marketplace.atlassian.com/apps/1217536/embedder-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1221519/roadmap-portal-for-jira-service-desk?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1225798/screenjar-screen-recorder-for-jira?tab=overview&hosting=cloud
-https://marketplace.atlassian.com/apps/1219003/enriched-profiles-for-jsm?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1225551/typeform-integration-for-jsm?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1219003/enriched-profiles-for-jsm?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1225551/typeform-integration-for-jsm?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1228848/release-planning-and-reports-for-jira?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1228848/release-planning-and-reports-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1230896/arn-confluence-helper-app?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1219112/easy-templates-for-jira-issues?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1236389/easy-progress-hill-charts-for-jira?hosting=cloud&tab=overview
@@ -898,9 +892,7 @@ https://www.myprotein.com/
 https://www.myvitamins.com/
 https://www.arrowfilms.com
 https://www.mankind.co.uk/
-https://www.illamasqua.com/
 https://www.matalan.co.uk
-https://www.enjoyselfish.com
 Hypixel Public APIs
 Hytale Game Client
 Hytale Game Server
