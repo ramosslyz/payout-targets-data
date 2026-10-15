@@ -164,6 +164,7 @@ sks-*.exo.io
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
+*.veriff.com
 *.voi.com
 *.voiscooters.com
 *.water-link.be/
