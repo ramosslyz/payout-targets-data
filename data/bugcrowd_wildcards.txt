@@ -10,9 +10,9 @@ Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DI
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 *.cic-bug-bounty.auth0app.com
 *.backblazeb2.com
-*.backblazeb2.com
 *.bitdefender.net
 *.bitdefender.com
+*.bitgo.com
 *.blofin.com
 *.boltable.eu
 *.gov.bugcrowd.net
@@ -109,9 +109,6 @@ prod-*.nu.com.co
 *.openai.org
 *.openai.org
 *.openai.com
-*.openai.org
-*.openai.org
-*.openai.com
 *.openai.com
 *.opera.software
 *.osp.opera.software
@@ -135,6 +132,11 @@ prod-*.nu.com.co
 *.adx.opera.com
 *.opsgenie.com
 *.optus.com.au
+*.origindigital-pac.com.au
+*.odcdn.com.au
+*.support.originenergy.com.au
+*.api.originenergy.com.au
+*.download.originenergy.com.au
 *.pinterest.com Web Apps
 *.points.com
 *.quizlet.com

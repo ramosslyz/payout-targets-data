@@ -2,6 +2,7 @@
  *.test.*.lfscnp.com
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 *-api-*.acronis.com
+*. vfsevisa.id
 *.-np.*.lfscnp.com
 *.1debit.com
 *.3lateral.com
@@ -101,6 +102,7 @@
 *.api.id.realestate.com.au
 *.api.konghq.com
 *.api.louisvuitton.com
+*.api.originenergy.com.au
 *.api.playstation.com
 *.api.ua.com/
 *.api.vimla.se
@@ -152,6 +154,7 @@
 *.bionic.ai
 *.bitdefender.com
 *.bitdefender.net
+*.bitgo.com
 *.blinkforhome.com/*
 *.blofin.com
 *.boardkingsgame.com
@@ -267,12 +270,15 @@
 *.devicelock.com
 *.dibz.co.uk
 *.digitalocean.com
+*.directverify.in
 *.district.in
 *.dns.eu
 *.docsend.com
+*.docswallet.com
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
 *.dojo.me
+*.download.originenergy.com.au
 *.dpgmedia.be
 *.dpgmedia.nl
 *.drogas.lt
@@ -715,10 +721,12 @@
 *.nr-ops.net
 *.ociadmin.cloud.8x8.com
 *.octopus.com
+*.odcdn.com.au
 *.oklink.com
 *.oktukids.com
 *.okx.com
 *.oncatapult.com
+*.onevasco.com
 *.openai.com
 *.openai.org
 *.openvela.com
@@ -735,6 +743,7 @@
 *.optimuscards.com
 *.optus.com.au
 *.orbitz.com
+*.origindigital-pac.com.au
 *.osite99.com
 *.oslo.io
 *.osp.opera.software
@@ -976,6 +985,7 @@
 *.superdrug.com
 *.superhuman.com
 *.support.jbl.com
+*.support.originenergy.com.au
 *.swaps.xyz
 *.swisspass.ch
 *.teams.cloudflare.com
@@ -1065,6 +1075,10 @@
 *.verily.com/
 *.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)
+*.vfsai.com
+*.vfsevisa.com
+*.vfsglobal.(com|co.uk|ca)
+*.vfsglobal.by
 *.vhx.tv
 *.viator.com
 *.viatorinc.com
