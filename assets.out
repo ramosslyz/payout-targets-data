@@ -1696,6 +1696,7 @@ ASN: AS62876
 AWS Infrastructure
 AWS infrastructure and services in use by Wise (eg: S3 buckets)
 AXIS OS
+Account restrictions and control bypasses - campaign
 Acronis Agent
 Acronis Cloud Manager
 Acronis Cyber Infrastructure
@@ -1992,7 +1993,6 @@ ExpressVPN VPN servers
 External service data leakage 
 F 21 Pro
 FIles.com REST API
-FPGA Solution Development Tools and Utilities
 Faucets
 Figma Atlassian App
 Figma Desktop App
@@ -2019,7 +2019,6 @@ Finicity Decisioning
 Finicity- Data Services
 Finicity- Open Banking Payment History application
 FireTV
-Firmware
 Firmware: Mali Command Stream Frontend (CSF) Firmware
 For reporting purposes only. Use staging environment listed in brief.
 For reporting purposes only. Use staging environment listed in brief. 
@@ -2091,7 +2090,6 @@ HPE Aruba Networking Wireless - AOS-8 Controllers
 HPE Aruba Networking Wireless - AOS-8 Instant AP (IAP)
 HPE Networking Instant On APs and supporting backend infrastructure
 HYPR Workforce Access.app
-Hardware
 Hardware found on https://www.ezviz.com/category/security-wifi-cameras
 Hardware found on https://www.ezviz.com/category/smart-home
 Harmony Remote Software
@@ -2294,7 +2292,6 @@ Nintendo Switch 2 System Processes allowing piracy
 Nintendo Switch 2 applications for which Nintendo is the publisher worldwide
 Nintendo Switch System
 Nintendo Switch applications for which Nintendo is the publisher worldwide
-Non Altera Products
 Non Core Assets In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)
 Non-Core Assets
 Notion AI
@@ -2455,7 +2452,6 @@ Smart Contract: Solana mainnet - xoUSDq85Rjsb6SbUwJyreFgeWQvxdkT7R3c3g7s6p5Y
 Smokescreen Open Source Project
 Social Media Accounts
 Sockets
-Software
 Software Supply Chain
 Software: Mali GPU Kernel Driver
 Solarbank 2 E1600 Pro
@@ -3945,6 +3941,7 @@ cweb-slot6-ott-dev.nba.com
 cweb-slot6-preview-ott-dev.nba.com
 cyberghost.app
 cyberghost.com
+cz.skodaauto.myskoda
 d-you Wallet Android Test
 d-you Wallet iOS Test
 dash.ai
@@ -4705,6 +4702,7 @@ https://apps.apple.com/ca/app/lime-supply/id1620058457
 https://apps.apple.com/ch/app/debix/id1581440132?l=en-GB
 https://apps.apple.com/ch/app/die-post/id378676700
 https://apps.apple.com/ch/app/media-markt-schweiz/id1169043480
+https://apps.apple.com/cz/app/my%C5%A1koda/id1632202810
 https://apps.apple.com/de/app/mediamarkt-deutschland/id386304604
 https://apps.apple.com/de/app/otto-shopping-m%C3%B6bel/id404844644
 https://apps.apple.com/de/app/saturn-deutschland/id557562682

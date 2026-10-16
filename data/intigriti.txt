@@ -2,11 +2,6 @@ app.aikido.dev
 myaccount.ad.nl
 www.ad.nl
 www.ad.nl/abonnementen
-Firmware
-Hardware
-FPGA Solution Development Tools and Utilities
-Software
-Non Altera Products
 Firmware: Mali Command Stream Frontend (CSF) Firmware
 Software: Mali GPU Kernel Driver
 newsos.com
@@ -599,6 +594,8 @@ SimScale API
 SimScale Platform
 SimScale Forum
 SimScale Website
+https://apps.apple.com/cz/app/my%C5%A1koda/id1632202810
+cz.skodaauto.myskoda
 910898851
 app.nl.socialdeal
 http://socialdeal.nl/inspirations/bluemonday/
