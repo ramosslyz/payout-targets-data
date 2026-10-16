@@ -812,6 +812,7 @@
 *.mobile-messenger.intercom.com
 *.mobilevikings.be
 *.mobilitygraph.hereapi.com
+*.modoblack.mercadolivre.com.br
 *.mofos.com
 *.mona.co
 *.moneyback.com.hk
@@ -5467,6 +5468,7 @@ frontline-api.twilio.com
 fsf-gw-cf.euce1.indriverapp.com
 fsf-scf.euce1.indriverapp.com
 fulfillment.23andme.com
+fullbarhomologa.modoblackfullbar.com.br
 funding-webhooks.remitly.io
 furycloud.io
 furydocs.io
@@ -10405,6 +10407,7 @@ mercadoenvios.com.ve
 mercadolibreexperience.cl
 mercadolibreexperience.com.*
 mercadolivreexperience.com.br/
+mercadolivreexperience.mercadolivre.com.br
 mercadopago.com.ve
 mercadoplay.co
 mercadoplay.com.pe
@@ -11788,6 +11791,7 @@ txm-cf.*.aws.indriverapp.com
 txm-gw-cf.cis.euce1.aws.indriverapp.com
 uapi-front.etoro.com
 uat-bugbounty.nonprod.syfe.com
+uat.marriott.com
 uatcms.optimuscards.com
 uber.com
 uber.marriott.com

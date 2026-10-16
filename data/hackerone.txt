@@ -2654,6 +2654,7 @@ com.mercadolibre
 com.mercadolibre.android.mplay_tv
 com.mercadopago.MercadoPago
 com.mercadopago.wallet
+fullbarhomologa.modoblackfullbar.com.br
 furycloud.io
 furydocs.io
 logistica.redelcom.cl
@@ -2663,6 +2664,7 @@ meliplay.com.uy
 mercadobackoffice.com
 mercadoenvios.com.ve
 mercadolibreexperience.com.*
+mercadolivreexperience.mercadolivre.com.br
 mercadopago.com.ve
 mercadoplay.co
 mercadoplay.com.pe
@@ -2893,6 +2895,7 @@ splunk-phantom-nlb.marriott.com
 sso.marriott.com
 travelagents.marriott.com/
 traveler.marriott.com
+uat.marriott.com
 uber.marriott.com
 university.marriott.com
 vacation.marriott.com
@@ -3439,11 +3442,6 @@ www.semrush.com
 com.quora.android
 com.quora.app.mobile
 http://poe.com
-Brave Browser Desktop
-Brave websites
-com.brave.browser
-com.brave.ios.browser
-https://github.com/brave/*, https://github.com/brave-intl/*
 Burp Collaborator
 Burp Suite DAST
 Burp Suite Pro/Community

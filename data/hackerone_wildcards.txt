@@ -383,6 +383,7 @@ support*.earlywarning.com
 *.mercadopago.com.pe
 *.mercadopago.com.uy
 *.mlstatic.com
+*.modoblack.mercadolivre.com.br
 *.tucarro.com.ve
 *.dev.remitly.com
 *.int.remitly.com
@@ -417,7 +418,6 @@ support*.earlywarning.com
 *.dcfgateway.marriott.com
 *.gateway.marriott.com
 *.mgs.marriott.com
-*.sba.marriott.com
 dcfgateway*.marriott.com
 gateway*.marriott.com
 *-api-*.acronis.com

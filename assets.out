@@ -690,6 +690,7 @@
 *.mmwebc.dev
 *.mobile-messenger.intercom.com
 *.mobilevikings.be
+*.modoblack.mercadolivre.com.br
 *.mona.co
 *.moneyback.com.hk
 *.mongodb.com/*
@@ -729,8 +730,10 @@
 *.nflxso.net
 *.nflxvideo.net
 *.nic.eu
+*.ninjakiwi.me
 *.nitropack.io
 *.niumba.com
+*.nkstatic.com
 *.nmfn.com
 *.nml.com
 *.nnip.com
@@ -897,7 +900,6 @@
 *.savi.xyz
 *.say.rocks
 *.saytechnologies.com
-*.sba.marriott.com
 *.sbb.ch
 *.sbgcdn.com
 *.sbgcore.com
@@ -965,6 +967,7 @@
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
 *.soundon.global
+*.souparea.com
 *.soyoustart.com
 *.spiketrap.io
 *.spinaway.com
@@ -1820,8 +1823,6 @@ Box Drive
 Box Tools
 Braintree SDK
 Brand Sites
-Brave Browser Desktop
-Brave websites
 Broken Link
 Browser Isolation
 BuddyPress Core
@@ -2777,6 +2778,7 @@ ak-static-dev.nba.com
 akismet.com
 alchemy.veriff.com
 alert.logitech.com
+alerts.ninjakiwi.com
 alfred.syfe.com
 alipayhk.com
 allstar-dev.nba.com
@@ -2794,6 +2796,7 @@ amp-nba.nba.com
 amp.reddit.com
 analytics-*.8x8.com
 analytics.krisp.ai
+analytics.ninjakiwi.com
 analytics.pinelabs.com
 anext.com.sg
 anfcorp.com
@@ -2927,6 +2930,7 @@ api.nba.com
 api.neon.opera.com/neon/pub
 api.neon.opera.com/neon/store
 api.neon.opera.com/pub
+api.ninjakiwi.com
 api.ort-one-pingone.com
 api.ovh.com
 api.paybox.sh
@@ -3174,6 +3178,7 @@ ballistic.com
 ballistic.com.br
 basecamp-setup.exe
 basecamp.rivian.com
+battles.tv
 bbPress Core
 bc-cf.latam-co.saea1.aws.indriverapp.com
 bc-gw-cf.latam-pe.saea1.aws.indriverapp.com
@@ -3245,6 +3250,7 @@ booking.cheapcaribbean.com
 booking.com
 booking.mjrtheatres.com
 bookingholdings-coe.com
+boomer2.ninjakiwi.com
 boost.vinci.com
 booth.pm
 bpa2.marriott.com
@@ -3519,8 +3525,6 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
-com.brave.browser
-com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -3904,6 +3908,7 @@ cruises.priceline.com
 cs.money
 css-tricks.com
 ct.deriv.com
+ct.ninjakiwi.com
 ctf.hacker101.com
 ctr.a.exodus.io
 customer-sessions.arkoselabs.com
@@ -3957,6 +3962,7 @@ dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
 data-test.nba.com
 data.mail.yahoo.com
+data.ninjakiwi.com
 databricks.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 datapod-1-100-druid-ingest.testing.forescoutcloud.net
@@ -4251,6 +4257,7 @@ frontline-api.twilio.com
 fsf-gw-cf.euce1.indriverapp.com
 fsf-scf.euce1.indriverapp.com
 fulfillment.23andme.com
+fullbarhomologa.modoblackfullbar.com.br
 funding-webhooks.remitly.io
 furycloud.io
 furydocs.io
@@ -4356,6 +4363,7 @@ gs://faraday-secret
 gs://fdy-production-sdk-uploads
 gt-gw-cf-0.cis.euce1.aws.indriverapp.com
 gt-gw-scf.sa.apse1.aws.indriverapp.com
+guts.ninjakiwi.com
 gvt-cf.euce1.indriverapp.com
 gvt-scf.euce1.indriverapp.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -5243,7 +5251,6 @@ https://github.com/base/*
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/trix
 https://github.com/basecamp/writebook
-https://github.com/brave/*, https://github.com/brave-intl/*
 https://github.com/circlefin/aptos-cctp
 https://github.com/circlefin/arc-node
 https://github.com/circlefin/arc-remote-signer
@@ -7755,6 +7762,7 @@ memphis.gleague.nba.com
 mercadobackoffice.com
 mercadoenvios.com.ve
 mercadolibreexperience.com.*
+mercadolivreexperience.mercadolivre.com.br
 mercadopago.com.ve
 mercadoplay.co
 mercadoplay.com.pe
@@ -7861,6 +7869,8 @@ myanmar.visa.com
 myconnect.com.au
 mynexuz.be
 mynexuzhealth/id1459856321
+mynk-dash.ninjakiwi.com
+mynk.ninjakiwi.com
 myself.tw.coupang.com
 myservices-api.stage.vismaonline.com
 myservices.stage.vismaonline.com
@@ -7978,6 +7988,8 @@ nha-cf.euce1.indriverapp.com
 nha-gw-cf.euce1.indriverapp.com
 nha-gw-scf.euce1.indriverapp.com
 niantic.kidswebservices.com
+ninja.kiwi
+ninjakiwi.com
 nl.gamma.app.android
 nl.gamma.verf
 nl.karwei.app.android
@@ -8783,6 +8795,7 @@ txd-cf.cis.euce1.aws.indriverapp.com
 txf-cf.cis.euce1.aws.indriverapp.com
 txm-gw-cf.cis.euce1.aws.indriverapp.com
 uat-bugbounty.nonprod.syfe.com
+uat.marriott.com
 uatcms.optimuscards.com
 uber.com
 uber.marriott.com
