@@ -251,6 +251,7 @@
 *.das.eu
 *.dash.ai
 *.data.api.platform.here.com
+*.datacamp.com
 *.dbt.com
 *.dbtlabs.com
 *.dcfgateway.marriott.com
@@ -717,10 +718,8 @@
 *.nflxso.net
 *.nflxvideo.net
 *.nic.eu
-*.ninjakiwi.me
 *.nitropack.io
 *.niumba.com
-*.nkstatic.com
 *.nmfn.com
 *.nml.com
 *.nnip.com
@@ -954,7 +953,6 @@
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
 *.soundon.global
-*.souparea.com
 *.soyoustart.com
 *.spiketrap.io
 *.spinaway.com

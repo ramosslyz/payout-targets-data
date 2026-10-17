@@ -264,6 +264,7 @@
 *.das.eu
 *.dash.ai
 *.data.api.platform.here.com
+*.datacamp.com
 *.dbt.com
 *.dbtlabs.com
 *.dcfgateway.marriott.com
@@ -730,10 +731,8 @@
 *.nflxso.net
 *.nflxvideo.net
 *.nic.eu
-*.ninjakiwi.me
 *.nitropack.io
 *.niumba.com
-*.nkstatic.com
 *.nmfn.com
 *.nml.com
 *.nnip.com
@@ -967,7 +966,6 @@
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
 *.soundon.global
-*.souparea.com
 *.soyoustart.com
 *.spiketrap.io
 *.spinaway.com
@@ -2768,7 +2766,6 @@ ak-static-dev.nba.com
 akismet.com
 alchemy.veriff.com
 alert.logitech.com
-alerts.ninjakiwi.com
 alfred.syfe.com
 alipayhk.com
 allstar-dev.nba.com
@@ -2786,7 +2783,6 @@ amp-nba.nba.com
 amp.reddit.com
 analytics-*.8x8.com
 analytics.krisp.ai
-analytics.ninjakiwi.com
 analytics.pinelabs.com
 anext.com.sg
 anfcorp.com
@@ -2919,7 +2915,6 @@ api.nba.com
 api.neon.opera.com/neon/pub
 api.neon.opera.com/neon/store
 api.neon.opera.com/pub
-api.ninjakiwi.com
 api.ort-one-pingone.com
 api.ovh.com
 api.paybox.sh
@@ -3007,6 +3002,9 @@ app.alasco.de
 app.basecamp.com
 app.box.com
 app.circle.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -3097,6 +3095,9 @@ arc.net
 arrive-server.shopifycloud.com
 arsentomsky.indrive.com
 askpeopleteam.visa.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com 
+assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.koho.ca
@@ -3163,7 +3164,6 @@ ballistic.com
 ballistic.com.br
 basecamp-setup.exe
 basecamp.rivian.com
-battles.tv
 bbPress Core
 bc-cf.latam-co.saea1.aws.indriverapp.com
 bc-gw-cf.latam-pe.saea1.aws.indriverapp.com
@@ -3235,7 +3235,6 @@ booking.cheapcaribbean.com
 booking.com
 booking.mjrtheatres.com
 bookingholdings-coe.com
-boomer2.ninjakiwi.com
 boost.vinci.com
 booth.pm
 bpa2.marriott.com
@@ -3298,6 +3297,7 @@ campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
+campus.datacamp.com
 cancellation.prod.ps.welt.de
 canton-dev.gleague.nba.com
 canton-qa.gleague.nba.com
@@ -3531,6 +3531,7 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
+com.datacamp
 com.dd.doordash
 com.deribit
 com.dolap.android
@@ -3891,7 +3892,6 @@ cruises.priceline.com
 cs.money
 css-tricks.com
 ct.deriv.com
-ct.ninjakiwi.com
 ctf.hacker101.com
 ctr.a.exodus.io
 customer-sessions.arkoselabs.com
@@ -3945,7 +3945,6 @@ dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
 data-test.nba.com
 data.mail.yahoo.com
-data.ninjakiwi.com
 databricks.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 datapod-1-100-druid-ingest.testing.forescoutcloud.net
@@ -4346,7 +4345,6 @@ gs://faraday-secret
 gs://fdy-production-sdk-uploads
 gt-gw-cf-0.cis.euce1.aws.indriverapp.com
 gt-gw-scf.sa.apse1.aws.indriverapp.com
-guts.ninjakiwi.com
 gvt-cf.euce1.indriverapp.com
 gvt-scf.euce1.indriverapp.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -4679,6 +4677,7 @@ https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/certsy/id1617796159
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/jora-jobs-job-search-work/id917565665
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
@@ -7850,8 +7849,6 @@ myanmar.visa.com
 myconnect.com.au
 mynexuz.be
 mynexuzhealth/id1459856321
-mynk-dash.ninjakiwi.com
-mynk.ninjakiwi.com
 myself.tw.coupang.com
 myservices-api.stage.vismaonline.com
 myservices.stage.vismaonline.com
@@ -7969,8 +7966,6 @@ nha-cf.euce1.indriverapp.com
 nha-gw-cf.euce1.indriverapp.com
 nha-gw-scf.euce1.indriverapp.com
 niantic.kidswebservices.com
-ninja.kiwi
-ninjakiwi.com
 nl.gamma.app.android
 nl.gamma.verf
 nl.karwei.app.android
@@ -8175,6 +8170,7 @@ ppw.euce1.indriverapp.com
 pr-dev.nba.com
 pr-qa.nba.com
 pr.nba.com
+practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -8218,6 +8214,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profile.playstation.com
 profile.segment.com
+profiles-api.datacamp.com
+projects.datacamp.com
 projects.nextcloud.com
 promo.tw.coupang.com
 prow.k8s.io
@@ -9032,6 +9030,8 @@ www.creditkarma.ca
 www.crowdstrike.com
 www.crowdstrike.org
 www.cybersource.com
+www.datacamp.com
+www.datacamp.com/datalab
 www.ddfcontent.com
 www.delen.bank
 www.delen.be/en 
