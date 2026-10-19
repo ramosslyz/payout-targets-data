@@ -269,6 +269,10 @@ GenAI Apps under *.amazon.*
 *.a.exodus.io
 *.exodus.com
 *.exodus.io
+*.gocardless-cicd.io
+*.gocardless-lab.io
+*.gocardless.dev
+*.gocardless.io,*.gocardless-banking.io
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.airstar-finance.com
@@ -658,7 +662,6 @@ www.paypal-*.com
 *.ovo.id
 *.ovofinansial.com
 *.kayak.com
-*.hey.com
 *.pci.shopifyinc.com
 *.shopify.com
 *.shopify.io

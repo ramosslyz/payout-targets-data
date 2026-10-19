@@ -2394,6 +2394,20 @@ prow.k8s.io
 com.coinspot.app
 https://www.coinspot.com.au/v2/api
 www.coinspot.com.au
+api-sandbox.gocardless.com
+auth0.gocardless.com
+bankaccountdata.gocardless.com
+connect-sandbox.gocardless.com
+docs.gocardless.com
+http://sso-demo.gocardless-staging.io
+https://github.com/gocardless
+https://ob-sandbox.gocardless.io
+manage-sandbox.gocardless.com
+oauth-sandbox.gocardless.com
+ob.gocardless.com
+pay-sandbox.gocardless.com
+payer-details-sandbox.gocardless.com
+www.gocardless.com
 194.90.151.192/28
 194.90.25.80/29
 194.90.89.165/32
@@ -3756,22 +3770,6 @@ www.kayak.com
 www.momondo.com
 www.mundi.com.br
 www.swoodoo.com
-Basecamp.app
-HEY.app
-HEY.exe
-app.basecamp.com
-app.fizzy.do
-basecamp-setup.exe
-com.basecamp.bc3
-com.basecamp.bc3-ios
-com.basecamp.hey
-com.hey.app.ios
-hey-mail
-https://github.com/basecamp/once-campfire
-https://github.com/basecamp/trix
-https://github.com/basecamp/writebook
-launchpad.37signals.com
-world.hey.com
 Authentication & ATO
 Shopify Developed Apps
 Shopify Mobile Applications
