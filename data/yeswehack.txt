@@ -30,11 +30,6 @@ https://www.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|co
 https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://play.google.com/store/apps/details?id=com.comuto&hl=en
 https://itunes.apple.com/fr/app/blablacar-trusted-carpooling/id341329033?l=en&mt=8
-https://api.blablalines.com
-https://daily.blablacar.fr
-https://blablacardaily.com
-https://play.google.com/store/apps/details?id=com.blablalines
-https://apps.apple.com/fr/app/blablalines-covoiturage/id1225543288
 https://bounty.cryptobox.com
 https://play.google.com/store/apps/details?id=com.ercom.cryptobox.release&hl=fr
 https://apps.apple.com/fr/app/cryptobox/id972602802
