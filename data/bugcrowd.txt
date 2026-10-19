@@ -2374,7 +2374,7 @@ https://marketplace.atlassian.com/apps/1752044660/cumulative-flow-diagram-cfd-ch
 https://marketplace.atlassian.com/apps/1234296/azure-sync-for-jira-assets?hosting=cloud
 Self-Register Account on T-Mobile Microsoft Entra ID
 Cellular Network Auth Bypass via Web App/T-Life (404-200-7239)
-T&P Servers (Temporarily Out of Scope)
+http://10.72.218.66/flag.txt
 https://t-mobile.com
 https://account.t-mobile.com
 https://api.t-mobile.com
