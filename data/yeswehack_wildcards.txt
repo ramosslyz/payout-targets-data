@@ -19,8 +19,8 @@
 *.ezvizlife.com
 *.eziot.com
 *.ezviz7.com
-*.hicloudcam.com,
-*.hikops.com,
+*.hicloudcam.com
+*.hikops.com
 *.ezvizru.com
 *.gojekapi.com
 *.gofood.co.id
