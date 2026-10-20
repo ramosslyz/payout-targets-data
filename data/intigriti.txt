@@ -344,6 +344,28 @@ docs.lansweeper.com
 login.lansweeper.com
 www.lansweeper.com
 www.libelle.nl
+sandbox.striga.com
+https://www.vault.striga.eu/web/sandbox/
+https://tfr-sandbox.striga.com/
+https://sandbox.striga.com/backoffice
+https://hooks.striga.com/core/
+https://sandbox.striga.com/api/v0
+https://www.sandbox.striga.com/api/v1/
+https://sandbox.striga.com/api/v1
+https://9b10d44d-1499-4a2f-86bc-fda178acdfdc.striga.com/
+https://github.com/buildonspark/spark
+https://app.uma.money
+https://link.uma.me
+https://api.lightspark.com
+https://app.lightspark.com
+lightsparkdev/lightspark-crypto-uniffi
+https://github.com/lightsparkdev/kotlin-sdk
+https://github.com/lightsparkdev/js-sdk
+https://github.com/lightsparkdev/flutter-sdk
+https://github.com/lightsparkdev/go-sdk
+https://github.com/lightsparkdev/lightspark-rs
+https://github.com/lightsparkdev/python-sdk
+lightsparkdev/swift-wallet-sdk
 www.marionnaud.fr
 Marionnaud France Android
 Marionnaud France iOS

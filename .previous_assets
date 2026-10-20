@@ -5834,6 +5834,7 @@ https://1win.com/betting
 https://1win.com/casino
 https://28degreescard.com.au
 https://8x8.vc/xmpp-websocket
+https://9b10d44d-1499-4a2f-86bc-fda178acdfdc.striga.com/
 https://Fr.mydirtyhobby.com
 https://Mlife.mo
 https://[it | fr | us | sg | …].louisvuitton.com
@@ -5947,6 +5948,7 @@ https://api.intercom.com
 https://api.justeat-int.com
 https://api.jwks.kape.com
 https://api.lafourchette.com
+https://api.lightspark.com
 https://api.mafshoppingmalls.com
 https://api.mafshoppingmalls.com/
 https://api.moneyboxapp.com
@@ -6037,6 +6039,7 @@ https://app.insomnia.rest/
 https://app.intercom.com
 https://app.intercom.io/
 https://app.latitudepayapps.com/
+https://app.lightspark.com
 https://app.magicestimations.com
 https://app.navan.com
 https://app.opsgenie.com
@@ -6053,6 +6056,7 @@ https://app.sendgrid.com/
 https://app.staging.luno.com/
 https://app.staging.saltlabs.com/
 https://app.thousandeyes.com/
+https://app.uma.money
 https://app.web.com
 https://app.welcomesoftware.com/
 https://app.wisdomtreeconnect.com
@@ -7069,7 +7073,10 @@ https://github.com/kubernetes/website
 https://github.com/leather-wallet/desktop
 https://github.com/leather-wallet/extension
 https://github.com/libuv/libuv
+https://github.com/lightsparkdev/flutter-sdk
 https://github.com/lightsparkdev/go-sdk
+https://github.com/lightsparkdev/js-sdk
+https://github.com/lightsparkdev/kotlin-sdk
 https://github.com/lightsparkdev/lightspark-rs
 https://github.com/lightsparkdev/python-sdk
 https://github.com/mapbox
@@ -7272,6 +7279,7 @@ https://hk.employer.staging.seek.com
 https://hk.staging.jobsdb.com
 https://home.classdojo.com
 https://home.xfinity.com
+https://hooks.striga.com/core/
 https://horizonv2prodapi.azurewebsites.net
 https://houston-staging.pdq.tools
 https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
@@ -8959,6 +8967,9 @@ https://sandbox-login.paddle.com
 https://sandbox-vendors.paddle.com
 https://sandbox.directly.com/dashboard/index
 https://sandbox.open-xchange.com
+https://sandbox.striga.com/api/v0
+https://sandbox.striga.com/api/v1
+https://sandbox.striga.com/backoffice
 https://sandbox.vinted.com
 https://sandbox.vintedgo.com
 https://sb-console-api.fireblocks.io
@@ -9172,6 +9183,7 @@ https://testflight.apple.com/join/Y4cHu289
 https://testflight.apple.com/join/vwFxXX7t
 https://testnet-blockexplorer.electroneum.com
 https://tfb.t-mobile.com
+https://tfr-sandbox.striga.com/
 https://th.employer.seek.com
 https://th.employer.staging.seek.com
 https://th.staging.jobsdb.com
@@ -9690,6 +9702,7 @@ https://www.redtubepremium.com/
 https://www.remove.bg
 https://www.restaurant-information.com
 https://www.riskrecon.com
+https://www.sandbox.striga.com/api/v1/
 https://www.saturn.de
 https://www.sdx.com/
 https://www.sharerewards.com/
@@ -9758,6 +9771,7 @@ https://www.upwork.com
 https://www.usaa.com
 https://www.usaainsurance.com/
 https://www.user.quintoandar.com.br/admin/*
+https://www.vault.striga.eu/web/sandbox/
 https://www.vendhq.com/
 https://www.venturatvos.com
 https://www.verisign.com
@@ -11296,6 +11310,7 @@ sandbox.braintreegateway.com
 sandbox.developer.plus.authorize.net
 sandbox.secure.checkout.visa.com
 sandbox.securegateway.com
+sandbox.striga.com
 sandiego.gleague.nba.com
 santacruz-dev.gleague.nba.com
 santacruz-qa.gleague.nba.com
