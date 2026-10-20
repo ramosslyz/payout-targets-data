@@ -344,28 +344,6 @@ docs.lansweeper.com
 login.lansweeper.com
 www.lansweeper.com
 www.libelle.nl
-sandbox.striga.com
-https://www.vault.striga.eu/web/sandbox/
-https://tfr-sandbox.striga.com/
-https://sandbox.striga.com/backoffice
-https://hooks.striga.com/core/
-https://sandbox.striga.com/api/v0
-https://www.sandbox.striga.com/api/v1/
-https://sandbox.striga.com/api/v1
-https://9b10d44d-1499-4a2f-86bc-fda178acdfdc.striga.com/
-https://github.com/buildonspark/spark
-https://app.uma.money
-https://link.uma.me
-https://api.lightspark.com
-https://app.lightspark.com
-lightsparkdev/lightspark-crypto-uniffi
-https://github.com/lightsparkdev/kotlin-sdk
-https://github.com/lightsparkdev/js-sdk
-https://github.com/lightsparkdev/flutter-sdk
-https://github.com/lightsparkdev/go-sdk
-https://github.com/lightsparkdev/lightspark-rs
-https://github.com/lightsparkdev/python-sdk
-lightsparkdev/swift-wallet-sdk
 www.marionnaud.fr
 Marionnaud France Android
 Marionnaud France iOS
@@ -619,6 +597,8 @@ SimScale API
 SimScale Platform
 SimScale Forum
 SimScale Website
+https://apps.apple.com/cz/app/my%C5%A1koda/id1632202810
+cz.skodaauto.myskoda
 Social Deal IOS APP
 www.socialdeal.nl/blog/
 https://www.spontaan.nl/
@@ -692,36 +672,6 @@ shop.trouw.nl
 webwinkel.trouw.nl
 www.trouw.nl
 www.trouw.nl/abonnementen
-api.truelayer[-sandbox].com
-api.mtls.truelayer[-sandbox].com
-auth.truelayer[-sandbox].com
-auth.mtls.truelayer[-sandbox].com
-app.truelayer[-sandbox].com
-login-api.truelayer[-sandbox].com
-login.truelayer[-sandbox].com
-onboarding-api.truelayer.com
-pay-api.truelayer[-sandbox].com
-pay.truelayer[-sandbox].com
-paydirect.truelayer[-sandbox].com
-payment.truelayer[-sandbox].com
-payments-experience-api.truelayer[-sandbox].com
-user-authentication-api.truelayer[-sandbox].com
-users-api.truelayer.com
-C# SDK
-console-backend.truelayer[-sandbox].com
-console.truelayer[-sandbox].com
-sftp.reports.truelayer.com
-Java SDK
-PHP SDK
-TrueLayer for Magento (Magento plugin)
-shopify-admin.truelayer.com
-shop-pay-app-api.truelayer.com
-truelayer-signing
-webhooks.truelayer[-sandbox].com
-iOS SDK
-React Native SDK
-Web SDK
-Rust SDK
 autodiscover.uzleuven.be
 ecrf.uzleuven.be
 extranet-asa.uzleuven.be
