@@ -244,7 +244,6 @@
 *.coinbase.com
 *.computerbild.de
 *.consumer.worldcoin.org
-*.contactallerg(y|ie).uzleuven.be
 *.cp.dyson.com
 *.creditkarma.ca
 *.creditkarma.co.uk
@@ -262,6 +261,7 @@
 *.das.eu
 *.dash.ai
 *.data.api.platform.here.com
+*.datacamp.com
 *.dbt.com
 *.dbtlabs.com
 *.dcfgateway.marriott.com
@@ -583,7 +583,6 @@
 *.kruidvat.be
 *.kruidvat.nl
 *.kruidvatkids.nl
-*.kwsdose.be
 *.labs.8x8.com
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
@@ -681,7 +680,6 @@
 *.miot-spec.org
 *.mipay.com
 *.mipay.net
-*.mir.uzleuven.be
 *.mitt.vimla.se
 *.mittforetag.telenor.se
 *.miui.cn
@@ -809,7 +807,6 @@
 *.playstation.net
 *.playticorp.com
 *.playtika.com
-*.playuzleuven.be
 *.playwsop.com
 *.pns.hk
 *.points.com
@@ -1092,7 +1089,6 @@
 *.uscc.com
 *.uscc.net
 *.uscellular.com
-*.uzleuven.*
 *.vacationhomerentals.com
 *.varonis.com
 *.varonis.io
@@ -1207,19 +1203,16 @@
 *.zomato.com
 *app.simple-reports.com/demo
 *dev*.arlo.com
-*dev.uzleuven.be
 *developer.cloud.com
 *elvetino.ch
 *ensemble*.yahoo.com
 *gateway-apc.marriott.com
-*idp*.uzleuven.be
 *inf.fndlsb.net
 *omega*.yahoo.com
 *qa*.arlo.com
 *ripio.com
 *ripiotrade.co
 *sbbcargo.com
-*stag*.uzleuven.be
 *test*.bykea.net
 *transsicura.ch
 *uat.marriott.com
@@ -1351,7 +1344,6 @@
 193.109.229.0/24
 193.110.154.0/24
 193.5.66.0/23
-193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111
 193.8.251.0/24
 194.209.121.0/24
 194.35.79.0/24
@@ -2706,6 +2698,8 @@ account.box.com
 account.here.com
 account.krisp.ai
 account.ui.com
+accountinfodirect-snd.earlywarning.com
+accountinfodirect.earlywarning.com
 accountoffers.wellsfargo.com
 accounts.cloud.com
 accounts.cloud.databricks.com
@@ -2799,6 +2793,7 @@ anfcorp.com
 anker-nebula/id1319092174
 antbank.hk
 anthropic.atlassian.com
+aoa-ws-fis.earlywarning.com
 ap-s.cloud.com
 apcgateway.marriott.com
 api*.hubapi.com
@@ -3009,6 +3004,9 @@ app.alasco.de
 app.basecamp.com
 app.box.com
 app.circle.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -3100,6 +3098,9 @@ arc.net
 arrive-server.shopifycloud.com
 arsentomsky.indrive.com
 askpeopleteam.visa.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com 
+assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.koho.ca
@@ -3144,7 +3145,6 @@ auth0.net
 authentication.clearme.com
 authentication.wolt.com
 autocomplete.booking.com
-autodiscover.uzleuven.be
 autoupdateapi.lansweeper.com
 av.indrive.com
 b5s.hackerone-ext-content.com
@@ -3301,6 +3301,7 @@ campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
+campus.datacamp.com
 cancellation.prod.ps.welt.de
 canton-dev.gleague.nba.com
 canton-qa.gleague.nba.com
@@ -3316,8 +3317,6 @@ capitanes.gleague.nba.com
 capturingreality.com
 cardpayments.remitly.io
 cards.remitly.io
-cardsonline.azdiest.be
-cardsonlinetst.azdiest.be
 career.bpost.be
 careers.booking.com
 careers.capital.com
@@ -3536,6 +3535,7 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
+com.datacamp
 com.dd.doordash
 com.deribit
 com.dolap.android
@@ -4097,7 +4097,6 @@ ecom-static.kruidvat.be
 ecom-static.kruidvat.nl
 ecommerce.hostinger.com
 ecosystem-experience.super-id.net
-ecrf.uzleuven.be
 edge.bookbeat.com
 edge.lansweeper.com
 edgeapi.slack.com
@@ -4161,10 +4160,8 @@ exs-dtu-gw-scf.sa.apse1.aws.indriverapp.com
 external-api.lime.bike
 external.indrive.dev
 external.logitech.com
-extranet-asa.uzleuven.be
 extranet.marionnaud.ch
 extranet.s-pankki.fi
-extranet.uzleuven.be
 extras-acc.landmarkcinemas.com
 extras.landmarkcinemas.com
 fab.com
@@ -4203,7 +4200,6 @@ fic-cf.euce1.indriverapp.com
 file-storage-front.aws.indriverapp.com
 file.larksuite.com
 files-stg.inspectorio.com
-files.uzleuven.be
 fileupload-video.tw.coupang.com
 fileupload.tw.coupang.com
 fintech-aml-kyc-tw.coupang.com
@@ -4510,6 +4506,7 @@ https://account.business.t-mobile.com
 https://account.post.ch
 https://account.t-mobile.com
 https://account.teamviewer.com
+https://accountinfo.earlywarning.com
 https://accounts.cmp.optimizely.com/
 https://accounts.hytale.com/login
 https://accounts.lastpass.com
@@ -4537,6 +4534,9 @@ https://analytics-admin.prosus.com
 https://analytics.neogov.com
 https://analytics.welcomesoftware.com/
 https://answers.irobot.com
+https://aoa-ws-direct-snd.earlywarning.com/aoainquiryservice/services/aoainquiryservice
+https://aoa-ws-direct.earlywarning.com/aoainquiryservice/services/aoainquiryservice
+https://aoa-ws.earlywarning.com/aoainquiryservice/services/aoainquiryservice
 https://api-a.usaa.com
 https://api-app.datadome.co/
 https://api-businessportal.origin.com.au
@@ -4680,6 +4680,7 @@ https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/certsy/id1617796159
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/jora-jobs-job-search-work/id917565665
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
@@ -4883,6 +4884,7 @@ https://beta.arlo.com
 https://billing.ring.com/*
 https://billingonline.post.ch/OnlinePayment/Web/v1/BOI
 https://billingserver.pinelabs.com
+https://binance.th/
 https://binance.tr
 https://bistro.sk
 https://bitbucket.org
@@ -7413,6 +7415,7 @@ infomaniak.events
 ingest.clairvoyance.indrive.tech
 innersloth.kidswebservices.com
 innovation.superdrug.com
+inquirydirect.earlywarning.com
 insight2.tradepmr.com
 insights.deribit.com
 insights.judgeme.dev
@@ -7510,7 +7513,6 @@ ksuite.infomaniak.com
 ksuite.infomaniak.com/*/kdrive/*/preview/*
 kubernetes-csi.github.io
 kubernetes.io
-kumulus.uzleuven.be
 kws-companion/id1342124012
 kyc-onboarding.booking.com
 kyc.a.exodus.io
@@ -7543,8 +7545,6 @@ links.geneva-staging.chat
 links.geneva-staging.com
 links.portswigger.net
 liquidfiles.nexuzhealth.com
-liquidfiles.uzleuven.be
-liquidfilestest.uzleuven.be
 lirportal.ripe.net
 listing.here.com
 lists.nextcloud.com
@@ -7778,9 +7778,7 @@ mgs.marriott.com
 mijn.gamma.be/*
 mijn.gamma.nl/*
 mijn.karwei.nl/*
-mijnacc.uzleuven.be
 minerva.robinhood.com
-mirc.uzleuven.be
 mix-dev.monash.edu/*
 mix-qat.monash.edu/*
 mobile.clearme.com
@@ -7812,8 +7810,6 @@ msg-gw-scf.euce1.indriverapp.com
 msg.playcanvas.com
 mta-sts.wearehackerone.com
 mus1.badoo.com
-mx1.uzleuven.be
-mx2.uzleuven.be
 my-accpt.portofantwerp.com
 my-accpt.portofantwerpbruges.com
 my.account.sony.com
@@ -8115,7 +8111,6 @@ paypalobjects.com
 payroll.razorpay.com
 pb.deribit.com
 pc-gw-scf.sa.apse1.aws.indriverapp.com
-pcrstudioruzb.uzleuven.be
 pdfroster-dev.nba.com
 pdfroster-qa.nba.com
 pdfroster.nba.com
@@ -8182,10 +8177,9 @@ ppw.euce1.indriverapp.com
 pr-dev.nba.com
 pr-qa.nba.com
 pr.nba.com
+practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
-prddnighting01.uzleuven.be
-prddsplunkhf.uzleuven.be
 premium.pixiv.net
 preprod.am.monespacesante.fr
 preprod.api.monespacesante.fr
@@ -8226,6 +8220,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profile.playstation.com
 profile.segment.com
+profiles-api.datacamp.com
+projects.datacamp.com
 projects.nextcloud.com
 promo.tw.coupang.com
 prow.k8s.io
@@ -8252,7 +8248,6 @@ ra-cf.euce1.indriverapp.com
 ra-gw-cf.euce1.indriverapp.com
 ra-gw-scf.euce1.indriverapp.com
 rafflee.co.uk
-random.uzleuven.be/random/
 raptor*.bykea.net
 raptors905-dev.gleague.nba.com
 raptors905-qa.gleague.nba.com
@@ -8624,7 +8619,6 @@ streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 sts.delen.be 
-sts.uzleuven.be
 studio-api.swapcard.com
 studio.swapcard.com
 studio.twilio.com
@@ -8708,7 +8702,6 @@ test.stytch.com
 testapi.redoxengine.com
 testapp.redoxengine.com
 testbank.xs2a.com
-teststs.uzleuven.be
 texas-dev.gleague.nba.com
 texas-qa.gleague.nba.com
 texas.gleague.nba.com
@@ -8881,8 +8874,6 @@ vtmgo.be
 vttp.nba.com
 vwcm.visa.com
 vœux.vinci.com
-w1.uzleuven.be
-w1.uzleuven.be/random
 wallet-sandbox.uphold.com
 wallet.tg
 walletbot.me
@@ -8973,7 +8964,6 @@ world.hey.com
 world.hyatt.com
 world.org
 worldcoin.org
-wp5-truststroke.uzleuven.be
 wps-cps.cv.dmp.gouv.fr
 wps-cps.dmp.gouv.fr
 wps-cps.dmp.monespacesante.fr
@@ -9042,6 +9032,8 @@ www.creditkarma.ca
 www.crowdstrike.com
 www.crowdstrike.org
 www.cybersource.com
+www.datacamp.com
+www.datacamp.com/datalab
 www.ddfcontent.com
 www.delen.bank
 www.delen.be/en 
@@ -9315,7 +9307,6 @@ www.uphold.com
 www.upwork.com/api 
 www.urbanclap.com
 www.urbancompany.com
-www.uzleuven.be
 www.valmo.in
 www.valvesoftware.com
 www.vfsvisaonline.com
@@ -9461,7 +9452,6 @@ ywh.verify.zecible.fr
 ywh.zcb.fr
 zelleservice.my.salesforce.com
 zelleservice.my.site.com
-ziekenhuisschool.be
 zooplus.net
 ███
 ████

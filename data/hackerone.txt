@@ -2557,7 +2557,15 @@ new.reddit.com
 redditforbusiness.com
 sh.reddit.com
 strapi.reddit.com
+accountinfodirect-snd.earlywarning.com
+accountinfodirect.earlywarning.com
+aoa-ws-fis.earlywarning.com
 ews-fusion.my.site.com
+https://accountinfo.earlywarning.com
+https://aoa-ws-direct-snd.earlywarning.com/aoainquiryservice/services/aoainquiryservice
+https://aoa-ws-direct.earlywarning.com/aoainquiryservice/services/aoainquiryservice
+https://aoa-ws.earlywarning.com/aoainquiryservice/services/aoainquiryservice
+inquirydirect.earlywarning.com
 www.certos.com
 zelleservice.my.salesforce.com
 zelleservice.my.site.com

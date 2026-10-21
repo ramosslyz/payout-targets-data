@@ -3485,6 +3485,8 @@ account.here.com
 account.krisp.ai
 account.magento.com
 account.ui.com
+accountinfodirect-snd.earlywarning.com
+accountinfodirect.earlywarning.com
 accountoffers.wellsfargo.com
 accounts.cloud.com
 accounts.cloud.databricks.com
@@ -3613,6 +3615,7 @@ anfcorp.com
 anker-nebula/id1319092174
 antbank.hk
 anthropic.atlassian.com
+aoa-ws-fis.earlywarning.com
 ap-s.cloud.com
 apcgateway.marriott.com
 api*.hubapi.com
@@ -5851,6 +5854,7 @@ https://account.post.ch
 https://account.t-mobile.com
 https://account.teamviewer.com
 https://account.withings.com
+https://accountinfo.earlywarning.com
 https://accounts.cmp.optimizely.com/
 https://accounts.hytale.com/login
 https://accounts.lastpass.com
@@ -5892,6 +5896,9 @@ https://analytics.neogov.com
 https://analytics.welcomesoftware.com/
 https://answers.irobot.com
 https://anytask.thesecurityteam.rocks
+https://aoa-ws-direct-snd.earlywarning.com/aoainquiryservice/services/aoainquiryservice
+https://aoa-ws-direct.earlywarning.com/aoainquiryservice/services/aoainquiryservice
+https://aoa-ws.earlywarning.com/aoainquiryservice/services/aoainquiryservice
 https://api-a.usaa.com
 https://api-app.datadome.co/
 https://api-businessportal.origin.com.au
@@ -6337,6 +6344,7 @@ https://billing.ring.com/*
 https://billingonline.post.ch/OnlinePayment/Web/v1/BOI
 https://billingserver.pinelabs.com
 https://billingserver.pinelabs.com/
+https://binance.th/
 https://binance.tr
 https://biocorellc.com
 https://bistro.sk
@@ -10003,6 +10011,7 @@ infomaniak.events
 ingest.clairvoyance.indrive.tech
 innersloth.kidswebservices.com
 innovation.superdrug.com
+inquirydirect.earlywarning.com
 insight2.tradepmr.com
 insights.deribit.com
 insights.judgeme.dev
