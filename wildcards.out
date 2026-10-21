@@ -251,7 +251,6 @@
 *.das.eu
 *.dash.ai
 *.data.api.platform.here.com
-*.datacamp.com
 *.dbt.com
 *.dbtlabs.com
 *.dcfgateway.marriott.com
@@ -272,6 +271,7 @@
 *.dev.remitly.com
 *.dev2.grindr.io
 *.devicelock.com
+*.dflow.net
 *.dibz.co.uk
 *.digitalocean.com
 *.directverify.in
@@ -1046,9 +1046,6 @@
 *.trip.com
 *.triplinkintl.com
 *.trouw.nl
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tucarro.com.ve
