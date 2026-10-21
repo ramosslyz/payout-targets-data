@@ -463,10 +463,6 @@ liquidfiles.nexuzhealth.com
 media.nexuzhealth.be/patient/ 
 https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050
 https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_oi_appl/
-https://auth2.pdq.com/
-https://library.pdq.com/
-https://portal.pdq.com/
-https://app.pdq.com/
 api.personio-dev.com
 api.personio.com
 https://community.personio.com
@@ -672,6 +668,36 @@ shop.trouw.nl
 webwinkel.trouw.nl
 www.trouw.nl
 www.trouw.nl/abonnementen
+api.truelayer[-sandbox].com
+api.mtls.truelayer[-sandbox].com
+auth.truelayer[-sandbox].com
+auth.mtls.truelayer[-sandbox].com
+app.truelayer[-sandbox].com
+login-api.truelayer[-sandbox].com
+login.truelayer[-sandbox].com
+onboarding-api.truelayer.com
+pay-api.truelayer[-sandbox].com
+pay.truelayer[-sandbox].com
+paydirect.truelayer[-sandbox].com
+payment.truelayer[-sandbox].com
+payments-experience-api.truelayer[-sandbox].com
+user-authentication-api.truelayer[-sandbox].com
+users-api.truelayer.com
+C# SDK
+console-backend.truelayer[-sandbox].com
+console.truelayer[-sandbox].com
+sftp.reports.truelayer.com
+Java SDK
+PHP SDK
+TrueLayer for Magento (Magento plugin)
+shopify-admin.truelayer.com
+shop-pay-app-api.truelayer.com
+truelayer-signing
+webhooks.truelayer[-sandbox].com
+iOS SDK
+React Native SDK
+Web SDK
+Rust SDK
 autodiscover.uzleuven.be
 ecrf.uzleuven.be
 extranet-asa.uzleuven.be
@@ -732,14 +758,6 @@ Brand Sites
 myaccount.vtm.be
 vtm.be/vtmgo
 vtmgo.be
-api-wallet.venly.io
-api.arkane.network
-connect.arkane.network 
-connect.venly.io
-login.arkane.network
-login.venly.io
-wallet.venly.io
-api-wallet-sandbox.venly.io
 564141518
 accountsettings.connect.identity.stagaws.visma.com
 admin.stage.vismaonline.com
@@ -904,7 +922,6 @@ Yahoo Finance
 Yahoo HK News
 Yahoo Mail
 Yahoo News
-Yahoo Open Source Projects
 Yahoo Search
 Yahoo Sports: Best Ball
 Yahoo Sports: Daily Fantasy

@@ -1795,7 +1795,7 @@ api.stg.inspectorio.com
 app.stg.inspectorio.com
 docuflow.stg.inspectorio.com
 files-stg.inspectorio.com
-https://app.bitrise.io/app/51a95edaab331ec5/installable-artifacts/e5213e1a814bf0ba/public-install-page/bed0d33f048271d6828c5a4a979ecc96
+https://app.bitrise.io/app/51a95edaab331ec5/installable-artifacts/48548bd7878361ab/public-install-page/82f78f6dddbebab09e2f4ac3c0081984
 https://collabora.stg.inspectorio.com
 https://testflight.apple.com/join/vwFxXX7t
 id.stg.inspectorio.com
@@ -3720,8 +3720,6 @@ smarttrader.deriv.com
 com.tinder
 fetlife.com
 fetlifemail.com
-dashboard.algolia.com
-www.algolia.com
 1142114207
 1257641454
 1343620481
