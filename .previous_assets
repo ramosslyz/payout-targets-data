@@ -5941,6 +5941,12 @@ https://api.dextf.com/dd/
 https://api.dts.kape.com
 https://api.electroneum.com/
 https://api.enc.kape.com
+https://api.enterprise.sandbox.uphold.com/core
+https://api.enterprise.sandbox.uphold.com/kyc-connector
+https://api.enterprise.sandbox.uphold.com/market-pulse
+https://api.enterprise.sandbox.uphold.com/topper
+https://api.enterprise.sandbox.uphold.com/trading
+https://api.enterprise.sandbox.uphold.com/widgets
 https://api.etoro.com
 https://api.expressvpn.com
 https://api.fishbowlapp.com/*
@@ -6819,6 +6825,7 @@ https://github.com/ExodusOSS/crypto
 https://github.com/ExodusOSS/hydra
 https://github.com/Hacker0x01/react-datepicker
 https://github.com/ImageMagick/ImageMagick
+https://github.com/Infomaniak/desktop-kChat
 https://github.com/Infomaniak/desktop-kDrive
 https://github.com/Nginx
 https://github.com/OctopusDeploy

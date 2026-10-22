@@ -725,26 +725,30 @@ mirc.uzleuven.be
 prddnighting01.uzleuven.be
 w1.uzleuven.be/random
 ziekenhuisschool.be
-Uphold: Buy BTC, ETH and 360+
-Uphold: Buy BTC, ETH and 300+
-docs.uphold.com
-wallet-sandbox.uphold.com
-api-sandbox.uphold.com
-api-sandbox.uphold.com/graphql
 portal.enterprise.uphold.com
 api.portal.enterprise.uphold.com 
-docs.api.enterprise.uphold.com
+Uphold: Buy BTC, ETH and 360+
+Uphold: Buy BTC, ETH and 300+
+wallet-sandbox.uphold.com
+api-sandbox.uphold.com
+docs.uphold.com
+api-sandbox.uphold.com/graphql
 app.sandbox.topperpay.com
 api.sandbox.topperpay.com
 graphql.sandbox.topperpay.com/graphql
 docs.topperpay.com
+www.topperpay.com
+https://api.enterprise.sandbox.uphold.com/widgets
+https://api.enterprise.sandbox.uphold.com/trading
+https://api.enterprise.sandbox.uphold.com/market-pulse
+https://api.enterprise.sandbox.uphold.com/kyc-connector
+https://api.enterprise.sandbox.uphold.com/core
+https://api.enterprise.sandbox.uphold.com/topper
 uatcms.optimuscards.com
 docs.optimuscards.com
-status.uphold.com
-www.uphold.com
-www.topperpay.com
 www.optimuscards.com
 github.com/uphold/*
+www.uphold.com
 API's
 Sockets
 Mobile Applications
