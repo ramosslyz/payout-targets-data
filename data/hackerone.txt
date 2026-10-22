@@ -1080,6 +1080,7 @@ dwy.visa.com
 ebctest.cybersource.com
 forms.cybersource.com
 http://myvisainfinite.com/suntrust/en_us/home.html
+https://ebc2test.cybersource.com/settings
 https://ebctest.cybersource.com/CGK2
 https://ebctest.cybersource.com/bin
 https://ebctest.cybersource.com/boarding/v1/registrations
@@ -3132,6 +3133,8 @@ Open Scope
 accounts.cloud.databricks.com
 databricks.com
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
+login.databricks.com
+ui-assets.cloud.databricks.com
 Elastic Credentials
 Software Supply Chain
 Subdomain takeover
