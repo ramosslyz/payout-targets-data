@@ -1119,8 +1119,6 @@
 *.visamiddleeast.com
 *.vliegwinkel.nl
 *.vod2.infomaniak.com
-*.voi.com
-*.voiscooters.com
 *.volkskrant.nl
 *.volkswagen.de
 *.vpn.hackerone.net
@@ -1764,8 +1762,6 @@ App Services/Realm
 Applications/Extensions under https://www.cyberghostvpn.com/download
 Applications/Extensions under https://www.privateinternetaccess.com/download
 Apps SDK Sandboxing
-Arc on Mac
-Arc on Windows
 Area 1
 Arlo All-In-One Sensor (Home Security System)
 Arlo Base Station
@@ -2597,8 +2593,6 @@ Vercel sandbox
 Video Conferencing Products
 Video Doorbell
 Virtual Office Desktop
-Voi – e-scooter & e-bike hire
-Voi – e-scooters & e-bikes
 Vox Cinemas Android
 Vox Cinemas iOS
 WARP Mobile Apps
@@ -3097,7 +3091,6 @@ aqtooling.com
 aquiris.com.br
 aquiris.studio
 aquiristech.com
-arc.net
 arrive-server.shopifycloud.com
 arsentomsky.indrive.com
 askpeopleteam.visa.com
@@ -3807,7 +3800,6 @@ community.watsons.com.my
 community.watsons.com.ph
 communityassist.nba.com
 company.indrive.com
-company.thebrowser.arc
 compass.fareharbor.com
 compete.playstation.com
 competitive.fortnite.com
@@ -4217,7 +4209,6 @@ flourish-user-preview.com
 flourish-user-templates.com
 flyiin.com
 fm.anchor.android
-fm.voiapp.io
 folder.iciparisxl.nl
 folder.kruidvat.be
 folder.kruidvat.nl
@@ -4624,7 +4615,6 @@ https://api.us1.fga.dev/
 https://api.usaa.com/
 https://api.vistarmedia.com
 https://api.vistarmedia.eu
-https://api.voiapp.io/
 https://api.welcomesoftware.com/
 https://api.wyzecam.com
 https://api.x.immutable.com/
@@ -6686,7 +6676,6 @@ https://redash-staging.getmoneytree.com/
 https://refinedsites.refinedwiki.com
 https://regatta.aiven.io/
 https://rentals.tripadvisor.com
-https://repair.voiweb.net
 https://res.cloudinary.com
 https://research.monash.edu/
 https://researchmgt.monash.edu/
@@ -7368,7 +7357,6 @@ id1541153375
 id1621328561
 id635150066
 id6443932656
-id6472513080
 id=com.oceanwing.soundcore
 id=com.zhixin.controller
 idc-cf.cis.euce1.aws.indriverapp.com
@@ -7699,7 +7687,6 @@ mcp.faraday.ai
 mcp.staging.airtable.com
 mcp.stripe.com
 mds.marriott.com
-mds.voiapp.io
 media.drogas.lt
 media.drogas.lv
 media.iciparisxl.be
@@ -8347,7 +8334,6 @@ reno-dev.gleague.nba.com
 reno.gleague.nba.com
 repo.3cx.com
 report-html-sight.stg.inspectorio.com
-report.voi.com
 res.blueskytours.globalbookingsolutions.com
 res.funjet.com
 res.hyattinclusivecollection.com
@@ -8875,7 +8861,6 @@ vm-cf.mena.meso1.aws.indriverapp.com
 vm-gw-scf.sa.apse1.aws.indriverapp.com
 voapi.8x8.com
 vod.infomaniak.com
-voi.com
 voices.nba.com
 volans.tech
 vote.nba.com

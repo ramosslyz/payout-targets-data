@@ -775,14 +775,6 @@ myservices-api.stage.vismaonline.com
 myservices.stage.vismaonline.com
 oauth.developers.stagaws.visma.com
 photoservice.stage.vismaonline.com
-Voi – e-scooters & e-bikes
-Voi – e-scooter & e-bike hire
-https://api.voiapp.io/
-mds.voiapp.io
-fm.voiapp.io
-https://repair.voiweb.net
-report.voi.com
-voi.com
 https://app.getflywheel.com
 https://getflywheel.com
 https://my.wpengine.com

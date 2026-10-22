@@ -395,16 +395,11 @@ realme P4 Pro 5G
 <Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
 http://--your-own-1password-account--.1password.com
 https://events.1password.com/api/
-Arc on Mac
-Arc on Windows
 Dia Assistant
 Dia on MacOS
 Dia on Windows
-arc.net
 bcny.com
-company.thebrowser.arc
 diabrowser.com
-id6472513080
 thebrowser.company
 https://apps.apple.com/us/app/verily-me/id6448808133
 https://play.google.com/store/apps/details?id=com.verily.me
