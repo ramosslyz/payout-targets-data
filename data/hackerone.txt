@@ -3530,6 +3530,7 @@ Create Block Theme
 GlotPress
 Gutenberg
 Official WordPress plugins
+Other github.com/wordpress repos
 Playground
 SQLite Database Integration
 Secure Custom Fields
@@ -3539,7 +3540,6 @@ api.wordpress.org
 bbPress Core
 codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
 doaction.org
-github.com/wordpress
 mercantile.wordpress.org
 planet.wordpress.org
 wordpressfoundation.org

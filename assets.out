@@ -2338,6 +2338,7 @@ Other Semrush Related Asset
 Other Spotify websites
 Other assets
 Other assets owned by Personio
+Other github.com/wordpress repos
 Other non-production infrastructure
 Other related e-commerce services
 PHP SDK
@@ -4296,7 +4297,6 @@ github.com/stytchauth/terraform-provider-stytch
 github.com/twilio
 github.com/twilio-labs
 github.com/uphold/*
-github.com/wordpress
 gitlab.com
 gldatacenter.nba.com
 gleague-dev.nba.com
@@ -7388,6 +7388,7 @@ identityserver.landmarkcinemas.com
 idp-cf.euce1.indriverapp.com
 idp-gw-cf.latam-mx.usea1.aws.indriverapp.com
 idp-scf.euce1.indriverapp.com
+idp-url.nexuzhealth.be
 idpay-uat.unico.io
 iframe.arkoselabs.com
 iframe.moonx-dev.com
