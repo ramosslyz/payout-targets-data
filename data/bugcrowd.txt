@@ -2054,7 +2054,6 @@ https://marketplace.atlassian.com/apps/1215277/smart-checklist-for-jira-free?hos
 https://marketplace.atlassian.com/apps/1231143/smart-templates-issue-templates-for-jira?hosting=cloud&tab
 https://marketplace.atlassian.com/apps/1233681/smart-ai-release-notes-for-jira?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1214045/raley-email-notifications-for-jira-jsm?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1223409/raley-purchase-orders?hosting=cloud&tab=overview
 api.rapyd.net
 https://dashboard.rapyd.net/
 verify.rapyd.net
