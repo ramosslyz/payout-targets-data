@@ -139,8 +139,6 @@ sks-*.exo.io
 *.portofantwerpbruges.com
 *.ripe.net
  *.rivian.com
-*.swisspass.ch
-*.sbb.ch
 *.sqills.com
 *.sqills.team
 *.superdrug.com

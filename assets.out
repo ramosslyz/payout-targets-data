@@ -3,7 +3,6 @@
  *.test.*.lfscnp.com
  203.13.125.32/27
  Finicity Connect
- Mobile Apps
  UniFi OS Server
  com.citymapper.app.release
  https://api-*exoscale.com/v2
@@ -899,7 +898,6 @@
 *.savi.xyz
 *.say.rocks
 *.saytechnologies.com
-*.sbb.ch
 *.sbgcdn.com
 *.sbgcore.com
 *.sbgorigin.com
@@ -1010,7 +1008,6 @@
 *.support.jbl.com
 *.support.originenergy.com.au
 *.swaps.xyz
-*.swisspass.ch
 *.teams.cloudflare.com
 *.techbook.de
 *.telenor.se
@@ -1205,7 +1202,6 @@
 *dev*.arlo.com
 *dev.uzleuven.be
 *developer.cloud.com
-*elvetino.ch
 *ensemble*.yahoo.com
 *gateway-apc.marriott.com
 *idp*.uzleuven.be
@@ -1214,10 +1210,8 @@
 *qa*.arlo.com
 *ripio.com
 *ripiotrade.co
-*sbbcargo.com
 *stag*.uzleuven.be
 *test*.bykea.net
-*transsicura.ch
 *uat.marriott.com
 *ubereats.com
 *vc.logitech.com
@@ -1720,8 +1714,6 @@ All Other NVIDIA Container Toolkit Assets
 All internet facing Sky DACH assets
 All internet facing Sky Italy assets 
 All internet facing Sky UK/ROI assets
-All other SBB owned IT assets
-All other Web and mobile APPs owned by SBB 
 All other related services owned by HERE
 All the Blockchain Infrastructure
 Amazon Subsidiaries (Please only actively test explicitly stated scope)
@@ -2250,7 +2242,6 @@ Mi TV Box
 Mi/Redmi Phone
 Microsites
 Mobile Applications
-Mobile Apps
 Moneyback Android
 Moneyback iOS
 MongoDB Assistant
@@ -9095,7 +9086,6 @@ www.ebookers.com
 www.ebookers.fi
 www.editeur.am.monespacesante.fr
 www.editeur.api.monespacesante.fr
-www.elvetino.ch
 www.evernote.com
 www.expedia-aarp.com
 www.expedia.com
@@ -9251,8 +9241,6 @@ www.s-pankki.fi
 www.sa.dyson.com
 www.samenfittorfs.be
 www.savers.co.uk
-www.sbb.ch
-www.sbbcargo.com
 www.schoenentorfs.be
 www.schoenentorfs.nl 
 www.semrush.com
@@ -9290,7 +9278,6 @@ www.torfs.be
 www.torfs.nl
 www.tradepmr.com
 www.trajeoh.com
-www.transsicura.ch
 www.travel-brilliantly.marriott.com
 www.travelocity.ca
 www.travelocity.com
