@@ -669,6 +669,36 @@ shop.trouw.nl
 webwinkel.trouw.nl
 www.trouw.nl
 www.trouw.nl/abonnementen
+api.truelayer[-sandbox].com
+api.mtls.truelayer[-sandbox].com
+auth.truelayer[-sandbox].com
+auth.mtls.truelayer[-sandbox].com
+app.truelayer[-sandbox].com
+login-api.truelayer[-sandbox].com
+login.truelayer[-sandbox].com
+onboarding-api.truelayer.com
+pay-api.truelayer[-sandbox].com
+pay.truelayer[-sandbox].com
+paydirect.truelayer[-sandbox].com
+payment.truelayer[-sandbox].com
+payments-experience-api.truelayer[-sandbox].com
+user-authentication-api.truelayer[-sandbox].com
+users-api.truelayer.com
+C# SDK
+console-backend.truelayer[-sandbox].com
+console.truelayer[-sandbox].com
+sftp.reports.truelayer.com
+Java SDK
+PHP SDK
+TrueLayer for Magento (Magento plugin)
+shopify-admin.truelayer.com
+shop-pay-app-api.truelayer.com
+truelayer-signing
+webhooks.truelayer[-sandbox].com
+iOS SDK
+React Native SDK
+Web SDK
+Rust SDK
 autodiscover.uzleuven.be
 ecrf.uzleuven.be
 extranet-asa.uzleuven.be
@@ -696,30 +726,6 @@ mirc.uzleuven.be
 prddnighting01.uzleuven.be
 w1.uzleuven.be/random
 ziekenhuisschool.be
-portal.enterprise.uphold.com
-api.portal.enterprise.uphold.com 
-Uphold: Buy BTC, ETH and 360+
-Uphold: Buy BTC, ETH and 300+
-wallet-sandbox.uphold.com
-api-sandbox.uphold.com
-docs.uphold.com
-api-sandbox.uphold.com/graphql
-app.sandbox.topperpay.com
-api.sandbox.topperpay.com
-graphql.sandbox.topperpay.com/graphql
-docs.topperpay.com
-www.topperpay.com
-https://api.enterprise.sandbox.uphold.com/widgets
-https://api.enterprise.sandbox.uphold.com/trading
-https://api.enterprise.sandbox.uphold.com/market-pulse
-https://api.enterprise.sandbox.uphold.com/kyc-connector
-https://api.enterprise.sandbox.uphold.com/core
-https://api.enterprise.sandbox.uphold.com/topper
-uatcms.optimuscards.com
-docs.optimuscards.com
-www.optimuscards.com
-github.com/uphold/*
-www.uphold.com
 API's
 Sockets
 Mobile Applications

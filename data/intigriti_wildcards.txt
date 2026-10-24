@@ -151,6 +151,9 @@ sks-*.exo.io
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net
@@ -161,9 +164,6 @@ sks-*.exo.io
 *.mir.uzleuven.be
 *idp*.uzleuven.be
 *stag*.uzleuven.be
-*.topperpay.com
-*.optimuscards.com
-*.uphold.com
 *.vtm.be
 *.vtmgo.be
 *. advancedcustomfields.com
