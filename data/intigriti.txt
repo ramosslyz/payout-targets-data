@@ -79,6 +79,20 @@ unified.cloudways.com
 www.cloudways.com
 css-tricks.com
 Any related DPG media domain
+profiles-api.datacamp.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
+assessment-api.datacamp.com
+assessment-v2.datacamp.com 
+assessment.datacamp.com
+campus.datacamp.com
+com.datacamp
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
+practice.datacamp.com
+projects.datacamp.com
+www.datacamp.com
+www.datacamp.com/datalab
 myaccount.demorgen.be
 www.demorgen.be
 www.demorgen.be/abonnementen
@@ -464,6 +478,10 @@ idp-url.nexuzhealth.be
 media.nexuzhealth.be/patient/ 
 https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050
 https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_oi_appl/
+https://auth2.pdq.com/
+https://library.pdq.com/
+https://portal.pdq.com/
+https://app.pdq.com/
 api.personio-dev.com
 api.personio.com
 https://community.personio.com
@@ -696,6 +714,30 @@ mirc.uzleuven.be
 prddnighting01.uzleuven.be
 w1.uzleuven.be/random
 ziekenhuisschool.be
+portal.enterprise.uphold.com
+api.portal.enterprise.uphold.com 
+Uphold: Buy BTC, ETH and 360+
+Uphold: Buy BTC, ETH and 300+
+wallet-sandbox.uphold.com
+api-sandbox.uphold.com
+docs.uphold.com
+api-sandbox.uphold.com/graphql
+app.sandbox.topperpay.com
+api.sandbox.topperpay.com
+graphql.sandbox.topperpay.com/graphql
+docs.topperpay.com
+www.topperpay.com
+https://api.enterprise.sandbox.uphold.com/widgets
+https://api.enterprise.sandbox.uphold.com/trading
+https://api.enterprise.sandbox.uphold.com/market-pulse
+https://api.enterprise.sandbox.uphold.com/kyc-connector
+https://api.enterprise.sandbox.uphold.com/core
+https://api.enterprise.sandbox.uphold.com/topper
+uatcms.optimuscards.com
+docs.optimuscards.com
+www.optimuscards.com
+github.com/uphold/*
+www.uphold.com
 API's
 Sockets
 Mobile Applications
@@ -709,6 +751,14 @@ Brand Sites
 myaccount.vtm.be
 vtm.be/vtmgo
 vtmgo.be
+api-wallet.venly.io
+api.arkane.network
+connect.arkane.network 
+connect.venly.io
+login.arkane.network
+login.venly.io
+wallet.venly.io
+api-wallet-sandbox.venly.io
 564141518
 accountsettings.connect.identity.stagaws.visma.com
 admin.stage.vismaonline.com
@@ -722,6 +772,14 @@ myservices-api.stage.vismaonline.com
 myservices.stage.vismaonline.com
 oauth.developers.stagaws.visma.com
 photoservice.stage.vismaonline.com
+Voi – e-scooters & e-bikes
+Voi – e-scooter & e-bike hire
+https://api.voiapp.io/
+mds.voiapp.io
+fm.voiapp.io
+https://repair.voiweb.net
+report.voi.com
+voi.com
 https://app.getflywheel.com
 https://getflywheel.com
 https://my.wpengine.com
