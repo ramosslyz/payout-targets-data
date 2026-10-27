@@ -466,11 +466,11 @@ https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050
 https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_oi_appl/
 api.personio-dev.com
 api.personio.com
-https://community.personio.com
 https://hug.personio.com
 https://sec-test-<intigriti handle>-<nn>.personio.de
 https://www.personio.com/free-trial/
 https://www.personio.de/kostenlos-testen/
+https://community.personio.com
 Other assets owned by Personio
 188.118.8.0/25
 94.107.237.192/26
@@ -604,18 +604,6 @@ http://socialdeal.nl/inspirations/bluemonday/
 http://www.whynot.com/
 https://www.socialdeal.nl/orderlist/5e834ae0bed5c/63d772e2ed277/
 www.socialdeal.nl
-https://soundtrack.io
-1114799709
-1114800186
-api.soundtrackyourbrand.com
-billing.api.soundtrackyourbrand.com
-builds.soundtrackyourbrand.com
-business.soundtrackyourbrand.com
-com.soundtrackyourbrand.soundtrack.player
-https://auth.api.soundtrackyourbrand.com/
-https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
-https://radio.api.soundtrackyourbrand.com/
-macOS app
 www.superdrug.com
 Superdrug iOS
 Superdrug Android
@@ -681,36 +669,6 @@ shop.trouw.nl
 webwinkel.trouw.nl
 www.trouw.nl
 www.trouw.nl/abonnementen
-api.truelayer[-sandbox].com
-api.mtls.truelayer[-sandbox].com
-auth.truelayer[-sandbox].com
-auth.mtls.truelayer[-sandbox].com
-app.truelayer[-sandbox].com
-login-api.truelayer[-sandbox].com
-login.truelayer[-sandbox].com
-onboarding-api.truelayer.com
-pay-api.truelayer[-sandbox].com
-pay.truelayer[-sandbox].com
-paydirect.truelayer[-sandbox].com
-payment.truelayer[-sandbox].com
-payments-experience-api.truelayer[-sandbox].com
-user-authentication-api.truelayer[-sandbox].com
-users-api.truelayer.com
-C# SDK
-console-backend.truelayer[-sandbox].com
-console.truelayer[-sandbox].com
-sftp.reports.truelayer.com
-Java SDK
-PHP SDK
-TrueLayer for Magento (Magento plugin)
-shopify-admin.truelayer.com
-shop-pay-app-api.truelayer.com
-truelayer-signing
-webhooks.truelayer[-sandbox].com
-iOS SDK
-React Native SDK
-Web SDK
-Rust SDK
 autodiscover.uzleuven.be
 ecrf.uzleuven.be
 extranet-asa.uzleuven.be
@@ -960,12 +918,6 @@ Yahoo Video
 Yahoo Weather
 Yahoo! (Misc)
 yimg.com
-hub.vznkul.be/* 
-hub.vznkul.be/services/interhub/InterHubService
-hub.vznkul.be/services/intrahub/IntraHubService
-hubacc.vznkul.be/*
-hubacc.vznkul.be/services/acceptance/interhub/InterHubService
-hubacc.vznkul.be/services/acceptance/intrahub/IntraHubService
 www.intigriti.com
 https://vpn.intigriti.rocks/*
 https://metabase.pwn.intigriti.rocks/
