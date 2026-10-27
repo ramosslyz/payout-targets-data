@@ -949,6 +949,9 @@ https://hub.immutable.com/
 https://play.immutable.com
 https://api.immutable.com
 https://api.x.immutable.com/
+https://cpl.thalesgroup.com
+https://www.imperva.com
+https://supportportal.thalesgroup.com
 https://bugcrowd.com/engagements/imperva-mbb
 https://indeed.com
 https://apis.indeed.com/graphql
@@ -1598,6 +1601,7 @@ https://marketplace.atlassian.com/apps/1235010/onlink-ai-integration-toolkit-to-
 https://api.openai.com
 https://chat.openai.com
 https://chat.openai.com
+https://chatgpt.com/dots/
 Third Party Targets
 OpenAI API Keys
 https://openai.com/

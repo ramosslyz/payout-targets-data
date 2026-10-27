@@ -4942,6 +4942,7 @@ https://central.sophos.com
 https://central.sophos.com/
 https://cfc.naspers.com/
 https://chat.openai.com
+https://chatgpt.com/dots/
 https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad
 https://chrome.google.com/webstore/detail/ibotta-browser-extension/mfaedmjlefifhnhpgipjjiiekchaimpk?hl=en-US
 https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en
@@ -4994,6 +4995,7 @@ https://content.usaa.com
 https://coral.20min.ch/
 https://core-prod.uidapi.com
 https://cp.expressapisv2.net
+https://cpl.thalesgroup.com
 https://create.gx.games
 https://creative.infinity.blismedia.com
 https://creatives.vistarmedia.com
@@ -6802,6 +6804,7 @@ https://support.lastpass.com
 https://support.moovitapp.com/hc/en-us/articles/11389054527122-WayFinder-Augmented-Reality-helper-to-find-your-stop-iPhone-only
 https://support.newrelic.com/
 https://support.okta.com
+https://supportportal.thalesgroup.com
 https://sycamore.moneyboxapp.org
 https://t-mobile.com
 https://takeaway.com
@@ -7049,6 +7052,7 @@ https://www.hostgator.com.br/
 https://www.hostgator.com/
 https://www.ifood.com.br
 https://www.imou.com
+https://www.imperva.com
 https://www.intercom.com/
 https://www.internetbrands.com
 https://www.irobot.at/
@@ -7293,7 +7297,13 @@ https://zuora-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/notifications/ra
 hub-api-sandbox.remitly.io
 hub.myconnect.com.au
 hub.vroid.com
+hub.vznkul.be/* 
+hub.vznkul.be/services/interhub/InterHubService
+hub.vznkul.be/services/intrahub/IntraHubService
 hub.yoti.com
+hubacc.vznkul.be/*
+hubacc.vznkul.be/services/acceptance/interhub/InterHubService
+hubacc.vznkul.be/services/acceptance/intrahub/IntraHubService
 hubspot.net
 huddle.nba.com
 humo.be/registreren
