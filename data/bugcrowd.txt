@@ -697,8 +697,8 @@ https://console.delltechnologies.com/nav/billing
 Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
 █████████████████████████████████████████████████
 █████████████████████████████████████████████████████
-https://marketplace.atlassian.com/apps/1218655/performance-objectives-charts-reports?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1218655/performance-objectives-charts-reports?hosting=datacenter&tab=overview
+https://marketplace.atlassian.com/apps/1218655/performance-charts-and-reports-for-jira-dashboards?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1218655/performance-charts-and-reports-for-jira-dashboards?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1234873/user-activity-timeline-history-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1230009/issue-ai-analytics-for-jira-cloud-private-ai?hosting=datacenter
 https://marketplace.atlassian.com/apps/1229958/issue-sync-lite?hosting=cloud&tab=overview

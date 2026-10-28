@@ -3135,6 +3135,7 @@ Open Scope
 accounts.cloud.databricks.com
 databricks.com
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
+https://github.com/databricks/*
 login.databricks.com
 ui-assets.cloud.databricks.com
 Elastic Credentials

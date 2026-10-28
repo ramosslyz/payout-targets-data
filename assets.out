@@ -262,6 +262,7 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
+*.data.api.platform.here.com
 *.dbt.com
 *.dbtlabs.com
 *.dcfgateway.marriott.com
@@ -474,6 +475,8 @@
 *.hellofax.com
 *.hellosign.com
 *.helloworks.com
+*.here.com
+*.hereapi.com
 *.hey.bild.de
 *.hey.com
 *.hhc247.org
@@ -655,6 +658,7 @@
 *.mercadopago.com.mx
 *.mercadopago.com.pe
 *.mercadopago.com.uy
+*.metrics.platform.here.com
 *.metronome.com
 *.mevo.com
 *.mgbcareconnect.org
@@ -795,6 +799,7 @@
 *.pipopay.com
 *.plannthat.com
 *.platacard.mx
+*.platform.here.com
 *.platformservices.io
 *.play.ownit.se
 *.playstation.com
@@ -883,6 +888,7 @@
 *.roonessentials.net
 *.roonlabs.com
 *.roonlabs.net
+*.router.hereapi.com
 *.rtbscale.com
 *.runnr.in
 *.s-cloud.net
@@ -901,6 +907,7 @@
 *.sc-core.net
 *.sc-corp.net
 *.scatec.io
+*.scbe.api.here.com
 *.scopely.com
 *.scopely.io
 *.sec-tunnel.com
@@ -990,6 +997,7 @@
 *.stripe.com
 *.studiopress.com
 *.stylebook.de
+*.subp-router.hereapi.com
 *.super.xyz
 *.superbet.com
 *.superbet.gr
@@ -1709,6 +1717,7 @@ All internet facing Sky Italy assets
 All internet facing Sky UK/ROI assets
 All other SBB owned IT assets
 All other Web and mobile APPs owned by SBB 
+All other related services owned by HERE
 All the Blockchain Infrastructure
 Amazon Subsidiaries (Please only actively test explicitly stated scope)
 AmpliFi
@@ -2051,6 +2060,8 @@ GraphQL API (bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql)
 Grepolis
 Gutenberg
 H5G/Agency
+HERE WeGo Android
+HERE WeGo iOS
 HEY.app
 HEY.exe
 HPE Aruba Networking Central - New UI (see Scope Details)
@@ -2171,6 +2182,8 @@ Leaked Credentials
 Leaked Credentials and Secrets (Canva Employee/Contractor)
 Leaked Credentials and Secrets (Canva User)
 Leaked Employee API Keys
+Leaked Service Credentials
+Leaked/Compromised Employee Credentials
 Leaked/Сompromised Employee accounts
 Lens Studio
 Liberty 5 Pro Max D1204
@@ -2666,8 +2679,10 @@ access.remitly.com
 accommodations.booking.com
 account-sprint.dynatracelabs.com
 account.acronis.com
+account.api.here.com
 account.booking.com
 account.box.com
+account.here.com
 account.krisp.ai
 account.ui.com
 accountinfodirect-snd.earlywarning.com
@@ -5227,6 +5242,7 @@ https://github.com/cmdotcom
 https://github.com/coinbase/*
 https://github.com/coinbase/cb-mpc
 https://github.com/coinbase/cb-mpc-go
+https://github.com/databricks/*
 https://github.com/digitalocean/do-agent
 https://github.com/digitalocean/doctl
 https://github.com/digitalocean/droplet-agent
@@ -5759,8 +5775,8 @@ https://marketplace.atlassian.com/apps/1218481/refined-for-jira-cloud?hosting=cl
 https://marketplace.atlassian.com/apps/1218509/s-notify-email-encryption-for-confluence?hosting=datacenter
 https://marketplace.atlassian.com/apps/1218555/easy-pdf-html-word-export-to-custom-documents?hosting=cloud
 https://marketplace.atlassian.com/apps/1218652/deep-clone-for-jira?hosting=cloud
-https://marketplace.atlassian.com/apps/1218655/performance-objectives-charts-reports?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1218655/performance-objectives-charts-reports?hosting=datacenter&tab=overview
+https://marketplace.atlassian.com/apps/1218655/performance-charts-and-reports-for-jira-dashboards?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1218655/performance-charts-and-reports-for-jira-dashboards?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1218757/insight-aws-integration?hosting=datacenter
 https://marketplace.atlassian.com/apps/1218781/bitbucket-cloud-for-slack-official?hosting=cloud
 https://marketplace.atlassian.com/apps/1218801/upraise-for-employee-garrison?hosting=cloud&tab=overview
@@ -7505,6 +7521,7 @@ liquidfiles.nexuzhealth.com
 liquidfiles.uzleuven.be
 liquidfilestest.uzleuven.be
 lirportal.ripe.net
+listing.here.com
 lists.nextcloud.com
 live-backstage.tiktok.com
 live-service.whatnot.com
@@ -7608,6 +7625,7 @@ manager.infomaniak.com/v3/*
 mangerbouger.fr
 map.8x8.com
 map.snapchat.com
+mapcreator.here.com
 mapi.moneyback.com.hk
 mark8.syfe.com
 marketing.fareharbor.com
@@ -7747,6 +7765,7 @@ mobileapi.lystit.com
 mobileapi.na1.insightly.com
 mobileapp.hyatt.com
 mobilevikings.be
+mobilitygraph.hereapi.com
 mod.reddit.com
 modefestival.com
 mokapos.com
@@ -8239,6 +8258,7 @@ register.bpost.be
 register.capital.com
 registre.notebleue.pro
 registry.gitlab.com
+registry.service.api.platform.here.com
 rei.com
 relay.playcanvas.com
 releasor.payworks.com/
@@ -8364,6 +8384,7 @@ scp.watsons.com.tr
 scpapi.watsons.com.tr
 scripts.developersites.com.au
 scrutiny.swiftfinancial.com
+search.hereapi.com
 secure-dfadmin.deriv.com
 secure-supply-xml.booking.com
 secure.booking.com
@@ -8686,6 +8707,7 @@ tr-scf.euce1.indriverapp.com
 trade.ripio.com
 training.ui.com
 transact.playstation.com
+transit.hereapi.com
 translate.badoo.com
 travel.crypto.com
 travelagents.marriott.com/
@@ -8764,6 +8786,7 @@ vasdemos.visa.com
 vault2.faraday.ai
 vcc-*.8x8.com
 vcc-ce.8x8.com
+vector.hereapi.com
 vector.prd.iat.it.xvservice.net
 vercel.app
 vercel.com
@@ -9378,6 +9401,7 @@ x.razorpay.com
 xadsacademy.com
 xlence.iciparisxl.nl
 xtramile.grabpay.com
+xyz.api.here.com
 yelptop100.com
 yhteystietoni.posti.fi
 yimg.com
