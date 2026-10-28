@@ -145,6 +145,7 @@
 *.auth.bild.de
 *.autobild.de
 *.avecspotify.com
+*.aww.be
 *.ayco.com
 *.backblazeb2.com
 *.backend-capital.com
@@ -261,7 +262,6 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
-*.data.api.platform.here.com
 *.dbt.com
 *.dbtlabs.com
 *.dcfgateway.marriott.com
@@ -474,8 +474,6 @@
 *.hellofax.com
 *.hellosign.com
 *.helloworks.com
-*.here.com
-*.hereapi.com
 *.hey.bild.de
 *.hey.com
 *.hhc247.org
@@ -657,7 +655,6 @@
 *.mercadopago.com.mx
 *.mercadopago.com.pe
 *.mercadopago.com.uy
-*.metrics.platform.here.com
 *.metronome.com
 *.mevo.com
 *.mgbcareconnect.org
@@ -798,7 +795,6 @@
 *.pipopay.com
 *.plannthat.com
 *.platacard.mx
-*.platform.here.com
 *.platformservices.io
 *.play.ownit.se
 *.playstation.com
@@ -887,7 +883,6 @@
 *.roonessentials.net
 *.roonlabs.com
 *.roonlabs.net
-*.router.hereapi.com
 *.rtbscale.com
 *.runnr.in
 *.s-cloud.net
@@ -906,7 +901,6 @@
 *.sc-core.net
 *.sc-corp.net
 *.scatec.io
-*.scbe.api.here.com
 *.scopely.com
 *.scopely.io
 *.sec-tunnel.com
@@ -996,7 +990,6 @@
 *.stripe.com
 *.studiopress.com
 *.stylebook.de
-*.subp-router.hereapi.com
 *.super.xyz
 *.superbet.com
 *.superbet.gr
@@ -1114,8 +1107,6 @@
 *.visamiddleeast.com
 *.vliegwinkel.nl
 *.vod2.infomaniak.com
-*.voi.com
-*.voiscooters.com
 *.volkskrant.nl
 *.volkswagen.de
 *.vpn.hackerone.net
@@ -1123,7 +1114,7 @@
 *.vtm.be
 *.vtmgo.be
 *.wali.com
-*.water-link.be/
+*.water-link.be
 *.watsons.co.id
 *.watsons.co.th
 *.watsons.com.hk
@@ -1572,7 +1563,6 @@
 545519333
 545599256
 547702041
-564141518
 566635048
 586634331
 594802437
@@ -1719,7 +1709,6 @@ All internet facing Sky Italy assets
 All internet facing Sky UK/ROI assets
 All other SBB owned IT assets
 All other Web and mobile APPs owned by SBB 
-All other related services owned by HERE
 All the Blockchain Infrastructure
 Amazon Subsidiaries (Please only actively test explicitly stated scope)
 AmpliFi
@@ -2062,8 +2051,6 @@ GraphQL API (bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql)
 Grepolis
 Gutenberg
 H5G/Agency
-HERE WeGo Android
-HERE WeGo iOS
 HEY.app
 HEY.exe
 HPE Aruba Networking Central - New UI (see Scope Details)
@@ -2184,8 +2171,6 @@ Leaked Credentials
 Leaked Credentials and Secrets (Canva Employee/Contractor)
 Leaked Credentials and Secrets (Canva User)
 Leaked Employee API Keys
-Leaked Service Credentials
-Leaked/Compromised Employee Credentials
 Leaked/Сompromised Employee accounts
 Lens Studio
 Liberty 5 Pro Max D1204
@@ -2513,7 +2498,6 @@ Tap to Pay (Android)
 Tap to Pay (iOS)
 Tesla Energy hardware you own
 Tesla vehicle hardware that you own
-Texts
 The Perfume Shop Android
 The Perfume Shop iOS
 Third Party Application
@@ -2584,8 +2568,6 @@ Vercel sandbox
 Video Conferencing Products
 Video Doorbell
 Virtual Office Desktop
-Voi – e-scooter & e-bike hire
-Voi – e-scooters & e-bikes
 Vox Cinemas Android
 Vox Cinemas iOS
 WARP Mobile Apps
@@ -2684,10 +2666,8 @@ access.remitly.com
 accommodations.booking.com
 account-sprint.dynatracelabs.com
 account.acronis.com
-account.api.here.com
 account.booking.com
 account.box.com
-account.here.com
 account.krisp.ai
 account.ui.com
 accountinfodirect-snd.earlywarning.com
@@ -2706,7 +2686,6 @@ accounts.snapchat.com
 accounts.stage.evernote.com
 accounts.twilio.com
 accounts.x.ai
-accountsettings.connect.identity.stagaws.visma.com
 accountshomolog.acesso.io
 aces-dev.wnba.com
 aces-qa.wnba.com
@@ -2716,6 +2695,7 @@ actionnaires.vinci.com
 activate.3cx.com
 adayevrak.watsons.com.tr
 adb.nba.com
+adelta.be
 adm.cloud.com
 admin-portal.api-xperience.com
 admin-resolve.8x8.com
@@ -2724,7 +2704,6 @@ admin.booking.com
 admin.instacart.com
 admin.meeshosupply.com
 admin.shopify.com
-admin.stage.vismaonline.com
 admin.wickr.com
 admincms.developer.monespacesante.fr
 admincms.monespacesante.fr
@@ -2752,7 +2731,6 @@ aguacaliente.gleague.nba.com
 ai.portswigger.net
 ai.x.GrokApp
 ai.x.grok
-aiassistant.stage.vismaonline.com
 air.com.bitrhymes.bingo
 air.com.buffalo_studios.newflashbingo
 air.com.playtika.cvs
@@ -3081,6 +3059,8 @@ apps.portofantwerp.com
 apps.portofantwerpbruges.com
 appt.healthclinics.superdrug.com
 aqtooling.com
+aquawardsoperate.water-link.be
+aquawardsspatial.water-link.be
 aquiris.com.br
 aquiris.studio
 aquiristech.com
@@ -3132,6 +3112,7 @@ autocomplete.booking.com
 autodiscover.uzleuven.be
 autoupdateapi.lansweeper.com
 av.indrive.com
+aww.eu
 b5s.hackerone-ext-content.com
 backend-sdk.uat.private.unico.run
 backoffice.lansweeper.com
@@ -3736,7 +3717,6 @@ com.venmo
 com.vilcsak.bitcoin2
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
-com.visma.blue
 com.vrbo.android
 com.wealthsimple
 com.wealthsimple.predict
@@ -3803,7 +3783,6 @@ confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
 connect.arkane.network 
-connect.identity.stagaws.visma.com
 connect.posti.fi
 connect.secure.wellsfargo.com
 connect.venly.io
@@ -3967,6 +3946,7 @@ deriv.partners
 derivws.com
 design.gitlab.com
 design.ui.com
+desktop.water-link.be
 detroit-dev.gleague.nba.com
 detroit-qa.gleague.nba.com
 detroit.gleague.nba.com
@@ -4055,8 +4035,6 @@ dropbox.com/paper
 dwhreports.nba.com
 dwy.visa.com
 e-Commerce
-eaccounting.stage.vismaonline.com
-eaccountingprinting.stage.vismaonline.com
 eassessment.monash.edu
 ebctest.cybersource.com
 ebsext.oft.hyatt.com
@@ -4198,7 +4176,6 @@ flourish-user-preview.com
 flourish-user-templates.com
 flyiin.com
 fm.anchor.android
-fm.voiapp.io
 folder.iciparisxl.nl
 folder.kruidvat.be
 folder.kruidvat.nl
@@ -4591,7 +4568,6 @@ https://api.riskrecon.eu
 https://api.rx.originenergy.com.au/v1/lpg/graphql
 https://api.shop.ua.com/graphql
 https://api.simnext.bullish-test.com
-https://api.staging.luno.com/
 https://api.t-mobile.com
 https://api.test.latitudefinancial.com
 https://api.thefork.com
@@ -4605,7 +4581,6 @@ https://api.us1.fga.dev/
 https://api.usaa.com/
 https://api.vistarmedia.com
 https://api.vistarmedia.eu
-https://api.voiapp.io/
 https://api.welcomesoftware.com/
 https://api.wyzecam.com
 https://api.x.immutable.com/
@@ -4646,7 +4621,6 @@ https://app.requirementyogi.com
 https://app.ring.com/*
 https://app.ripio.com
 https://app.saltlabs.com/
-https://app.staging.luno.com/
 https://app.staging.saltlabs.com/
 https://app.thousandeyes.com/
 https://app.web.com
@@ -4659,7 +4633,6 @@ https://appgallery.huawei.com/app/C101186357
 https://apphouse.underarmour.com/
 https://apps.apple.com/am/app/maya-your-all-in-one-money-app/id991673877
 https://apps.apple.com/app/bitpanda-buy-bitcoin-crypto/id1449018960
-https://apps.apple.com/app/bitx-wallet/id927362479
 https://apps.apple.com/app/chia-signer/id6504493785 
 https://apps.apple.com/app/id1216446440
 https://apps.apple.com/app/id1503045795
@@ -5030,7 +5003,6 @@ https://demo.adstruc.com
 https://demo.priceless.com/
 https://desk.thetradedesk.com
 https://desktop-sit.uat.proptrack.com
-https://desktop.water-link.be/
 https://dev.tutoring.classdojo.com
 https://devedge.t-mobile.com
 https://developer.ifood.com.br
@@ -6298,7 +6270,6 @@ https://mmp.otto.de
 https://mobile.monash/ 
 https://mobile.ooredoo.qa
 https://mobile.usaa.com
-https://mobileapi.staging.luno.com/
 https://mobileapp.opsgenie.com
 https://mobileapps.usaa.com/
 https://mohesr.vfsglobal.com/forms/CVUAE/admin/
@@ -6438,7 +6409,6 @@ https://php-rce.cloudflare.app/
 https://pinepg.in
 https://pinepgconsole.in:9099
 https://pioneer.truata.com/
-https://pit.water-link.be/
 https://pixabay.com/
 https://platform.blis.com
 https://platform.blismedia.com
@@ -6466,7 +6436,6 @@ https://platform.openai.com/playground
 https://platform.rc.blis.com
 https://play.fga.dev/
 https://play.google.com/store/apps/datasafety?id=com.expediapartnercentral&hl=en
-https://play.google.com/store/apps/details?hl=en&id=co.bitx.android.wallet
 https://play.google.com/store/apps/details?id=at.com.media.markt
 https://play.google.com/store/apps/details?id=au.com.optus.selfservice&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=au.com.realestate.app
@@ -6668,7 +6637,6 @@ https://redash-staging.getmoneytree.com/
 https://refinedsites.refinedwiki.com
 https://regatta.aiven.io/
 https://rentals.tripadvisor.com
-https://repair.voiweb.net
 https://res.cloudinary.com
 https://research.monash.edu/
 https://researchmgt.monash.edu/
@@ -6771,8 +6739,6 @@ https://staging-trafficking.vistarmedia.com
 https://staging.claytonapp.com
 https://staging.claytonapp.com/api
 https://staging.gearset.com/
-https://staging.luno.com.ng
-https://staging.luno.com/
 https://start.atlassian.com
 https://static-images.ifood.com.br
 https://static.mgm.mo
@@ -7167,6 +7133,7 @@ https://www.otto.de
 https://www.otto.de/jobs
 https://www.outsourcing.optus.net.au/eFRAMS3/
 https://www.outsourcing2.optus.net.au/eFRAMS3/
+https://www.pacsun.me/
 https://www.paddle.com
 https://www.partycasino.com
 https://www.partypoker.com
@@ -7268,9 +7235,6 @@ https://www.vwfs.nl
 https://www.vwfs.pl
 https://www.vwfs.pt
 https://www.vwfs.sk
-https://www.water-link-jaarverslag.be
-https://www.water-link.be
-https://www.waterstoring.be/
 https://www.webmd.com
 https://www.webproteus.com/lpro-web/login
 https://www.whosampled.com/
@@ -7371,7 +7335,6 @@ identity-server.nba.com
 identity-uat.nba.com
 identity.clearme.com
 identity.nba.com
-identity.stage.vismaonline.com
 identity.wnba.com
 identity.yoti.com
 identityhomolog.acesso.io
@@ -7400,6 +7363,8 @@ inclusion.nba.com
 indiaontrack.nba.com
 indicative-pricing.taxi.booking.com
 indrive.com
+induss.eu
+indussiibis.water-link.be
 inference.do-ai.run
 influencers.tw.coupang.com
 infomaniak.events
@@ -7540,7 +7505,6 @@ liquidfiles.nexuzhealth.com
 liquidfiles.uzleuven.be
 liquidfilestest.uzleuven.be
 lirportal.ripe.net
-listing.here.com
 lists.nextcloud.com
 live-backstage.tiktok.com
 live-service.whatnot.com
@@ -7644,7 +7608,6 @@ manager.infomaniak.com/v3/*
 mangerbouger.fr
 map.8x8.com
 map.snapchat.com
-mapcreator.here.com
 mapi.moneyback.com.hk
 mark8.syfe.com
 marketing.fareharbor.com
@@ -7682,7 +7645,6 @@ mcp.faraday.ai
 mcp.staging.airtable.com
 mcp.stripe.com
 mds.marriott.com
-mds.voiapp.io
 media.drogas.lt
 media.drogas.lv
 media.iciparisxl.be
@@ -7785,7 +7747,6 @@ mobileapi.lystit.com
 mobileapi.na1.insightly.com
 mobileapp.hyatt.com
 mobilevikings.be
-mobilitygraph.hereapi.com
 mod.reddit.com
 modefestival.com
 mokapos.com
@@ -7845,8 +7806,6 @@ myconnect.com.au
 mynexuz.be
 mynexuzhealth/id1459856321
 myself.tw.coupang.com
-myservices-api.stage.vismaonline.com
-myservices.stage.vismaonline.com
 mystics-dev.wnba.com
 mystics-qa.wnba.com
 mystics-qa2.wnba.com
@@ -7988,7 +7947,6 @@ nycbasketball.nba.com
 nz.co.vista.android.movie.mjrtheatres
 oauth-sandbox.gocardless.com
 oauth.deriv.com
-oauth.developers.stagaws.visma.com
 oauth.twilio.com
 ob.gocardless.com
 obs-sensors.iris.acceptance.forescoutcloud.net
@@ -8116,9 +8074,9 @@ phlonline.vfsevisa.cn
 phlportal.vfsevisa.cn
 phone-validation.taxi.booking.com
 photo.kruidvat.be
-photoservice.stage.vismaonline.com
 picc.posti.fi
 pigeon.swiftfinancial.com
+pit.water-link.be
 plaid.com
 planet.wordpress.org
 plannerrequest.hyatt.com
@@ -8281,7 +8239,6 @@ register.bpost.be
 register.capital.com
 registre.notebleue.pro
 registry.gitlab.com
-registry.service.api.platform.here.com
 rei.com
 relay.playcanvas.com
 releasor.payworks.com/
@@ -8324,7 +8281,6 @@ reno-dev.gleague.nba.com
 reno.gleague.nba.com
 repo.3cx.com
 report-html-sight.stg.inspectorio.com
-report.voi.com
 res.blueskytours.globalbookingsolutions.com
 res.funjet.com
 res.hyattinclusivecollection.com
@@ -8349,6 +8305,7 @@ rewire.com
 rezagent.triseptsolutions.com
 ridewithvia.neoridelittlerock
 ridewithvia.par.piercetransit
+rio-link.be
 riograndevalley-dev.gleague.nba.com
 riograndevalley-qa.gleague.nba.com
 riograndevalley.gleague.nba.com
@@ -8407,7 +8364,6 @@ scp.watsons.com.tr
 scpapi.watsons.com.tr
 scripts.developersites.com.au
 scrutiny.swiftfinancial.com
-search.hereapi.com
 secure-dfadmin.deriv.com
 secure-supply-xml.booking.com
 secure.booking.com
@@ -8730,7 +8686,6 @@ tr-scf.euce1.indriverapp.com
 trade.ripio.com
 training.ui.com
 transact.playstation.com
-transit.hereapi.com
 translate.badoo.com
 travel.crypto.com
 travelagents.marriott.com/
@@ -8809,7 +8764,6 @@ vasdemos.visa.com
 vault2.faraday.ai
 vcc-*.8x8.com
 vcc-ce.8x8.com
-vector.hereapi.com
 vector.prd.iat.it.xvservice.net
 vercel.app
 vercel.com
@@ -8847,7 +8801,6 @@ vm-cf.mena.meso1.aws.indriverapp.com
 vm-gw-scf.sa.apse1.aws.indriverapp.com
 voapi.8x8.com
 vod.infomaniak.com
-voi.com
 voices.nba.com
 volans.tech
 vote.nba.com
@@ -8879,6 +8832,13 @@ was-gw-scf.sa.apse1.aws.indriverapp.com
 wasapi.watsons.com.tr
 watch-ng.nba.com
 watch.global.nba.com
+water-kracht-levering.be
+water-kracht-levering.eu
+water-link-jaarverslag.be
+waterkracht-levering.be
+waterkracht-levering.eu
+waterlink.be
+waterstoringen.be
 wd1-cf.euce1.indriverapp.com
 wd1-gw-cf.euce1.indriverapp.com
 weather.opera-api.com
@@ -9418,7 +9378,6 @@ x.razorpay.com
 xadsacademy.com
 xlence.iciparisxl.nl
 xtramile.grabpay.com
-xyz.api.here.com
 yelptop100.com
 yhteystietoni.posti.fi
 yimg.com

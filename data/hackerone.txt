@@ -4113,7 +4113,6 @@ one.dash.cloudflare.com
 Beeper
 Crowdsignal
 Jetpack
-Texts
 WP Cloud
 WooCommerce
 WordPress Plugins & Themes

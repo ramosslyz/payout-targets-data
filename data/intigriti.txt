@@ -155,21 +155,6 @@ www.fing.com*
 https://over.fluvius.be
 www.fluvius.be   
 www-a.fluvius.be  
-HERE WeGo iOS
-HERE WeGo Android
-registry.service.api.platform.here.com
-search.hereapi.com
-transit.hereapi.com
-vector.hereapi.com
-mobilitygraph.hereapi.com
-account.api.here.com
-account.here.com
-listing.here.com
-mapcreator.here.com
-xyz.api.here.com
-Leaked/Compromised Employee Credentials
-Leaked Service Credentials
-All other related services owned by HERE
 hln.be/inloggen
 hln.be/login
 hln.be/registreren
@@ -741,27 +726,6 @@ login.arkane.network
 login.venly.io
 wallet.venly.io
 api-wallet-sandbox.venly.io
-564141518
-accountsettings.connect.identity.stagaws.visma.com
-admin.stage.vismaonline.com
-aiassistant.stage.vismaonline.com
-com.visma.blue
-connect.identity.stagaws.visma.com
-eaccounting.stage.vismaonline.com
-eaccountingprinting.stage.vismaonline.com
-identity.stage.vismaonline.com
-myservices-api.stage.vismaonline.com
-myservices.stage.vismaonline.com
-oauth.developers.stagaws.visma.com
-photoservice.stage.vismaonline.com
-Voi – e-scooters & e-bikes
-Voi – e-scooter & e-bike hire
-https://api.voiapp.io/
-mds.voiapp.io
-fm.voiapp.io
-https://repair.voiweb.net
-report.voi.com
-voi.com
 https://app.getflywheel.com
 https://getflywheel.com
 https://my.wpengine.com
@@ -772,11 +736,22 @@ https://makeshift.film
 https://studiopress.blog
 https://torquemag.io
 https://velocitize.com
-https://desktop.water-link.be/
-https://pit.water-link.be/
-https://www.water-link-jaarverslag.be
-https://www.water-link.be
-https://www.waterstoring.be/
+desktop.water-link.be
+pit.water-link.be
+indussiibis.water-link.be
+water-link-jaarverslag.be
+aquawardsspatial.water-link.be
+aquawardsoperate.water-link.be
+waterkracht-levering.be
+induss.eu
+rio-link.be
+water-kracht-levering.eu
+adelta.be
+waterkracht-levering.eu
+aww.eu
+waterlink.be
+water-kracht-levering.be
+waterstoringen.be
 www.watsons.com.hk
 www10.watsons.com.hk
 Watsons Hong Kong Android
