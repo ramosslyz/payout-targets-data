@@ -3900,6 +3900,7 @@ UniFi Switches
 UniFi Talk
 UniFi Wireless Access Points
 UniFi-Play
+WiFiman
 account.ui.com
 airFiber
 airMAX

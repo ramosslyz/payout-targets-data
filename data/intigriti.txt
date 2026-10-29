@@ -467,6 +467,10 @@ idp-url.nexuzhealth.be
 media.nexuzhealth.be/patient/ 
 https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050
 https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_oi_appl/
+https://auth2.pdq.com/
+https://library.pdq.com/
+https://portal.pdq.com/
+https://app.pdq.com/
 api.personio-dev.com
 api.personio.com
 https://hug.personio.com
@@ -744,16 +748,22 @@ login.arkane.network
 login.venly.io
 wallet.venly.io
 api-wallet-sandbox.venly.io
-https://app.getflywheel.com
-https://getflywheel.com
-https://my.wpengine.com
-https://payments.wpengine.com
-https://wpengine.com
-WP Engine-developed WordPress Plugins and Themes
-https://makeshift.film
-https://studiopress.blog
-https://torquemag.io
-https://velocitize.com
+desktop.water-link.be
+pit.water-link.be
+indussiibis.water-link.be
+water-link-jaarverslag.be
+aquawardsspatial.water-link.be
+aquawardsoperate.water-link.be
+waterkracht-levering.be
+induss.eu
+rio-link.be
+water-kracht-levering.eu
+adelta.be
+waterkracht-levering.eu
+aww.eu
+waterlink.be
+water-kracht-levering.be
+waterstoringen.be
 www.watsons.com.hk
 www10.watsons.com.hk
 Watsons Hong Kong Android
