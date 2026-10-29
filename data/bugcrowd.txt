@@ -1293,7 +1293,6 @@ https://lapi.yellowblocks.me
 https://www.shiseido.me/
 lego.me
 psychobunny.me
-fashion4less.me
 https://www.pacsun.me/
 https://marketplace.atlassian.com/apps/1223655/magic-estimations-async-and-planning-poker-sizing-for-jira?hosting=cloud&tab=overview
 https://app.magicestimations.com

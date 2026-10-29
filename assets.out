@@ -263,6 +263,7 @@
 *.das.eu
 *.dash.ai
 *.data.api.platform.here.com
+*.datacamp.com
 *.dbt.com
 *.dbtlabs.com
 *.dcfgateway.marriott.com
@@ -1234,6 +1235,8 @@
 1089294040
 1091010942
 10x.redoxengine.com
+1114799709
+1114800186
 1116488672
 1118448159
 1127881507
@@ -2943,6 +2946,7 @@ api.simplisafe.com (HSP Endpoints)
 api.slack.com
 api.smtp2go.com
 api.sorare.com
+api.soundtrackyourbrand.com
 api.spotify.com
 api.stage.evernote.com
 api.steampowered.com
@@ -2991,6 +2995,9 @@ app.alasco.de
 app.basecamp.com
 app.box.com
 app.circle.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -3082,6 +3089,9 @@ aquiristech.com
 arrive-server.shopifycloud.com
 arsentomsky.indrive.com
 askpeopleteam.visa.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com 
+assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.koho.ca
@@ -3181,6 +3191,7 @@ bid-gw-cf.africa.afso1.aws.indriverapp.com
 bid-gw-scf.sa.apse1.aws.indriverapp.com
 bigcommerce-adapter.judge.me
 bild.de
+billing.api.soundtrackyourbrand.com
 billingsupport.chaturbate.com
 bilt.marriott.com
 biolibre.ar
@@ -3236,6 +3247,7 @@ bugcrowd-pam-###.oktapreview.com
 bugcrowd-pam-###.pam.oktapreview.com
 builder.hostinger.com
 building-blocks.com
+builds.soundtrackyourbrand.com
 bulkexports.twilio.com
 bulten.watsons.com.tr
 business.kayak.com
@@ -3245,6 +3257,7 @@ business.kinepolis.nl
 business.linkedin.com
 business.reddithelp.com
 business.snapchat.com
+business.soundtrackyourbrand.com
 business.tiktok.com
 businesshelp.snapchat.com
 buy.logitech.com
@@ -3282,6 +3295,7 @@ campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
+campus.datacamp.com
 cancellation.prod.ps.welt.de
 canton-dev.gleague.nba.com
 canton-qa.gleague.nba.com
@@ -3517,6 +3531,7 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
+com.datacamp
 com.dd.doordash
 com.deribit
 com.dolap.android
@@ -3690,6 +3705,7 @@ com.skypicker.Skypicker
 com.skypicker.main
 com.slack.slackmdm
 com.snapchat.android
+com.soundtrackyourbrand.soundtrack.player
 com.spotify.client
 com.spotify.kids
 com.spotify.music
@@ -4144,7 +4160,6 @@ extras.landmarkcinemas.com
 fab.com
 falcon-sandbox.com
 fareharborsites.com
-fashion4less.me
 faucet-api.polygon.technology/
 faucet.polygon.technology
 fb.lansweeper.com
@@ -4659,6 +4674,7 @@ https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/certsy/id1617796159
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/jora-jobs-job-search-work/id917565665
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
@@ -4834,6 +4850,7 @@ https://audiencelogos.blis.com
 https://audio.20min.ch/
 https://auth-adx.op-mobile.opera.com
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
+https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
 https://auth.immutable.com
@@ -4898,6 +4915,7 @@ https://bugcrowd.com/engagements/imperva-mbb
 https://bugcrowd.com/programs
 https://bugcrowd.lucky.felixforus.ca
 https://bugs.opera.com/
+https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.rivian.com/api
@@ -6647,6 +6665,7 @@ https://pt-runner.app.ridewithvia.com
 https://pyszne.pl
 https://quantum-events.onecloud.harman.com
 https://quicksight.aws.amazon.com
+https://radio.api.soundtrackyourbrand.com/
 https://rc.fstr.rocks
 https://rc.wmaudience.com
 https://redash-staging.getmoneytree.com/
@@ -6742,6 +6761,7 @@ https://song.link
 https://songlink.io
 https://soundcloud.com
 https://soundcloud.org
+https://soundtrack.io
 https://speeddials.opera.com
 https://sprint.com
 https://src.mastercard.com/*
@@ -7597,6 +7617,7 @@ m.chaturbate.com
 m.dana.id
 m.reddit.com
 m.tw.coupang.com
+macOS app
 maestro.8x8.cloud
 magazine.kruidvat.be
 magisto.com,www.magisto.com
@@ -8148,6 +8169,7 @@ ppw.euce1.indriverapp.com
 pr-dev.nba.com
 pr-qa.nba.com
 pr.nba.com
+practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -8192,6 +8214,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profile.playstation.com
 profile.segment.com
+profiles-api.datacamp.com
+projects.datacamp.com
 projects.nextcloud.com
 promo.tw.coupang.com
 prow.k8s.io
@@ -9008,6 +9032,8 @@ www.creditkarma.ca
 www.crowdstrike.com
 www.crowdstrike.org
 www.cybersource.com
+www.datacamp.com
+www.datacamp.com/datalab
 www.ddfcontent.com
 www.delen.bank
 www.delen.be/en 
