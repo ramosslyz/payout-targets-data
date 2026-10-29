@@ -437,17 +437,6 @@ forms.mobilevikings.be
 co.uk.getmondo
 www.monzo.com
 monzo.com
- new CDI-based architecture
-All Other NVIDIA Container Toolkit Assets
-libNVVM API
-Nsight Systems
-NVIDIA Nsight Developer Tools
-NVRTC library
-CUDA Libraries
-NVCC
-nvJitLink APIs
-CUDA Runtime APIs
-CUDA Driver APIs
 https://platform.nexo.com/api/1/create_recurring_payment
 https://platform.nexo.com/api/1/exchange_order
 https://platform.nexo.com/api/1/exchange_request_quote
@@ -618,18 +607,6 @@ http://socialdeal.nl/inspirations/bluemonday/
 http://www.whynot.com/
 https://www.socialdeal.nl/orderlist/5e834ae0bed5c/63d772e2ed277/
 www.socialdeal.nl
-https://soundtrack.io
-1114799709
-1114800186
-api.soundtrackyourbrand.com
-billing.api.soundtrackyourbrand.com
-builds.soundtrackyourbrand.com
-business.soundtrackyourbrand.com
-com.soundtrackyourbrand.soundtrack.player
-https://auth.api.soundtrackyourbrand.com/
-https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
-https://radio.api.soundtrackyourbrand.com/
-macOS app
 www.superdrug.com
 Superdrug iOS
 Superdrug Android
@@ -777,22 +754,6 @@ https://makeshift.film
 https://studiopress.blog
 https://torquemag.io
 https://velocitize.com
-desktop.water-link.be
-pit.water-link.be
-indussiibis.water-link.be
-water-link-jaarverslag.be
-aquawardsspatial.water-link.be
-aquawardsoperate.water-link.be
-waterkracht-levering.be
-induss.eu
-rio-link.be
-water-kracht-levering.eu
-adelta.be
-waterkracht-levering.eu
-aww.eu
-waterlink.be
-water-kracht-levering.be
-waterstoringen.be
 www.watsons.com.hk
 www10.watsons.com.hk
 Watsons Hong Kong Android
