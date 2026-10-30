@@ -437,6 +437,17 @@ forms.mobilevikings.be
 co.uk.getmondo
 www.monzo.com
 monzo.com
+ new CDI-based architecture
+All Other NVIDIA Container Toolkit Assets
+libNVVM API
+Nsight Systems
+NVIDIA Nsight Developer Tools
+NVRTC library
+CUDA Libraries
+NVCC
+nvJitLink APIs
+CUDA Runtime APIs
+CUDA Driver APIs
 https://platform.nexo.com/api/1/create_recurring_payment
 https://platform.nexo.com/api/1/exchange_order
 https://platform.nexo.com/api/1/exchange_request_quote
@@ -748,22 +759,6 @@ login.arkane.network
 login.venly.io
 wallet.venly.io
 api-wallet-sandbox.venly.io
-desktop.water-link.be
-pit.water-link.be
-indussiibis.water-link.be
-water-link-jaarverslag.be
-aquawardsspatial.water-link.be
-aquawardsoperate.water-link.be
-waterkracht-levering.be
-induss.eu
-rio-link.be
-water-kracht-levering.eu
-adelta.be
-waterkracht-levering.eu
-aww.eu
-waterlink.be
-water-kracht-levering.be
-waterstoringen.be
 www.watsons.com.hk
 www10.watsons.com.hk
 Watsons Hong Kong Android

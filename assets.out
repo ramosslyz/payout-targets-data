@@ -10,6 +10,7 @@
  idp-contact.nexuzhealth.be
  login-test.portofantwerpbruges.com/
  mix.monash.edu 
+ new CDI-based architecture
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 (se|fi|uk).bingo.com
 *-api-*.acronis.com
@@ -142,7 +143,6 @@
 *.auth.bild.de
 *.autobild.de
 *.avecspotify.com
-*.aww.be
 *.ayco.com
 *.backblazeb2.com
 *.backend-capital.com
@@ -668,7 +668,6 @@
 *.miinsurtech.com
 *.miinsurtech.net
 *.mijiayoupin.com
-*.mijnwater-link.be
 *.mioffice.cn
 *.mios.cn
 *.miot-spec.org
@@ -1116,7 +1115,6 @@
 *.vtm.be
 *.vtmgo.be
 *.wali.com
-*.water-link.be
 *.watsons.co.id
 *.watsons.co.th
 *.watsons.com.hk
@@ -1703,6 +1701,7 @@ All Assets (other than Blinkit)
 All Chime Assets
 All In Scope Targets
 All Motorola Devices running Android 13 and above. 
+All Other NVIDIA Container Toolkit Assets
 All internet facing Sky DACH assets
 All internet facing Sky Italy assets 
 All internet facing Sky UK/ROI assets
@@ -1813,6 +1812,9 @@ Burp Suite Pro/Community
 C100447517
 C103149579
 CDNJS
+CUDA Driver APIs
+CUDA Libraries
+CUDA Runtime APIs
 Canva (Android)
 Canva (Chrome Extension)
 Canva (iOS)
@@ -2250,6 +2252,9 @@ Munkisrv Open Source Project
 NARZO 80 Lite 4G
 NARZO 80 Pro 5G
 NARZO 80x 5G
+NVCC
+NVIDIA Nsight Developer Tools
+NVRTC library
 Naasapi.optus.com.au
 Narzo 80 lite 5G
 Neon-supported extensions
@@ -2274,6 +2279,7 @@ Notion Desktop App
 Notion Frontend
 Notion Integrations
 Notion MCP
+Nsight Systems
 OKX Android APK
 OKX Wallet Chrome Extension
 OKX Wallet Edge Add-ons
@@ -2694,7 +2700,6 @@ actionnaires.vinci.com
 activate.3cx.com
 adayevrak.watsons.com.tr
 adb.nba.com
-adelta.be
 adm.cloud.com
 admin-portal.api-xperience.com
 admin-resolve.8x8.com
@@ -3061,8 +3066,6 @@ apps.portofantwerp.com
 apps.portofantwerpbruges.com
 appt.healthclinics.superdrug.com
 aqtooling.com
-aquawardsoperate.water-link.be
-aquawardsspatial.water-link.be
 aquiris.com.br
 aquiris.studio
 aquiristech.com
@@ -3117,7 +3120,6 @@ autocomplete.booking.com
 autodiscover.uzleuven.be
 autoupdateapi.lansweeper.com
 av.indrive.com
-aww.eu
 b5s.hackerone-ext-content.com
 backend-sdk.uat.private.unico.run
 backoffice.lansweeper.com
@@ -3953,7 +3955,6 @@ deriv.partners
 derivws.com
 design.gitlab.com
 design.ui.com
-desktop.water-link.be
 detroit-dev.gleague.nba.com
 detroit-qa.gleague.nba.com
 detroit.gleague.nba.com
@@ -7350,8 +7351,6 @@ inclusion.nba.com
 indiaontrack.nba.com
 indicative-pricing.taxi.booking.com
 indrive.com
-induss.eu
-indussiibis.water-link.be
 inference.do-ai.run
 influencers.tw.coupang.com
 infomaniak.events
@@ -7475,6 +7474,7 @@ launchpad.37signals.com
 lawmanager.marriott.com
 lego.me
 leonard.vinci.com
+libNVVM API
 liberty-dev.wnba.com
 liberty-qa.wnba.com
 liberty-qa2.wnba.com
@@ -7931,6 +7931,7 @@ ns1.optusnet.com.au
 ns2.optusnet.com.au
 numbers.twilio.com
 nummus.robinhood.com
+nvJitLink APIs
 nycbasketball.nba.com
 nz.co.vista.android.movie.mjrtheatres
 oauth-sandbox.gocardless.com
@@ -8064,7 +8065,6 @@ phone-validation.taxi.booking.com
 photo.kruidvat.be
 picc.posti.fi
 pigeon.swiftfinancial.com
-pit.water-link.be
 plaid.com
 planet.wordpress.org
 plannerrequest.hyatt.com
@@ -8297,7 +8297,6 @@ rewire.com
 rezagent.triseptsolutions.com
 ridewithvia.neoridelittlerock
 ridewithvia.par.piercetransit
-rio-link.be
 riograndevalley-dev.gleague.nba.com
 riograndevalley-qa.gleague.nba.com
 riograndevalley.gleague.nba.com
@@ -8827,13 +8826,6 @@ was-gw-scf.sa.apse1.aws.indriverapp.com
 wasapi.watsons.com.tr
 watch-ng.nba.com
 watch.global.nba.com
-water-kracht-levering.be
-water-kracht-levering.eu
-water-link-jaarverslag.be
-waterkracht-levering.be
-waterkracht-levering.eu
-waterlink.be
-waterstoringen.be
 wd1-cf.euce1.indriverapp.com
 wd1-gw-cf.euce1.indriverapp.com
 weather.opera-api.com
