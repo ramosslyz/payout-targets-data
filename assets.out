@@ -259,7 +259,6 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
-*.data.api.platform.here.com
 *.datacamp.com
 *.dbt.com
 *.dbtlabs.com
@@ -472,8 +471,6 @@
 *.hellofax.com
 *.hellosign.com
 *.helloworks.com
-*.here.com
-*.hereapi.com
 *.hey.bild.de
 *.hey.com
 *.hhc247.org
@@ -654,7 +651,6 @@
 *.mercadopago.com.mx
 *.mercadopago.com.pe
 *.mercadopago.com.uy
-*.metrics.platform.here.com
 *.metronome.com
 *.mevo.com
 *.mgbcareconnect.org
@@ -793,7 +789,6 @@
 *.pipopay.com
 *.plannthat.com
 *.platacard.mx
-*.platform.here.com
 *.platformservices.io
 *.play.ownit.se
 *.playstation.com
@@ -882,7 +877,6 @@
 *.roonessentials.net
 *.roonlabs.com
 *.roonlabs.net
-*.router.hereapi.com
 *.rtbscale.com
 *.runnr.in
 *.s-cloud.net
@@ -901,7 +895,6 @@
 *.sc-core.net
 *.sc-corp.net
 *.scatec.io
-*.scbe.api.here.com
 *.scopely.com
 *.scopely.io
 *.sec-tunnel.com
@@ -990,7 +983,6 @@
 *.stripchat.com
 *.stripe.com
 *.stylebook.de
-*.subp-router.hereapi.com
 *.super.xyz
 *.superbet.com
 *.superbet.gr
@@ -1711,7 +1703,6 @@ All internet facing Sky Italy assets
 All internet facing Sky UK/ROI assets
 All other SBB owned IT assets
 All other Web and mobile APPs owned by SBB 
-All other related services owned by HERE
 All the Blockchain Infrastructure
 Amazon Subsidiaries (Please only actively test explicitly stated scope)
 AmpliFi
@@ -2054,8 +2045,6 @@ GraphQL API (bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql)
 Grepolis
 Gutenberg
 H5G/Agency
-HERE WeGo Android
-HERE WeGo iOS
 HEY.app
 HEY.exe
 HPE Aruba Networking Central - New UI (see Scope Details)
@@ -2176,8 +2165,6 @@ Leaked Credentials
 Leaked Credentials and Secrets (Canva Employee/Contractor)
 Leaked Credentials and Secrets (Canva User)
 Leaked Employee API Keys
-Leaked Service Credentials
-Leaked/Compromised Employee Credentials
 Leaked/Сompromised Employee accounts
 Lens Studio
 Liberty 5 Pro Max D1204
@@ -2675,10 +2662,8 @@ access.remitly.com
 accommodations.booking.com
 account-sprint.dynatracelabs.com
 account.acronis.com
-account.api.here.com
 account.booking.com
 account.box.com
-account.here.com
 account.krisp.ai
 account.ui.com
 accountinfodirect-snd.earlywarning.com
@@ -5569,6 +5554,7 @@ https://maps.vistarmedia.com
 https://market.android.com/details?id=com.myfitnesspal.android&rdid=com.myfitnesspal.android
 https://marketplace.atlassian.com
 https://marketplace.atlassian.com/apps/1143291390/sprintpoker-planning-poker-async-estimation?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1157161318/countdown-regional-clock?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1210766/teamcity-integration-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1210818/scroll-versions-for-confluence?hosting=datacenter
 https://marketplace.atlassian.com/apps/1210820/dynamic-forms-for-jira?hosting=cloud&tab=overview
@@ -6198,10 +6184,13 @@ https://marketplace.atlassian.com/apps/133/custom-space-user-management-csum-for
 https://marketplace.atlassian.com/apps/1442498121/asset-manager-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1741353933/browserstack-test-management-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1752044660/cumulative-flow-diagram-cfd-charts-for-agile-scrum-kanban?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1855294554/pivot-tables-charts-heatmaps-for-jira-agile-reporting?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/187209184/sprintretro-free-retrospective-metrics-suite?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1899492230/live-tables-from-csv-json-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/207/latex-and-mathjax?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/2077076462/wip-run-wip-aging-charts-for-scrum-kanban-scaled-agile?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/2113139725/formula-cards-gauge-charts-rag-reports-custom-kpis?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/2194903109/cycle-time-lead-time-time-in-status-charts-for-agile?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/22817756/procuro-complete-procurement-management-in-jsm?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/23337/elements-connect-external-data-fields?hosting=cloud
 https://marketplace.atlassian.com/apps/23915/atlassian-universal-plugin-manager?hosting=datacenter
@@ -6232,10 +6221,12 @@ https://marketplace.atlassian.com/apps/375826955/burndown-burnup-charts-with-for
 https://marketplace.atlassian.com/apps/3762467523/myra-csat-nps-ces-feedback-hub-for-jsm?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/37658/column-order-gadget-plugin?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/3780102417/sprintpoker-free-planning-poker-async-estimation?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/3937617820/team-wallboard-for-agile-scrum-kanban-itsm-dashboards?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/4028833452/smart-guess-time-in-status-flow-intelligence-ai-guidance?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/4076194710/laya-export-studio-for-jira-and-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/420604/scroll-html-exporter-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/420604/scroll-html-exporter-for-confluence?hosting=datacenter
+https://marketplace.atlassian.com/apps/4240011577/work-breakdown-structure-link-hierarchy-dependency-tree?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/4832/enterprise-mail-handler-for-jira-cloud-jemhc-and-dc?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/4832/enterprise-mail-handler-for-jira-jemh?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/4909/content-exporter-word-pdf-html?tab=overview&hosting=cloud
@@ -6252,6 +6243,7 @@ https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosti
 https://marketplace.atlassian.com/apps/738419736/microsoft-fabric-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/792203801/frank-not-your-regular-hr-solution?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/856555290/salesforge-crm-leads-deals-customers-management-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/89496753/pivot-worklog-reports-timesheets-charts-heatmaps?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/924938813/agile-wip-charts-for-scrum-kanban-safe-gadgets-reports?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/9475/switch-user-su-for-confluence?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/974024200/radar-assets-inventory-for-jsm?hosting=cloud&tab=overview
@@ -7501,7 +7493,6 @@ liquidfiles.nexuzhealth.com
 liquidfiles.uzleuven.be
 liquidfilestest.uzleuven.be
 lirportal.ripe.net
-listing.here.com
 lists.nextcloud.com
 live-backstage.tiktok.com
 live-service.whatnot.com
@@ -7605,7 +7596,6 @@ manager.infomaniak.com/v3/*
 mangerbouger.fr
 map.8x8.com
 map.snapchat.com
-mapcreator.here.com
 mapi.moneyback.com.hk
 mark8.syfe.com
 marketing.fareharbor.com
@@ -7746,7 +7736,6 @@ mobileapi.lystit.com
 mobileapi.na1.insightly.com
 mobileapp.hyatt.com
 mobilevikings.be
-mobilitygraph.hereapi.com
 mod.reddit.com
 modefestival.com
 mokapos.com
@@ -8241,7 +8230,6 @@ register.bpost.be
 register.capital.com
 registre.notebleue.pro
 registry.gitlab.com
-registry.service.api.platform.here.com
 rei.com
 relay.playcanvas.com
 releasor.payworks.com/
@@ -8367,7 +8355,6 @@ scp.watsons.com.tr
 scpapi.watsons.com.tr
 scripts.developersites.com.au
 scrutiny.swiftfinancial.com
-search.hereapi.com
 secure-dfadmin.deriv.com
 secure-supply-xml.booking.com
 secure.booking.com
@@ -8690,7 +8677,6 @@ tr-scf.euce1.indriverapp.com
 trade.ripio.com
 training.ui.com
 transact.playstation.com
-transit.hereapi.com
 translate.badoo.com
 travel.crypto.com
 travelagents.marriott.com/
@@ -8769,7 +8755,6 @@ vasdemos.visa.com
 vault2.faraday.ai
 vcc-*.8x8.com
 vcc-ce.8x8.com
-vector.hereapi.com
 vector.prd.iat.it.xvservice.net
 vercel.app
 vercel.com
@@ -9380,7 +9365,6 @@ x.razorpay.com
 xadsacademy.com
 xlence.iciparisxl.nl
 xtramile.grabpay.com
-xyz.api.here.com
 yelptop100.com
 yhteystietoni.posti.fi
 yimg.com
