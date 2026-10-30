@@ -5200,6 +5200,7 @@ https://github.com/base/*
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/trix
 https://github.com/basecamp/writebook
+https://github.com/better-auth/better-auth
 https://github.com/brave/*, https://github.com/brave-intl/*
 https://github.com/circlefin/aptos-cctp
 https://github.com/circlefin/arc-node
@@ -5357,7 +5358,6 @@ https://github.com/smartcontractkit/chainlink-evm/tree/develop/contracts
 https://github.com/smartcontractkit/chainlink-solana/tree/develop/contracts
 https://github.com/smartcontractkit/external-adapters-js/
 https://github.com/smartcontractkit/staking-v0.1/tree/master/contracts
-https://github.com/stytchauth
 https://github.com/sveltejs/kit
 https://github.com/sveltejs/svelte
 https://github.com/tempus-ex

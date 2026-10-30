@@ -139,7 +139,6 @@ github.com/stytchauth/terraform-provider-stytch
 github.com/twilio
 github.com/twilio-labs
 help.twilio.com
-https://github.com/stytchauth
 https://stytch.com/blog
 https://stytch.com/dashboard
 iam.twilio.com
@@ -1412,6 +1411,7 @@ vfo02.vodafone.om
 vfo03.vodafone.om
 www.vodafone.om
 Vercel sandbox
+https://github.com/better-auth/better-auth
 https://github.com/nitrojs/nitro
 https://github.com/nuxt/nuxt
 https://github.com/sveltejs/kit
