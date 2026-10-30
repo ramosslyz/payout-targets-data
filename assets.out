@@ -1108,6 +1108,8 @@
 *.visamiddleeast.com
 *.vliegwinkel.nl
 *.vod2.infomaniak.com
+*.voi.com
+*.voiscooters.com
 *.volkskrant.nl
 *.volkswagen.de
 *.vpn.hackerone.net
@@ -1392,7 +1394,9 @@
 1pw-scim.prd.iat.it.xvservice.net
 1w.cash
 1w.run
+1win-partners.com
 1win.com
+1win.io
 1wintoken.com
 1wtoken.com
 202.139.138.208/28
@@ -2571,6 +2575,8 @@ Vercel sandbox
 Video Conferencing Products
 Video Doorbell
 Virtual Office Desktop
+Voi – e-scooter & e-bike hire
+Voi – e-scooters & e-bikes
 Vox Cinemas Android
 Vox Cinemas iOS
 WARP Mobile Apps
@@ -4183,6 +4189,7 @@ flourish-user-preview.com
 flourish-user-templates.com
 flyiin.com
 fm.anchor.android
+fm.voiapp.io
 folder.iciparisxl.nl
 folder.kruidvat.be
 folder.kruidvat.nl
@@ -4194,6 +4201,7 @@ fortnite.com
 fortwayne-dev.gleague.nba.com
 fortwayne-qa.gleague.nba.com
 fortwayne.gleague.nba.com
+forum.1win.io
 forum.playcanvas.com
 forum.sketchfab.com
 foto.kruidvat.be
@@ -4587,6 +4595,7 @@ https://api.us1.fga.dev/
 https://api.usaa.com/
 https://api.vistarmedia.com
 https://api.vistarmedia.eu
+https://api.voiapp.io/
 https://api.welcomesoftware.com/
 https://api.wyzecam.com
 https://api.x.immutable.com/
@@ -4621,6 +4630,7 @@ https://app.magicestimations.com
 https://app.navan.com
 https://app.opsgenie.com
 https://app.optimizely.com/
+https://app.pdq.com/
 https://app.recordedfuture.com
 https://app.requirementyogi.com
 https://app.ring.com/*
@@ -4837,6 +4847,7 @@ https://auth.riskrecon.eu
 https://auth.seek.com
 https://auth.thetradedesk.com
 https://auth.wyze.com
+https://auth2.pdq.com/
 https://authn.usaa.com/
 https://autoupdate.geo.opera.com
 https://b2bapi-a.usaa.com
@@ -5520,6 +5531,7 @@ https://learn.newrelic.com/
 https://legacy-blockexplorer.electroneum.com
 https://lensstudio.snapchat.com/api/
 https://library.elementor.com/
+https://library.pdq.com/
 https://lieferando.de
 https://life.pulsepoint.com/Buyer/#/campaign
 https://life.pulsepoint.com/EngagementAudience/#/dashboard
@@ -6606,6 +6618,7 @@ https://portal.anz.kinergysolutions.com
 https://portal.exoscale.com/
 https://portal.iFoodpago.com.br
 https://portal.originzero.com.au
+https://portal.pdq.com/
 https://portal.riskrecon.com
 https://portal.riskrecon.eu
 https://portal.unifiedid.com
@@ -6638,6 +6651,7 @@ https://redash-staging.getmoneytree.com/
 https://refinedsites.refinedwiki.com
 https://regatta.aiven.io/
 https://rentals.tripadvisor.com
+https://repair.voiweb.net
 https://res.cloudinary.com
 https://research.monash.edu/
 https://researchmgt.monash.edu/
@@ -7629,6 +7643,7 @@ mcp.faraday.ai
 mcp.staging.airtable.com
 mcp.stripe.com
 mds.marriott.com
+mds.voiapp.io
 media.drogas.lt
 media.drogas.lv
 media.iciparisxl.be
@@ -8269,6 +8284,7 @@ reno-dev.gleague.nba.com
 reno.gleague.nba.com
 repo.3cx.com
 report-html-sight.stg.inspectorio.com
+report.voi.com
 res.blueskytours.globalbookingsolutions.com
 res.funjet.com
 res.hyattinclusivecollection.com
@@ -8791,6 +8807,7 @@ vm-cf.mena.meso1.aws.indriverapp.com
 vm-gw-scf.sa.apse1.aws.indriverapp.com
 voapi.8x8.com
 vod.infomaniak.com
+voi.com
 voices.nba.com
 volans.tech
 vote.nba.com
