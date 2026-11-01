@@ -13,11 +13,6 @@ https://apps.apple.com/se/app/atg-live/id1608156355
 https://play.google.com/store/apps/details?id=se.atg.live&hl=en&gl=SE
 app.alasco.de
 api.alasco.de
-bettrfinancing.com
-anext.com.sg
-alipayhk.com
-antbank.hk
-Any Other Applications found here: https://security-en.alipay.com/home
 https://www.bookbeat.com
 https://api.bookbeat.com
 https://search-api.bookbeat.com
