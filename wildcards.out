@@ -24,7 +24,6 @@
 *.8x8testa.com
 *.8x8testb.com
 *.a.exodus.io
-*.abritel.fr
 *.acbpost.be
 *.acc-pub.mobilevikings.be
 *.acc.mobilevikings.be
@@ -96,7 +95,6 @@
 *.apexscores.io
 *.api-app.telenor.se
 *.api.id.realestate.com.au
-*.api.konghq.com
 *.api.louisvuitton.com
 *.api.originenergy.com.au
 *.api.playstation.com
@@ -157,7 +155,6 @@
 *.bokundemo.com
 *.bokuntest.com
 *.boltable.eu
-*.bookabach.co.nz
 *.booking.com
 *.boozt.com
 *.booztlet.com
@@ -193,7 +190,6 @@
 *.capitalonegslbex.com
 *.capitaloneshopping.com
 *.captcha-delivery.com
-*.carrentals.com
 *.cb.dev
 *.cbhq.net
 *.cceng.8x8.com
@@ -201,7 +197,6 @@
 *.certinia.com
 *.chalet.8x8.com
 *.chalet.8x8.com/ws/v1
-*.cheaptickets.com
 *.cheaptickets.nl
 *.chime.com
 *.chimebank.com	
@@ -289,7 +284,6 @@
 *.dropxl.com
 *.duokan.com
 *.e2ro.com
-*.ean.com
 *.earlywarning.com
 *.easy.ac
 *.edition.in
@@ -340,14 +334,6 @@
 *.europolitan.se
 *.exodus.com
 *.exodus.io
-*.expedia-aarp.com
-*.expedia.biz
-*.expedia.com
-*.expediagroup.com
-*.expediapartnercentral.com
-*.expediapartnersolutions.com
-*.expediataap.com
-*.expediataaprewards.com
 *.expressvpn.com
 *.eziot.com
 *.ezviz.com
@@ -361,12 +347,10 @@
 *.fareharbor.engineering
 *.feednews.com
 *.fetlife.com
-*.fewo-direkt.de
 *.findaya.co.id
 *.findaya.com
 *.fitbook.de
 *.flickr.com
-*.flights.com
 *.flipkey.com
 *.floqast.app
 *.floqast.engineering
@@ -476,11 +460,8 @@
 *.holidaylettings.com
 *.honestdollar.com
 *.hongyuanib.com
-*.hotels.com
 *.hoteltonight-test.com
 *.hoteltonight.com
-*.hotwire.com
-*.hotwirepartnercentral.com
 *.houseoffun.com
 *.housetrip.com
 *.hs-sites(-eu1)?.com
@@ -567,8 +548,6 @@
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
 *.lansweeper.com
-*.lastminute.co.nz
-*.lastminute.com.au
 *.latitudefinancial.co.nz
 *.latitudefinancial.com
 *.latitudefinancial.com.au
@@ -739,9 +718,7 @@
 *.operationstechnology.io
 *.opr.news
 *.opsgenie.com
-*.optimuscards.com
 *.optus.com.au
-*.orbitz.com
 *.origindigital-pac.com.au
 *.osite99.com
 *.oslo.io
@@ -966,7 +943,6 @@
 *.staging.cloud.8x8.com
 *.staging.travix.com
 *.statuspage.io
-*.stayz.com.au
 *.stbpost.be
 *.steamstatic.com
 *.stream.telenor.se
@@ -1011,19 +987,15 @@
 *.tinder.com
 *.tinderops.net
 *.tinderwebstaging.com
-*.tiqets.com
 *.tktnew.com
 *.tomorrowland.com
 *.tools.thefork.tech
 *.toolsforhumanity.com
-*.topperpay.com
 *.tospotify.com
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org
 *.trainpal.com,*.mytrainpal.com
 *.transferwise.com
 *.travelbook.de
-*.travelocity.ca
-*.travelocity.com
 *.travix.com
 *.travix.io
 *.trekpleister.nl
@@ -1060,7 +1032,6 @@
 *.unreal-agents.jitsi.net
 *.unrealengine.com
 *.unrealtournament.com
-*.uphold.com
 *.uscc.com
 *.uscc.net
 *.uscellular.com
@@ -1098,7 +1069,6 @@
 *.volkskrant.nl
 *.volkswagen.de
 *.vpn.hackerone.net
-*.vrbo.com
 *.vtm.be
 *.vtmgo.be
 *.wali.com
@@ -1140,7 +1110,6 @@
 *.worldcoin-distributors.com
 *.worldcoin.dev
 *.worldcoin.org
-*.wotif.com
 *.x.ai
 *.x.com
 *.xiangkankeji.cn

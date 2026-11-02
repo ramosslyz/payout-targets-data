@@ -37,7 +37,6 @@
 *.8x8testa.com
 *.8x8testb.com
 *.a.exodus.io
-*.abritel.fr
 *.acbpost.be
 *.acc-pub.mobilevikings.be
 *.acc.mobilevikings.be
@@ -109,7 +108,6 @@
 *.apexscores.io
 *.api-app.telenor.se
 *.api.id.realestate.com.au
-*.api.konghq.com
 *.api.louisvuitton.com
 *.api.originenergy.com.au
 *.api.playstation.com
@@ -170,7 +168,6 @@
 *.bokundemo.com
 *.bokuntest.com
 *.boltable.eu
-*.bookabach.co.nz
 *.booking.com
 *.boozt.com
 *.booztlet.com
@@ -206,7 +203,6 @@
 *.capitalonegslbex.com
 *.capitaloneshopping.com
 *.captcha-delivery.com
-*.carrentals.com
 *.cb.dev
 *.cbhq.net
 *.cceng.8x8.com
@@ -214,7 +210,6 @@
 *.certinia.com
 *.chalet.8x8.com
 *.chalet.8x8.com/ws/v1
-*.cheaptickets.com
 *.cheaptickets.nl
 *.chime.com
 *.chimebank.com	
@@ -302,7 +297,6 @@
 *.dropxl.com
 *.duokan.com
 *.e2ro.com
-*.ean.com
 *.earlywarning.com
 *.easy.ac
 *.edition.in
@@ -353,14 +347,6 @@
 *.europolitan.se
 *.exodus.com
 *.exodus.io
-*.expedia-aarp.com
-*.expedia.biz
-*.expedia.com
-*.expediagroup.com
-*.expediapartnercentral.com
-*.expediapartnersolutions.com
-*.expediataap.com
-*.expediataaprewards.com
 *.expressvpn.com
 *.eziot.com
 *.ezviz.com
@@ -374,12 +360,10 @@
 *.fareharbor.engineering
 *.feednews.com
 *.fetlife.com
-*.fewo-direkt.de
 *.findaya.co.id
 *.findaya.com
 *.fitbook.de
 *.flickr.com
-*.flights.com
 *.flipkey.com
 *.floqast.app
 *.floqast.engineering
@@ -489,11 +473,8 @@
 *.holidaylettings.com
 *.honestdollar.com
 *.hongyuanib.com
-*.hotels.com
 *.hoteltonight-test.com
 *.hoteltonight.com
-*.hotwire.com
-*.hotwirepartnercentral.com
 *.houseoffun.com
 *.housetrip.com
 *.hs-sites(-eu1)?.com
@@ -580,8 +561,6 @@
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
 *.lansweeper.com
-*.lastminute.co.nz
-*.lastminute.com.au
 *.latitudefinancial.co.nz
 *.latitudefinancial.com
 *.latitudefinancial.com.au
@@ -752,9 +731,7 @@
 *.operationstechnology.io
 *.opr.news
 *.opsgenie.com
-*.optimuscards.com
 *.optus.com.au
-*.orbitz.com
 *.origindigital-pac.com.au
 *.osite99.com
 *.oslo.io
@@ -979,7 +956,6 @@
 *.staging.cloud.8x8.com
 *.staging.travix.com
 *.statuspage.io
-*.stayz.com.au
 *.stbpost.be
 *.steamstatic.com
 *.stream.telenor.se
@@ -1024,19 +1000,15 @@
 *.tinder.com
 *.tinderops.net
 *.tinderwebstaging.com
-*.tiqets.com
 *.tktnew.com
 *.tomorrowland.com
 *.tools.thefork.tech
 *.toolsforhumanity.com
-*.topperpay.com
 *.tospotify.com
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org
 *.trainpal.com,*.mytrainpal.com
 *.transferwise.com
 *.travelbook.de
-*.travelocity.ca
-*.travelocity.com
 *.travix.com
 *.travix.io
 *.trekpleister.nl
@@ -1073,7 +1045,6 @@
 *.unreal-agents.jitsi.net
 *.unrealengine.com
 *.unrealtournament.com
-*.uphold.com
 *.uscc.com
 *.uscc.net
 *.uscellular.com
@@ -1111,7 +1082,6 @@
 *.volkskrant.nl
 *.volkswagen.de
 *.vpn.hackerone.net
-*.vrbo.com
 *.vtm.be
 *.vtmgo.be
 *.wali.com
@@ -1153,7 +1123,6 @@
 *.worldcoin-distributors.com
 *.worldcoin.dev
 *.worldcoin.org
-*.wotif.com
 *.x.ai
 *.x.com
 *.xiangkankeji.cn
@@ -1236,7 +1205,6 @@
 1218902777
 1223338261
 1235601864
-1245772818
 1257641454
 1265170914
 1276296103
@@ -1492,9 +1460,7 @@
 23andme.org/research
 23andmeresearchinstitute.org
 281796108
-284803487
 284910350
-284971959
 288429040
 297606951
 3.0 API
@@ -1527,25 +1493,21 @@
 3rd party services hosted at *.sophos.com
 3rd-Party Provider Vulnerability
 3rdparty-apis.coinmarketcap.com
-403546234
 403684733
 406056744
 407558537
 410789057
 425194759
-427916203
 434613896
 447553564
 455004730
 469463298
 476639005
 480523695
-483394780
 486781045
 493086499
 4njbets.com
 4njbets.us.betfair.com
-506426310
 510855668
 52.220.158.49
 52.44.176.187
@@ -1555,14 +1517,12 @@
 522089287
 524362642
 529996768
-531549799
 54.175.255.192/27
 54.83.32.16
 542767785
 545519333
 545599256
 547702041
-566635048
 586634331
 594802437
 597940518
@@ -1580,7 +1540,6 @@
 64.47.18.80/29
 64.84.60.0/24
 641062073
-642441300
 6444040977
 6444868926
 6449737830
@@ -1613,7 +1572,6 @@
 835599320
 868013618
 878577184
-880759727
 8x8 Communication APIs
 8x8 Partner Portal
 8x8-work
@@ -1638,7 +1596,6 @@
 978516833
 982922982
 983980808
-987675995
 988788863
 993135524
 9nqwjwnqjj5n
@@ -1801,6 +1758,8 @@ Box Drive
 Box Tools
 Braintree SDK
 Brand Sites
+Brave Browser Desktop
+Brave websites
 Broken Link
 Browser Isolation
 BuddyPress Core
@@ -2025,7 +1984,6 @@ Gateway
 Gemini
 GenAI Apps under *.amazon.*
 Git Repositories (b2-sdk-java & B2 Command Line Tool)
-GitHub Actions in our Public Repositories 
 GitHub CLI
 GitHub CSP
 GitHub Desktop
@@ -2156,10 +2114,6 @@ Klaviyo Infrastructure - 64.71.19.71/32
 Klaviyo Infrastructure - 82.144.244.58/32
 Klaviyo Infrastructure - 82.144.244.59/32
 Kohl’s entire public digital footprint that is not Out-Of-Scope(See list below)
-Kong Gateway Enterprise
-Kong Gateway OSS
-Kong Gateway Plugins (Kong-Supported Only)
-Kong Mesh
 Kruidvat BE Android
 Kruidvat BE iOS
 Kruidvat NL Android
@@ -2479,7 +2433,6 @@ Stripe fiat-to-crypto onramp
 Stripe for Visual Studio Code
 Subdomain Takeover
 Subdomain Takeover (SDTO)
-Subdomain Takeover - konghq.com
 Subdomain takeover
 Subdomain takeover at *asana.biz
 Superdrug Android
@@ -2548,8 +2501,6 @@ UniFi Wireless Access Points
 UniFi-Play
 University Platform
 UnrealEditorFortnite-Win64-Shipping.exe
-Uphold: Buy BTC, ETH and 300+
-Uphold: Buy BTC, ETH and 360+
 Upwork - Android Application
 Upwork - Marketplace Portal
 Upwork - Messages
@@ -2781,8 +2732,6 @@ api-js.datadome.co
 api-partner.spotify.com
 api-polygon-tokens.polygon.technology/
 api-sandbox.gocardless.com
-api-sandbox.uphold.com
-api-sandbox.uphold.com/graphql
 api-staging.airtable.com
 api-uat-bugbounty.nonprod.syfe.com
 api-wallet-sandbox.venly.io
@@ -2898,7 +2847,6 @@ api.paybox.sh
 api.personio-dev.com
 api.personio.com
 api.pns.hk
-api.portal.enterprise.uphold.com 
 api.portofantwerp.com
 api.portofantwerpbruges.com
 api.posti.fi
@@ -2917,7 +2865,6 @@ api.remitly.io
 api.robinhood.com
 api.row.pro
 api.ryadom.kz
-api.sandbox.topperpay.com
 api.savers.co.uk
 api.segment.io
 api.segmentapis.com
@@ -3026,7 +2973,6 @@ app.paybox.sh
 app.pharmacy.superdrug.com
 app.pullrequest.com
 app.rewire.to
-app.sandbox.topperpay.com
 app.savers.co.uk
 app.segment.com
 app.sendgrid.com
@@ -3483,13 +3429,13 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
 com.bykea.pk.partner
 com.capital.trading
-com.carrentals
-com.cheaptickets
 com.clay.ios
 com.clearme.Clear
 com.clearme.clearapp
@@ -3511,14 +3457,11 @@ com.dolap.android
 com.dropbox.android
 com.dropbox.dash
 com.dyson.mobile.android
-com.ebookers
 com.eero.android
 com.einnovation.temu
 com.enjin.mobile.wallet
 com.evernote
 com.exness.android.pa
-com.expedia.bookings
-com.expediapartnercentral
 com.fanduel.android.self
 com.fanduel.casino
 com.fanduel.racing
@@ -3547,7 +3490,6 @@ com.gs.pwmdigital.external.android
 com.gsn.android.casino
 com.gsn.android.tripeaks
 com.gsn.grandcasino
-com.hcom.android
 com.hey.app.ios
 com.heytap.book
 com.heytap.browser
@@ -3577,9 +3519,7 @@ com.heytap.wearable.research
 com.heytap.wearable.themestore
 com.heytap.xgame
 com.hilton.android.hhonors
-com.homeaway.android
 com.hotornot.app
-com.hotwire.hotels
 com.hypr.one
 com.imdbtv.livingroom
 com.immediasemi.android.blink
@@ -3645,7 +3585,6 @@ com.oppo.market
 com.oppo.quicksearchbox
 com.oppo.speechassist
 com.oppo.store
-com.orbitz
 com.pacificinteractive.HouseOfFun
 com.paypal.android.p2pmobile
 com.paypal.merchant
@@ -3700,7 +3639,6 @@ com.tinder
 com.tinyspeck.chatlyio
 com.tomorrowland.oneworldradio
 com.toyopagroup.picaboo
-com.travelocity.android
 com.trendyol.go
 com.trendyol.milla.android
 com.trip.android
@@ -3720,7 +3658,6 @@ com.venmo
 com.vilcsak.bitcoin2
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
-com.vrbo.android
 com.wealthsimple
 com.wealthsimple.predict
 com.wealthsimple.wealthsimple
@@ -3737,7 +3674,6 @@ com.withbuddies.dice.free
 com.wolt.android
 com.wolt.courierapp
 com.wooga.pearlsperil
-com.wotif.android
 com.xiaomi.account
 com.xiaomi.market
 com.xiaomi.mibrain.speech
@@ -3968,7 +3904,6 @@ developer.crypto.com
 developer.currencycloud.com
 developer.cybersource.com
 developer.gs.com
-developer.konghq.com
 developer.playcanvas.com
 developer.plus.authorize.net
 developer.posti.com
@@ -4013,11 +3948,8 @@ docs.gocardless.com
 docs.lansweeper.com
 docs.launchdarkly.com
 docs.nextcloud.com
-docs.optimuscards.com
 docs.redoxengine.com
 docs.superhuman.com
-docs.topperpay.com
-docs.uphold.com
 docsend.com
 docuflow.stg.inspectorio.com
 doordash.DoorDashConsumer
@@ -4265,7 +4197,6 @@ github.com/stytchauth/stytch-rust
 github.com/stytchauth/terraform-provider-stytch
 github.com/twilio
 github.com/twilio-labs
-github.com/uphold/*
 gitlab.com
 gldatacenter.nba.com
 gleague-dev.nba.com
@@ -4295,13 +4226,11 @@ grae.nba.com
 grandrapids-dev.gleague.nba.com
 grandrapids-qa.gleague.nba.com
 grandrapids.gleague.nba.com
-graphql.sandbox.topperpay.com/graphql
 gravatar.com
 green.nba.com
 greensboro-dev.gleague.nba.com
 greensboro-qa.gleague.nba.com
 greensboro.gleague.nba.com
-grok-build
 grok.com
 grokipedia.com
 gs://faraday-secret
@@ -4381,7 +4310,6 @@ http://auth.ripio.com
 http://backend-api.devicecloud.production.forescoutcloud.net/api/v1/settings
 http://bumba.global
 http://chatbot.super-id.net
-http://cloud.konghq.com
 http://collaboration.rei.com
 http://data-api.coindesk.com/
 http://datapod-1-druid-ingest.production.forescoutcloud.net/v1/upload
@@ -4527,12 +4455,6 @@ https://api.datadome.co
 https://api.dbs.kape.com
 https://api.dts.kape.com
 https://api.enc.kape.com
-https://api.enterprise.sandbox.uphold.com/core
-https://api.enterprise.sandbox.uphold.com/kyc-connector
-https://api.enterprise.sandbox.uphold.com/market-pulse
-https://api.enterprise.sandbox.uphold.com/topper
-https://api.enterprise.sandbox.uphold.com/trading
-https://api.enterprise.sandbox.uphold.com/widgets
 https://api.expressvpn.com
 https://api.fishbowlapp.com/*
 https://api.fstr.rocks
@@ -4610,7 +4532,6 @@ https://app.ecwid.com/api/v3/
 https://app.fin.ai/
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 https://app.ibotta.com/sign-in 
-https://app.insomnia.rest/
 https://app.intercom.com
 https://app.intercom.io/
 https://app.latitudepayapps.com/
@@ -4697,7 +4618,6 @@ https://apps.apple.com/id/app/superbank/id6444720285
 https://apps.apple.com/ie/app/doctolib-siilo/id1083002150
 https://apps.apple.com/ie/app/new-relic/id594038638
 https://apps.apple.com/in/app/city-centres/id1448471823
-https://apps.apple.com/in/app/expedia-group-partner-central/id987675995
 https://apps.apple.com/in/app/flipkart-online-shopping-app/id742044692
 https://apps.apple.com/in/app/mall-of-egypt-official-app/id1441905105
 https://apps.apple.com/in/app/mall-of-the-emirates-moe/id1449578693
@@ -5204,6 +5124,7 @@ https://github.com/basecamp/once-campfire
 https://github.com/basecamp/trix
 https://github.com/basecamp/writebook
 https://github.com/better-auth/better-auth
+https://github.com/brave/*, https://github.com/brave-intl/*
 https://github.com/circlefin/aptos-cctp
 https://github.com/circlefin/arc-node
 https://github.com/circlefin/arc-remote-signer
@@ -6442,7 +6363,6 @@ https://platform.nexo.com/api/trading/advanced/facade/api/v1/withdraw
 https://platform.openai.com/playground
 https://platform.rc.blis.com
 https://play.fga.dev/
-https://play.google.com/store/apps/datasafety?id=com.expediapartnercentral&hl=en
 https://play.google.com/store/apps/details?id=at.com.media.markt
 https://play.google.com/store/apps/details?id=au.com.optus.selfservice&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=au.com.realestate.app
@@ -6854,7 +6774,6 @@ https://us.eufy.com/products/e8213181
 https://us.eufy.com/products/t8410121
 https://us.eufy.com/products/t88511d1
 https://us.eufy.com/products/t88711w1
-https://us.identity.konghq.com/*
 https://usa.visa.com/gateway/api
 https://usdstandard.com/
 https://utv.usaa.com
@@ -7450,7 +7369,6 @@ knowledge.nextcloud.com
 knowledge.twilio.com
 knox.beta.blendlabs.com
 konfigurator.bmw-motorrad.de
-konghq.com
 kpaste.infomaniak.com
 krisp.ai
 kronor.io
@@ -8099,7 +8017,6 @@ politico.eu
 portal-api.coinmarketcap.com
 portal.23andme.com
 portal.arkoselabs.com
-portal.enterprise.uphold.com
 portal.gofoodmerchant.co.id
 portal.myconnect.com.au
 portal.myconnect.com.au/new-connection
@@ -8714,7 +8631,6 @@ txf-cf.cis.euce1.aws.indriverapp.com
 txm-gw-cf.cis.euce1.aws.indriverapp.com
 uat-bugbounty.nonprod.syfe.com
 uat.marriott.com
-uatcms.optimuscards.com
 uber.com
 uber.marriott.com
 uc.8x8pilot.com
@@ -8820,7 +8736,6 @@ vwcm.visa.com
 vœux.vinci.com
 w1.uzleuven.be
 w1.uzleuven.be/random
-wallet-sandbox.uphold.com
 wallet.tg
 wallet.venly.io
 walletbot.me
@@ -8930,7 +8845,6 @@ www-uat.nba.com
 www.1000-premiers-jours.fr
 www.23andme.org
 www.4njbets.com
-www.abritel.fr
 www.ad.nl
 www.ad.nl/abonnementen
 www.airbnb.com
@@ -8951,14 +8865,12 @@ www.blueskytours.com
 www.bmw-motorrad.de
 www.bmw.de
 www.bolsasymercados.es
-www.bookabach.co.nz
 www.bookingholdings.com
 www.bpost.be
 www.bpost2.be
 www.bumble.com
 www.cadelam.be 
 www.cadelux.lu/en 
-www.carrentals.com
 www.cart.starbucks.co.jp/
 www.casinohuone.com
 www.certos.com
@@ -8967,7 +8879,6 @@ www.cewe.kruidvat.nl
 www.chaire-arpenter.fr
 www.cheapcaribbean.com
 www.cheapflights.com
-www.cheaptickets.com
 www.checkfelix.com
 www.clearme.com
 www.cloudways.com
@@ -9031,20 +8942,12 @@ www.dyson.se
 www.dyson.tw
 www.dyson.vn
 www.dysoncanada.ca
-www.ebookers.com
-www.ebookers.fi
 www.editeur.am.monespacesante.fr
 www.editeur.api.monespacesante.fr
 www.elvetino.ch
 www.evernote.com
-www.expedia-aarp.com
-www.expedia.com
-www.expediagroup.com
-www.expediapartnercentral.com
-www.expediataap.com
 www.ezviz.com
 www.fareharbor.com
-www.fewo-direkt.de
 www.fi.dyson.com
 www.figma.com
 www.files.com
@@ -9068,10 +8971,8 @@ www.greenhouse.io
 www.habileoh.com
 www.hackerone.com
 www.hln.be
-www.hotels.com
 www.hotelscombined.com
 www.hoteltonight.com
-www.hotwire.com
 www.humo.be
 www.humo.be/abonnementen
 www.hyatt.com
@@ -9106,8 +9007,6 @@ www.kruidvatkids.nl
 www.lab-recherche-environnement.org
 www.landmarkcinemas.com
 www.lansweeper.com
-www.lastminute.co.nz
-www.lastminute.com.au
 www.libelle.nl
 www.lineup.com.mx
 www.linkedin.com
@@ -9152,14 +9051,11 @@ www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
 www.monzo.com
-www.mrjet.se
 www.mundi.com.br
 www.nba.com
 www.netflix.com
 www.onsexprime.fr
 www.onthewaterfrontfestival.com
-www.optimuscards.com
-www.orbitz.com
 www.ottocasino.se
 www.ottokasino.com
 www.ovh.com
@@ -9206,7 +9102,6 @@ www.starbucks.co.jp
 www.starbucks.com
 www.starbucks.com.cn/
 www.starbucksreserve.com
-www.stayz.com.au
 www.storspelare.se
 www.storspiller.com
 www.stripe.partners
@@ -9223,17 +9118,13 @@ www.temu.com
 www.tgoyemek.com
 www.theperfumeshop.com
 www.tink.com
-www.tiqets.com
 www.tomorrowland.com
-www.topperpay.com
 www.torfs.be
 www.torfs.nl
 www.tradepmr.com
 www.trajeoh.com
 www.transsicura.ch
 www.travel-brilliantly.marriott.com
-www.travelocity.ca
-www.travelocity.com
 www.trekpleister.nl
 www.trendyol-milla.com
 www.trendyol.com
@@ -9249,7 +9140,6 @@ www.udemy.com
 www.ultimateears.com
 www.unibet.(com­|it|se|co.uk|be|nl|dk|ro|ee|ie|com.au|mt)
 www.universalorlandovacations.com
-www.uphold.com
 www.upwork.com/api 
 www.urbanclap.com
 www.urbancompany.com
@@ -9331,7 +9221,6 @@ www.vladcazino.ro
 www.vodafone.om
 www.volkskrant.nl
 www.volkskrant.nl/abonnementen
-www.vrbo.com
 www.watsons.co.id
 www.watsons.co.th
 www.watsons.com.hk
@@ -9347,7 +9236,6 @@ www.whatismode.com
 www.whatnot.com
 www.wickr.com
 www.wnba.com
-www.wotif.com
 www.wynnvacations.com
 www.xnxx.com
 www.xnxx.gold

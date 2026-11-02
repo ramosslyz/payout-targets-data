@@ -233,17 +233,6 @@ www.valmo.in
 https://bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com/
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 https://bug-bounty-rest.k8s.tools-001.d-use-1.braze-dev.com/
-GitHub Actions in our Public Repositories 
-Kong Gateway Enterprise
-Kong Gateway OSS
-Kong Gateway Plugins (Kong-Supported Only)
-Kong Mesh
-Subdomain Takeover - konghq.com
-developer.konghq.com
-http://cloud.konghq.com
-https://app.insomnia.rest/
-https://us.identity.konghq.com/*
-konghq.com
 WHOOP 4.0 STRAP
 WHOOP 5.0/MG STRAP
 api.prod.whoop.com
@@ -2578,56 +2567,6 @@ com.instacart.client
 shoppers.instacart.com
 template.uat.foodstorm.com
 www.instacart.com
-1245772818
-284803487
-284971959
-403546234
-427916203
-483394780
-506426310
-531549799
-566635048
-642441300
-880759727
-987675995
-com.carrentals
-com.cheaptickets
-com.ebookers
-com.expedia.bookings
-com.expediapartnercentral
-com.hcom.android
-com.homeaway.android
-com.hotwire.hotels
-com.orbitz
-com.travelocity.android
-com.vrbo.android
-com.wotif.android
-https://apps.apple.com/in/app/expedia-group-partner-central/id987675995
-https://play.google.com/store/apps/datasafety?id=com.expediapartnercentral&hl=en
-www.abritel.fr
-www.bookabach.co.nz
-www.carrentals.com
-www.cheaptickets.com
-www.ebookers.com
-www.ebookers.fi
-www.expedia-aarp.com
-www.expedia.com
-www.expediagroup.com
-www.expediapartnercentral.com
-www.expediataap.com
-www.fewo-direkt.de
-www.hotels.com
-www.hotwire.com
-www.lastminute.co.nz
-www.lastminute.com.au
-www.mrjet.se
-www.orbitz.com
-www.stayz.com.au
-www.tiqets.com
-www.travelocity.ca
-www.travelocity.com
-www.vrbo.com
-www.wotif.com
 Front for Mac
 Front for Windows
 api2.frontapp.com
@@ -3469,6 +3408,11 @@ www.semrush.com
 com.quora.android
 com.quora.app.mobile
 http://poe.com
+Brave Browser Desktop
+Brave websites
+com.brave.browser
+com.brave.ios.browser
+https://github.com/brave/*, https://github.com/brave-intl/*
 Burp Collaborator
 Burp Suite DAST
 Burp Suite Pro/Community
@@ -4052,7 +3996,6 @@ com.atebits.Tweetie2
 com.twitter.android
 console.x.ai
 console.x.com
-grok-build
 grok.com
 grokipedia.com
 money.x.com
