@@ -169,6 +169,21 @@ www.fing.com*
 https://over.fluvius.be
 www.fluvius.be   
 www-a.fluvius.be  
+HERE WeGo iOS
+HERE WeGo Android
+registry.service.api.platform.here.com
+search.hereapi.com
+transit.hereapi.com
+vector.hereapi.com
+mobilitygraph.hereapi.com
+account.api.here.com
+account.here.com
+listing.here.com
+mapcreator.here.com
+xyz.api.here.com
+Leaked/Compromised Employee Credentials
+Leaked Service Credentials
+All other related services owned by HERE
 hln.be/inloggen
 hln.be/login
 hln.be/registreren
@@ -463,6 +478,10 @@ idp-url.nexuzhealth.be
 media.nexuzhealth.be/patient/ 
 https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050
 https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_oi_appl/
+https://auth2.pdq.com/
+https://library.pdq.com/
+https://portal.pdq.com/
+https://app.pdq.com/
 api.personio-dev.com
 api.personio.com
 https://hug.personio.com
