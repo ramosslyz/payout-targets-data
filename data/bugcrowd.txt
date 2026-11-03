@@ -670,7 +670,6 @@ https://marketplace.atlassian.com/apps/1216979/smart-courses-for-confluence-lms?
 https://marketplace.atlassian.com/apps/1225000/smart-images-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1218080/smart-tables-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1234678/smart-terms-for-jira-glossary?hosting=cloud&tab=overview
-Cvent CSN-RFP -> https://app.cvent.com/Subscribers/Suppliers/* 
 Cvent CSN Suppliers -> https://app.cvent.com/Subscribers/RFP/*
 Cvent CSN Destination Guide -> https://www.cvent.com/meeting-event-planning/*
 Cvent Core-Survey -> https://app.cvent.com/Subscribers/Inquisium/* 
@@ -678,7 +677,7 @@ Cvent Core-Appointments -> https://app.cvent.com/Subscribers/Appointments/*
 Cvent Core-Admin -> https://app.cvent.com/Subscribers/Admin/*
 Cvent Core-Planner -> https://app.cvent.com/Subscribers/Events2/*  & https://events.app.cvent.com/events/*
 Cvent Core-Flex -> https://web.cvent.com/event/* 
-Cvent Core-Paygo -> https://www.cvent.com/en/event-management-software/free-trial
+https://accounts.app.cvent.com/paygo/signup
 Cvent Core-Attendee Hub Web -> https://web.cvent.com/hub/events/*
 Cvent Core-Attendee Hub Mobile Android -> https://play.google.com/store/apps/details?id=com.cvent.mobile.eventapp
 Cvent  Core-Attendee Hub Mobile iOS -> https://apps.apple.com/us/app/cvent-events/id1491335576

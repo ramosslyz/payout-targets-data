@@ -28,7 +28,6 @@
 *.acc-pub.mobilevikings.be
 *.acc.mobilevikings.be
 *.acceptance.cloud.8x8.com
-*.account.roon.app
 *.accounts.realestate.com.au
 *.acronis.com
 *.acronis.work
@@ -238,11 +237,11 @@
 *.dailyadvent.com
 *.dancecentral.com
 *.das.eu
-*.datacamp.com
+*.dash.ai
+*.data.api.platform.here.com
 *.dbt.com
 *.dbtlabs.com
 *.dcfgateway.marriott.com
-*.de.jbl.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demo.bp.mortgagechoice.com.au
@@ -264,6 +263,7 @@
 *.directverify.in
 *.district.in
 *.dns.eu
+*.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
@@ -273,6 +273,10 @@
 *.dpgmedia.nl
 *.drogas.lt
 *.drogas.lv
+*.dropbox.com
+*.dropboxer.net
+*.dropboxforum.com
+*.dropboxpartners.com
 *.dropmix.com
 *.dropxl.com
 *.duokan.com
@@ -394,8 +398,6 @@
 *.goldmansachs.com
 *.gop3.nl
 *.gopayapi.com
-*.gotdrops.cloud
-*.gotdrops.com
 *.gotinder.com
 *.gov.bugcrowd.net
 *.governorofpoker.com
@@ -427,10 +429,13 @@
 *.hackerone-ext-content.com
 *.hackerone-user-content.com/
 *.happening.dev
-*.harmanaudio.com
-*.harmankardon.com
 *.harmonixmusic.com
 *.harmonyremote.com
+*.hellofax.com
+*.hellosign.com
+*.helloworks.com
+*.here.com
+*.hereapi.com
 *.hey.bild.de
 *.hey.com
 *.hhc247.org
@@ -468,7 +473,6 @@
 *.id.realestate.com.au
 *.ikarem.io
 *.immedia-semi.com/*
-*.in.jbl.com
 *.in2tel.ie
 *.indeed.net
 *.indeed.tech
@@ -492,10 +496,6 @@
 *.intigriti.me
 *.iron.xyz
 *.itcapital.io
-*.jbl.com
-*.jbl.com.br
-*.jbl.nl
-*.jbl.ru
 *.jit.si
 *.jitsi.net
 *.jobapi.net
@@ -606,6 +606,7 @@
 *.mercadopago.com.mx
 *.mercadopago.com.pe
 *.mercadopago.com.uy
+*.metrics.platform.here.com
 *.metronome.com
 *.mevo.com
 *.mgbcareconnect.org
@@ -705,6 +706,7 @@
 *.operationstechnology.io
 *.opr.news
 *.opsgenie.com
+*.optimuscards.com
 *.optus.com.au
 *.origindigital-pac.com.au
 *.osite99.com
@@ -742,6 +744,7 @@
 *.pipopay.com
 *.plannthat.com
 *.platacard.mx
+*.platform.here.com
 *.platformservices.io
 *.play.ownit.se
 *.playstation.com
@@ -803,6 +806,7 @@
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
+*.reclaim.ai
 *.reddit.com
 *.redditblog.com
 *.reddithelp.com
@@ -823,12 +827,7 @@
 *.rocketleague.com
 *.rockstargames.com
 *.romwe.com
-*.roon.app
-*.roondrops.com
-*.roonessentials.com
-*.roonessentials.net
-*.roonlabs.com
-*.roonlabs.net
+*.router.hereapi.com
 *.rtbscale.com
 *.runnr.in
 *.s-cloud.net
@@ -847,6 +846,7 @@
 *.sc-core.net
 *.sc-corp.net
 *.scatec.io
+*.scbe.api.here.com
 *.scopely.com
 *.scopely.io
 *.sec-tunnel.com
@@ -934,6 +934,7 @@
 *.stripchat.com
 *.stripe.com
 *.stylebook.de
+*.subp-router.hereapi.com
 *.super.xyz
 *.superbet.com
 *.superbet.gr
@@ -942,7 +943,6 @@
 *.superbet.rs
 *.superdrug.com
 *.superhuman.com
-*.support.jbl.com
 *.support.originenergy.com.au
 *.swaps.xyz
 *.swisspass.ch
@@ -973,6 +973,7 @@
 *.tomorrowland.com
 *.tools.thefork.tech
 *.toolsforhumanity.com
+*.topperpay.com
 *.tospotify.com
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org
 *.trainpal.com,*.mytrainpal.com
@@ -1007,13 +1008,12 @@
 *.ui.com/distributors/
 *.ui.com/training/partners/
 *.uisp.com
-*.uk.harmanaudio.com
-*.uk.jbl.com
 *.ultimateearsuniversity.com
 *.unreal-agents.com
 *.unreal-agents.jitsi.net
 *.unrealengine.com
 *.unrealtournament.com
+*.uphold.com
 *.uscc.com
 *.uscc.net
 *.uscellular.com
