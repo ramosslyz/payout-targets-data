@@ -1572,16 +1572,16 @@ https://pentest-app.onetrust.com/
 https://marketplace.atlassian.com/apps/1231655/onlink-hr-systems-integration-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1232053/onramp-employee-onboarding-and-offboarding?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1235010/onlink-ai-integration-toolkit-to-automate-your-workflows?hosting=cloud&tab=overview
+https://chatgpt.com
+https://chat.openai.com
 https://api.openai.com
-https://chat.openai.com
-https://chat.openai.com
-https://chatgpt.com/dots/
+https://platform.openai.com/playground
+ChatGPT Desktop
+Codex CLI
+https://openai.com/
+Other
 Third Party Targets
 OpenAI API Keys
-https://openai.com/
-https://platform.openai.com/playground
-Other
-Codex Desktop
 Agentic Tools
 https://openai.com/
 Other
@@ -2274,7 +2274,7 @@ AWS Infrastructure
 https://github.com/electroneum/electroneum-sc/
 https://blockexplorer.electroneum.com
 https://testnet-blockexplorer.electroneum.com
-https://marketplace.atlassian.com/apps/1237433/snapmetrics-real-time-analytics?hosting=cloud&tab=overview
+███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 https://snapnames.com/
 https://www.namejet.com/
 https://marketplace.atlassian.com/apps/1219004/worklogs-time-tracking-and-reports?hosting=cloud&tab=overview
