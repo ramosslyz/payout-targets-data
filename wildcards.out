@@ -343,8 +343,6 @@
 *.fareharbor.engineering
 *.feednews.com
 *.fetlife.com
-*.findaya.co.id
-*.findaya.com
 *.fitbook.de
 *.flickr.com
 *.flipkey.com
@@ -364,7 +362,6 @@
 *.fromspotify.com
 *.fuze.com
 *.fuze.site
-*.gaming.gopayapi.com
 *.gamma.be/*
 *.gamma.nl/*
 *.gateway.marriott.com
@@ -381,22 +378,14 @@
 *.gitlab.org
 *.gitlap.com
 *.global-liquidity.gs.com
-*.go-pay.co.id
-*.gobiz.co.id
 *.gocardless-cicd.io
 *.gocardless-lab.io
 *.gocardless.dev
 *.gocardless.io,*.gocardless-banking.io
-*.gofood.co.id
-*.gofoodmerchant.co.id
-*.gojek.com
-*.gojekapi.com
-*.golabs.io
 *.goldman.com
 *.goldmanpfm.com
 *.goldmansachs.com
 *.gop3.nl
-*.gopayapi.com
 *.gotinder.com
 *.gov.bugcrowd.net
 *.governorofpoker.com
@@ -423,7 +412,6 @@
 *.gsam.com
 *.gspublishing.com
 *.gsselect.com
-*.gtflabs.io
 *.gtld-servers.net (DNS service; DNS related)
 *.hackerone-ext-content.com
 *.hackerone-user-content.com/
@@ -562,7 +550,6 @@
 *.lyst.co
 *.lyst.com
 *.lystit.com
-*.mab.co.id
 *.magisto.com
 *.magwien.gv.at
 *.marcus.co.uk
@@ -702,7 +689,6 @@
 *.operationstechnology.io
 *.opr.news
 *.opsgenie.com
-*.optimuscards.com
 *.optus.com.au
 *.origindigital-pac.com.au
 *.osite99.com
@@ -965,7 +951,6 @@
 *.tomorrowland.com
 *.tools.thefork.tech
 *.toolsforhumanity.com
-*.topperpay.com
 *.tospotify.com
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org
 *.trainpal.com,*.mytrainpal.com
@@ -1005,7 +990,6 @@
 *.unreal-agents.jitsi.net
 *.unrealengine.com
 *.unrealtournament.com
-*.uphold.com
 *.uscc.com
 *.uscc.net
 *.uscellular.com

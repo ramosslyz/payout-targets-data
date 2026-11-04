@@ -1984,12 +1984,6 @@ https://marketplace.atlassian.com/apps/1224419/microsoft-stream-for-confluence?h
 https://marketplace.atlassian.com/apps/1231249/microsoft-power-apps-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1231250/microsoft-power-apps-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1236956/power-bi-for-jira-embed-and-share-reports?hosting=cloud&tab=overview
-██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
-███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
-██████████████████████████████████████████████████████████████████████████████████████████████████████████████████
-██████████████████████████████████████████████████████████████████████████████████████████████████████████████████
-████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
-██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 https://marketplace.atlassian.com/apps/1213146/risk-register?hosting=cloud
 https://dealflow.prosus.com
 https://dealflowapi.prosus.com
