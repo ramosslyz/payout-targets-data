@@ -2,6 +2,8 @@
  *.test.*.lfscnp.com
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 *-api-*.acronis.com
+*. advancedcustomfields.com
+*. bettersearchreplace.com
 *. vfsevisa.id
 *.-np.*.lfscnp.com
 *.1debit.com
@@ -238,10 +240,10 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
-*.data.api.platform.here.com
 *.dbt.com
 *.dbtlabs.com
 *.dcfgateway.marriott.com
+*.deliciousbrains.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demo.bp.mortgagechoice.com.au
@@ -422,8 +424,6 @@
 *.hellofax.com
 *.hellosign.com
 *.helloworks.com
-*.here.com
-*.hereapi.com
 *.hey.bild.de
 *.hey.com
 *.hhc247.org
@@ -533,6 +533,7 @@
 *.libelle.nl
 *.link.co
 *.linktree-extensions.com
+*.localwp.com
 *.logi.com
 *.logicool.co.jp
 *.logitech-channel-marketing.com
@@ -593,7 +594,6 @@
 *.mercadopago.com.mx
 *.mercadopago.com.pe
 *.mercadopago.com.uy
-*.metrics.platform.here.com
 *.metronome.com
 *.mevo.com
 *.mgbcareconnect.org
@@ -664,6 +664,7 @@
 *.nflxso.net
 *.nflxvideo.net
 *.nic.eu
+*.nitropack.io
 *.niumba.com
 *.nmfn.com
 *.nml.com
@@ -730,7 +731,6 @@
 *.pipopay.com
 *.plannthat.com
 *.platacard.mx
-*.platform.here.com
 *.platformservices.io
 *.play.ownit.se
 *.playstation.com
@@ -813,7 +813,6 @@
 *.rocketleague.com
 *.rockstargames.com
 *.romwe.com
-*.router.hereapi.com
 *.rtbscale.com
 *.runnr.in
 *.s-cloud.net
@@ -832,7 +831,6 @@
 *.sc-core.net
 *.sc-corp.net
 *.scatec.io
-*.scbe.api.here.com
 *.scopely.com
 *.scopely.io
 *.sec-tunnel.com
@@ -919,8 +917,8 @@
 *.streamlabscharity.com
 *.stripchat.com
 *.stripe.com
+*.studiopress.com
 *.stylebook.de
-*.subp-router.hereapi.com
 *.super.xyz
 *.superbet.com
 *.superbet.gr
@@ -1076,6 +1074,8 @@
 *.worldcoin-distributors.com
 *.worldcoin.dev
 *.worldcoin.org
+*.wpengine.io
+*.wpesvc.net
 *.x.ai
 *.x.com
 *.xiangkankeji.cn

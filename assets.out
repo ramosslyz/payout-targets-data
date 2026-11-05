@@ -15,6 +15,8 @@
 (se|fi|uk).bingo.com
 *-api-*.acronis.com
 *-vpn.8x8.com
+*. advancedcustomfields.com
+*. bettersearchreplace.com
 *. vfsevisa.id
 *.-np.*.lfscnp.com
 *.1debit.com
@@ -251,10 +253,10 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
-*.data.api.platform.here.com
 *.dbt.com
 *.dbtlabs.com
 *.dcfgateway.marriott.com
+*.deliciousbrains.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demo.bp.mortgagechoice.com.au
@@ -435,8 +437,6 @@
 *.hellofax.com
 *.hellosign.com
 *.helloworks.com
-*.here.com
-*.hereapi.com
 *.hey.bild.de
 *.hey.com
 *.hhc247.org
@@ -546,6 +546,7 @@
 *.libelle.nl
 *.link.co
 *.linktree-extensions.com
+*.localwp.com
 *.logi.com
 *.logicool.co.jp
 *.logitech-channel-marketing.com
@@ -606,7 +607,6 @@
 *.mercadopago.com.mx
 *.mercadopago.com.pe
 *.mercadopago.com.uy
-*.metrics.platform.here.com
 *.metronome.com
 *.mevo.com
 *.mgbcareconnect.org
@@ -677,6 +677,7 @@
 *.nflxso.net
 *.nflxvideo.net
 *.nic.eu
+*.nitropack.io
 *.niumba.com
 *.nmfn.com
 *.nml.com
@@ -743,7 +744,6 @@
 *.pipopay.com
 *.plannthat.com
 *.platacard.mx
-*.platform.here.com
 *.platformservices.io
 *.play.ownit.se
 *.playstation.com
@@ -826,7 +826,6 @@
 *.rocketleague.com
 *.rockstargames.com
 *.romwe.com
-*.router.hereapi.com
 *.rtbscale.com
 *.runnr.in
 *.s-cloud.net
@@ -845,7 +844,6 @@
 *.sc-core.net
 *.sc-corp.net
 *.scatec.io
-*.scbe.api.here.com
 *.scopely.com
 *.scopely.io
 *.sec-tunnel.com
@@ -932,8 +930,8 @@
 *.streamlabscharity.com
 *.stripchat.com
 *.stripe.com
+*.studiopress.com
 *.stylebook.de
-*.subp-router.hereapi.com
 *.super.xyz
 *.superbet.com
 *.superbet.gr
@@ -1089,6 +1087,8 @@
 *.worldcoin-distributors.com
 *.worldcoin.dev
 *.worldcoin.org
+*.wpengine.io
+*.wpesvc.net
 *.x.ai
 *.x.com
 *.xiangkankeji.cn
@@ -1631,7 +1631,6 @@ All internet facing Sky Italy assets
 All internet facing Sky UK/ROI assets
 All other SBB owned IT assets
 All other Web and mobile APPs owned by SBB 
-All other related services owned by HERE
 All the Blockchain Infrastructure
 Amazon Subsidiaries (Please only actively test explicitly stated scope)
 AmpliFi
@@ -1976,8 +1975,6 @@ GraphQL API (bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql)
 Grepolis
 Gutenberg
 H5G/Agency
-HERE WeGo Android
-HERE WeGo iOS
 HEY.app
 HEY.exe
 HPE Aruba Networking Central - New UI (see Scope Details)
@@ -2093,8 +2090,6 @@ LaunchDarkly Open Source SDKs
 Leaked Credentials and Secrets (Canva Employee/Contractor)
 Leaked Credentials and Secrets (Canva User)
 Leaked Employee API Keys
-Leaked Service Credentials
-Leaked/Compromised Employee Credentials
 Leaked/Сompromised Employee accounts
 Lens Studio
 Liberty 5 Pro Max D1204
@@ -2499,6 +2494,7 @@ WGP Slot Games
 WHOOP 4.0 STRAP
 WHOOP 5.0/MG STRAP
 WP Cloud
+WP Engine-developed WordPress Plugins and Themes
 WP-CLI
 Waiting Room
 Watsons Hong Kong Android
@@ -2589,10 +2585,8 @@ access.remitly.com
 accommodations.booking.com
 account-sprint.dynatracelabs.com
 account.acronis.com
-account.api.here.com
 account.booking.com
 account.box.com
-account.here.com
 account.krisp.ai
 account.ui.com
 accountinfodirect-snd.earlywarning.com
@@ -4350,6 +4344,7 @@ https://1win.com/betting
 https://1win.com/casino
 https://28degreescard.com.au
 https://8x8.vc/xmpp-websocket
+https://9b10d44d-1499-4a2f-86bc-fda178acdfdc.striga.com/
 https://Mlife.mo
 https://[it | fr | us | sg | …].louisvuitton.com
 https://a.klaviyo.com/api/*
@@ -4431,6 +4426,7 @@ https://api.int.ibops.net/customer-loyalty-service
 https://api.intercom.com
 https://api.justeat-int.com
 https://api.jwks.kape.com
+https://api.lightspark.com
 https://api.mafshoppingmalls.com
 https://api.mafshoppingmalls.com/
 https://api.moneyboxapp.com
@@ -4493,11 +4489,13 @@ https://app.datadome.co
 https://app.easy4ipcloud.com
 https://app.ecwid.com/api/v3/
 https://app.fin.ai/
+https://app.getflywheel.com
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 https://app.ibotta.com/sign-in 
 https://app.intercom.com
 https://app.intercom.io/
 https://app.latitudepayapps.com/
+https://app.lightspark.com
 https://app.magicestimations.com
 https://app.navan.com
 https://app.opsgenie.com
@@ -4510,6 +4508,7 @@ https://app.ripio.com
 https://app.saltlabs.com/
 https://app.staging.saltlabs.com/
 https://app.thousandeyes.com/
+https://app.uma.money
 https://app.web.com
 https://app.welcomesoftware.com/
 https://app.wisdomtreeconnect.com
@@ -5057,6 +5056,7 @@ https://gemvisa.com.au
 https://geocode-beta.bykea.net
 https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
+https://getflywheel.com
 https://github.com/Aiven
 https://github.com/Aiven-Open
 https://github.com/Chia-Network/chia-blockchain
@@ -5097,6 +5097,7 @@ https://github.com/basecamp/trix
 https://github.com/basecamp/writebook
 https://github.com/better-auth/better-auth
 https://github.com/brave/*, https://github.com/brave-intl/*
+https://github.com/buildonspark/spark
 https://github.com/circlefin/aptos-cctp
 https://github.com/circlefin/arc-node
 https://github.com/circlefin/arc-remote-signer
@@ -5212,6 +5213,12 @@ https://github.com/kubernetes/steering
 https://github.com/kubernetes/test-infra
 https://github.com/kubernetes/utils
 https://github.com/kubernetes/website
+https://github.com/lightsparkdev/flutter-sdk
+https://github.com/lightsparkdev/go-sdk
+https://github.com/lightsparkdev/js-sdk
+https://github.com/lightsparkdev/kotlin-sdk
+https://github.com/lightsparkdev/lightspark-rs
+https://github.com/lightsparkdev/python-sdk
 https://github.com/matomo-org
 https://github.com/matomo-org/developer-documentation
 https://github.com/matomo-org/docker
@@ -5311,6 +5318,7 @@ https://help.supplier.viator.com/en
 https://hg.easy4ipcloud.com
 https://hipaa.staging.gearset.com/
 https://home.classdojo.com
+https://hooks.striga.com/core/
 https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
 https://hr.neogov.com
 https://hr.prosus.com/
@@ -5421,6 +5429,7 @@ https://life.pulsepoint.com/Buyer/#/campaign
 https://life.pulsepoint.com/EngagementAudience/#/dashboard
 https://life.pulsepoint.com/MediaPlanner/#/dashboard/targetview
 https://lifeapi.pulsepoint.com
+https://link.uma.me
 https://linktr.ee
 https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
 https://linktree.com
@@ -5442,6 +5451,7 @@ https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|
 https://m.thefork.com
 https://maf-holding-prod.apigee.net
 https://maf-properties-prod.apigee.net
+https://makeshift.film
 https://manage.cic-bug-bounty.auth0app.com/
 https://manage.statuspage.io
 https://manager.thefork.com
@@ -6093,6 +6103,7 @@ https://marketplace.atlassian.com/apps/2903137599/sprintretro-pro-retrospective-
 https://marketplace.atlassian.com/apps/29496/jira-workflow-toolbox?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/2974674253/assets-analytics-custom-dashboards-reporting-for-jira
 https://marketplace.atlassian.com/apps/3076252818/gliffy-zero-egress-compliance-ready-diagramming?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/31399/jql-tricks-plugin?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/3402280988/laya-board?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/3443905353?hosting=cloud&tab=overviewPartner
 https://marketplace.atlassian.com/apps/3684126567/laya-workflowos-ai-automation-for-jira?hosting=cloud&tab=overview
@@ -6181,6 +6192,7 @@ https://my.smartposti.lt
 https://my.smartposti.lv
 https://my.sogexia.com
 https://my.ultramobile.com
+https://my.wpengine.com
 https://my.wyze.com
 https://myaccount-staging.getmoneytree.com
 https://myapi.arlo.com
@@ -6287,6 +6299,7 @@ https://paymayabiller-prod.paymaya.com/
 https://payment-connectors.vendhq.com/
 https://payment.lafourchette.com
 https://payments.myntra.com
+https://payments.wpengine.com
 https://payoutapi.maya.ph/
 https://pci.kindredgroup.com
 https://pentest-app.onetrust.com/
@@ -6546,6 +6559,9 @@ https://sandbox-buy.paddle.com
 https://sandbox-checkout-service.paddle.com
 https://sandbox-login.paddle.com
 https://sandbox-vendors.paddle.com
+https://sandbox.striga.com/api/v0
+https://sandbox.striga.com/api/v1
+https://sandbox.striga.com/backoffice
 https://sandbox.vintedgo.com
 https://sb-console-api.fireblocks.io
 https://sb-mobile-api.fireblocks.io
@@ -6644,6 +6660,7 @@ https://stp.wien.gv.at
 https://student.classdojo.com
 https://student.monash
 https://studentplacements.monash.edu
+https://studiopress.blog
 https://stytch.com/blog
 https://stytch.com/dashboard
 https://suggestions.opera-api.com
@@ -6676,12 +6693,14 @@ https://testflight.apple.com/join/Y4cHu289
 https://testflight.apple.com/join/vwFxXX7t
 https://testnet-blockexplorer.electroneum.com
 https://tfb.t-mobile.com
+https://tfr-sandbox.striga.com/
 https://thatconceptstore.com
 https://thueringer-foerderportal.eu
 https://ticket.multiplayer.classdojo.com
 https://tms.onecloud.harman.com
 https://tools-api.cryptocompare.com/
 https://toom.de
+https://torquemag.io
 https://tr.ee
 https://tracker.bugcrowd.com
 https://tracker.naspers.com/
@@ -6746,6 +6765,7 @@ https://valuations-sit.uat.proptrack.com
 https://vault-staging.getmoneytree.com
 https://vault.chiatest.net/
 https://vc.tasheer.com/
+https://velocitize.com
 https://vendor.riskrecon.com
 https://vendor.riskrecon.eu
 https://vendors.paddle.com
@@ -6792,6 +6812,7 @@ https://wmaudience.com
 https://world.planethoster.net
 https://worldscan.org/address/0xDe7Ec97CFDeE9F20f9d256F4a0A0d694479fa2E0
 https://wowjobs.ca
+https://wpengine.com
 https://ws.multiplayer.classdojo.com/
 https://ws.usaa.com
 https://wsloja.ifood.com.br
@@ -7068,6 +7089,7 @@ https://www.recordedfuture.com
 https://www.remove.bg
 https://www.restaurant-information.com
 https://www.riskrecon.com
+https://www.sandbox.striga.com/api/v1/
 https://www.saturn.de
 https://www.sdx.com/
 https://www.sharerewards.com/
@@ -7109,6 +7131,7 @@ https://www.upwork.com
 https://www.usaa.com
 https://www.usaainsurance.com/
 https://www.user.quintoandar.com.br/admin/*
+https://www.vault.striga.eu/web/sandbox/
 https://www.venturatvos.com
 https://www.verisign.com
 https://www.vfsglobalcustomerexperience.com/CustomerFeedback/GeneralFeedback/Index
@@ -7398,6 +7421,8 @@ liberty-qa.wnba.com
 liberty-qa2.wnba.com
 liberty.wnba.com
 licensemgmt.varonis.com
+lightsparkdev/lightspark-crypto-uniffi
+lightsparkdev/swift-wallet-sdk
 lineemup-dev.wnba.com
 lineemup.wnba.com
 link.tw.coupang.com
@@ -7409,7 +7434,6 @@ liquidfiles.nexuzhealth.com
 liquidfiles.uzleuven.be
 liquidfilestest.uzleuven.be
 lirportal.ripe.net
-listing.here.com
 lists.nextcloud.com
 live-backstage.tiktok.com
 live-service.whatnot.com
@@ -7513,7 +7537,6 @@ manager.infomaniak.com/v3/*
 mangerbouger.fr
 map.8x8.com
 map.snapchat.com
-mapcreator.here.com
 mapi.moneyback.com.hk
 mark8.syfe.com
 marketing.fareharbor.com
@@ -7654,7 +7677,6 @@ mobileapi.lystit.com
 mobileapi.na1.insightly.com
 mobileapp.hyatt.com
 mobilevikings.be
-mobilitygraph.hereapi.com
 mod.reddit.com
 modefestival.com
 moments.marriottbonvoy.com
@@ -8143,7 +8165,6 @@ register.bpost.be
 register.capital.com
 registre.notebleue.pro
 registry.gitlab.com
-registry.service.api.platform.here.com
 rei.com
 relay.playcanvas.com
 releasor.payworks.com/
@@ -8255,6 +8276,7 @@ sandbox.braintreegateway.com
 sandbox.developer.plus.authorize.net
 sandbox.secure.checkout.visa.com
 sandbox.securegateway.com
+sandbox.striga.com
 sandiego.gleague.nba.com
 santacruz-dev.gleague.nba.com
 santacruz-qa.gleague.nba.com
@@ -8271,7 +8293,6 @@ scp.watsons.com.tr
 scpapi.watsons.com.tr
 scripts.developersites.com.au
 scrutiny.swiftfinancial.com
-search.hereapi.com
 secure-dfadmin.deriv.com
 secure-supply-xml.booking.com
 secure.booking.com
@@ -8596,7 +8617,6 @@ tr-scf.euce1.indriverapp.com
 trade.ripio.com
 training.ui.com
 transact.playstation.com
-transit.hereapi.com
 translate.badoo.com
 travel.crypto.com
 travelagents.marriott.com/
@@ -8674,7 +8694,6 @@ vasdemos.visa.com
 vault2.faraday.ai
 vcc-*.8x8.com
 vcc-ce.8x8.com
-vector.hereapi.com
 vector.prd.iat.it.xvservice.net
 vercel.app
 vercel.com
@@ -9253,7 +9272,6 @@ x.razorpay.com
 xadsacademy.com
 xlence.iciparisxl.nl
 xtramile.grabpay.com
-xyz.api.here.com
 yelptop100.com
 yhteystietoni.posti.fi
 yimg.com
