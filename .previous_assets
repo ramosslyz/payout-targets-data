@@ -5439,6 +5439,7 @@ file-storage-front.aws.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 file.larksuite.com
 files-stg.inspectorio.com
+files.stripe.com
 files.uzleuven.be
 fileupload-video.tw.coupang.com
 fileupload.tw.coupang.com
@@ -11742,6 +11743,8 @@ streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 streams.etoro.com
+stripe.com
+stripe.dev
 sts.delen.be 
 sts.etoro.com
 sts.uzleuven.be

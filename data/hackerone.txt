@@ -1946,8 +1946,11 @@ api.stripe.com
 api.taxjar.com
 app.taxjar.com
 com.stripe.android.dashboard
+files.stripe.com
 js.stripe.com
 mcp.stripe.com
+stripe.com
+stripe.dev
 www.stripe.partners
 Freshcaller-iOS-App
 Freshchat-iOS-App
