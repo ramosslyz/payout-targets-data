@@ -233,6 +233,7 @@ www.meesho.com
 www.valmo.in
 https://bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com/
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
+https://bug-bounty-mcp.k8s.tools-001.d-use-1.braze-dev.com/mcp
 https://bug-bounty-rest.k8s.tools-001.d-use-1.braze-dev.com/
 WHOOP 4.0 STRAP
 WHOOP 5.0/MG STRAP
@@ -2910,7 +2911,6 @@ booking.cheapcaribbean.com
 com.Hyatt
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
-hyatt.com
 login.www.vaxvacationaccess.com
 meetings.hyatt.com
 mobileapp.hyatt.com
@@ -3165,6 +3165,7 @@ FortniteLauncher-Win64-Shipping_EAC.exe
 FortniteLauncher.exe
 UEFN
 UnrealEditorFortnite-Win64-Shipping.exe
+Zenserver
 aqtooling.com
 aquiris.com.br
 aquiris.studio
