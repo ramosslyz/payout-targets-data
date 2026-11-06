@@ -127,8 +127,6 @@
 *.arloxcld.com
 *.artifactory.marriott.com
 *.artstation.com
-*.as-nmt.de
-*.asadcdn.com
 *.asana.biz
 *.assurancewireless.com
 *.atairbnb.com
@@ -137,8 +135,6 @@
 *.atspotify.com
 *.audible.(TLD)
 *.audicagame.com
-*.auth.bild.de
-*.autobild.de
 *.avecspotify.com
 *.ayco.com
 *.backblazeb2.com
@@ -155,9 +151,6 @@
 *.betfair.se
 *.betsharedservices.io
 *.betviewapi.com
-*.bild.de
-*.bild.design
-*.bild.tv
 *.bingoblitz.com
 *.bionic.ai
 *.bitdefender.com
@@ -190,7 +183,6 @@
 *.bybit.tr
 *.bykea.net
 *.byspotify.com
-*.bz-berlin.de
 *.caesarsgames.com
 *.call-control.ie
 *.canva-apps.cn
@@ -234,7 +226,6 @@
 *.cognitiveperformer.com
 *.coinbase-corp.com
 *.coinbase.com
-*.computerbild.de
 *.consumer.worldcoin.org
 *.contactallerg(y|ie).uzleuven.be
 *.cp.dyson.com
@@ -300,7 +291,6 @@
 *.easy.ac
 *.edition.in
 *.eero.com
-*.ein-herz-fuer-kinder.de
 *.ela.st
 *.elastic.co
 *.elastic.dev
@@ -359,7 +349,6 @@
 *.fareharbor.engineering
 *.feednews.com
 *.fetlife.com
-*.fitbook.de
 *.flickr.com
 *.flipkey.com
 *.floqast.app
@@ -383,7 +372,6 @@
 *.gateway.marriott.com
 *.genoapay.co.nz
 *.genoapay.com
-*.germany.politico.eu
 *.gesundheitsverbund.at
 *.getdbt.com
 *.gethypr.com
@@ -437,7 +425,6 @@
 *.hellofax.com
 *.hellosign.com
 *.helloworks.com
-*.hey.bild.de
 *.hey.com
 *.hhc247.org
 *.hicloudcam.com
@@ -656,7 +643,6 @@
 *.mworld.com
 *.myfitnesspal.com
 *.myharmony.com
-*.myhomebook.de
 *.myinsights.io
 *.myklpages.com/*
 *.myseek.xyz
@@ -736,8 +722,6 @@
 *.personio.de
 *.personio.tools
 *.personiowhistleblowing.com
-*.petbook-magazine.com/
-*.petbook.de
 *.piaservers.com
 *.piaservers.net
 *.pinterest.com Web Apps
@@ -904,12 +888,9 @@
 *.soyoustart.com
 *.spiketrap.io
 *.spinaway.com
-*.sportbild.de
 *.sportinglife.com
 *.spotify.com
 *.spotify.net
-*.spring-media.de
-*.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sqills.com
@@ -931,7 +912,6 @@
 *.stripchat.com
 *.stripe.com
 *.studiopress.com
-*.stylebook.de
 *.super.xyz
 *.superbet.com
 *.superbet.gr
@@ -944,7 +924,6 @@
 *.swaps.xyz
 *.swisspass.ch
 *.teams.cloudflare.com
-*.techbook.de
 *.telenor.se
 *.telenorinpli.se
 *.tesla.cn
@@ -974,7 +953,6 @@
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org
 *.trainpal.com,*.mytrainpal.com
 *.transferwise.com
-*.travelbook.de
 *.travix.com
 *.travix.io
 *.trekpleister.nl
@@ -1063,7 +1041,6 @@
 *.weareone.world
 *.wellsfargo.com
 *.wellsfargoadvisors.com
-*.welt.de
 *.werkenbijgamma.be
 *.werkenbijgamma.nl
 *.werkenbijkarwei.nl
@@ -1074,7 +1051,6 @@
 *.wien.gv.at
 *.wienkav.at
 *.wise.com
-*.wissen-sie-mehr.de
 *.withairbnb.com
 *.withbuddies.com
 *.withspotify.com
@@ -1254,7 +1230,6 @@
 172.26.2.133
 172.26.39.9
 174.44.253.152/29
-18.184.198.198, 18.185.214.59, 18.194.109.179, 3.121.117.72, 3.121.138.10, 3.121.138.128, 3.121.138.134, 3.121.138.170, 3.121.138.33, 3.121.138.43, 3.124.248.208, 35.156.137.39
 185.210.32.0/22
 185.26.180.0/22
 188.118.8.0/25
@@ -2633,7 +2608,6 @@ ads.reddit.com
 ads.snapchat.com
 ads.temu.com
 ads.tiktok.com
-adtechnology.axelspringer.com
 advisories.gitlab.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
 aff.capital.com
@@ -3068,7 +3042,6 @@ bf-gw-cf.latam-pe.saea1.aws.indriverapp.com
 bid-cf.africa.afso1.aws.indriverapp.com
 bid-gw-cf.africa.afso1.aws.indriverapp.com
 bid-gw-scf.sa.apse1.aws.indriverapp.com
-bild.de
 billingsupport.chaturbate.com
 bilt.marriott.com
 biolibre.ar
@@ -3170,7 +3143,6 @@ campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
-cancellation.prod.ps.welt.de
 canton-dev.gleague.nba.com
 canton-qa.gleague.nba.com
 canton.gleague.nba.com
@@ -3821,7 +3793,6 @@ dcfgateway*.marriott.com
 dco.tw.coupang.com
 de.bmw.connected.mobile20.row
 de.forescout.cloud
-dealer.prod.ps.axelspringer.de/purchases/*
 debug.8x8.com
 debug.clairvoyance.indrive.tech
 decision.swiftfinancial.com
@@ -3883,7 +3854,6 @@ dif.tech.plata
 digili.s-cloud.fi
 digital.kruidvat.be
 digital.kruidvat.nl
-digital.welt.de
 digitaloceanmirrors.com
 digitaloceanpartners.com
 digitaloceanstatus.com
@@ -3957,7 +3927,6 @@ editeurs.developer.monespacesante.fr
 editeurs.monespacesante.fr
 edition.iciparisxl.nl
 editionhotels.com
-editorial.one
 education.github.com
 eero Devices
 effecthouse.tiktok.com
@@ -3974,7 +3943,6 @@ en.casinohuone.com
 en.kolikkopelit.com
 en.ottokasino.com
 enroll.clearme.com
-epaper.welt.de
 epptool-ctld.verisign-grs.com (EPP service; DNS related)
 erie-dev.gleague.nba.com
 erie-qa.gleague.nba.com
@@ -4173,7 +4141,6 @@ go-cms.tw.coupang.com
 go.capital.com
 go.geneva-staging.com
 go.stripchat.com
-go.welt.de
 goldmansachsindices.com
 googleplace*.bykea.net
 gql.reddit.com
@@ -4344,7 +4311,6 @@ https://1win.com/betting
 https://1win.com/casino
 https://28degreescard.com.au
 https://8x8.vc/xmpp-websocket
-https://9b10d44d-1499-4a2f-86bc-fda178acdfdc.striga.com/
 https://Mlife.mo
 https://[it | fr | us | sg | …].louisvuitton.com
 https://a.klaviyo.com/api/*
@@ -4426,7 +4392,6 @@ https://api.int.ibops.net/customer-loyalty-service
 https://api.intercom.com
 https://api.justeat-int.com
 https://api.jwks.kape.com
-https://api.lightspark.com
 https://api.mafshoppingmalls.com
 https://api.mafshoppingmalls.com/
 https://api.moneyboxapp.com
@@ -4495,7 +4460,6 @@ https://app.ibotta.com/sign-in 
 https://app.intercom.com
 https://app.intercom.io/
 https://app.latitudepayapps.com/
-https://app.lightspark.com
 https://app.magicestimations.com
 https://app.navan.com
 https://app.opsgenie.com
@@ -4508,7 +4472,6 @@ https://app.ripio.com
 https://app.saltlabs.com/
 https://app.staging.saltlabs.com/
 https://app.thousandeyes.com/
-https://app.uma.money
 https://app.web.com
 https://app.welcomesoftware.com/
 https://app.wisdomtreeconnect.com
@@ -5097,7 +5060,6 @@ https://github.com/basecamp/trix
 https://github.com/basecamp/writebook
 https://github.com/better-auth/better-auth
 https://github.com/brave/*, https://github.com/brave-intl/*
-https://github.com/buildonspark/spark
 https://github.com/circlefin/aptos-cctp
 https://github.com/circlefin/arc-node
 https://github.com/circlefin/arc-remote-signer
@@ -5213,12 +5175,6 @@ https://github.com/kubernetes/steering
 https://github.com/kubernetes/test-infra
 https://github.com/kubernetes/utils
 https://github.com/kubernetes/website
-https://github.com/lightsparkdev/flutter-sdk
-https://github.com/lightsparkdev/go-sdk
-https://github.com/lightsparkdev/js-sdk
-https://github.com/lightsparkdev/kotlin-sdk
-https://github.com/lightsparkdev/lightspark-rs
-https://github.com/lightsparkdev/python-sdk
 https://github.com/matomo-org
 https://github.com/matomo-org/developer-documentation
 https://github.com/matomo-org/docker
@@ -5318,7 +5274,6 @@ https://help.supplier.viator.com/en
 https://hg.easy4ipcloud.com
 https://hipaa.staging.gearset.com/
 https://home.classdojo.com
-https://hooks.striga.com/core/
 https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
 https://hr.neogov.com
 https://hr.prosus.com/
@@ -5429,7 +5384,6 @@ https://life.pulsepoint.com/Buyer/#/campaign
 https://life.pulsepoint.com/EngagementAudience/#/dashboard
 https://life.pulsepoint.com/MediaPlanner/#/dashboard/targetview
 https://lifeapi.pulsepoint.com
-https://link.uma.me
 https://linktr.ee
 https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
 https://linktree.com
@@ -6559,9 +6513,6 @@ https://sandbox-buy.paddle.com
 https://sandbox-checkout-service.paddle.com
 https://sandbox-login.paddle.com
 https://sandbox-vendors.paddle.com
-https://sandbox.striga.com/api/v0
-https://sandbox.striga.com/api/v1
-https://sandbox.striga.com/backoffice
 https://sandbox.vintedgo.com
 https://sb-console-api.fireblocks.io
 https://sb-mobile-api.fireblocks.io
@@ -6693,7 +6644,6 @@ https://testflight.apple.com/join/Y4cHu289
 https://testflight.apple.com/join/vwFxXX7t
 https://testnet-blockexplorer.electroneum.com
 https://tfb.t-mobile.com
-https://tfr-sandbox.striga.com/
 https://thatconceptstore.com
 https://thueringer-foerderportal.eu
 https://ticket.multiplayer.classdojo.com
@@ -7089,7 +7039,6 @@ https://www.recordedfuture.com
 https://www.remove.bg
 https://www.restaurant-information.com
 https://www.riskrecon.com
-https://www.sandbox.striga.com/api/v1/
 https://www.saturn.de
 https://www.sdx.com/
 https://www.sharerewards.com/
@@ -7131,7 +7080,6 @@ https://www.upwork.com
 https://www.usaa.com
 https://www.usaainsurance.com/
 https://www.user.quintoandar.com.br/admin/*
-https://www.vault.striga.eu/web/sandbox/
 https://www.venturatvos.com
 https://www.verisign.com
 https://www.vfsglobalcustomerexperience.com/CustomerFeedback/GeneralFeedback/Index
@@ -7421,8 +7369,6 @@ liberty-qa.wnba.com
 liberty-qa2.wnba.com
 liberty.wnba.com
 licensemgmt.varonis.com
-lightsparkdev/lightspark-crypto-uniffi
-lightsparkdev/swift-wallet-sdk
 lineemup-dev.wnba.com
 lineemup.wnba.com
 link.tw.coupang.com
@@ -7503,7 +7449,6 @@ lynx-qa2.wnba.com
 lynx.wnba.com
 m.airbnb.com
 m.badoo.com
-m.bild.de
 m.box.com
 m.chaturbate.com
 m.dana.id
@@ -7616,7 +7561,6 @@ meesho.io
 meetings.hyatt.com
 meetings.nba.com
 meetmarriottbonvoy.marriott.com
-meinkonto.bild.de
 meliplay.com.ar
 meliplay.com.pe
 meliplay.com.uy
@@ -7776,7 +7720,6 @@ news.remitly.com
 newsletter-feedback.iciparisxl.nl
 newsletter.iciparisxl.nl
 newsletter.nextcloud.com
-newsos.com
 newsroom.images.hyatt.com
 nexotrack-p.exodus.io
 nexotrack.exodus.io
@@ -8030,7 +7973,6 @@ playwonderbox.com
 playwonderbox.com.br
 pm-gw-scf.sa.apse1.aws.indriverapp.com
 pmtcards.newegg.com
-politico.eu
 portal-api.coinmarketcap.com
 portal.23andme.com
 portal.arkoselabs.com
@@ -8276,7 +8218,6 @@ sandbox.braintreegateway.com
 sandbox.developer.plus.authorize.net
 sandbox.secure.checkout.visa.com
 sandbox.securegateway.com
-sandbox.striga.com
 sandiego.gleague.nba.com
 santacruz-dev.gleague.nba.com
 santacruz-qa.gleague.nba.com
@@ -8358,7 +8299,6 @@ shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
 sign.dropbox.com
-signin.auth.welt.de
 signup.sendgrid.com
 simperium.com
 simplenote.com
@@ -8563,8 +8503,6 @@ teamofficelist.nba.com
 teamportal.nba.com
 teams.krisp.ai
 teamvideo.nba.com
-technik.autobild.de
-technik.beta.autobild.de
 telemetry.stytch.com
 telenor.se
 teleport.fareharbor.engineering
@@ -8791,7 +8729,6 @@ webwinkel.parool.nl
 webwinkel.trouw.nl
 wechat.api.marriott.com
 welcome.infomaniak.com
-welt.de
 westchester-dev.gleague.nba.com
 westchester-qa.gleague.nba.com
 westchester.gleague.nba.com

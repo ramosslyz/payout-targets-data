@@ -4,23 +4,6 @@ www.ad.nl
 www.ad.nl/abonnementen
 Firmware: Mali Command Stream Frontend (CSF) Firmware
 Software: Mali GPU Kernel Driver
-newsos.com
-politico.eu
-adtechnology.axelspringer.com
-bild.de
-welt.de
-epaper.welt.de
-cancellation.prod.ps.welt.de
-digital.welt.de
-signin.auth.welt.de
-m.bild.de
-go.welt.de
-meinkonto.bild.de
-18.184.198.198, 18.185.214.59, 18.194.109.179, 3.121.117.72, 3.121.138.10, 3.121.138.128, 3.121.138.134, 3.121.138.170, 3.121.138.33, 3.121.138.43, 3.124.248.208, 35.156.137.39
-dealer.prod.ps.axelspringer.de/purchases/*
-editorial.one
-technik.autobild.de
-technik.beta.autobild.de
 www.bmw-motorrad.de
 www.bmw.de
 www.mini.de
@@ -328,28 +311,6 @@ docs.lansweeper.com
 login.lansweeper.com
 www.lansweeper.com
 www.libelle.nl
-sandbox.striga.com
-https://www.vault.striga.eu/web/sandbox/
-https://tfr-sandbox.striga.com/
-https://sandbox.striga.com/backoffice
-https://hooks.striga.com/core/
-https://sandbox.striga.com/api/v0
-https://www.sandbox.striga.com/api/v1/
-https://sandbox.striga.com/api/v1
-https://9b10d44d-1499-4a2f-86bc-fda178acdfdc.striga.com/
-https://github.com/buildonspark/spark
-https://app.uma.money
-https://link.uma.me
-https://api.lightspark.com
-https://app.lightspark.com
-lightsparkdev/lightspark-crypto-uniffi
-https://github.com/lightsparkdev/kotlin-sdk
-https://github.com/lightsparkdev/js-sdk
-https://github.com/lightsparkdev/flutter-sdk
-https://github.com/lightsparkdev/go-sdk
-https://github.com/lightsparkdev/lightspark-rs
-https://github.com/lightsparkdev/python-sdk
-lightsparkdev/swift-wallet-sdk
 www.marionnaud.fr
 Marionnaud France Android
 Marionnaud France iOS
