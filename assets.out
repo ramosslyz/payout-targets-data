@@ -15,8 +15,6 @@
 (se|fi|uk).bingo.com
 *-api-*.acronis.com
 *-vpn.8x8.com
-*. advancedcustomfields.com
-*. bettersearchreplace.com
 *. vfsevisa.id
 *.-np.*.lfscnp.com
 *.1debit.com
@@ -98,9 +96,6 @@
 *.amazon.se
 *.amazon.sg
 *.amplitude-game.com
-*.anduril.au
-*.anduril.com
-*.anduril.com.au
 *.anduril.dev
 *.andurildev.au
 *.andurildev.com
@@ -127,6 +122,8 @@
 *.arloxcld.com
 *.artifactory.marriott.com
 *.artstation.com
+*.as-nmt.de
+*.asadcdn.com
 *.asana.biz
 *.assurancewireless.com
 *.atairbnb.com
@@ -135,6 +132,8 @@
 *.atspotify.com
 *.audible.(TLD)
 *.audicagame.com
+*.auth.bild.de
+*.autobild.de
 *.avecspotify.com
 *.ayco.com
 *.backblazeb2.com
@@ -151,6 +150,9 @@
 *.betfair.se
 *.betsharedservices.io
 *.betviewapi.com
+*.bild.de
+*.bild.design
+*.bild.tv
 *.bingoblitz.com
 *.bionic.ai
 *.bitdefender.com
@@ -183,6 +185,7 @@
 *.bybit.tr
 *.bykea.net
 *.byspotify.com
+*.bz-berlin.de
 *.caesarsgames.com
 *.call-control.ie
 *.canva-apps.cn
@@ -226,6 +229,7 @@
 *.cognitiveperformer.com
 *.coinbase-corp.com
 *.coinbase.com
+*.computerbild.de
 *.consumer.worldcoin.org
 *.contactallerg(y|ie).uzleuven.be
 *.cp.dyson.com
@@ -244,10 +248,10 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
+*.data.api.platform.here.com
 *.dbt.com
 *.dbtlabs.com
 *.dcfgateway.marriott.com
-*.deliciousbrains.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demo.bp.mortgagechoice.com.au
@@ -291,6 +295,7 @@
 *.easy.ac
 *.edition.in
 *.eero.com
+*.ein-herz-fuer-kinder.de
 *.ela.st
 *.elastic.co
 *.elastic.dev
@@ -349,6 +354,7 @@
 *.fareharbor.engineering
 *.feednews.com
 *.fetlife.com
+*.fitbook.de
 *.flickr.com
 *.flipkey.com
 *.floqast.app
@@ -372,6 +378,7 @@
 *.gateway.marriott.com
 *.genoapay.co.nz
 *.genoapay.com
+*.germany.politico.eu
 *.gesundheitsverbund.at
 *.getdbt.com
 *.gethypr.com
@@ -425,6 +432,9 @@
 *.hellofax.com
 *.hellosign.com
 *.helloworks.com
+*.here.com
+*.hereapi.com
+*.hey.bild.de
 *.hey.com
 *.hhc247.org
 *.hicloudcam.com
@@ -533,7 +543,6 @@
 *.libelle.nl
 *.link.co
 *.linktree-extensions.com
-*.localwp.com
 *.logi.com
 *.logicool.co.jp
 *.logitech-channel-marketing.com
@@ -594,6 +603,7 @@
 *.mercadopago.com.mx
 *.mercadopago.com.pe
 *.mercadopago.com.uy
+*.metrics.platform.here.com
 *.metronome.com
 *.mevo.com
 *.mgbcareconnect.org
@@ -643,6 +653,7 @@
 *.mworld.com
 *.myfitnesspal.com
 *.myharmony.com
+*.myhomebook.de
 *.myinsights.io
 *.myklpages.com/*
 *.myseek.xyz
@@ -663,7 +674,6 @@
 *.nflxso.net
 *.nflxvideo.net
 *.nic.eu
-*.nitropack.io
 *.niumba.com
 *.nmfn.com
 *.nml.com
@@ -722,12 +732,15 @@
 *.personio.de
 *.personio.tools
 *.personiowhistleblowing.com
+*.petbook-magazine.com/
+*.petbook.de
 *.piaservers.com
 *.piaservers.net
 *.pinterest.com Web Apps
 *.pipopay.com
 *.plannthat.com
 *.platacard.mx
+*.platform.here.com
 *.platformservices.io
 *.play.ownit.se
 *.playstation.com
@@ -810,6 +823,7 @@
 *.rocketleague.com
 *.rockstargames.com
 *.romwe.com
+*.router.hereapi.com
 *.rtbscale.com
 *.runnr.in
 *.s-cloud.net
@@ -828,6 +842,7 @@
 *.sc-core.net
 *.sc-corp.net
 *.scatec.io
+*.scbe.api.here.com
 *.scopely.com
 *.scopely.io
 *.sec-tunnel.com
@@ -888,13 +903,14 @@
 *.soyoustart.com
 *.spiketrap.io
 *.spinaway.com
+*.sportbild.de
 *.sportinglife.com
 *.spotify.com
 *.spotify.net
+*.spring-media.de
+*.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
-*.sqills.com
-*.sqills.team
 *.srvcs.tumblr.com
 *.stadtwien.onmicrosoft.com
 *.stag.tomorrowland.com
@@ -911,7 +927,8 @@
 *.streamlabscharity.com
 *.stripchat.com
 *.stripe.com
-*.studiopress.com
+*.stylebook.de
+*.subp-router.hereapi.com
 *.super.xyz
 *.superbet.com
 *.superbet.gr
@@ -924,6 +941,7 @@
 *.swaps.xyz
 *.swisspass.ch
 *.teams.cloudflare.com
+*.techbook.de
 *.telenor.se
 *.telenorinpli.se
 *.tesla.cn
@@ -953,6 +971,7 @@
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org
 *.trainpal.com,*.mytrainpal.com
 *.transferwise.com
+*.travelbook.de
 *.travix.com
 *.travix.io
 *.trekpleister.nl
@@ -1041,6 +1060,7 @@
 *.weareone.world
 *.wellsfargo.com
 *.wellsfargoadvisors.com
+*.welt.de
 *.werkenbijgamma.be
 *.werkenbijgamma.nl
 *.werkenbijkarwei.nl
@@ -1051,6 +1071,7 @@
 *.wien.gv.at
 *.wienkav.at
 *.wise.com
+*.wissen-sie-mehr.de
 *.withairbnb.com
 *.withbuddies.com
 *.withspotify.com
@@ -1063,8 +1084,6 @@
 *.worldcoin-distributors.com
 *.worldcoin.dev
 *.worldcoin.org
-*.wpengine.io
-*.wpesvc.net
 *.x.ai
 *.x.com
 *.xiangkankeji.cn
@@ -1230,6 +1249,7 @@
 172.26.2.133
 172.26.39.9
 174.44.253.152/29
+18.184.198.198, 18.185.214.59, 18.194.109.179, 3.121.117.72, 3.121.138.10, 3.121.138.128, 3.121.138.134, 3.121.138.170, 3.121.138.33, 3.121.138.43, 3.124.248.208, 35.156.137.39
 185.210.32.0/22
 185.26.180.0/22
 188.118.8.0/25
@@ -1606,6 +1626,7 @@ All internet facing Sky Italy assets
 All internet facing Sky UK/ROI assets
 All other SBB owned IT assets
 All other Web and mobile APPs owned by SBB 
+All other related services owned by HERE
 All the Blockchain Infrastructure
 Amazon Subsidiaries (Please only actively test explicitly stated scope)
 AmpliFi
@@ -1950,6 +1971,8 @@ GraphQL API (bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql)
 Grepolis
 Gutenberg
 H5G/Agency
+HERE WeGo Android
+HERE WeGo iOS
 HEY.app
 HEY.exe
 HPE Aruba Networking Central - New UI (see Scope Details)
@@ -2065,6 +2088,8 @@ LaunchDarkly Open Source SDKs
 Leaked Credentials and Secrets (Canva Employee/Contractor)
 Leaked Credentials and Secrets (Canva User)
 Leaked Employee API Keys
+Leaked Service Credentials
+Leaked/Compromised Employee Credentials
 Leaked/Сompromised Employee accounts
 Lens Studio
 Liberty 5 Pro Max D1204
@@ -2469,7 +2494,6 @@ WGP Slot Games
 WHOOP 4.0 STRAP
 WHOOP 5.0/MG STRAP
 WP Cloud
-WP Engine-developed WordPress Plugins and Themes
 WP-CLI
 Waiting Room
 Watsons Hong Kong Android
@@ -2560,8 +2584,10 @@ access.remitly.com
 accommodations.booking.com
 account-sprint.dynatracelabs.com
 account.acronis.com
+account.api.here.com
 account.booking.com
 account.box.com
+account.here.com
 account.krisp.ai
 account.ui.com
 accountinfodirect-snd.earlywarning.com
@@ -2608,6 +2634,7 @@ ads.reddit.com
 ads.snapchat.com
 ads.temu.com
 ads.tiktok.com
+adtechnology.axelspringer.com
 advisories.gitlab.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
 aff.capital.com
@@ -2651,6 +2678,7 @@ amp.reddit.com
 analytics-*.8x8.com
 analytics.krisp.ai
 analytics.pinelabs.com
+anduril.com
 anfcorp.com
 anker-nebula/id1319092174
 anthropic.atlassian.com
@@ -3042,6 +3070,7 @@ bf-gw-cf.latam-pe.saea1.aws.indriverapp.com
 bid-cf.africa.afso1.aws.indriverapp.com
 bid-gw-cf.africa.afso1.aws.indriverapp.com
 bid-gw-scf.sa.apse1.aws.indriverapp.com
+bild.de
 billingsupport.chaturbate.com
 bilt.marriott.com
 biolibre.ar
@@ -3143,6 +3172,7 @@ campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
+cancellation.prod.ps.welt.de
 canton-dev.gleague.nba.com
 canton-qa.gleague.nba.com
 canton.gleague.nba.com
@@ -3793,6 +3823,7 @@ dcfgateway*.marriott.com
 dco.tw.coupang.com
 de.bmw.connected.mobile20.row
 de.forescout.cloud
+dealer.prod.ps.axelspringer.de/purchases/*
 debug.8x8.com
 debug.clairvoyance.indrive.tech
 decision.swiftfinancial.com
@@ -3854,6 +3885,7 @@ dif.tech.plata
 digili.s-cloud.fi
 digital.kruidvat.be
 digital.kruidvat.nl
+digital.welt.de
 digitaloceanmirrors.com
 digitaloceanpartners.com
 digitaloceanstatus.com
@@ -3927,6 +3959,7 @@ editeurs.developer.monespacesante.fr
 editeurs.monespacesante.fr
 edition.iciparisxl.nl
 editionhotels.com
+editorial.one
 education.github.com
 eero Devices
 effecthouse.tiktok.com
@@ -3943,6 +3976,7 @@ en.casinohuone.com
 en.kolikkopelit.com
 en.ottokasino.com
 enroll.clearme.com
+epaper.welt.de
 epptool-ctld.verisign-grs.com (EPP service; DNS related)
 erie-dev.gleague.nba.com
 erie-qa.gleague.nba.com
@@ -4141,6 +4175,7 @@ go-cms.tw.coupang.com
 go.capital.com
 go.geneva-staging.com
 go.stripchat.com
+go.welt.de
 goldmansachsindices.com
 googleplace*.bykea.net
 gql.reddit.com
@@ -4454,7 +4489,6 @@ https://app.datadome.co
 https://app.easy4ipcloud.com
 https://app.ecwid.com/api/v3/
 https://app.fin.ai/
-https://app.getflywheel.com
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 https://app.ibotta.com/sign-in 
 https://app.intercom.com
@@ -4993,6 +5027,7 @@ https://fin.ai/
 https://finance.quintoandar.com.br/*
 https://financeiro.hostgator.com.br
 https://financialforce.com
+https://fitbit-lottery.getmoneytree.com/
 https://fivetran.com/login
 https://flags.expeng.optimizely.com
 https://flo.uri.sh
@@ -5019,7 +5054,6 @@ https://gemvisa.com.au
 https://geocode-beta.bykea.net
 https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
-https://getflywheel.com
 https://github.com/Aiven
 https://github.com/Aiven-Open
 https://github.com/Chia-Network/chia-blockchain
@@ -5405,7 +5439,6 @@ https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|
 https://m.thefork.com
 https://maf-holding-prod.apigee.net
 https://maf-properties-prod.apigee.net
-https://makeshift.film
 https://manage.cic-bug-bounty.auth0app.com/
 https://manage.statuspage.io
 https://manager.thefork.com
@@ -6146,7 +6179,6 @@ https://my.smartposti.lt
 https://my.smartposti.lv
 https://my.sogexia.com
 https://my.ultramobile.com
-https://my.wpengine.com
 https://my.wyze.com
 https://myaccount-staging.getmoneytree.com
 https://myapi.arlo.com
@@ -6253,7 +6285,6 @@ https://paymayabiller-prod.paymaya.com/
 https://payment-connectors.vendhq.com/
 https://payment.lafourchette.com
 https://payments.myntra.com
-https://payments.wpengine.com
 https://payoutapi.maya.ph/
 https://pci.kindredgroup.com
 https://pentest-app.onetrust.com/
@@ -6611,7 +6642,6 @@ https://stp.wien.gv.at
 https://student.classdojo.com
 https://student.monash
 https://studentplacements.monash.edu
-https://studiopress.blog
 https://stytch.com/blog
 https://stytch.com/dashboard
 https://suggestions.opera-api.com
@@ -6643,6 +6673,10 @@ https://test-escalations.vintedgo.com
 https://testflight.apple.com/join/Y4cHu289
 https://testflight.apple.com/join/vwFxXX7t
 https://testnet-blockexplorer.electroneum.com
+https://testnet.bybit.com/en/earn/rwa/
+https://testnet.bybit.com/en/trade/odds/
+https://testnet.bybit.com/en/trade/option/usdt/spcx
+https://testnet.bybit.com/en/trade/usdt/btcusdt
 https://tfb.t-mobile.com
 https://thatconceptstore.com
 https://thueringer-foerderportal.eu
@@ -6650,7 +6684,6 @@ https://ticket.multiplayer.classdojo.com
 https://tms.onecloud.harman.com
 https://tools-api.cryptocompare.com/
 https://toom.de
-https://torquemag.io
 https://tr.ee
 https://tracker.bugcrowd.com
 https://tracker.naspers.com/
@@ -6715,7 +6748,6 @@ https://valuations-sit.uat.proptrack.com
 https://vault-staging.getmoneytree.com
 https://vault.chiatest.net/
 https://vc.tasheer.com/
-https://velocitize.com
 https://vendor.riskrecon.com
 https://vendor.riskrecon.eu
 https://vendors.paddle.com
@@ -6762,7 +6794,6 @@ https://wmaudience.com
 https://world.planethoster.net
 https://worldscan.org/address/0xDe7Ec97CFDeE9F20f9d256F4a0A0d694479fa2E0
 https://wowjobs.ca
-https://wpengine.com
 https://ws.multiplayer.classdojo.com/
 https://ws.usaa.com
 https://wsloja.ifood.com.br
@@ -6810,6 +6841,8 @@ https://www.blockchain.com/
 https://www.bluehost.com/
 https://www.bookbeat.com
 https://www.bwin.com
+https://www.bybit.com/en/ai-bot/home
+https://www.bybit.com/en/stocks
 https://www.canva.com
 https://www.canva.com/developers/
 https://www.canva.com/en_au/help/chatgpt-templates/
@@ -7380,6 +7413,7 @@ liquidfiles.nexuzhealth.com
 liquidfiles.uzleuven.be
 liquidfilestest.uzleuven.be
 lirportal.ripe.net
+listing.here.com
 lists.nextcloud.com
 live-backstage.tiktok.com
 live-service.whatnot.com
@@ -7449,6 +7483,7 @@ lynx-qa2.wnba.com
 lynx.wnba.com
 m.airbnb.com
 m.badoo.com
+m.bild.de
 m.box.com
 m.chaturbate.com
 m.dana.id
@@ -7482,6 +7517,7 @@ manager.infomaniak.com/v3/*
 mangerbouger.fr
 map.8x8.com
 map.snapchat.com
+mapcreator.here.com
 mapi.moneyback.com.hk
 mark8.syfe.com
 marketing.fareharbor.com
@@ -7561,6 +7597,7 @@ meesho.io
 meetings.hyatt.com
 meetings.nba.com
 meetmarriottbonvoy.marriott.com
+meinkonto.bild.de
 meliplay.com.ar
 meliplay.com.pe
 meliplay.com.uy
@@ -7621,6 +7658,7 @@ mobileapi.lystit.com
 mobileapi.na1.insightly.com
 mobileapp.hyatt.com
 mobilevikings.be
+mobilitygraph.hereapi.com
 mod.reddit.com
 modefestival.com
 moments.marriottbonvoy.com
@@ -7720,6 +7758,7 @@ news.remitly.com
 newsletter-feedback.iciparisxl.nl
 newsletter.iciparisxl.nl
 newsletter.nextcloud.com
+newsos.com
 newsroom.images.hyatt.com
 nexotrack-p.exodus.io
 nexotrack.exodus.io
@@ -7973,6 +8012,7 @@ playwonderbox.com
 playwonderbox.com.br
 pm-gw-scf.sa.apse1.aws.indriverapp.com
 pmtcards.newegg.com
+politico.eu
 portal-api.coinmarketcap.com
 portal.23andme.com
 portal.arkoselabs.com
@@ -8107,6 +8147,7 @@ register.bpost.be
 register.capital.com
 registre.notebleue.pro
 registry.gitlab.com
+registry.service.api.platform.here.com
 rei.com
 relay.playcanvas.com
 releasor.payworks.com/
@@ -8234,6 +8275,7 @@ scp.watsons.com.tr
 scpapi.watsons.com.tr
 scripts.developersites.com.au
 scrutiny.swiftfinancial.com
+search.hereapi.com
 secure-dfadmin.deriv.com
 secure-supply-xml.booking.com
 secure.booking.com
@@ -8299,6 +8341,7 @@ shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
 sign.dropbox.com
+signin.auth.welt.de
 signup.sendgrid.com
 simperium.com
 simplenote.com
@@ -8503,6 +8546,8 @@ teamofficelist.nba.com
 teamportal.nba.com
 teams.krisp.ai
 teamvideo.nba.com
+technik.autobild.de
+technik.beta.autobild.de
 telemetry.stytch.com
 telenor.se
 teleport.fareharbor.engineering
@@ -8555,6 +8600,7 @@ tr-scf.euce1.indriverapp.com
 trade.ripio.com
 training.ui.com
 transact.playstation.com
+transit.hereapi.com
 translate.badoo.com
 travel.crypto.com
 travelagents.marriott.com/
@@ -8632,6 +8678,7 @@ vasdemos.visa.com
 vault2.faraday.ai
 vcc-*.8x8.com
 vcc-ce.8x8.com
+vector.hereapi.com
 vector.prd.iat.it.xvservice.net
 vercel.app
 vercel.com
@@ -8729,6 +8776,7 @@ webwinkel.parool.nl
 webwinkel.trouw.nl
 wechat.api.marriott.com
 welcome.infomaniak.com
+welt.de
 westchester-dev.gleague.nba.com
 westchester-qa.gleague.nba.com
 westchester.gleague.nba.com
@@ -9209,6 +9257,7 @@ x.razorpay.com
 xadsacademy.com
 xlence.iciparisxl.nl
 xtramile.grabpay.com
+xyz.api.here.com
 yelptop100.com
 yhteystietoni.posti.fi
 yimg.com

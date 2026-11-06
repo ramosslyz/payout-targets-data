@@ -4,6 +4,23 @@ www.ad.nl
 www.ad.nl/abonnementen
 Firmware: Mali Command Stream Frontend (CSF) Firmware
 Software: Mali GPU Kernel Driver
+newsos.com
+politico.eu
+adtechnology.axelspringer.com
+bild.de
+welt.de
+epaper.welt.de
+cancellation.prod.ps.welt.de
+digital.welt.de
+signin.auth.welt.de
+m.bild.de
+go.welt.de
+meinkonto.bild.de
+18.184.198.198, 18.185.214.59, 18.194.109.179, 3.121.117.72, 3.121.138.10, 3.121.138.128, 3.121.138.134, 3.121.138.170, 3.121.138.33, 3.121.138.43, 3.124.248.208, 35.156.137.39
+dealer.prod.ps.axelspringer.de/purchases/*
+editorial.one
+technik.autobild.de
+technik.beta.autobild.de
 www.bmw-motorrad.de
 www.bmw.de
 www.mini.de
@@ -137,6 +154,21 @@ www.fing.com*
 https://over.fluvius.be
 www.fluvius.be   
 www-a.fluvius.be  
+HERE WeGo iOS
+HERE WeGo Android
+registry.service.api.platform.here.com
+search.hereapi.com
+transit.hereapi.com
+vector.hereapi.com
+mobilitygraph.hereapi.com
+account.api.here.com
+account.here.com
+listing.here.com
+mapcreator.here.com
+xyz.api.here.com
+Leaked/Compromised Employee Credentials
+Leaked Service Credentials
+All other related services owned by HERE
 hln.be/inloggen
 hln.be/login
 hln.be/registreren
@@ -696,16 +728,6 @@ fm.voiapp.io
 https://repair.voiweb.net
 report.voi.com
 voi.com
-https://app.getflywheel.com
-https://getflywheel.com
-https://my.wpengine.com
-https://payments.wpengine.com
-https://wpengine.com
-WP Engine-developed WordPress Plugins and Themes
-https://makeshift.film
-https://studiopress.blog
-https://torquemag.io
-https://velocitize.com
 www.watsons.com.hk
 www10.watsons.com.hk
 Watsons Hong Kong Android

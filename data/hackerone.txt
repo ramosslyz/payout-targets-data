@@ -92,6 +92,7 @@ www.lineup.com.mx
 www.livenation.co.uk
 www.onthewaterfrontfestival.com
 www.royalarena.dk
+anduril.com
 1console.twilio.com
 Any host/web property verified to be owned by Twilio et al.
 accounts.twilio.com
@@ -1020,6 +1021,12 @@ http://www.bybit.com/trade/tradfi/
 http://www.byreal.io
 https://apps.apple.com/us/app/bybit-app/id1488296980
 https://play.google.com/store/apps/details?id=com.bybit.app&hl=en
+https://testnet.bybit.com/en/earn/rwa/
+https://testnet.bybit.com/en/trade/odds/
+https://testnet.bybit.com/en/trade/option/usdt/spcx
+https://testnet.bybit.com/en/trade/usdt/btcusdt
+https://www.bybit.com/en/ai-bot/home
+https://www.bybit.com/en/stocks
 <locale>.trip.com
 com.trip.android
 com.trip.ios
