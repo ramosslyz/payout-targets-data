@@ -102,7 +102,6 @@
 *.app.asana.com
 *.app.personio-dev.com
 *.app.personio.com
-*.appmiral.com
 *.arc.io
 *.arlo.com (subdomains impacting production customer-facing services)
 *.arlocloud.com
@@ -210,8 +209,6 @@
 *.cloudways.com
 *.clovesoftware-dev.com
 *.clovesoftware.com
-*.cm.com
-*.cmtelecom.com
 *.coda.io
 *.cognitiveperformer.com
 *.coinbase-corp.com
@@ -517,7 +514,6 @@
 *.labs.8x8.com
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
-*.lansweeper.com
 *.latitudefinancial.co.nz
 *.latitudefinancial.com
 *.latitudefinancial.com.au
@@ -933,7 +929,6 @@
 *.thetradedesk.com
 *.thinkingphones.com
 *.thinkingphones.net
-*.ticketing.cm.com
 *.ticketnew.com
 *.tiktok.com
 *.tiktokcdn.com

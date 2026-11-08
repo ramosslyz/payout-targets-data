@@ -31,10 +31,6 @@
 *.bpost.cloud
 *.landmarkglobal-group.com
 *.stbpost.be
-*.ticketing.cm.com
-*.appmiral.com
-*.cm.com
-*.cmtelecom.com
 *.backend-capital.com
 *.capital.com
 *.itcapital.io
@@ -96,7 +92,6 @@ sks-*.exo.io
 *.kruidvat.be
 *.trekpleister.nl
 *.prijsmepper.nl
-*.lansweeper.com
 *.libelle.nl
 *.marionnaud.fr
 *.marionnaud.es

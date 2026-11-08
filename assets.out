@@ -115,7 +115,6 @@
 *.app.asana.com
 *.app.personio-dev.com
 *.app.personio.com
-*.appmiral.com
 *.arc.io
 *.arlo.com (subdomains impacting production customer-facing services)
 *.arlocloud.com
@@ -223,8 +222,6 @@
 *.cloudways.com
 *.clovesoftware-dev.com
 *.clovesoftware.com
-*.cm.com
-*.cmtelecom.com
 *.coda.io
 *.cognitiveperformer.com
 *.coinbase-corp.com
@@ -530,7 +527,6 @@
 *.labs.8x8.com
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
-*.lansweeper.com
 *.latitudefinancial.co.nz
 *.latitudefinancial.com
 *.latitudefinancial.com.au
@@ -946,7 +942,6 @@
 *.thetradedesk.com
 *.thinkingphones.com
 *.thinkingphones.net
-*.ticketing.cm.com
 *.ticketnew.com
 *.tiktok.com
 *.tiktokcdn.com
@@ -1151,7 +1146,6 @@
 1142114207
 1151746202
 1192506963
-1199521324
 1200391796
 121.200.237.36/29
 1215220850
@@ -1228,7 +1222,6 @@
 1552455423
 1558129454
 1579372261
-1579530451
 1589071345
 1591003012
 1592204907
@@ -2703,8 +2696,6 @@ api.chainabuse-staging.com
 api.circle.com
 api.cloudflare.com
 api.cloudways.com
-api.cm.com
-api.cmtelecom.com
 api.coinmarketcap.com
 api.creditkarma.com
 api.deriv.com
@@ -2766,7 +2757,6 @@ api.instacart.com
 api.krisp.ai
 api.kruidvat.be
 api.kruidvat.nl
-api.lansweeper.com
 api.larksuite.com
 api.linkedin.com
 api.loanbuilder.com
@@ -2897,8 +2887,6 @@ app.koho.ca
 app.krisp.ai
 app.kruidvat.be
 app.kruidvat.nl
-app.lansweeper.com
-app.lansweeper.com/trial
 app.larksuite.com
 app.launchdarkly.com
 app.livenation.com
@@ -2942,7 +2930,6 @@ app.watsons.com.tr
 app.whoop.com
 app3.rewire.to
 applause1.magisto.com
-appmiral.com
 apps-accpt.portofantwerp.com
 apps-accpt.portofantwerpbruges.com
 apps.8x8.com
@@ -3003,11 +2990,9 @@ authentication.clearme.com
 authentication.wolt.com
 autocomplete.booking.com
 autodiscover.uzleuven.be
-autoupdateapi.lansweeper.com
 av.indrive.com
 b5s.hackerone-ext-content.com
 backend-sdk.uat.private.unico.run
-backoffice.lansweeper.com
 backstage.io
 badoo.com
 badoocdn.com
@@ -3110,7 +3095,6 @@ bugcrowd-*your-own-instance*.cloud.mattermost.com/
 bugcrowd-pam-###.oktapreview.com
 bugcrowd-pam-###.pam.oktapreview.com
 builder.hostinger.com
-building-blocks.com
 bulkexports.twilio.com
 bulten.watsons.com.tr
 business.kayak.com
@@ -3267,11 +3251,7 @@ cloud.forescout.com
 cloud8.8x8.com
 cloudflareworkers.com
 cm-cf.euce1.indriverapp.com
-cm.com/[locale]/app/*
-cm.com/[locale]/register
-cm.com/app/messagingtrial/
 cmapi.tw.coupang.com
-cmcom.atlassian.net
 cmf-cf.euce1.indriverapp.com
 cms.monespacesante.fr
 co-gw-scf.sa.apse1.aws.indriverapp.com
@@ -3377,7 +3357,6 @@ com.capital.trading
 com.clay.ios
 com.clearme.Clear
 com.clearme.clearapp
-com.cm.cashregister
 com.coinbase.android
 com.coinspot.app
 com.coloros.assistantscreen
@@ -3574,7 +3553,6 @@ com.stripe.android.dashboard
 com.superhuman.mail
 com.superhuman.mail 
 com.syfe
-com.ticketflow.ticketscanner
 com.tiktok.tv
 com.tiktokshop.seller
 com.tinder
@@ -3820,7 +3798,6 @@ delen/id1064839588
 delivery-webview.indrive.com
 demo.arkoselabs.com
 demo.fareharbor.com
-demo.globalticket.com/*
 demo.plaid.com
 depliantdejouets.kruidvat.be
 deriv.partners
@@ -3887,7 +3864,6 @@ doaction.org
 docs.anthropic.com
 docs.gitlab.com
 docs.gocardless.com
-docs.lansweeper.com
 docs.launchdarkly.com
 docs.nextcloud.com
 docs.redoxengine.com
@@ -3934,7 +3910,6 @@ ecommerce.hostinger.com
 ecosystem-experience.super-id.net
 ecrf.uzleuven.be
 edge.bookbeat.com
-edge.lansweeper.com
 edgeapi.slack.com
 editeur.am.monespacesante.fr
 editeur.api.monespacesante.fr
@@ -4008,7 +3983,6 @@ falcon-sandbox.com
 fareharborsites.com
 faucet-api.polygon.technology/
 faucet.polygon.technology
-fb.lansweeper.com
 fch-cf.euce1.indriverapp.com
 fch-gw-cf.euce1.indriverapp.com
 fch-gw-scf.euce1.indriverapp.com
@@ -5100,7 +5074,6 @@ https://github.com/circlefin/stellar-cctp
 https://github.com/circlefin/sui-cctp
 https://github.com/cloudflare/vinext
 https://github.com/cloudflare/workerd
-https://github.com/cmdotcom
 https://github.com/coinbase/*
 https://github.com/coinbase/cb-mpc
 https://github.com/coinbase/cb-mpc-go
@@ -7416,7 +7389,6 @@ login-qa.wnba.com
 login-uat.nba.com
 login-uat.wnba.com
 login.arkane.network
-login.cm.com
 login.databricks.com
 login.delen.be 
 login.delen.ch 
@@ -7425,7 +7397,6 @@ login.exodus.com
 login.infomaniak.com
 login.insightly.com
 login.koho.ca
-login.lansweeper.com
 login.nba.com
 login.oyens.com
 login.playcanvas.com
@@ -8854,7 +8825,6 @@ www.cheapflights.com
 www.checkfelix.com
 www.clearme.com
 www.cloudways.com
-www.cm.com
 www.coinspot.com.au
 www.compass.com
 www.counter-strike.net
@@ -8976,7 +8946,6 @@ www.kruidvat.nl
 www.kruidvatkids.nl
 www.lab-recherche-environnement.org
 www.landmarkcinemas.com
-www.lansweeper.com
 www.libelle.nl
 www.lineup.com.mx
 www.linkedin.com
