@@ -679,14 +679,6 @@ login.arkane.network
 login.venly.io
 wallet.venly.io
 api-wallet-sandbox.venly.io
-Voi – e-scooters & e-bikes
-Voi – e-scooter & e-bike hire
-https://api.voiapp.io/
-mds.voiapp.io
-fm.voiapp.io
-https://repair.voiweb.net
-report.voi.com
-voi.com
 www.watsons.com.hk
 www10.watsons.com.hk
 Watsons Hong Kong Android
