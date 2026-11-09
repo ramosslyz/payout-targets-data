@@ -31,6 +31,10 @@
 *.bpost.cloud
 *.landmarkglobal-group.com
 *.stbpost.be
+*.ticketing.cm.com
+*.appmiral.com
+*.cm.com
+*.cmtelecom.com
 *.backend-capital.com
 *.capital.com
 *.itcapital.io
@@ -146,8 +150,21 @@ sks-*.exo.io
 *.mir.uzleuven.be
 *idp*.uzleuven.be
 *stag*.uzleuven.be
+*.topperpay.com
+*.optimuscards.com
+*.uphold.com
 *.vtm.be
 *.vtmgo.be
+*.voi.com
+*.voiscooters.com
+*. advancedcustomfields.com
+*. bettersearchreplace.com
+*.deliciousbrains.com
+*.localwp.com
+*.nitropack.io
+*.studiopress.com
+*.wpengine.io
+*.wpesvc.net
 *.watsons.com.hk
 *.watsons.co.th
 *.watsons.com.tw

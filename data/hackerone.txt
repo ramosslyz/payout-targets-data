@@ -120,7 +120,6 @@ frontline-api.twilio.com
 github.com/segmentio
 github.com/sendgrid
 github.com/stytchauth/is-agent
-github.com/stytchauth/samlshield
 github.com/stytchauth/stytch-android
 github.com/stytchauth/stytch-browser
 github.com/stytchauth/stytch-dotnet
@@ -2185,7 +2184,6 @@ Vega OS
 amazon.speech.sim
 amazonpayinsurance.in
 com.amazon.aba.application
-com.amazon.amazonone.androidapp
 com.amazon.amazonvideo.livingroom
 com.amazon.astro
 com.amazon.avod.thirdpartyclient
@@ -3449,6 +3447,11 @@ www.semrush.com
 com.quora.android
 com.quora.app.mobile
 http://poe.com
+Brave Browser Desktop
+Brave websites
+com.brave.browser
+com.brave.ios.browser
+https://github.com/brave/*, https://github.com/brave-intl/*
 Burp Collaborator
 Burp Suite DAST
 Burp Suite Pro/Community
