@@ -719,16 +719,6 @@ fm.voiapp.io
 https://repair.voiweb.net
 report.voi.com
 voi.com
-https://app.getflywheel.com
-https://getflywheel.com
-https://my.wpengine.com
-https://payments.wpengine.com
-https://wpengine.com
-WP Engine-developed WordPress Plugins and Themes
-https://makeshift.film
-https://studiopress.blog
-https://torquemag.io
-https://velocitize.com
 www.watsons.com.hk
 www10.watsons.com.hk
 Watsons Hong Kong Android

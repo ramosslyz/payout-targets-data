@@ -1579,6 +1579,7 @@ https://chatgpt.com
 https://chat.openai.com
 https://api.openai.com
 https://platform.openai.com/playground
+https://chatgpt.com/dots/
 ChatGPT Desktop
 Codex CLI
 https://openai.com/
