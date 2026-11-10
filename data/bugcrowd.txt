@@ -409,6 +409,7 @@ https://play.google.com/store/apps/details?id=com.bitgo.verify&hl=en_US
 https://apps.apple.com/us/app/bitgo-verify/id1608937235
 https://play.google.com/store/apps/details?id=com.bitgo.mobileapp
 https://apps.apple.com/us/app/bitgo/id6739010408
+https://apps.apple.com/app/bitpanda-buy-bitcoin-crypto/id1449018960
 https://web.bitpanda.com
 https://www.bitpanda.com/
 https://api.bitpanda.com
@@ -416,7 +417,7 @@ wss://socket.bitpanda.com
 All the Blockchain Infrastructure
 https://account.bitpanda.com
 https://play.google.com/store/apps/details?id=com.bitpanda.bitpanda
-https://apps.apple.com/app/bitpanda-buy-bitcoin-crypto/id1449018960
+https://login.bitpanda.com
 https://blog.bitpanda.com/en
 https://www.bitpanda.com/academy/en/
 https://bitso.com
