@@ -684,6 +684,7 @@
 *.operationstechnology.io
 *.opr.news
 *.opsgenie.com
+*.optimuscards.com
 *.optus.com.au
 *.origindigital-pac.com.au
 *.osite99.com
@@ -888,6 +889,8 @@
 *.springtools.de
 *.srvcs.tumblr.com
 *.stadtwien.onmicrosoft.com
+*.stag.tomorrowland.com
+*.stag.weareone.world
 *.staging-airtableblocks.com
 *.staging.airtable.com
 *.staging.cloud.8x8.com
@@ -936,8 +939,10 @@
 *.tinderops.net
 *.tinderwebstaging.com
 *.tktnew.com
+*.tomorrowland.com
 *.tools.thefork.tech
 *.toolsforhumanity.com
+*.topperpay.com
 *.tospotify.com
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org
 *.trainpal.com,*.mytrainpal.com
@@ -977,6 +982,7 @@
 *.unreal-agents.jitsi.net
 *.unrealengine.com
 *.unrealtournament.com
+*.uphold.com
 *.uscc.com
 *.uscc.net
 *.uscellular.com
@@ -988,6 +994,7 @@
 *.venmo.com
 *.vercel.com
 *.vercel.live
+*.veriff.com
 *.verily.com/
 *.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)
@@ -1009,8 +1016,6 @@
 *.visamiddleeast.com
 *.vliegwinkel.nl
 *.vod2.infomaniak.com
-*.voi.com
-*.voiscooters.com
 *.volkskrant.nl
 *.volkswagen.de
 *.vpn.hackerone.net
@@ -1028,6 +1033,7 @@
 *.watsons.vn
 *.wavecell.com
 *.wealthsimple.com
+*.weareone.world
 *.wellsfargo.com
 *.wellsfargoadvisors.com
 *.welt.de

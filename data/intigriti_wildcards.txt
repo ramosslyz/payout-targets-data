@@ -136,6 +136,10 @@ sks-*.exo.io
 *.superdrug.com
 *.savers.co.uk
 *.theperfumeshop.com
+*.weareone.world
+*.stag.tomorrowland.com
+*.stag.weareone.world
+*.tomorrowland.com
 *.trouw.nl
 *.tweakblogs.net
 *.tweakers.net
@@ -147,10 +151,12 @@ sks-*.exo.io
 *.mir.uzleuven.be
 *idp*.uzleuven.be
 *stag*.uzleuven.be
+*.topperpay.com
+*.optimuscards.com
+*.uphold.com
 *.vtm.be
 *.vtmgo.be
-*.voi.com
-*.voiscooters.com
+*.veriff.com
 *.watsons.com.hk
 *.watsons.co.th
 *.watsons.com.tw
