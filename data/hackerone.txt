@@ -3777,18 +3777,20 @@ https://github.com/basecamp/trix
 https://github.com/basecamp/writebook
 launchpad.37signals.com
 world.hey.com
-Authentication & ATO
+Shop Minis
 Shopify Developed Apps
 Shopify Mobile Applications
 Shopify Third Party Apps
 Shopify Third Party Store
+Sidekick
 accounts.shopify.com
 admin.shopify.com
 arrive-server.shopifycloud.com
+help.shop.app
 https://github.com/Shopify/*
-linkpop.com
 partners.shopify.com
 shop.app
+shop.com
 shopify.plus
 shopifyinbox.com
 your-store.myshopify.com

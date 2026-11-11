@@ -1096,6 +1096,7 @@
 *.shopifycloud.com
 *.shopifycs.com
 *.shopifykloud.com
+*.shopifysvc.com
 *.sidefx.com
 *.signalpath.com/
 *.signin.telenor.se
@@ -3120,11 +3121,13 @@ Sequoia git Specification
 Services
 Services/Mobile/GenAI
 Shared OpenPGP Certificate Directory
+Shop Minis
 Shopify Developed Apps
 Shopify Mobile Applications
 Shopify Third Party Apps
 Shopify Third Party Store
 SiW917
+Sidekick
 SimScale API
 SimScale Forum
 SimScale Platform
@@ -5659,6 +5662,7 @@ help.marriott.com
 help.netflix.com
 help.nextcloud.com
 help.redoxengine.com
+help.shop.app
 help.sketchfab.com
 help.steampowered.com
 help.twilio.com
@@ -11577,6 +11581,7 @@ shipit.rubygems.org
 shop-id.tokopedia.com
 shop-pay-app-api.truelayer.com
 shop.app
+shop.com
 shop.demorgen.be
 shop.dyson.co.za
 shop.dyson.tw

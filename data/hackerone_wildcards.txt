@@ -630,6 +630,7 @@ www.paypal-*.com
 *.shopifycloud.com
 *.shopifycs.com
 *.shopifykloud.com
+*.shopifysvc.com
 *.airbnb-aws.com
 *.airbnb.com
 *.airbnb.org
