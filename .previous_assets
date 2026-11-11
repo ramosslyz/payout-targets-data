@@ -564,6 +564,7 @@
 *.hikops.com
 *.hikops.com,
 *.hilton.com
+*.hilton.com.cn
 *.hilton.io
 *.hiltonbusinessonline.com
 *.hiltonlocalbiz.com
@@ -3750,6 +3751,7 @@ api.gx.games/pub
 api.gx.games/session
 api.gx.me/me
 api.hackerone.com
+api.humantoken.unico.app
 api.iciparisxl.be
 api.iciparisxl.lu
 api.iciparisxl.nl
@@ -5097,6 +5099,7 @@ dashboard.pluralonline.com
 dashboard.privy.io
 dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
+dashboard.unico.app
 dashboard.web3auth.io
 dashboard.xoswap.com
 data-test.nba.com
@@ -5176,6 +5179,7 @@ developer.playcanvas.com
 developer.plus.authorize.net
 developer.posti.com
 developer.swapcard.com/event-admin/graphql
+developer.unico.io
 developer.valvesoftware.com
 developer.visa.com
 developer.worldcoin.org
@@ -10028,6 +10032,7 @@ hubacc.vznkul.be/services/acceptance/interhub/InterHubService
 hubacc.vznkul.be/services/acceptance/intrahub/IntraHubService
 hubspot.net
 huddle.nba.com
+humantoken.unico.app
 humo.be/registreren
 hungrygowhere.com
 hyatt.com
