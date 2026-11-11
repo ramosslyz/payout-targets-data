@@ -151,6 +151,9 @@ sks-*.exo.io
 *.mir.uzleuven.be
 *idp*.uzleuven.be
 *stag*.uzleuven.be
+*.topperpay.com
+*.optimuscards.com
+*.uphold.com
 *.vtm.be
 *.vtmgo.be
 *.veriff.com

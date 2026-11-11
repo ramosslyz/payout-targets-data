@@ -138,6 +138,10 @@ HelloFax.com
 com.dropbox.dash
 dash.ai
 dash.dropbox.com
+https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1208823298#gid=1208823298
+https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1281087877#gid=1281087877
+https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1767553194#gid=1767553194
+https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1817816238#gid=1817816238
 my.eurid.eu
 https://portal.exoscale.com/
  https://api-*exoscale.com/v2
@@ -702,6 +706,30 @@ mirc.uzleuven.be
 prddnighting01.uzleuven.be
 w1.uzleuven.be/random
 ziekenhuisschool.be
+portal.enterprise.uphold.com
+api.portal.enterprise.uphold.com 
+Uphold: Buy BTC, ETH and 360+
+Uphold: Buy BTC, ETH and 300+
+wallet-sandbox.uphold.com
+api-sandbox.uphold.com
+docs.uphold.com
+api-sandbox.uphold.com/graphql
+app.sandbox.topperpay.com
+api.sandbox.topperpay.com
+graphql.sandbox.topperpay.com/graphql
+docs.topperpay.com
+www.topperpay.com
+https://api.enterprise.sandbox.uphold.com/widgets
+https://api.enterprise.sandbox.uphold.com/trading
+https://api.enterprise.sandbox.uphold.com/market-pulse
+https://api.enterprise.sandbox.uphold.com/kyc-connector
+https://api.enterprise.sandbox.uphold.com/core
+https://api.enterprise.sandbox.uphold.com/topper
+uatcms.optimuscards.com
+docs.optimuscards.com
+www.optimuscards.com
+github.com/uphold/*
+www.uphold.com
 API's
 Sockets
 Mobile Applications

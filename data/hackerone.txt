@@ -3095,6 +3095,9 @@ itv7.itv.com
 metrocompetitions.com
 rafflee.co.uk
 super6.skysports.com
+All Other BitMEX Assets
+testnet.bitmex.com
+www.bitmex.com
 CrowdStrike public infrastructure
 apps.apple.com/us/app/crowdstrike-falcon/id1458815656
 falcon-sandbox.com
