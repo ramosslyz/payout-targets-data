@@ -2293,11 +2293,6 @@ api.evernote.com
 api.stage.evernote.com
 com.evernote
 www.evernote.com
-https://filezilla-project.org/download.php?type=server&show_all=1
-https://fzssh.filezilla-project.org/download.php
-https://svn.filezilla-project.org/svn/FileZilla3/trunk/
-https://svn.filezilla-project.org/svn/libfilezilla/trunk
-https://svn.filezilla-project.org/svn/libfilezilla/trunk/
 Android Box Mobile App
 Box Drive
 Box Tools
@@ -4095,7 +4090,6 @@ dash.cloudflare.com
 http://github.com/cloudflare
 https://github.com/cloudflare/vinext
 https://github.com/cloudflare/workerd
-https://php-rce.cloudflare.app/
 one.dash.cloudflare.com
 Beeper
 Crowdsignal

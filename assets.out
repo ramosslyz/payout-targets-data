@@ -1008,7 +1008,6 @@
 *.venmo.com
 *.vercel.com
 *.vercel.live
-*.veriff.com
 *.verily.com/
 *.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)
@@ -1194,7 +1193,6 @@
 146.109.68.0/24
 146.109.8.0/21
 146.109.8.0/22
-1467907532
 1474700 (Steam app id)
 1475021574
 1476615877
@@ -2642,7 +2640,6 @@ airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 ak-static-dev.nba.com
 akismet.com
-alchemy.veriff.com
 alert.logitech.com
 alfred.syfe.com
 allstar-dev.nba.com
@@ -2740,7 +2737,6 @@ api.ezvizlife.com
 api.faraday.ai
 api.fi.dyson.com
 api.figma.com
-api.flamingo-eu.veriff.com
 api.fortress.com.hk
 api.geneva-staging.com
 api.github.com
@@ -2843,9 +2839,7 @@ api.tumblr.com
 api.twilio.com
 api.unleashed.be
 api.upwork.com/graphql
-api.us.veriff.me
 api.vault.chiatest.net
-api.veriff.me
 api.vhx.tv
 api.vimeo.com
 api.watsons.co.id
@@ -3600,7 +3594,6 @@ com.urbanclap.urbanclap
 com.valmo.valmo
 com.valvesoftware.Steam
 com.venmo
-com.veriff.demo
 com.vilcsak.bitcoin2
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
@@ -3863,7 +3856,6 @@ developers.pismo.io
 developers.reddit.com
 developers.tiktok.com
 developers.tw.coupangcorp.com
-developers.veriff.me
 device.marriott.com
 dh-cf.mena.meso1.aws.indriverapp.com
 dh-gw-scf.sa.apse1.aws.indriverapp.com
@@ -5021,12 +5013,11 @@ https://fi.harmanaudio.com
 https://fi.harmankardon.com
 https://fi.jbl.com
 https://fileshare.ze.monash.edu
-https://filezilla-project.org/download.php?type=server&show_all=1
 https://fin.ai/
 https://finance.quintoandar.com.br/*
 https://financeiro.hostgator.com.br
 https://financialforce.com
-https://fitbit-lottery.getmoneytree.com/
+https://fitbit-lottery-staging.getmoneytree.com/
 https://fivetran.com/login
 https://flags.expeng.optimizely.com
 https://flo.uri.sh
@@ -5042,7 +5033,6 @@ https://forum.newrelic.com
 https://fr.jbl.com
 https://fw.ring.com/*
 https://fx-qa.np.bolsasymercados.es/
-https://fzssh.filezilla-project.org/download.php
 https://gateway.optus.com.au/api/ai-search/search/v1
 https://gatewaydsapprd.marriott.com/v1/
 https://gatewaydsapprd.marriott.com/v2/
@@ -6305,7 +6295,6 @@ https://performance.neogov.com
 https://performancemarketing.mastercard.com/portal/
 https://pets.webmd.com
 https://pg.paymaya.com
-https://php-rce.cloudflare.app/
 https://pinepg.in
 https://pinepgconsole.in:9099
 https://pioneer.truata.com/
@@ -6672,9 +6661,6 @@ https://support.moovitapp.com/hc/en-us/articles/11389054527122-WayFinder-Augment
 https://support.newrelic.com/
 https://support.okta.com
 https://supportportal.thalesgroup.com
-https://svn.filezilla-project.org/svn/FileZilla3/trunk/
-https://svn.filezilla-project.org/svn/libfilezilla/trunk
-https://svn.filezilla-project.org/svn/libfilezilla/trunk/
 https://sycamore.moneyboxapp.org
 https://t-mobile.com
 https://takeaway.com
@@ -7491,7 +7477,6 @@ longisland-qa.gleague.nba.com
 longisland.gleague.nba.com
 lookup.nextcloud.com
 lookups.twilio.com
-louvre.veriff.me
 loyalty.tw.coupang.com
 lps.dmp.gouv.fr
 lps2.dmp.gouv.fr
@@ -7512,7 +7497,6 @@ m.reddit.com
 m.tw.coupang.com
 maestro.8x8.cloud
 magazine.kruidvat.be
-magic.veriff.me
 magisto.com,www.magisto.com
 mail.hostinger.com
 mail.infomaniak.com
@@ -8444,8 +8428,6 @@ staking-api.polygon.technology
 staking.polygon.technology
 static*.twilio.com
 static.apps.nextcloud.com
-station.veriff.com
-stationapi.veriff.com
 stats-dev.gleague.nba.com
 stats-dev.nba.com
 stats-qa.gleague.nba.com
@@ -9160,7 +9142,6 @@ www.urbancompany.com
 www.uzleuven.be
 www.valmo.in
 www.valvesoftware.com
-www.veriff.com
 www.vfsvisaonline.com
 www.vimeo.com
 www.vinci-vie.fr
