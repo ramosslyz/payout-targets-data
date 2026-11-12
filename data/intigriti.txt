@@ -168,6 +168,21 @@ www.fing.com*
 https://over.fluvius.be
 www.fluvius.be   
 www-a.fluvius.be  
+HERE WeGo iOS
+HERE WeGo Android
+registry.service.api.platform.here.com
+search.hereapi.com
+transit.hereapi.com
+vector.hereapi.com
+mobilitygraph.hereapi.com
+account.api.here.com
+account.here.com
+listing.here.com
+mapcreator.here.com
+xyz.api.here.com
+Leaked/Compromised Employee Credentials
+Leaked Service Credentials
+All other related services owned by HERE
 hln.be/inloggen
 hln.be/login
 hln.be/registreren
@@ -731,6 +746,34 @@ login.arkane.network
 login.venly.io
 wallet.venly.io
 api-wallet-sandbox.venly.io
+1467907532
+alchemy.veriff.com
+api.flamingo-eu.veriff.com
+api.us.veriff.me
+api.veriff.me
+com.veriff.demo
+louvre.veriff.me
+magic.veriff.me
+station.veriff.com
+stationapi.veriff.com
+developers.veriff.me
+www.veriff.com
+desktop.water-link.be
+pit.water-link.be
+indussiibis.water-link.be
+water-link-jaarverslag.be
+aquawardsspatial.water-link.be
+aquawardsoperate.water-link.be
+waterkracht-levering.be
+induss.eu
+rio-link.be
+water-kracht-levering.eu
+adelta.be
+waterkracht-levering.eu
+aww.eu
+waterlink.be
+water-kracht-levering.be
+waterstoringen.be
 www.watsons.com.hk
 www10.watsons.com.hk
 Watsons Hong Kong Android
