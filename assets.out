@@ -250,8 +250,6 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
-*.data.api.platform.here.com
-*.datacamp.com
 *.dbt.com
 *.dbtlabs.com
 *.dcfgateway.marriott.com
@@ -435,8 +433,6 @@
 *.hellofax.com
 *.hellosign.com
 *.helloworks.com
-*.here.com
-*.hereapi.com
 *.hey.bild.de
 *.hey.com
 *.hhc247.org
@@ -605,7 +601,6 @@
 *.mercadopago.com.mx
 *.mercadopago.com.pe
 *.mercadopago.com.uy
-*.metrics.platform.here.com
 *.metronome.com
 *.mevo.com
 *.mgbcareconnect.org
@@ -743,7 +738,6 @@
 *.pipopay.com
 *.plannthat.com
 *.platacard.mx
-*.platform.here.com
 *.platformservices.io
 *.play.ownit.se
 *.playstation.com
@@ -826,7 +820,6 @@
 *.rocketleague.com
 *.rockstargames.com
 *.romwe.com
-*.router.hereapi.com
 *.rtbscale.com
 *.runnr.in
 *.s-cloud.net
@@ -845,7 +838,6 @@
 *.sc-core.net
 *.sc-corp.net
 *.scatec.io
-*.scbe.api.here.com
 *.scopely.com
 *.scopely.io
 *.sec-tunnel.com
@@ -929,7 +921,6 @@
 *.stripchat.com
 *.stripe.com
 *.stylebook.de
-*.subp-router.hereapi.com
 *.super.xyz
 *.superbet.com
 *.superbet.gr
@@ -1629,7 +1620,6 @@ All internet facing Sky Italy assets
 All internet facing Sky UK/ROI assets
 All other SBB owned IT assets
 All other Web and mobile APPs owned by SBB 
-All other related services owned by HERE
 All the Blockchain Infrastructure
 Amazon Subsidiaries (Please only actively test explicitly stated scope)
 AmpliFi
@@ -1971,8 +1961,6 @@ GraphQL API (bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql)
 Grepolis
 Gutenberg
 H5G/Agency
-HERE WeGo Android
-HERE WeGo iOS
 HEY.app
 HEY.exe
 HPE Aruba Networking Central - New UI (see Scope Details)
@@ -2088,8 +2076,6 @@ LaunchDarkly Open Source SDKs
 Leaked Credentials and Secrets (Canva Employee/Contractor)
 Leaked Credentials and Secrets (Canva User)
 Leaked Employee API Keys
-Leaked Service Credentials
-Leaked/Compromised Employee Credentials
 Leaked/Сompromised Employee accounts
 Lens Studio
 Liberty 5 Pro Max D1204
@@ -2584,10 +2570,8 @@ access-sandbox.remitly.com
 access.remitly.com
 accommodations.booking.com
 account.acronis.com
-account.api.here.com
 account.booking.com
 account.box.com
-account.here.com
 account.krisp.ai
 account.ui.com
 accountinfodirect-snd.earlywarning.com
@@ -2849,7 +2833,6 @@ api.steampowered.com
 api.stg.inspectorio.com
 api.stripe.com
 api.stytch.com
-api.super-id.net
 api.superdrug.com
 api.swapcard.com
 api.swiftfinancial.com
@@ -2893,9 +2876,6 @@ app.alasco.de
 app.basecamp.com
 app.box.com
 app.circle.com
-app.datacamp.com/certification
-app.datacamp.com/groups
-app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -2983,9 +2963,6 @@ aquiristech.com
 arrive-server.shopifycloud.com
 arsentomsky.indrive.com
 askpeopleteam.visa.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com 
-assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.koho.ca
@@ -3182,7 +3159,6 @@ campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
-campus.datacamp.com
 cancellation.prod.ps.welt.de
 canton-dev.gleague.nba.com
 canton-qa.gleague.nba.com
@@ -3415,7 +3391,6 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
-com.datacamp
 com.dd.doordash
 com.deribit
 com.dolap.android
@@ -3962,7 +3937,6 @@ ecom-data.trekpleister.nl
 ecom-static.kruidvat.be
 ecom-static.kruidvat.nl
 ecommerce.hostinger.com
-ecosystem-experience.super-id.net
 ecrf.uzleuven.be
 edge.bookbeat.com
 edgeapi.slack.com
@@ -4279,7 +4253,6 @@ http://artists.soundcloud.com/
 http://auth.ripio.com
 http://backend-api.devicecloud.production.forescoutcloud.net/api/v1/settings
 http://bumba.global
-http://chatbot.super-id.net
 http://collaboration.rei.com
 http://data-api.coindesk.com/
 http://datapod-1-druid-ingest.production.forescoutcloud.net/v1/upload
@@ -4546,7 +4519,6 @@ https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/certsy/id1617796159
-https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/jora-jobs-job-search-work/id917565665
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
@@ -4590,7 +4562,6 @@ https://apps.apple.com/gb/app/moneybox-save-and-invest/id1049797239
 https://apps.apple.com/gb/app/partycasino-play-casino-games/id818432894
 https://apps.apple.com/gb/app/partypoker-texas-holdem-poker/id687740281
 https://apps.apple.com/id/app/dana/id1437123008
-https://apps.apple.com/id/app/superbank/id6444720285
 https://apps.apple.com/ie/app/doctolib-siilo/id1083002150
 https://apps.apple.com/ie/app/new-relic/id594038638
 https://apps.apple.com/in/app/city-centres/id1448471823
@@ -6483,7 +6454,6 @@ https://play.google.com/store/apps/details?id=es.grupobme.bmeconecta
 https://play.google.com/store/apps/details?id=es.mediamarkt.app
 https://play.google.com/store/apps/details?id=exodusmovement.exodus&hl=en_IN
 https://play.google.com/store/apps/details?id=fr.vinted
-https://play.google.com/store/apps/details?id=id.co.bankfama.android&hl=en
 https://play.google.com/store/apps/details?id=id.dana&hl=en
 https://play.google.com/store/apps/details?id=io.gonative.android.xjndrq&hl=fr
 https://play.google.com/store/apps/details?id=io.opensea&hl=en_US&gl=US
@@ -7454,7 +7424,6 @@ liquidfiles.nexuzhealth.com
 liquidfiles.uzleuven.be
 liquidfilestest.uzleuven.be
 lirportal.ripe.net
-listing.here.com
 lists.nextcloud.com
 live-backstage.tiktok.com
 live-service.whatnot.com
@@ -7559,7 +7528,6 @@ manager.infomaniak.com/v3/*
 mangerbouger.fr
 map.8x8.com
 map.snapchat.com
-mapcreator.here.com
 mapi.moneyback.com.hk
 mark8.syfe.com
 marketing.fareharbor.com
@@ -7699,7 +7667,6 @@ mobileapi.lystit.com
 mobileapi.na1.insightly.com
 mobileapp.hyatt.com
 mobilevikings.be
-mobilitygraph.hereapi.com
 mod.reddit.com
 modefestival.com
 moments.marriottbonvoy.com
@@ -8078,7 +8045,6 @@ ppw.euce1.indriverapp.com
 pr-dev.nba.com
 pr-qa.nba.com
 pr.nba.com
-practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -8123,8 +8089,6 @@ profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profile.playstation.com
 profile.segment.com
-profiles-api.datacamp.com
-projects.datacamp.com
 projects.nextcloud.com
 promo.tw.coupang.com
 prow.k8s.io
@@ -8191,7 +8155,6 @@ register.bpost.be
 register.capital.com
 registre.notebleue.pro
 registry.gitlab.com
-registry.service.api.platform.here.com
 rei.com
 relay.playcanvas.com
 releasor.payworks.com/
@@ -8320,7 +8283,6 @@ scp.watsons.com.tr
 scpapi.watsons.com.tr
 scripts.developersites.com.au
 scrutiny.swiftfinancial.com
-search.hereapi.com
 secure-dfadmin.deriv.com
 secure-supply-xml.booking.com
 secure.booking.com
@@ -8537,7 +8499,6 @@ sun-qa.wnba.com
 sun-qa2.wnba.com
 sun.wnba.com
 super6.skysports.com
-superbank.id
 superbet.bet.br
 superhuman.com
 superstoreapp.meesho.com
@@ -8649,7 +8610,6 @@ tr-scf.euce1.indriverapp.com
 trade.ripio.com
 training.ui.com
 transact.playstation.com
-transit.hereapi.com
 translate.badoo.com
 travel.crypto.com
 travelagents.marriott.com/
@@ -8727,7 +8687,6 @@ vasdemos.visa.com
 vault2.faraday.ai
 vcc-*.8x8.com
 vcc-ce.8x8.com
-vector.hereapi.com
 vector.prd.iat.it.xvservice.net
 vercel.app
 vercel.com
@@ -8945,8 +8904,6 @@ www.creditkarma.ca
 www.crowdstrike.com
 www.crowdstrike.org
 www.cybersource.com
-www.datacamp.com
-www.datacamp.com/datalab
 www.ddfcontent.com
 www.delen.bank
 www.delen.be/en 
@@ -9316,7 +9273,6 @@ x.razorpay.com
 xadsacademy.com
 xlence.iciparisxl.nl
 xtramile.grabpay.com
-xyz.api.here.com
 yelptop100.com
 yhteystietoni.posti.fi
 yimg.com

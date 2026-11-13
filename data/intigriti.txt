@@ -79,20 +79,6 @@ unified.cloudways.com
 www.cloudways.com
 css-tricks.com
 Any related DPG media domain
-profiles-api.datacamp.com
-app.datacamp.com/certification
-app.datacamp.com/groups
-app.datacamp.com/learn
-assessment-api.datacamp.com
-assessment-v2.datacamp.com 
-assessment.datacamp.com
-campus.datacamp.com
-com.datacamp
-https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
-practice.datacamp.com
-projects.datacamp.com
-www.datacamp.com
-www.datacamp.com/datalab
 myaccount.demorgen.be
 www.demorgen.be
 www.demorgen.be/abonnementen
@@ -168,21 +154,6 @@ www.fing.com*
 https://over.fluvius.be
 www.fluvius.be   
 www-a.fluvius.be  
-HERE WeGo iOS
-HERE WeGo Android
-registry.service.api.platform.here.com
-search.hereapi.com
-transit.hereapi.com
-vector.hereapi.com
-mobilitygraph.hereapi.com
-account.api.here.com
-account.here.com
-listing.here.com
-mapcreator.here.com
-xyz.api.here.com
-Leaked/Compromised Employee Credentials
-Leaked Service Credentials
-All other related services owned by HERE
 hln.be/inloggen
 hln.be/login
 hln.be/registreren
