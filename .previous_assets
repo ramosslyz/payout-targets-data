@@ -620,6 +620,7 @@
 *.instacart.com
 *.instacart.tools
 *.int.remitly.com
+*.integrations.vintedgo.com
 *.intercomassets.com / *.intercomcdn.com
 *.intergamma-test.nl
 *.intergamma.cloud
@@ -5918,6 +5919,7 @@ https://afterpay.com
 https://agent-contact.realestate.com.au/lead-capture-page/campaign-id/8e50c3d0-0d2b-44d1-9df6-f4e02b9a690e
 https://agent.apps.monash.edu/
 https://aggregator.etoro.com
+https://aim-marketplace.vinted.com
 https://airflow-mcp.data.dailymotion.com/
 https://airflow-mcp.data.dailymotion.com/*
 https://airflow-prod.coda.io/*
@@ -6751,6 +6753,7 @@ https://elementor.careers
 https://emaudience.com
 https://emistores.pinelabs.com
 https://emistores.pinelabs.com/
+https://ems.it.vinted.com
 https://enterprise-demo.portswigger.net/
 https://equatorialguinea-evisa.com
 https://equella.monash.edu
@@ -6837,6 +6840,7 @@ https://gcsm.oppoit.com/
 https://gemcreditline.co.nz
 https://gemfinance.co.nz
 https://geminiadvisory.io
+https://gemstash-integrations.vintedgo.com
 https://gemvisa.com.au
 https://geocode-beta.bykea.net
 https://gestordepedidos.ifood.com.br
@@ -9031,6 +9035,7 @@ https://push-lightstreamer.cloud.etoro.com
 https://push-n-hap.cloud.etoro.com
 https://push-real-hk-lightstreamer.cloud.etoro.com
 https://pyszne.pl
+https://qnrs.vintedgo.com
 https://quantum-events.onecloud.harman.com
 https://quicksight.aws.amazon.com
 https://r.etoro.com

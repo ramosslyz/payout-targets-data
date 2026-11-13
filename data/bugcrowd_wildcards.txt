@@ -203,6 +203,7 @@ api-*.soundcloud.com
 *.verisign-grs.com (DNS service; DNS related)
 *.viatorinc.com
 *.viator.com
+*.integrations.vintedgo.com
 *.volkswagen.de
 *.transferwise.com
 *.wise.com
