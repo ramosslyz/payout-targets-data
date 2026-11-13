@@ -2,6 +2,8 @@
  *.test.*.lfscnp.com
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 *-api-*.acronis.com
+*. advancedcustomfields.com
+*. bettersearchreplace.com
 *. vfsevisa.id
 *.-np.*.lfscnp.com
 *.1debit.com
@@ -100,8 +102,6 @@
 *.apigwc.marriott.com
 *.apis.telenor.se
 *.app.asana.com
-*.app.personio-dev.com
-*.app.personio.com
 *.appmiral.com
 *.arc.io
 *.arlo.com (subdomains impacting production customer-facing services)
@@ -237,10 +237,10 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
-*.datacamp.com
 *.dbt.com
 *.dbtlabs.com
 *.dcfgateway.marriott.com
+*.deliciousbrains.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demo.bp.mortgagechoice.com.au
@@ -522,6 +522,7 @@
 *.labs.8x8.com
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
+*.lansweeper.com
 *.latitudefinancial.co.nz
 *.latitudefinancial.com
 *.latitudefinancial.com.au
@@ -531,6 +532,7 @@
 *.libelle.nl
 *.link.co
 *.linktree-extensions.com
+*.localwp.com
 *.logi.com
 *.logicool.co.jp
 *.logitech-channel-marketing.com
@@ -661,6 +663,7 @@
 *.nflxso.net
 *.nflxvideo.net
 *.nic.eu
+*.nitropack.io
 *.niumba.com
 *.nmfn.com
 *.nml.com
@@ -715,10 +718,6 @@
 *.paypalcorp.com
 *.pci.shopifyinc.com
 *.pennmedicine.connect-visit.com
-*.personio-internal.de
-*.personio.de
-*.personio.tools
-*.personiowhistleblowing.com
 *.petbook-magazine.com/
 *.petbook.de
 *.piaservers.com
@@ -909,6 +908,7 @@
 *.streamlabscharity.com
 *.stripchat.com
 *.stripe.com
+*.studiopress.com
 *.stylebook.de
 *.super.xyz
 *.superbet.com
@@ -998,6 +998,7 @@
 *.venmo.com
 *.vercel.com
 *.vercel.live
+*.veriff.com
 *.verily.com/
 *.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)
@@ -1064,6 +1065,8 @@
 *.worldcoin-distributors.com
 *.worldcoin.dev
 *.worldcoin.org
+*.wpengine.io
+*.wpesvc.net
 *.x.ai
 *.x.com
 *.xiangkankeji.cn

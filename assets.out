@@ -15,6 +15,8 @@
 (se|fi|uk).bingo.com
 *-api-*.acronis.com
 *-vpn.8x8.com
+*. advancedcustomfields.com
+*. bettersearchreplace.com
 *. vfsevisa.id
 *.-np.*.lfscnp.com
 *.1debit.com
@@ -113,8 +115,6 @@
 *.apigwc.marriott.com
 *.apis.telenor.se
 *.app.asana.com
-*.app.personio-dev.com
-*.app.personio.com
 *.appmiral.com
 *.arc.io
 *.arlo.com (subdomains impacting production customer-facing services)
@@ -250,10 +250,10 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
-*.datacamp.com
 *.dbt.com
 *.dbtlabs.com
 *.dcfgateway.marriott.com
+*.deliciousbrains.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demo.bp.mortgagechoice.com.au
@@ -535,6 +535,7 @@
 *.labs.8x8.com
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
+*.lansweeper.com
 *.latitudefinancial.co.nz
 *.latitudefinancial.com
 *.latitudefinancial.com.au
@@ -544,6 +545,7 @@
 *.libelle.nl
 *.link.co
 *.linktree-extensions.com
+*.localwp.com
 *.logi.com
 *.logicool.co.jp
 *.logitech-channel-marketing.com
@@ -674,6 +676,7 @@
 *.nflxso.net
 *.nflxvideo.net
 *.nic.eu
+*.nitropack.io
 *.niumba.com
 *.nmfn.com
 *.nml.com
@@ -728,10 +731,6 @@
 *.paypalcorp.com
 *.pci.shopifyinc.com
 *.pennmedicine.connect-visit.com
-*.personio-internal.de
-*.personio.de
-*.personio.tools
-*.personiowhistleblowing.com
 *.petbook-magazine.com/
 *.petbook.de
 *.piaservers.com
@@ -922,6 +921,7 @@
 *.streamlabscharity.com
 *.stripchat.com
 *.stripe.com
+*.studiopress.com
 *.stylebook.de
 *.super.xyz
 *.superbet.com
@@ -1011,6 +1011,7 @@
 *.venmo.com
 *.vercel.com
 *.vercel.live
+*.veriff.com
 *.verily.com/
 *.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)
@@ -1077,6 +1078,8 @@
 *.worldcoin-distributors.com
 *.worldcoin.dev
 *.worldcoin.org
+*.wpengine.io
+*.wpesvc.net
 *.x.ai
 *.x.com
 *.xiangkankeji.cn
@@ -1197,6 +1200,7 @@
 146.109.68.0/24
 146.109.8.0/21
 146.109.8.0/22
+1467907532
 1474700 (Steam app id)
 1475021574
 1476615877
@@ -2222,7 +2226,6 @@ Other Logitech Hardware/IoT
 Other Semrush Related Asset
 Other Spotify websites
 Other assets
-Other assets owned by Personio
 Other github.com/wordpress repos
 Other non-production infrastructure
 Other related e-commerce services
@@ -2480,6 +2483,7 @@ WGP Slot Games
 WHOOP 4.0 STRAP
 WHOOP 5.0/MG STRAP
 WP Cloud
+WP Engine-developed WordPress Plugins and Themes
 WP-CLI
 Waiting Room
 Watsons Hong Kong Android
@@ -2645,6 +2649,7 @@ airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 ak-static-dev.nba.com
 akismet.com
+alchemy.veriff.com
 alert.logitech.com
 alfred.syfe.com
 allstar-dev.nba.com
@@ -2742,6 +2747,7 @@ api.ezvizlife.com
 api.faraday.ai
 api.fi.dyson.com
 api.figma.com
+api.flamingo-eu.veriff.com
 api.fortress.com.hk
 api.geneva-staging.com
 api.github.com
@@ -2767,6 +2773,7 @@ api.instacart.com
 api.krisp.ai
 api.kruidvat.be
 api.kruidvat.nl
+api.lansweeper.com
 api.larksuite.com
 api.linkedin.com
 api.loanbuilder.com
@@ -2792,8 +2799,6 @@ api.neon.opera.com/pub
 api.ort-one-pingone.com
 api.ovh.com
 api.paybox.sh
-api.personio-dev.com
-api.personio.com
 api.pns.hk
 api.portofantwerp.com
 api.portofantwerpbruges.com
@@ -2842,7 +2847,9 @@ api.tumblr.com
 api.twilio.com
 api.unleashed.be
 api.upwork.com/graphql
+api.us.veriff.me
 api.vault.chiatest.net
+api.veriff.me
 api.vhx.tv
 api.vimeo.com
 api.watsons.co.id
@@ -2872,9 +2879,6 @@ app.alasco.de
 app.basecamp.com
 app.box.com
 app.circle.com
-app.datacamp.com/certification
-app.datacamp.com/groups
-app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -2899,6 +2903,8 @@ app.koho.ca
 app.krisp.ai
 app.kruidvat.be
 app.kruidvat.nl
+app.lansweeper.com
+app.lansweeper.com/trial
 app.larksuite.com
 app.launchdarkly.com
 app.livenation.com
@@ -2962,9 +2968,6 @@ aquiristech.com
 arrive-server.shopifycloud.com
 arsentomsky.indrive.com
 askpeopleteam.visa.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com 
-assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.koho.ca
@@ -3008,10 +3011,12 @@ authentication.clearme.com
 authentication.wolt.com
 autocomplete.booking.com
 autodiscover.uzleuven.be
+autoupdateapi.lansweeper.com
 av.indrive.com
 aww.eu
 b5s.hackerone-ext-content.com
 backend-sdk.uat.private.unico.run
+backoffice.lansweeper.com
 backstage.io
 badoo.com
 badoocdn.com
@@ -3161,7 +3166,6 @@ campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
-campus.datacamp.com
 cancellation.prod.ps.welt.de
 canton-dev.gleague.nba.com
 canton-qa.gleague.nba.com
@@ -3394,7 +3398,6 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
-com.datacamp
 com.dd.doordash
 com.deribit
 com.dolap.android
@@ -3604,6 +3607,7 @@ com.urbanclap.urbanclap
 com.valmo.valmo
 com.valvesoftware.Steam
 com.venmo
+com.veriff.demo
 com.vilcsak.bitcoin2
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
@@ -3867,6 +3871,7 @@ developers.pismo.io
 developers.reddit.com
 developers.tiktok.com
 developers.tw.coupangcorp.com
+developers.veriff.me
 device.marriott.com
 dh-cf.mena.meso1.aws.indriverapp.com
 dh-gw-scf.sa.apse1.aws.indriverapp.com
@@ -3896,6 +3901,7 @@ doaction.org
 docs.anthropic.com
 docs.gitlab.com
 docs.gocardless.com
+docs.lansweeper.com
 docs.launchdarkly.com
 docs.nextcloud.com
 docs.redoxengine.com
@@ -3941,6 +3947,7 @@ ecom-static.kruidvat.nl
 ecommerce.hostinger.com
 ecrf.uzleuven.be
 edge.bookbeat.com
+edge.lansweeper.com
 edgeapi.slack.com
 editeur.am.monespacesante.fr
 editeur.api.monespacesante.fr
@@ -4014,6 +4021,7 @@ falcon-sandbox.com
 fareharborsites.com
 faucet-api.polygon.technology/
 faucet.polygon.technology
+fb.lansweeper.com
 fch-cf.euce1.indriverapp.com
 fch-gw-cf.euce1.indriverapp.com
 fch-gw-scf.euce1.indriverapp.com
@@ -4482,6 +4490,7 @@ https://app.datadome.co
 https://app.easy4ipcloud.com
 https://app.ecwid.com/api/v3/
 https://app.fin.ai/
+https://app.getflywheel.com
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 https://app.ibotta.com/sign-in 
 https://app.intercom.com
@@ -4522,7 +4531,6 @@ https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/certsy/id1617796159
-https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/jora-jobs-job-search-work/id917565665
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
@@ -4822,7 +4830,6 @@ https://communities.epicgames.com
 https://community.etsy.com
 https://community.exoscale.com/
 https://community.oppo.com/
-https://community.personio.com
 https://communityin.oppo.com/
 https://company.vinted.com
 https://compulsoryunits.monash.edu/
@@ -5053,6 +5060,7 @@ https://gemvisa.com.au
 https://geocode-beta.bykea.net
 https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
+https://getflywheel.com
 https://github.com/Aiven
 https://github.com/Aiven-Open
 https://github.com/Chia-Network/chia-blockchain
@@ -5067,8 +5075,11 @@ https://github.com/ExodusOSS/bytes
 https://github.com/ExodusOSS/crypto
 https://github.com/ExodusOSS/hydra
 https://github.com/Hacker0x01/react-datepicker
+https://github.com/Infomaniak/android-infomaniak-meet
 https://github.com/Infomaniak/desktop-kChat
 https://github.com/Infomaniak/desktop-kDrive
+https://github.com/Infomaniak/desktop-kMeet
+https://github.com/Infomaniak/ios-infomaniak-meet
 https://github.com/OctopusDeploy
 https://github.com/ProjectOpenSea/seaport#deployments
 https://github.com/RIPE-NCC/rpki-commons
@@ -5325,7 +5336,6 @@ https://hr.neogov.com
 https://hr.prosus.com/
 https://hu.harmanaudio.com
 https://hub.immutable.com/
-https://hug.personio.com
 https://hytale.com/
 https://hytale.dev/
 https://ibconnect.internetbrands.com
@@ -5452,6 +5462,7 @@ https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|
 https://m.thefork.com
 https://maf-holding-prod.apigee.net
 https://maf-properties-prod.apigee.net
+https://makeshift.film
 https://manage.cic-bug-bounty.auth0app.com/
 https://manage.statuspage.io
 https://manager.thefork.com
@@ -6190,6 +6201,7 @@ https://my.smartposti.lt
 https://my.smartposti.lv
 https://my.sogexia.com
 https://my.ultramobile.com
+https://my.wpengine.com
 https://my.wyze.com
 https://myaccount-staging.getmoneytree.com
 https://myapi.arlo.com
@@ -6296,6 +6308,7 @@ https://paymayabiller-prod.paymaya.com/
 https://payment-connectors.vendhq.com/
 https://payment.lafourchette.com
 https://payments.myntra.com
+https://payments.wpengine.com
 https://payoutapi.maya.ph/
 https://pci.kindredgroup.com
 https://pentest-app.onetrust.com/
@@ -6565,7 +6578,6 @@ https://screenplayer.20min.ch
 https://sdk-h1.unico.io/createprocess
 https://se.harmanaudio.com
 https://search-api.bookbeat.com
-https://sec-test-<intigriti handle>-<nn>.personio.de
 https://secumails.gesundheitsverbund.at
 https://secure-iphone-xml.booking.com/json/
 https://secure-signals-client-side-integ.uidapi.com/
@@ -6654,6 +6666,7 @@ https://stp.wien.gv.at
 https://student.classdojo.com
 https://student.monash
 https://studentplacements.monash.edu
+https://studiopress.blog
 https://stytch.com/blog
 https://stytch.com/dashboard
 https://suggestions.opera-api.com
@@ -6697,6 +6710,7 @@ https://ticket.multiplayer.classdojo.com
 https://tms.onecloud.harman.com
 https://tools-api.cryptocompare.com/
 https://toom.de
+https://torquemag.io
 https://tr.ee
 https://tracker.bugcrowd.com
 https://tracker.naspers.com/
@@ -6761,6 +6775,7 @@ https://valuations-sit.uat.proptrack.com
 https://vault-staging.getmoneytree.com
 https://vault.chiatest.net/
 https://vc.tasheer.com/
+https://velocitize.com
 https://vendor.riskrecon.com
 https://vendor.riskrecon.eu
 https://vendors.paddle.com
@@ -6807,6 +6822,7 @@ https://wmaudience.com
 https://world.planethoster.net
 https://worldscan.org/address/0xDe7Ec97CFDeE9F20f9d256F4a0A0d694479fa2E0
 https://wowjobs.ca
+https://wpengine.com
 https://ws.multiplayer.classdojo.com/
 https://ws.usaa.com
 https://wsloja.ifood.com.br
@@ -7061,8 +7077,6 @@ https://www.pacsun.me/
 https://www.paddle.com
 https://www.partycasino.com
 https://www.partypoker.com
-https://www.personio.com/free-trial/
-https://www.personio.de/kostenlos-testen/
 https://www.pexels.com/
 https://www.pinelabs.ae
 https://www.pinelabs.com
@@ -7462,6 +7476,7 @@ login.exodus.com
 login.infomaniak.com
 login.insightly.com
 login.koho.ca
+login.lansweeper.com
 login.nba.com
 login.oyens.com
 login.playcanvas.com
@@ -7487,6 +7502,7 @@ longisland-qa.gleague.nba.com
 longisland.gleague.nba.com
 lookup.nextcloud.com
 lookups.twilio.com
+louvre.veriff.me
 loyalty.tw.coupang.com
 lps.dmp.gouv.fr
 lps2.dmp.gouv.fr
@@ -7507,6 +7523,7 @@ m.reddit.com
 m.tw.coupang.com
 maestro.8x8.cloud
 magazine.kruidvat.be
+magic.veriff.me
 magisto.com,www.magisto.com
 mail.hostinger.com
 mail.infomaniak.com
@@ -8050,7 +8067,6 @@ ppw.euce1.indriverapp.com
 pr-dev.nba.com
 pr-qa.nba.com
 pr.nba.com
-practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -8095,8 +8111,6 @@ profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profile.playstation.com
 profile.segment.com
-profiles-api.datacamp.com
-projects.datacamp.com
 projects.nextcloud.com
 promo.tw.coupang.com
 prow.k8s.io
@@ -8443,6 +8457,8 @@ staking-api.polygon.technology
 staking.polygon.technology
 static*.twilio.com
 static.apps.nextcloud.com
+station.veriff.com
+stationapi.veriff.com
 stats-dev.gleague.nba.com
 stats-dev.nba.com
 stats-qa.gleague.nba.com
@@ -8910,8 +8926,6 @@ www.creditkarma.ca
 www.crowdstrike.com
 www.crowdstrike.org
 www.cybersource.com
-www.datacamp.com
-www.datacamp.com/datalab
 www.ddfcontent.com
 www.delen.bank
 www.delen.be/en 
@@ -9026,6 +9040,7 @@ www.kruidvat.nl
 www.kruidvatkids.nl
 www.lab-recherche-environnement.org
 www.landmarkcinemas.com
+www.lansweeper.com
 www.libelle.nl
 www.lineup.com.mx
 www.linkedin.com
@@ -9164,6 +9179,7 @@ www.urbancompany.com
 www.uzleuven.be
 www.valmo.in
 www.valvesoftware.com
+www.veriff.com
 www.vfsvisaonline.com
 www.vimeo.com
 www.vinci-vie.fr
