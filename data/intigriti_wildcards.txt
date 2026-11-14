@@ -148,14 +148,6 @@ sks-*.exo.io
 *.vtm.be
 *.vtmgo.be
 *.veriff.com
-*. advancedcustomfields.com
-*. bettersearchreplace.com
-*.deliciousbrains.com
-*.localwp.com
-*.nitropack.io
-*.studiopress.com
-*.wpengine.io
-*.wpesvc.net
 *.aww.be
 *.water-link.be
 *.mijnwater-link.be

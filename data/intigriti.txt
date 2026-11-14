@@ -2,6 +2,11 @@ app.aikido.dev
 myaccount.ad.nl
 www.ad.nl
 www.ad.nl/abonnementen
+Firmware
+Hardware
+FPGA Solution Development Tools and Utilities
+Software
+Non Altera Products
 Firmware: Mali Command Stream Frontend (CSF) Firmware
 Software: Mali GPU Kernel Driver
 newsos.com
@@ -731,16 +736,6 @@ station.veriff.com
 stationapi.veriff.com
 developers.veriff.me
 www.veriff.com
-https://app.getflywheel.com
-https://getflywheel.com
-https://my.wpengine.com
-https://payments.wpengine.com
-https://wpengine.com
-WP Engine-developed WordPress Plugins and Themes
-https://makeshift.film
-https://studiopress.blog
-https://torquemag.io
-https://velocitize.com
 desktop.water-link.be
 pit.water-link.be
 indussiibis.water-link.be

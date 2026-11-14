@@ -15,8 +15,6 @@
 (se|fi|uk).bingo.com
 *-api-*.acronis.com
 *-vpn.8x8.com
-*. advancedcustomfields.com
-*. bettersearchreplace.com
 *. vfsevisa.id
 *.-np.*.lfscnp.com
 *.1debit.com
@@ -253,7 +251,6 @@
 *.dbt.com
 *.dbtlabs.com
 *.dcfgateway.marriott.com
-*.deliciousbrains.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demo.bp.mortgagechoice.com.au
@@ -545,7 +542,6 @@
 *.libelle.nl
 *.link.co
 *.linktree-extensions.com
-*.localwp.com
 *.logi.com
 *.logicool.co.jp
 *.logitech-channel-marketing.com
@@ -676,7 +672,6 @@
 *.nflxso.net
 *.nflxvideo.net
 *.nic.eu
-*.nitropack.io
 *.niumba.com
 *.nmfn.com
 *.nml.com
@@ -921,7 +916,6 @@
 *.streamlabscharity.com
 *.stripchat.com
 *.stripe.com
-*.studiopress.com
 *.stylebook.de
 *.super.xyz
 *.superbet.com
@@ -1078,8 +1072,6 @@
 *.worldcoin-distributors.com
 *.worldcoin.dev
 *.worldcoin.org
-*.wpengine.io
-*.wpesvc.net
 *.x.ai
 *.x.com
 *.xiangkankeji.cn
@@ -1883,6 +1875,7 @@ ExpressVPN VPN servers
 External service data leakage 
 F 21 Pro
 FIles.com REST API
+FPGA Solution Development Tools and Utilities
 FanDuel Customer Support Sites
 Faucets
 Figma Atlassian App
@@ -1910,6 +1903,7 @@ Finicity Decisioning
 Finicity- Data Services
 Finicity- Open Banking Payment History application
 FireTV
+Firmware
 Firmware: Mali Command Stream Frontend (CSF) Firmware
 For reporting purposes only. Use staging environment listed in brief.
 For reporting purposes only. Use staging environment listed in brief. 
@@ -1983,6 +1977,7 @@ HPE Aruba Networking Wireless - AOS-8 Controllers
 HPE Aruba Networking Wireless - AOS-8 Instant AP (IAP)
 HPE Networking Instant On APs and supporting backend infrastructure
 HYPR Workforce Access.app
+Hardware
 Hardware found on https://www.ezviz.com/category/security-wifi-cameras
 Hardware found on https://www.ezviz.com/category/smart-home
 Harmony Remote Software
@@ -2177,6 +2172,7 @@ Nintendo Switch 2 System Processes allowing piracy
 Nintendo Switch 2 applications for which Nintendo is the publisher worldwide
 Nintendo Switch System
 Nintendo Switch applications for which Nintendo is the publisher worldwide
+Non Altera Products
 Non Core Assets In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)
 Non-Core Assets
 Notion AI
@@ -2336,6 +2332,7 @@ Smokescreen Open Source Project
 Social Deal IOS APP
 Social Media Accounts
 Sockets
+Software
 Software Supply Chain
 Software: Mali GPU Kernel Driver
 Solarbank 2 E1600 Pro
@@ -2483,7 +2480,6 @@ WGP Slot Games
 WHOOP 4.0 STRAP
 WHOOP 5.0/MG STRAP
 WP Cloud
-WP Engine-developed WordPress Plugins and Themes
 WP-CLI
 Waiting Room
 Watsons Hong Kong Android
@@ -4490,7 +4486,6 @@ https://app.datadome.co
 https://app.easy4ipcloud.com
 https://app.ecwid.com/api/v3/
 https://app.fin.ai/
-https://app.getflywheel.com
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 https://app.ibotta.com/sign-in 
 https://app.intercom.com
@@ -5060,7 +5055,6 @@ https://gemvisa.com.au
 https://geocode-beta.bykea.net
 https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
-https://getflywheel.com
 https://github.com/Aiven
 https://github.com/Aiven-Open
 https://github.com/Chia-Network/chia-blockchain
@@ -5462,7 +5456,6 @@ https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|
 https://m.thefork.com
 https://maf-holding-prod.apigee.net
 https://maf-properties-prod.apigee.net
-https://makeshift.film
 https://manage.cic-bug-bounty.auth0app.com/
 https://manage.statuspage.io
 https://manager.thefork.com
@@ -6021,7 +6014,6 @@ https://marketplace.atlassian.com/apps/1233591/kantega-user-management-license-o
 https://marketplace.atlassian.com/apps/1233642/workflow-building-blocks-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1233681/smart-ai-release-notes-for-jira?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1233769/content-retention-manager-for-confluence?hosting=cloud
-https://marketplace.atlassian.com/apps/1233908/connectors-for-jira-free?hosting=cloud
 https://marketplace.atlassian.com/apps/1233931/snyk-for-compass?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1233942/pagerduty-for-compass?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1233977/sentry-for-compass?tab=overview&hosting=cloud
@@ -6108,6 +6100,7 @@ https://marketplace.atlassian.com/apps/2576221793/easy-markdown-exporter-for-con
 https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=datacenter
 https://marketplace.atlassian.com/apps/2785074762/cumulative-flow-diagrams-cfd-for-jira-agile-charts-gadgets?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/2831389750/requira-requirements-traceability-for-jira
 https://marketplace.atlassian.com/apps/2836020067/created-vs-resolved-charts-for-jira-agile-gadgets-reports?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/2903137599/sprintretro-pro-retrospective-metrics-suite?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/29496/jira-workflow-toolbox?hosting=cloud&tab=overview
@@ -6201,7 +6194,6 @@ https://my.smartposti.lt
 https://my.smartposti.lv
 https://my.sogexia.com
 https://my.ultramobile.com
-https://my.wpengine.com
 https://my.wyze.com
 https://myaccount-staging.getmoneytree.com
 https://myapi.arlo.com
@@ -6308,7 +6300,6 @@ https://paymayabiller-prod.paymaya.com/
 https://payment-connectors.vendhq.com/
 https://payment.lafourchette.com
 https://payments.myntra.com
-https://payments.wpengine.com
 https://payoutapi.maya.ph/
 https://pci.kindredgroup.com
 https://pentest-app.onetrust.com/
@@ -6666,7 +6657,6 @@ https://stp.wien.gv.at
 https://student.classdojo.com
 https://student.monash
 https://studentplacements.monash.edu
-https://studiopress.blog
 https://stytch.com/blog
 https://stytch.com/dashboard
 https://suggestions.opera-api.com
@@ -6710,7 +6700,6 @@ https://ticket.multiplayer.classdojo.com
 https://tms.onecloud.harman.com
 https://tools-api.cryptocompare.com/
 https://toom.de
-https://torquemag.io
 https://tr.ee
 https://tracker.bugcrowd.com
 https://tracker.naspers.com/
@@ -6775,7 +6764,6 @@ https://valuations-sit.uat.proptrack.com
 https://vault-staging.getmoneytree.com
 https://vault.chiatest.net/
 https://vc.tasheer.com/
-https://velocitize.com
 https://vendor.riskrecon.com
 https://vendor.riskrecon.eu
 https://vendors.paddle.com
@@ -6822,7 +6810,6 @@ https://wmaudience.com
 https://world.planethoster.net
 https://worldscan.org/address/0xDe7Ec97CFDeE9F20f9d256F4a0A0d694479fa2E0
 https://wowjobs.ca
-https://wpengine.com
 https://ws.multiplayer.classdojo.com/
 https://ws.usaa.com
 https://wsloja.ifood.com.br
@@ -9385,3 +9372,4 @@ zooplus.net
 ██████████████████████████████████████████████████████████████████████████████████████████████████████
 ██████████████████████████████████████████████████████████████████████████████████████████████████████████████
 ████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████

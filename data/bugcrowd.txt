@@ -717,6 +717,7 @@ https://marketplace.atlassian.com/apps/1237787?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1220477/entra-id-azure-ad-attributes-sync-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1233642/workflow-building-blocks-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/22817756/procuro-complete-procurement-management-in-jsm?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/2831389750/requira-requirements-traceability-for-jira
 https://marketplace.atlassian.com/apps/1222309/agile-user-story-mapping-board-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1223423/teamboard-resource-management-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1224759/agile-scrum-planning-poker-for-jira?hosting=cloud
@@ -1548,7 +1549,7 @@ https://octopus.com/downloads
 https://octopus.com/downloads
 https://github.com/OctopusDeploy
 https://octopus.com
-https://marketplace.atlassian.com/apps/1233908/connectors-for-jira-free?hosting=cloud
+███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 bugcrowd-pam-###.oktapreview.com
 bugcrowd-pam-###.pam.oktapreview.com
 https://bugcrowd-pam-###.workflows.oktapreview.com
