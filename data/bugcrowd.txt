@@ -388,7 +388,6 @@ pro.coinmarketcap.com
 CoinMarketCap Android app
 Trustwallet Android App
 Trustwallet iOS App
-https://github.com/trustwallet/wallet-core/
 CoinMarketCap iOS app
 portal-api.coinmarketcap.com
 coinmarketcap.com
