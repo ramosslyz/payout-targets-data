@@ -322,16 +322,6 @@ ecom-data.trekpleister.nl
 service.trekpleister.nl
 folder.trekpleister.nl
 www.prijsmepper.nl
-app.lansweeper.com
-fb.lansweeper.com
-edge.lansweeper.com
-api.lansweeper.com
-backoffice.lansweeper.com
-app.lansweeper.com/trial
-autoupdateapi.lansweeper.com
-docs.lansweeper.com
-login.lansweeper.com
-www.lansweeper.com
 www.libelle.nl
 sandbox.striga.com
 https://www.vault.striga.eu/web/sandbox/
@@ -475,10 +465,6 @@ idp-url.nexuzhealth.be
 media.nexuzhealth.be/patient/ 
 https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050
 https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_oi_appl/
-https://auth2.pdq.com/
-https://library.pdq.com/
-https://portal.pdq.com/
-https://app.pdq.com/
 188.118.8.0/25
 94.107.237.192/26
  login-test.portofantwerpbruges.com/
