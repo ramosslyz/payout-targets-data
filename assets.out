@@ -133,7 +133,6 @@
 *.auth.bild.de
 *.autobild.de
 *.avecspotify.com
-*.aww.be
 *.ayco.com
 *.backblazeb2.com
 *.backend-capital.com
@@ -508,19 +507,12 @@
 *.khealth.com
 *.kibana.wtf
 *.kiln.it
-*.kinepolis.be
-*.kinepolis.ch
-*.kinepolis.com
-*.kinepolis.fr
-*.kinepolis.lu
-*.kinepolis.nl
 *.kiwi.com
 *.klarna.com
 *.klarna.net
 *.klarnacdn.net
 *.klaviyo-dev.com/*
 *.klaviyomsv.com/*
-*.klubcinema.fr
 *.korta.is
 *.kortathjonustan.is
 *.krisp.ai
@@ -528,7 +520,6 @@
 *.kruidvat.nl
 *.kruidvatkids.nl
 *.labs.8x8.com
-*.landmarkcinemas.com
 *.landmarkglobal-group.com
 *.latitudefinancial.co.nz
 *.latitudefinancial.com
@@ -578,7 +569,6 @@
 *.maxbet.ro
 *.mclead.com.au
 *.mediatonic.co.uk
-*.megatix.be  
 *.melonapp.com
 *.meraki.com
 *.mercadolibre.cl
@@ -611,7 +601,6 @@
 *.miinsurtech.com
 *.miinsurtech.net
 *.mijiayoupin.com
-*.mijnwater-link.be
 *.mioffice.cn
 *.mios.cn
 *.miot-spec.org
@@ -622,7 +611,6 @@
 *.miui.cn
 *.miui.com
 *.miwifi.com
-*.mjrtheatres.com
 *.mlstatic.com
 *.mmcdn.com
 *.mmwebc.dev
@@ -1026,7 +1014,6 @@
 *.vtm.be
 *.vtmgo.be
 *.wali.com
-*.water-link.be
 *.watsons.co.id
 *.watsons.co.th
 *.watsons.com.hk
@@ -1452,7 +1439,6 @@
 52.67.69.35
 52.76.174.107
 52.86.17.52
-522089287
 524362642
 529996768
 54.175.255.192/27
@@ -2585,7 +2571,6 @@ actionnaires.vinci.com
 activate.3cx.com
 adayevrak.watsons.com.tr
 adb.nba.com
-adelta.be
 adm.cloud.com
 admin-portal.api-xperience.com
 admin-resolve.8x8.com
@@ -2935,8 +2920,6 @@ apps.portofantwerp.com
 apps.portofantwerpbruges.com
 appt.healthclinics.superdrug.com
 aqtooling.com
-aquawardsoperate.water-link.be
-aquawardsspatial.water-link.be
 aquiris.com.br
 aquiris.studio
 aquiristech.com
@@ -2986,7 +2969,6 @@ authentication.clearme.com
 authentication.wolt.com
 autocomplete.booking.com
 av.indrive.com
-aww.eu
 b5s.hackerone-ext-content.com
 backend-sdk.uat.private.unico.run
 backstage.io
@@ -3074,7 +3056,6 @@ booking.applevacations.com
 booking.beachbound.com
 booking.cheapcaribbean.com
 booking.com
-booking.mjrtheatres.com
 bookingholdings-coe.com
 boost.vinci.com
 booth.pm
@@ -3095,9 +3076,6 @@ building-blocks.com
 bulkexports.twilio.com
 bulten.watsons.com.tr
 business.kayak.com
-business.kinepolis.be
-business.kinepolis.lu
-business.kinepolis.nl
 business.linkedin.com
 business.reddithelp.com
 business.snapchat.com
@@ -3444,7 +3422,6 @@ com.hypr.one
 com.imdbtv.livingroom
 com.immediasemi.android.blink
 com.instacart.client
-com.inthepocket.kinepolis
 com.jellybtn.boardkings
 com.jellybtn.cashkingmobile
 com.katanlabs.bubblepop
@@ -3806,7 +3783,6 @@ deriv.partners
 derivws.com
 design.gitlab.com
 design.ui.com
-desktop.water-link.be
 detroit-dev.gleague.nba.com
 detroit-qa.gleague.nba.com
 detroit.gleague.nba.com
@@ -3923,7 +3899,6 @@ education.github.com
 eero Devices
 effecthouse.tiktok.com
 eg.ht
-egaming.kinepolis.es
 eidhelp.marriott.com
 elm.nba.com
 elma.elma.fi
@@ -3975,8 +3950,6 @@ external.indrive.dev
 external.logitech.com
 extranet.marionnaud.ch
 extranet.s-pankki.fi
-extras-acc.landmarkcinemas.com
-extras.landmarkcinemas.com
 fab.com
 falcon-sandbox.com
 fareharborsites.com
@@ -6137,8 +6110,6 @@ https://monash.app.nutrip.com
 https://monashcollege.edu.au
 https://monster-customizer.classdojo.com/cf6dfa68-1a81-4c6d-bc0b-38f3666b37d6/index.html
 https://move.monash.edu/
-https://movieclub-int.kinepolis.com
-https://movienow-int.kinepolis.be/admin
 https://mstatic.usaa.com
 https://my.account.posti.fi
 https://my.arlo.com
@@ -6553,7 +6524,6 @@ https://services.chipotle.com
 https://services.unity.com
 https://sfleet.cortexpowered.com
 https://sflower.cortexpowered.com
-https://shop-acc.kinepolis.be/
 https://shop.ifood.com.br
 https://shop.lululemon.com
 https://shop.monash.edu/
@@ -7221,8 +7191,6 @@ identity.nba.com
 identity.wnba.com
 identity.yoti.com
 identityhomolog.acesso.io
-identityserver-acc.landmarkcinemas.com
-identityserver.landmarkcinemas.com
 idp-cf.euce1.indriverapp.com
 idp-gw-cf.latam-mx.usea1.aws.indriverapp.com
 idp-scf.euce1.indriverapp.com
@@ -7246,8 +7214,6 @@ inclusion.nba.com
 indiaontrack.nba.com
 indicative-pricing.taxi.booking.com
 indrive.com
-induss.eu
-indussiibis.water-link.be
 inference.do-ai.run
 influencers.tw.coupang.com
 infomaniak.events
@@ -7333,9 +7299,6 @@ kayak.ai
 kdrive.infomaniak.com/app/*/preview/*
 kdrive.infomaniak.com/app/office*/*
 kidswebservices.com
-kinepolis-studio.be
-kinepolis.megatix.be
-kinepolis/id368204284
 kit.snapchat.com
 kmeet.infomaniak.com
 knowage.developer.monespacesante.fr
@@ -7445,9 +7408,6 @@ lookups.twilio.com
 loyalty.tw.coupang.com
 lps.dmp.gouv.fr
 lps2.dmp.gouv.fr
-luxfilmfestfilms.megatix.be
-luxfilmfestproducts.megatix.be
-luxfilmfesttickets.megatix.be
 lynx-dev.wnba.com
 lynx-qa.wnba.com
 lynx-qa2.wnba.com
@@ -7636,7 +7596,6 @@ monzo.com
 moonpay.com
 motorcity.gleague.nba.com
 movie.indrive.com
-movieapi.kinepolis.megatix.be
 mpago.la
 mpago.li
 msg-cf.euce1.indriverapp.com
@@ -7818,7 +7777,6 @@ numbers.twilio.com
 nummus.robinhood.com
 nvJitLink APIs
 nycbasketball.nba.com
-nz.co.vista.android.movie.mjrtheatres
 oauth-sandbox.gocardless.com
 oauth.deriv.com
 oauth.twilio.com
@@ -7949,7 +7907,6 @@ phone-validation.taxi.booking.com
 photo.kruidvat.be
 picc.posti.fi
 pigeon.swiftfinancial.com
-pit.water-link.be
 plaid.com
 planet.wordpress.org
 plannerrequest.hyatt.com
@@ -8173,7 +8130,6 @@ rewire.com
 rezagent.triseptsolutions.com
 ridewithvia.neoridelittlerock
 ridewithvia.par.piercetransit
-rio-link.be
 riograndevalley-dev.gleague.nba.com
 riograndevalley-qa.gleague.nba.com
 riograndevalley.gleague.nba.com
@@ -8378,7 +8334,6 @@ sso.mangerbouger.fr
 sso.marriott.com
 sso.oft.hyatt.com
 sso.ryadom.kz
-stage.landmarkcinemas.com
 staging-app.bany.dev
 staging.airtable.com
 staging.kidswebservices.com
@@ -8534,12 +8489,6 @@ ticketmaster.com.br
 ticketmaster.com.mx
 ticketmaster.de
 tickets.crypto.com
-tickets.kinepolis.be
-tickets.kinepolis.ch
-tickets.kinepolis.es
-tickets.kinepolis.fr
-tickets.kinepolis.lu
-tickets.kinepolis.nl
 tiktok.com
 tlbe.prod.tomorrowland.com
 tlbr.prod.tomorrowland.com
@@ -8612,8 +8561,6 @@ user-profile-staging.8x8.com
 user-profile.8x8.com
 usercontent.apps.nextcloud.com
 usercontent.koho.ca
-userprofile-acc.landmarkcinemas.com
-userprofile-ui.landmarkcinemas.com
 uwa.mobilevikings.be
 v0.app
 v0.dev
@@ -8701,13 +8648,6 @@ was-gw-scf.sa.apse1.aws.indriverapp.com
 wasapi.watsons.com.tr
 watch-ng.nba.com
 watch.global.nba.com
-water-kracht-levering.be
-water-kracht-levering.eu
-water-link-jaarverslag.be
-waterkracht-levering.be
-waterkracht-levering.eu
-waterlink.be
-waterstoringen.be
 wd1-cf.euce1.indriverapp.com
 wd1-gw-cf.euce1.indriverapp.com
 weather.opera-api.com
@@ -8947,14 +8887,6 @@ www.jaybirdsport.com
 www.juntasllegamos.indrive.com
 www.karwei.nl/*
 www.kayak.com
-www.kinepolis.be 
-www.kinepolis.biz
-www.kinepolis.ch 
-www.kinepolis.com 
-www.kinepolis.es 
-www.kinepolis.fr 
-www.kinepolis.lu 
-www.kinepolis.nl 
 www.kiwi.com
 www.koho.ca
 www.kolikkopelit.com
@@ -8962,7 +8894,6 @@ www.kruidvat.be
 www.kruidvat.nl
 www.kruidvatkids.nl
 www.lab-recherche-environnement.org
-www.landmarkcinemas.com
 www.libelle.nl
 www.lineup.com.mx
 www.linkedin.com
@@ -9001,7 +8932,6 @@ www.mercadolibre.com.sv
 www.mercadolivre.com
 www.mercadopago.com.ec
 www.mini.de
-www.mjrtheatres.com
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
