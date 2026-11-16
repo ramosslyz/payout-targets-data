@@ -41,6 +41,7 @@
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -81,6 +82,16 @@ sks-*.exo.io
 *.werkenbijgamma.be
 *.werkenbijkarwei.nl
 *.karweioutletstore.nl
+*.klubcinema.fr
+*.megatix.be  
+*.kinepolis.be
+*.kinepolis.ch
+*.kinepolis.com
+*.kinepolis.fr
+*.kinepolis.lu
+*.kinepolis.nl
+*.landmarkcinemas.com
+*.mjrtheatres.com
 *.kruidvatkids.nl
 *.kruidvat.nl
 *.kruidvat.be
@@ -110,6 +121,12 @@ sks-*.exo.io
 *.monzo.com
 *.prod-ffs.io
 *.nexuzhealth.*
+*.app.personio-dev.com
+*.app.personio.com
+*.personio-internal.de
+*.personio.tools
+*.personio.de
+*.personiowhistleblowing.com
 *.portofantwerp.com
 *.portofantwerpbruges.com
 *.ripe.net

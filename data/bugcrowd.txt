@@ -2233,9 +2233,6 @@ mfa.simplisafe.com
 api.simplisafe.com (App Endpoints)
 api.services.simplisafe.com (App Endpoints)
 media.simplisafe.com
-https://simplisafe.com
-https://simplisafe.co.uk
-api.prd.commerce.simplisafe.com
 https://www.skroutz.gr
 All internet facing Sky UK/ROI assets
 All internet facing Sky Italy assets 

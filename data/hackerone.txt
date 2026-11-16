@@ -222,7 +222,11 @@ NetScaler Gateway
 admin.meeshosupply.com
 affiliate.meesho.com
 com.meesho.supply
+com.valmo.ops
+com.valmo.rider
 com.valmo.valmo
+console.valmo.in
+grocery-supplier.meesho.com
 investor.meesho.com
 meesho.io
 prod.meeshoapi.com
@@ -1400,8 +1404,6 @@ com.boozt.app
 com.boozt.booztlet
 com.booztlet
 kronor.io
-my.sheer.com
-www.sheer.com
 1589071345
 apix.vodafone.om
 om.vodafone.mva
@@ -3165,7 +3167,7 @@ www.teamfortress.com
 www.valvesoftware.com
 Any other Epic games owned asset not listed in the out of scope section
 EOS C# SDK
-EpicGamesLauncher.exe    
+EpicGamesLauncher v2
 EpicOnlineServices
 FortniteClient-Android-Shipping-arm64-es2.apk
 FortniteClient-Win64-Shipping.exe

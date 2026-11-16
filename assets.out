@@ -113,6 +113,8 @@
 *.apigwc.marriott.com
 *.apis.telenor.se
 *.app.asana.com
+*.app.personio-dev.com
+*.app.personio.com
 *.appmiral.com
 *.arc.io
 *.arlo.com (subdomains impacting production customer-facing services)
@@ -246,6 +248,7 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
+*.datacamp.com
 *.dbt.com
 *.dbtlabs.com
 *.dcfgateway.marriott.com
@@ -507,12 +510,19 @@
 *.khealth.com
 *.kibana.wtf
 *.kiln.it
+*.kinepolis.be
+*.kinepolis.ch
+*.kinepolis.com
+*.kinepolis.fr
+*.kinepolis.lu
+*.kinepolis.nl
 *.kiwi.com
 *.klarna.com
 *.klarna.net
 *.klarnacdn.net
 *.klaviyo-dev.com/*
 *.klaviyomsv.com/*
+*.klubcinema.fr
 *.korta.is
 *.kortathjonustan.is
 *.krisp.ai
@@ -520,6 +530,7 @@
 *.kruidvat.nl
 *.kruidvatkids.nl
 *.labs.8x8.com
+*.landmarkcinemas.com
 *.landmarkglobal-group.com
 *.latitudefinancial.co.nz
 *.latitudefinancial.com
@@ -569,6 +580,7 @@
 *.maxbet.ro
 *.mclead.com.au
 *.mediatonic.co.uk
+*.megatix.be  
 *.melonapp.com
 *.meraki.com
 *.mercadolibre.cl
@@ -611,6 +623,7 @@
 *.miui.cn
 *.miui.com
 *.miwifi.com
+*.mjrtheatres.com
 *.mlstatic.com
 *.mmcdn.com
 *.mmwebc.dev
@@ -710,6 +723,10 @@
 *.paypalcorp.com
 *.pci.shopifyinc.com
 *.pennmedicine.connect-visit.com
+*.personio-internal.de
+*.personio.de
+*.personio.tools
+*.personiowhistleblowing.com
 *.petbook-magazine.com/
 *.petbook.de
 *.piaservers.com
@@ -1439,6 +1456,7 @@
 52.67.69.35
 52.76.174.107
 52.86.17.52
+522089287
 524362642
 529996768
 54.175.255.192/27
@@ -1835,7 +1853,7 @@ Enjin Blockchain
 Eno® Browser Extension
 Enterprise Audio/Video
 Enterprise Edition Products and Tools
-EpicGamesLauncher.exe    
+EpicGamesLauncher v2
 EpicOnlineServices
 Evergreen
 Exness Investor
@@ -2194,6 +2212,7 @@ Other Logitech Hardware/IoT
 Other Semrush Related Asset
 Other Spotify websites
 Other assets
+Other assets owned by Personio
 Other github.com/wordpress repos
 Other non-production infrastructure
 Other related e-commerce services
@@ -2669,6 +2688,7 @@ api.atg.se
 api.authy.com
 api.binance.com
 api.blockchain.info
+api.boursobank.com
 api.box.com
 api.chainabuse-staging.com
 api.circle.com
@@ -2763,11 +2783,12 @@ api.neon.opera.com/pub
 api.ort-one-pingone.com
 api.ovh.com
 api.paybox.sh
+api.personio-dev.com
+api.personio.com
 api.pns.hk
 api.portofantwerp.com
 api.portofantwerpbruges.com
 api.posti.fi
-api.prd.commerce.simplisafe.com
 api.preprod.monespacesante.fr
 api.privateinternetaccess.com
 api.privy.io
@@ -2841,6 +2862,9 @@ app.alasco.de
 app.basecamp.com
 app.box.com
 app.circle.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -2926,6 +2950,9 @@ aquiristech.com
 arrive-server.shopifycloud.com
 arsentomsky.indrive.com
 askpeopleteam.visa.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com 
+assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.koho.ca
@@ -3056,6 +3083,7 @@ booking.applevacations.com
 booking.beachbound.com
 booking.cheapcaribbean.com
 booking.com
+booking.mjrtheatres.com
 bookingholdings-coe.com
 boost.vinci.com
 booth.pm
@@ -3076,6 +3104,9 @@ building-blocks.com
 bulkexports.twilio.com
 bulten.watsons.com.tr
 business.kayak.com
+business.kinepolis.be
+business.kinepolis.lu
+business.kinepolis.nl
 business.linkedin.com
 business.reddithelp.com
 business.snapchat.com
@@ -3116,6 +3147,7 @@ campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
+campus.datacamp.com
 cancellation.prod.ps.welt.de
 canton-dev.gleague.nba.com
 canton-qa.gleague.nba.com
@@ -3218,6 +3250,7 @@ cleveland.gleague.nba.com
 clicks.koho.ca
 client-api.arkoselabs.com
 client.dev
+clients.boursobank.com
 cloud.app.box.com
 cloud.digitalocean.com
 cloud.forescout.com
@@ -3344,6 +3377,7 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
+com.datacamp
 com.dd.doordash
 com.deribit
 com.dolap.android
@@ -3422,6 +3456,7 @@ com.hypr.one
 com.imdbtv.livingroom
 com.immediasemi.android.blink
 com.instacart.client
+com.inthepocket.kinepolis
 com.jellybtn.boardkings
 com.jellybtn.cashkingmobile
 com.katanlabs.bubblepop
@@ -3549,6 +3584,8 @@ com.ubnt.ucrm
 com.ubnt.umobile
 com.urbanclap.provider
 com.urbanclap.urbanclap
+com.valmo.ops
+com.valmo.rider
 com.valmo.valmo
 com.valvesoftware.Steam
 com.venmo
@@ -3629,6 +3666,7 @@ console.ort-one-pingone.com
 console.posti.com
 console.tink.com
 console.twilio.com
+console.valmo.in
 console.x.ai
 console.x.com
 contact-dev.nba.com
@@ -3899,6 +3937,7 @@ education.github.com
 eero Devices
 effecthouse.tiktok.com
 eg.ht
+egaming.kinepolis.es
 eidhelp.marriott.com
 elm.nba.com
 elma.elma.fi
@@ -3950,6 +3989,8 @@ external.indrive.dev
 external.logitech.com
 extranet.marionnaud.ch
 extranet.s-pankki.fi
+extras-acc.landmarkcinemas.com
+extras.landmarkcinemas.com
 fab.com
 falcon-sandbox.com
 fareharborsites.com
@@ -4116,6 +4157,7 @@ green.nba.com
 greensboro-dev.gleague.nba.com
 greensboro-qa.gleague.nba.com
 greensboro.gleague.nba.com
+grocery-supplier.meesho.com
 grok.com
 grokipedia.com
 gs://faraday-secret
@@ -4432,6 +4474,7 @@ https://app.magicestimations.com
 https://app.navan.com
 https://app.opsgenie.com
 https://app.optimizely.com/
+https://app.pdq.com/
 https://app.recordedfuture.com
 https://app.requirementyogi.com
 https://app.ring.com/*
@@ -4461,6 +4504,7 @@ https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/certsy/id1617796159
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/jora-jobs-job-search-work/id917565665
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
@@ -4485,7 +4529,7 @@ https://apps.apple.com/ee/app/bolt-fast-affordable-rides/id675033630
 https://apps.apple.com/ee/app/bolt-food/id1451492388
 https://apps.apple.com/es/app/mediamarkt-comprar-online/id1438532508
 https://apps.apple.com/es/app/osl-buy-bitcoin-crypto/id6743699672
-https://apps.apple.com/fr/app/cryptobox/id972602802
+https://apps.apple.com/fr/app/boursobank/id425368900
 https://apps.apple.com/fr/app/decathlon-shopping/id1168607403
 https://apps.apple.com/fr/app/doctolib/id925339063
 https://apps.apple.com/fr/app/infomaniak-authenticator/id1478424817
@@ -4643,6 +4687,7 @@ https://auth.riskrecon.eu
 https://auth.seek.com
 https://auth.thetradedesk.com
 https://auth.wyze.com
+https://auth2.pdq.com/
 https://authn.usaa.com/
 https://autoupdate.geo.opera.com
 https://b2bapi-a.usaa.com
@@ -4682,7 +4727,6 @@ https://booking.mgm.mo/
 https://bounty-fastly.datashield.co
 https://bounty-nginx.datashield.co
 https://bounty-nodejs.datashield.co
-https://bounty.cryptobox.com
 https://bridge.ripio.com/
 https://browser-notifications.opera.com
 https://bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com/
@@ -4759,6 +4803,7 @@ https://communities.epicgames.com
 https://community.etsy.com
 https://community.exoscale.com/
 https://community.oppo.com/
+https://community.personio.com
 https://communityin.oppo.com/
 https://company.vinted.com
 https://compulsoryunits.monash.edu/
@@ -5262,6 +5307,7 @@ https://hr.neogov.com
 https://hr.prosus.com/
 https://hu.harmanaudio.com
 https://hub.immutable.com/
+https://hug.personio.com
 https://hytale.com/
 https://hytale.dev/
 https://ibconnect.internetbrands.com
@@ -5359,6 +5405,7 @@ https://learn.newrelic.com/
 https://legacy-blockexplorer.electroneum.com
 https://lensstudio.snapchat.com/api/
 https://library.elementor.com/
+https://library.pdq.com/
 https://lieferando.de
 https://life.pulsepoint.com/Buyer/#/campaign
 https://life.pulsepoint.com/EngagementAudience/#/dashboard
@@ -6110,6 +6157,8 @@ https://monash.app.nutrip.com
 https://monashcollege.edu.au
 https://monster-customizer.classdojo.com/cf6dfa68-1a81-4c6d-bc0b-38f3666b37d6/index.html
 https://move.monash.edu/
+https://movieclub-int.kinepolis.com
+https://movienow-int.kinepolis.be/admin
 https://mstatic.usaa.com
 https://my.account.posti.fi
 https://my.arlo.com
@@ -6297,6 +6346,7 @@ https://play.google.com/store/apps/details?id=com.bolt.deliveryclient
 https://play.google.com/store/apps/details?id=com.bookbeat.android&hl=en&pli=1
 https://play.google.com/store/apps/details?id=com.booking&hl=en
 https://play.google.com/store/apps/details?id=com.booking.hotelmanager&hl=en
+https://play.google.com/store/apps/details?id=com.boursorama.android.clients
 https://play.google.com/store/apps/details?id=com.bybit.app&hl=en
 https://play.google.com/store/apps/details?id=com.callpod.android_apps.keeper&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.certsy.app
@@ -6305,7 +6355,6 @@ https://play.google.com/store/apps/details?id=com.coindesk.mobile
 https://play.google.com/store/apps/details?id=com.comuto&hl=en
 https://play.google.com/store/apps/details?id=com.decathlon.app
 https://play.google.com/store/apps/details?id=com.ecwid.android&pli=1
-https://play.google.com/store/apps/details?id=com.ercom.cryptobox.release&hl=fr
 https://play.google.com/store/apps/details?id=com.fishbowlmedia.fishbowl&hl=en_US
 https://play.google.com/store/apps/details?id=com.flipkart.android
 https://play.google.com/store/apps/details?id=com.glassdoor.app&hl=en_US
@@ -6431,6 +6480,7 @@ https://portal.anz.kinergysolutions.com
 https://portal.exoscale.com/
 https://portal.iFoodpago.com.br
 https://portal.originzero.com.au
+https://portal.pdq.com/
 https://portal.riskrecon.com
 https://portal.riskrecon.eu
 https://portal.unifiedid.com
@@ -6497,6 +6547,7 @@ https://screenplayer.20min.ch
 https://sdk-h1.unico.io/createprocess
 https://se.harmanaudio.com
 https://search-api.bookbeat.com
+https://sec-test-<intigriti handle>-<nn>.personio.de
 https://secumails.gesundheitsverbund.at
 https://secure-iphone-xml.booking.com/json/
 https://secure-signals-client-side-integ.uidapi.com/
@@ -6524,6 +6575,7 @@ https://services.chipotle.com
 https://services.unity.com
 https://sfleet.cortexpowered.com
 https://sflower.cortexpowered.com
+https://shop-acc.kinepolis.be/
 https://shop.ifood.com.br
 https://shop.lululemon.com
 https://shop.monash.edu/
@@ -6535,8 +6587,6 @@ https://signal.pulsepoint.com/hcpexplorer/#/dashboard/eventsExplorer
 https://signature.blis.com
 https://signup.ticketmaster.com/bugbountytest
 https://simnext.bullish-test.com
-https://simplisafe.co.uk
-https://simplisafe.com
 https://sip2.dmp.gouv.fr
 https://sitepixel.blis.com
 https://sitepixel.dev.blis.com
@@ -6991,6 +7041,8 @@ https://www.pacsun.me/
 https://www.paddle.com
 https://www.partycasino.com
 https://www.partypoker.com
+https://www.personio.com/free-trial/
+https://www.personio.de/kostenlos-testen/
 https://www.pexels.com/
 https://www.pinelabs.ae
 https://www.pinelabs.com
@@ -7191,6 +7243,8 @@ identity.nba.com
 identity.wnba.com
 identity.yoti.com
 identityhomolog.acesso.io
+identityserver-acc.landmarkcinemas.com
+identityserver.landmarkcinemas.com
 idp-cf.euce1.indriverapp.com
 idp-gw-cf.latam-mx.usea1.aws.indriverapp.com
 idp-scf.euce1.indriverapp.com
@@ -7299,6 +7353,9 @@ kayak.ai
 kdrive.infomaniak.com/app/*/preview/*
 kdrive.infomaniak.com/app/office*/*
 kidswebservices.com
+kinepolis-studio.be
+kinepolis.megatix.be
+kinepolis/id368204284
 kit.snapchat.com
 kmeet.infomaniak.com
 knowage.developer.monespacesante.fr
@@ -7408,6 +7465,9 @@ lookups.twilio.com
 loyalty.tw.coupang.com
 lps.dmp.gouv.fr
 lps2.dmp.gouv.fr
+luxfilmfestfilms.megatix.be
+luxfilmfestproducts.megatix.be
+luxfilmfesttickets.megatix.be
 lynx-dev.wnba.com
 lynx-qa.wnba.com
 lynx-qa2.wnba.com
@@ -7596,6 +7656,7 @@ monzo.com
 moonpay.com
 motorcity.gleague.nba.com
 movie.indrive.com
+movieapi.kinepolis.megatix.be
 mpago.la
 mpago.li
 msg-cf.euce1.indriverapp.com
@@ -7617,7 +7678,6 @@ my.playstation.com
 my.portofantwerp.com
 my.portofantwerpbruges.com
 my.pressable.com
-my.sheer.com
 my.snapchat.com
 my.swiftfinancial.com
 my.tomorrowland.com
@@ -7777,6 +7837,7 @@ numbers.twilio.com
 nummus.robinhood.com
 nvJitLink APIs
 nycbasketball.nba.com
+nz.co.vista.android.movie.mjrtheatres
 oauth-sandbox.gocardless.com
 oauth.deriv.com
 oauth.twilio.com
@@ -7957,6 +8018,7 @@ ppw.euce1.indriverapp.com
 pr-dev.nba.com
 pr-qa.nba.com
 pr.nba.com
+practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 premium.pixiv.net
@@ -7999,6 +8061,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profile.playstation.com
 profile.segment.com
+profiles-api.datacamp.com
+projects.datacamp.com
 projects.nextcloud.com
 promo.tw.coupang.com
 prow.k8s.io
@@ -8334,6 +8398,7 @@ sso.mangerbouger.fr
 sso.marriott.com
 sso.oft.hyatt.com
 sso.ryadom.kz
+stage.landmarkcinemas.com
 staging-app.bany.dev
 staging.airtable.com
 staging.kidswebservices.com
@@ -8489,6 +8554,12 @@ ticketmaster.com.br
 ticketmaster.com.mx
 ticketmaster.de
 tickets.crypto.com
+tickets.kinepolis.be
+tickets.kinepolis.ch
+tickets.kinepolis.es
+tickets.kinepolis.fr
+tickets.kinepolis.lu
+tickets.kinepolis.nl
 tiktok.com
 tlbe.prod.tomorrowland.com
 tlbr.prod.tomorrowland.com
@@ -8505,6 +8576,7 @@ tr-gw-cf.euce1.indriverapp.com
 tr-gw-scf.euce1.indriverapp.com
 tr-scf.euce1.indriverapp.com
 trade.ripio.com
+tradingboard.boursobank.com
 training.ui.com
 transact.playstation.com
 translate.badoo.com
@@ -8561,6 +8633,8 @@ user-profile-staging.8x8.com
 user-profile.8x8.com
 usercontent.apps.nextcloud.com
 usercontent.koho.ca
+userprofile-acc.landmarkcinemas.com
+userprofile-ui.landmarkcinemas.com
 uwa.mobilevikings.be
 v0.app
 v0.dev
@@ -8765,6 +8839,7 @@ www.bmw-motorrad.de
 www.bmw.de
 www.bolsasymercados.es
 www.bookingholdings.com
+www.boursobank.com
 www.bpost.be
 www.bpost2.be
 www.bumble.com
@@ -8789,6 +8864,8 @@ www.creditkarma.ca
 www.crowdstrike.com
 www.crowdstrike.org
 www.cybersource.com
+www.datacamp.com
+www.datacamp.com/datalab
 www.ddfcontent.com
 www.delen.bank
 www.delen.be/en 
@@ -8887,6 +8964,14 @@ www.jaybirdsport.com
 www.juntasllegamos.indrive.com
 www.karwei.nl/*
 www.kayak.com
+www.kinepolis.be 
+www.kinepolis.biz
+www.kinepolis.ch 
+www.kinepolis.com 
+www.kinepolis.es 
+www.kinepolis.fr 
+www.kinepolis.lu 
+www.kinepolis.nl 
 www.kiwi.com
 www.koho.ca
 www.kolikkopelit.com
@@ -8894,6 +8979,7 @@ www.kruidvat.be
 www.kruidvat.nl
 www.kruidvatkids.nl
 www.lab-recherche-environnement.org
+www.landmarkcinemas.com
 www.libelle.nl
 www.lineup.com.mx
 www.linkedin.com
@@ -8932,6 +9018,7 @@ www.mercadolibre.com.sv
 www.mercadolivre.com
 www.mercadopago.com.ec
 www.mini.de
+www.mjrtheatres.com
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
@@ -8977,7 +9064,6 @@ www.sbbcargo.com
 www.schoenentorfs.be
 www.schoenentorfs.nl 
 www.semrush.com
-www.sheer.com
 www.six-group.com
 www.socialdeal.nl
 www.socialdeal.nl/blog/
