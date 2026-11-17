@@ -130,6 +130,8 @@ sks-*.exo.io
 *.portofantwerpbruges.com
 *.ripe.net
  *.rivian.com
+*.swisspass.ch
+*.sbb.ch
 *.superdrug.com
 *.savers.co.uk
 *.theperfumeshop.com
@@ -143,6 +145,10 @@ sks-*.exo.io
 *.tweakimg.net
 *.vtm.be
 *.vtmgo.be
+*.veriff.com
+*.aww.be
+*.water-link.be
+*.mijnwater-link.be
 *.watsons.com.hk
 *.watsons.co.th
 *.watsons.com.tw

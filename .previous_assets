@@ -1967,6 +1967,9 @@
 <Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
 <Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
 <locale>.trip.com
+<your-own-1password-account> → Latest Browser Extension
+<your-own-1password-account> → Latest stable 1Password CLI
+<your-own-1password-account>.1password.com
 @privy-io controlled namespace dependencies
 A16k
 A76
@@ -3544,6 +3547,7 @@ admin.booking.com
 admin.fr.cloud.gov
 admin.instacart.com
 admin.meeshosupply.com
+admin.postikuori.posti.fi
 admin.prd-idfapi.aws3.ezshield.ws
 admin.shopify.com
 admin.stage.vismaonline.com
@@ -3813,6 +3817,7 @@ api.portal.enterprise.uphold.com
 api.portofantwerp.com
 api.portofantwerpbruges.com
 api.posti.fi
+api.postikuori.posti.fi
 api.ppa.porsche.com
 api.prd.commerce.simplisafe.com
 api.preprod.monespacesante.fr
@@ -4451,6 +4456,7 @@ cmcom.atlassian.net
 cmf-cf.euce1.indriverapp.com
 cms.monespacesante.fr
 cms.nba.com
+cms.postikuori.posti.fi
 cmsdev.transunion.do
 cmsdev.transunion.mx
 cmspvw.transunion.do
@@ -5362,6 +5368,7 @@ eshop.bpost.be
 essentials.vinci.com
 essentiel.vinci.com
 esupplier.marriott.com
+etavarasto.posti.fi
 etickets.infomaniak.com
 etorologsapi.etoro.com
 etoropartners.com
@@ -10076,7 +10083,9 @@ iRobot Roomba™ 505
 iRobot Roomba™ 705
 ia.tvg.com
 iam.atg.se
+iam.postikuori.posti.fi
 iam.twilio.com
+iamapp.postikuori.posti.fi
 iat.it.xvservice.net
 ibc-go
 ic3-cf.euce1.indriverapp.com
@@ -11368,6 +11377,7 @@ realme P3 Lite 5G
 realme P4 5G
 realme P4 Pro 5G
 reastatic.net
+rebl-ai-webchat-postikuori.azurewebsites.net
 reco.tw.coupang.com
 recovery.privy.io
 redditforbusiness.com
