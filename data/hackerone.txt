@@ -387,10 +387,6 @@ realme P1 speed
 realme P3 Lite 5G
 realme P4 5G
 realme P4 Pro 5G
-<Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
-<Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
-http://--your-own-1password-account--.1password.com
-https://events.1password.com/api/
 Dia Assistant
 Dia on MacOS
 Dia on Windows

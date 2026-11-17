@@ -3,7 +3,6 @@
  *.test.*.lfscnp.com
  203.13.125.32/27
  Finicity Connect
- Mobile Apps
  UniFi OS Server
  com.citymapper.app.release
  https://api-*exoscale.com/v2
@@ -824,7 +823,6 @@
 *.savi.xyz
 *.say.rocks
 *.saytechnologies.com
-*.sbb.ch
 *.sbgcdn.com
 *.sbgcore.com
 *.sbgorigin.com
@@ -926,7 +924,6 @@
 *.superhuman.com
 *.support.originenergy.com.au
 *.swaps.xyz
-*.swisspass.ch
 *.teams.cloudflare.com
 *.techbook.de
 *.telenor.se
@@ -1103,7 +1100,6 @@
 *app.simple-reports.com/demo
 *dev*.arlo.com
 *developer.cloud.com
-*elvetino.ch
 *ensemble*.yahoo.com
 *gateway-apc.marriott.com
 *inf.fndlsb.net
@@ -1111,9 +1107,7 @@
 *qa*.arlo.com
 *ripio.com
 *ripiotrade.co
-*sbbcargo.com
 *test*.bykea.net
-*transsicura.ch
 *uat.marriott.com
 *ubereats.com
 *vc.logitech.com
@@ -1541,8 +1535,6 @@
 993135524
 9nqwjwnqjj5n
 9wzdncrfj3mb
-<Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
-<Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
 <locale>.trip.com
 @privy-io controlled namespace dependencies
 A16k
@@ -1605,8 +1597,6 @@ All Other NVIDIA Container Toolkit Assets
 All internet facing Sky DACH assets
 All internet facing Sky Italy assets 
 All internet facing Sky UK/ROI assets
-All other SBB owned IT assets
-All other Web and mobile APPs owned by SBB 
 All the Blockchain Infrastructure
 Amazon Subsidiaries (Please only actively test explicitly stated scope)
 AmpliFi
@@ -2125,7 +2115,6 @@ Mi TV Box
 Mi/Redmi Phone
 Microsites
 Mobile Applications
-Mobile Apps
 Moneyback Android
 Moneyback iOS
 MongoDB Assistant
@@ -4217,7 +4206,6 @@ hotornot.com
 hotshoppeservices.com
 hpanel.hostinger.com
 http1mustdie.com
-http://--your-own-1password-account--.1password.com
 http://10.72.218.66/flag.txt
 http://activitylog.io/
 http://analytics.prosus.com
@@ -4978,7 +4966,6 @@ https://etherscan.io/token/0xfe18ae03741a5b84e39c295ac9c856ed7991c38e
 https://etoropartners.com
 https://etorox.com
 https://etsypayments.com
-https://events.1password.com/api/
 https://events.onecloud.harman.com
 https://evigilation.monash.edu
 https://example-jssdk-integ.uidapi.com
@@ -8904,7 +8891,6 @@ www.dyson.vn
 www.dysoncanada.ca
 www.editeur.am.monespacesante.fr
 www.editeur.api.monespacesante.fr
-www.elvetino.ch
 www.evernote.com
 www.ezviz.com
 www.fareharbor.com
@@ -9045,8 +9031,6 @@ www.s-pankki.fi
 www.sa.dyson.com
 www.samenfittorfs.be
 www.savers.co.uk
-www.sbb.ch
-www.sbbcargo.com
 www.schoenentorfs.be
 www.schoenentorfs.nl 
 www.semrush.com
@@ -9080,7 +9064,6 @@ www.torfs.be
 www.torfs.nl
 www.tradepmr.com
 www.trajeoh.com
-www.transsicura.ch
 www.travel-brilliantly.marriott.com
 www.trekpleister.nl
 www.trendyol-milla.com

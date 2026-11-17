@@ -323,20 +323,20 @@ service.trekpleister.nl
 folder.trekpleister.nl
 www.prijsmepper.nl
 www.libelle.nl
-sandbox.striga.com
-https://www.vault.striga.eu/web/sandbox/
-https://tfr-sandbox.striga.com/
-https://sandbox.striga.com/backoffice
-https://hooks.striga.com/core/
-https://sandbox.striga.com/api/v0
-https://www.sandbox.striga.com/api/v1/
-https://sandbox.striga.com/api/v1
-https://9b10d44d-1499-4a2f-86bc-fda178acdfdc.striga.com/
 https://github.com/buildonspark/spark
 https://app.uma.money
 https://link.uma.me
 https://api.lightspark.com
 https://app.lightspark.com
+https://9b10d44d-1499-4a2f-86bc-fda178acdfdc.striga.com/
+https://sandbox.striga.com/api/v1
+https://www.sandbox.striga.com/api/v1/
+https://sandbox.striga.com/api/v0
+https://hooks.striga.com/core/
+sandbox.striga.com
+https://sandbox.striga.com/backoffice
+https://tfr-sandbox.striga.com/
+https://www.vault.striga.eu/web/sandbox/
 lightsparkdev/lightspark-crypto-uniffi
 https://github.com/lightsparkdev/kotlin-sdk
 https://github.com/lightsparkdev/js-sdk
@@ -580,17 +580,6 @@ Rivian iOS Application
 basecamp.rivian.com
 Rivian Android Application
 rivian.com
- Mobile Apps
-www.sbb.ch
-Mobile Apps
-www.elvetino.ch
-*elvetino.ch
-www.sbbcargo.com
-*sbbcargo.com
-www.transsicura.ch
-*transsicura.ch
-All other Web and mobile APPs owned by SBB 
-All other SBB owned IT assets
 SimScale API
 SimScale Platform
 SimScale Forum
