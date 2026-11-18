@@ -233,7 +233,6 @@
 *.coinbase.com
 *.computerbild.de
 *.consumer.worldcoin.org
-*.contactallerg(y|ie).uzleuven.be
 *.cp.dyson.com
 *.creditkarma.ca
 *.creditkarma.co.uk
@@ -530,7 +529,6 @@
 *.kruidvat.be
 *.kruidvat.nl
 *.kruidvatkids.nl
-*.kwsdose.be
 *.labs.8x8.com
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
@@ -621,7 +619,6 @@
 *.miot-spec.org
 *.mipay.com
 *.mipay.net
-*.mir.uzleuven.be
 *.mitt.vimla.se
 *.mittforetag.telenor.se
 *.miui.cn
@@ -747,7 +744,6 @@
 *.playstation.net
 *.playticorp.com
 *.playtika.com
-*.playuzleuven.be
 *.playwsop.com
 *.pns.hk
 *.points.com
@@ -1005,7 +1001,6 @@
 *.uscc.com
 *.uscc.net
 *.uscellular.com
-*.uzleuven.*
 *.vacationhomerentals.com
 *.varonis.com
 *.varonis.io
@@ -1114,19 +1109,16 @@
 *.zomato.com
 *app.simple-reports.com/demo
 *dev*.arlo.com
-*dev.uzleuven.be
 *developer.cloud.com
 *elvetino.ch
 *ensemble*.yahoo.com
 *gateway-apc.marriott.com
-*idp*.uzleuven.be
 *inf.fndlsb.net
 *omega*.yahoo.com
 *qa*.arlo.com
 *ripio.com
 *ripiotrade.co
 *sbbcargo.com
-*stag*.uzleuven.be
 *test*.bykea.net
 *transsicura.ch
 *uat.marriott.com
@@ -1258,7 +1250,6 @@
 193.109.229.0/24
 193.110.154.0/24
 193.5.66.0/23
-193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111
 193.8.251.0/24
 194.209.121.0/24
 194.35.79.0/24
@@ -1726,6 +1717,14 @@ Burp Suite Pro/Community
 C100447517
 C103149579
 CDNJS
+COUPANG (AOS)
+COUPANG (IOS)
+COUPANG EATS (AOS)
+COUPANG EATS (IOS)
+COUPANG LIVE CREATOR (AOS)
+COUPANG LIVE CREATOR (IOS)
+COUPANG PLAY (AOS)
+COUPANG PLAY (IOS)
 CUDA Driver APIs
 CUDA Libraries
 CUDA Runtime APIs
@@ -1905,7 +1904,6 @@ FindX6
 FindX6Pro
 FindX7
 FindX7Ultra
-Fing desktop
 Finicity - OBB (Open Banking Business Service) 
 Finicity Decisioning
 Finicity- Data Services
@@ -2720,6 +2718,8 @@ api.cloudways.com
 api.cm.com
 api.cmtelecom.com
 api.coinmarketcap.com
+api.coupangeats.com
+api.coupangstreaming.com
 api.creditkarma.com
 api.deriv.com
 api.developer.monespacesante.fr
@@ -2899,7 +2899,6 @@ app.drogas.lv
 app.expressmailguard.com
 app.faraday.ai
 app.files.com
-app.fing.com
 app.fizzy.do
 app.frontapp.com
 app.geneva-staging.chat
@@ -2976,6 +2975,7 @@ aquiris.studio
 aquiristech.com
 arrive-server.shopifycloud.com
 arsentomsky.indrive.com
+as.coupang.com
 askpeopleteam.visa.com
 assets.airbnb.com
 assets.hyatt.com
@@ -3019,7 +3019,6 @@ auth0.net
 authentication.clearme.com
 authentication.wolt.com
 autocomplete.booking.com
-autodiscover.uzleuven.be
 av.indrive.com
 aww.eu
 b5s.hackerone-ext-content.com
@@ -3190,8 +3189,6 @@ capitanes.gleague.nba.com
 capturingreality.com
 cardpayments.remitly.io
 cards.remitly.io
-cardsonline.azdiest.be
-cardsonlinetst.azdiest.be
 career.bpost.be
 careers.booking.com
 careers.capital.com
@@ -3205,6 +3202,7 @@ cares.nba.com
 cargo.indrive.com
 cars.booking.com
 cart-front-api.tw.coupang.com
+cart.coupang.com
 cart.starbucks.co.jp
 cart.tw.coupang.com
 cas-cf.euce1.indriverapp.com
@@ -3212,10 +3210,12 @@ cas-gw-cf.euce1.indriverapp.com
 cas-gw-scf.euce1.indriverapp.com
 cas.eu-east-1.indriverapp.com
 cas.tomorrowland.com
+cash.coupang.com
 cash.tw.coupang.com
 cashier.deriv.com
 cashier.robinhood.com
 casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
+cast.coupangstreaming.com
 castor.vinci.com
 cca-cf.latam-mx.usea1.aws.indriverapp.com
 ccardseu1.badoo.com
@@ -3240,6 +3240,8 @@ cdn.nba.com
 cdn.plaid.com
 cdn.posti.fi
 cdna.lystit.com
+centaurs-rest.coupang.com
+centaurs.coupang.com
 cewe.kruidvat.be
 cewe.kruidvat.nl
 chain.link
@@ -3253,6 +3255,7 @@ chat.x.com
 chatdate.app
 chatspot.ai
 chaturbate.com
+checkout.coupang.com
 checkout.playstation.com
 checkout.rapyd.net
 checkout.razorpay.com
@@ -3289,6 +3292,8 @@ cm-cf.euce1.indriverapp.com
 cm.com/[locale]/app/*
 cm.com/[locale]/register
 cm.com/app/messagingtrial/
+cmapi.coupang.com
+cmapi.coupang.kr
 cmapi.tw.coupang.com
 cmcom.atlassian.net
 cmf-cf.euce1.indriverapp.com
@@ -3744,9 +3749,11 @@ corp.polymoon.it
 corporate.abercrombie.com
 corporate.wolt.com
 cosmo.fdeb.live.use1a.on.epicgames.com
+coupang.com
 courier-gw-cf.cis.euce1.aws.indriverapp.com
 couriers.indrive.com
 courtside.nba.com
+cousms.coupang.com
 cover-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 cpanel.hostinger.com
@@ -3761,6 +3768,7 @@ crm.na1.insightly.com
 crm.nextcloud.com
 cruises.priceline.com
 cs.money
+csmessenger.coupang.com
 css-tricks.com
 ct.deriv.com
 ct.ninjakiwi.com
@@ -3831,6 +3839,7 @@ datapod-2-ingest.acceptance.forescoutcloud.net
 datapod-2-query.acceptance.forescoutcloud.net
 daw-cf.euce1.indriverapp.com
 dcfgateway*.marriott.com
+dco.coupang.com
 dco.tw.coupang.com
 de.bmw.connected.mobile20.row
 de.forescout.cloud
@@ -3889,6 +3898,7 @@ developers.tiktok.com
 developers.tw.coupangcorp.com
 developers.veriff.me
 device.marriott.com
+dfs.coupang.com
 dh-cf.mena.meso1.aws.indriverapp.com
 dh-gw-scf.sa.apse1.aws.indriverapp.com
 diabrowser.com
@@ -3906,6 +3916,7 @@ digitaloceantest.com
 digitalspecs.portofantwerpbruges.com
 direct-demo.currencycloud.com
 direct.playstation.com
+discover.coupangstreaming.com
 distribution-xml.booking.com
 dk.royalarena.app
 dl.boxcloud.com
@@ -3941,6 +3952,7 @@ dwhreports.nba.com
 dwy.visa.com
 e-Commerce
 eassessment.monash.edu
+eats-mobile-web.coupang.com
 ebctest.cybersource.com
 ebsext.oft.hyatt.com
 ec2-redirect-west.nba.com
@@ -3960,7 +3972,6 @@ ecom-data.trekpleister.nl
 ecom-static.kruidvat.be
 ecom-static.kruidvat.nl
 ecommerce.hostinger.com
-ecrf.uzleuven.be
 edge.bookbeat.com
 edgeapi.slack.com
 editeur.am.monespacesante.fr
@@ -3975,6 +3986,7 @@ eero Devices
 effecthouse.tiktok.com
 eg.ht
 egaming.kinepolis.es
+egift.coupang.com
 eidhelp.marriott.com
 elm.nba.com
 elma.elma.fi
@@ -4025,10 +4037,8 @@ exs-dtu-gw-scf.sa.apse1.aws.indriverapp.com
 external-api.lime.bike
 external.indrive.dev
 external.logitech.com
-extranet-asa.uzleuven.be
 extranet.marionnaud.ch
 extranet.s-pankki.fi
-extranet.uzleuven.be
 extras-acc.landmarkcinemas.com
 extras.landmarkcinemas.com
 fab.com
@@ -4041,6 +4051,7 @@ fch-gw-cf.euce1.indriverapp.com
 fch-gw-scf.euce1.indriverapp.com
 fch-scf.euce1.indriverapp.com
 fe-gw-scf.sa.apse1.aws.indriverapp.com
+feed-web.coupang.com
 feed-web.tw.coupang.com
 feedback.logitech.com
 fetlife.com
@@ -4066,8 +4077,8 @@ file-storage-front.aws.indriverapp.com
 file.larksuite.com
 files-stg.inspectorio.com
 files.stripe.com
-files.uzleuven.be
 fileupload-video.tw.coupang.com
+fileupload.coupang.com
 fileupload.tw.coupang.com
 fintech-aml-kyc-tw.coupang.com
 fire-dev.wnba.com
@@ -7247,6 +7258,7 @@ icl-gw-cf.euce1.indriverapp.com
 icl-gw-scf.euce1.indriverapp.com
 icl-scf.euce1.indriverapp.com
 id-watsonsbesti.com
+id.coupang.com
 id.heytap.com
 id.logi.com
 id.nba.com
@@ -7300,6 +7312,7 @@ ignite-dev.gleague.nba.com
 ignite-qa.gleague.nba.com
 ignite.gleague.nba.com
 ik.watsons.com.tr
+img.coupangstreaming.com
 img.swapcard.com
 imove.bpost.cloud
 in-gw-scf.sa.apse1.aws.indriverapp.com
@@ -7418,7 +7431,6 @@ ksuite.infomaniak.com
 ksuite.infomaniak.com/*/kdrive/*/preview/*
 kubernetes-csi.github.io
 kubernetes.io
-kumulus.uzleuven.be
 kws-companion/id1342124012
 kyc-onboarding.booking.com
 kyc.a.exodus.io
@@ -7452,15 +7464,19 @@ links.geneva-staging.chat
 links.geneva-staging.com
 links.portswigger.net
 liquidfiles.nexuzhealth.com
-liquidfiles.uzleuven.be
-liquidfilestest.uzleuven.be
 lirportal.ripe.net
 lists.nextcloud.com
 live-backstage.tiktok.com
 live-service.whatnot.com
+live.coupang.com
+live.coupangcorp.com
+livecreator.coupang.com
+liveh5.coupang.com
 livenation.com
 livenation.me
+ljc-test.coupang.com
 ljc-test.tw.coupang.com
+ljc.coupang.com
 ljc.tw.coupang.com
 loadboard*.bykea.net/
 loanbuilder.com
@@ -7478,6 +7494,7 @@ login-uat.nba.com
 login-uat.wnba.com
 login.arkane.network
 login.cm.com
+login.coupang.com
 login.databricks.com
 login.delen.be 
 login.delen.ch 
@@ -7512,6 +7529,7 @@ longisland.gleague.nba.com
 lookup.nextcloud.com
 lookups.twilio.com
 louvre.veriff.me
+loyalty.coupang.com
 loyalty.tw.coupang.com
 lps.dmp.gouv.fr
 lps2.dmp.gouv.fr
@@ -7527,6 +7545,7 @@ m.badoo.com
 m.bild.de
 m.box.com
 m.chaturbate.com
+m.coupang.com
 m.dana.id
 m.reddit.com
 m.tw.coupang.com
@@ -7577,6 +7596,7 @@ maximo-accpt.portofantwerpbruges.com
 maximo.portofantwerp.com
 maximo.portofantwerpbruges.com
 maxiresponse.bpost.be
+mc.coupang.com
 mc.sendgrid.com
 mc.tw.coupang.com
 mcd-dev.nba.com
@@ -7596,6 +7616,7 @@ mcp.faraday.ai
 mcp.staging.airtable.com
 mcp.stripe.com
 mds.marriott.com
+media-log.coupang.com
 media.drogas.lt
 media.drogas.lv
 media.iciparisxl.be
@@ -7665,6 +7686,7 @@ merchant.wolt.com
 mercury-dev.wnba.com
 mercury-qa.wnba.com
 mercury-qa2.wnba.com
+mercury.coupang.com
 mercury.wnba.com
 messaging.twilio.com
 meta-api.reddit.com
@@ -7686,9 +7708,7 @@ mgs.marriott.com
 mijn.gamma.be/*
 mijn.gamma.nl/*
 mijn.karwei.nl/*
-mijnacc.uzleuven.be
 minerva.robinhood.com
-mirc.uzleuven.be
 mix-dev.monash.edu/*
 mix-qat.monash.edu/*
 mobile.clearme.com
@@ -7718,13 +7738,12 @@ msg-gw-scf.euce1.indriverapp.com
 msg.playcanvas.com
 mta-sts.wearehackerone.com
 mus1.badoo.com
-mx1.uzleuven.be
-mx2.uzleuven.be
 my-accpt.portofantwerp.com
 my-accpt.portofantwerpbruges.com
 my.account.sony.com
 my.bpost.be
 my.clearme.com
+my.coupang.com
 my.eurid.eu
 my.exness.com
 my.loanbuilder.com
@@ -7755,6 +7774,7 @@ mynexuz.be
 mynexuzhealth/id1459856321
 mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
+myself.coupang.com
 myself.tw.coupang.com
 mystics-dev.wnba.com
 mystics-qa.wnba.com
@@ -7957,9 +7977,11 @@ ovo.id
 owa.marriott.com
 ownit.se
 oymyakon.indriver.io
+p.coupang.com
 p.grabtaxi.com
 p2p.walletbot.me
 pa-gw-scf.sa.apse1.aws.indriverapp.com
+pages.coupang.com
 pages.indriverapp.com
 pages.tw.coupang.com
 paperspace.com
@@ -7983,6 +8005,7 @@ pata.wnba.com
 pay-admin.exodus.io
 pay-sandbox.gocardless.com
 pay.8x8.com
+pay.coupang.com
 pay.exodus.io
 pay.ibex.exchange
 pay.tokopediax.com
@@ -7993,6 +8016,8 @@ payer-details-sandbox.gocardless.com
 payment.backend-capital.com
 payment.bingo.com
 payment.casinohuone.com
+payment.coupang.com
+payment.coupangpay.com
 payment.kolikkopelit.com
 payment.mariacasino.(com|se|ee|dk)
 payment.ottocasino.se
@@ -8014,7 +8039,6 @@ paypalobjects.com
 payroll.razorpay.com
 pb.deribit.com
 pc-gw-scf.sa.apse1.aws.indriverapp.com
-pcrstudioruzb.uzleuven.be
 pdfroster-dev.nba.com
 pdfroster-qa.nba.com
 pdfroster.nba.com
@@ -8081,8 +8105,6 @@ pr-qa.nba.com
 pr.nba.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
-prddnighting01.uzleuven.be
-prddsplunkhf.uzleuven.be
 premium.pixiv.net
 preprod.am.monespacesante.fr
 preprod.api.monespacesante.fr
@@ -8149,7 +8171,6 @@ ra-cf.euce1.indriverapp.com
 ra-gw-cf.euce1.indriverapp.com
 ra-gw-scf.euce1.indriverapp.com
 rafflee.co.uk
-random.uzleuven.be/random/
 raptor*.bykea.net
 raptors905-dev.gleague.nba.com
 raptors905-qa.gleague.nba.com
@@ -8178,6 +8199,7 @@ realme P4 5G
 realme P4 Pro 5G
 reastatic.net
 rebl-ai-webchat-postikuori.azurewebsites.net
+reco.coupang.com
 reco.tw.coupang.com
 recovery.privy.io
 redditforbusiness.com
@@ -8249,6 +8271,7 @@ resmax.hilton.com
 resolve.8x8.com
 resources.krisp.ai
 restaurant-api.wolt.com
+review.coupang.com
 review.tw.coupang.com
 reviewer.pullrequest.com
 rewire.com
@@ -8268,6 +8291,7 @@ rivian.com
 rma.ui.com
 ro.superbet.games
 ro.superbet.sport
+rocketpay.coupang.com
 rockstarnorth.com
 roominglist.hyatt.com
 router.geneva-staging.com
@@ -8337,7 +8361,6 @@ sems.nba.com
 sendgrid.com
 sensei.pixiv.net
 serverless.twilio.com
-service.fing.com
 service.iciparisxl.nl
 service.kruidvat.be
 service.kruidvat.nl
@@ -8368,6 +8391,8 @@ share.portswigger.net
 shop-id.tokopedia.com
 shop.app
 shop.com
+shop.coupang.com
+shop.coupangpay.com
 shop.dyson.co.za
 shop.dyson.tw
 shop.humo.be
@@ -8523,11 +8548,11 @@ streaming.iris.production.forescoutcloud.net
 stripe.com
 stripe.dev
 sts.delen.be 
-sts.uzleuven.be
 studio-api.swapcard.com
 studio.swapcard.com
 studio.twilio.com
 style.23andme.org
+subscribe-order.coupang.com
 sun-dev.wnba.com
 sun-qa.wnba.com
 sun-qa2.wnba.com
@@ -8568,6 +8593,7 @@ sync.logitech.com
 sync.twilio.com
 syndication-dev.nba.com
 syndication-qa.nba.com
+syndication.coupang.com
 syndication.nba.com
 syndication.tw.coupang.com
 t.co
@@ -8607,7 +8633,6 @@ testapi.redoxengine.com
 testapp.redoxengine.com
 testbank.xs2a.com
 testnet.bitmex.com
-teststs.uzleuven.be
 texas-dev.gleague.nba.com
 texas-qa.gleague.nba.com
 texas.gleague.nba.com
@@ -8652,6 +8677,7 @@ travelcash.money
 traveler.marriott.com
 trello.com
 trendyol.com
+trip.coupang.com
 trm.pinepaymentsolutions.com
 trs.nba.com
 trunking.twilio.com
@@ -8775,8 +8801,6 @@ vtmgo.be
 vttp.nba.com
 vwcm.visa.com
 vœux.vinci.com
-w1.uzleuven.be
-w1.uzleuven.be/random
 wallet.oasis.io
 wallet.tg
 wallet.venly.io
@@ -8805,6 +8829,8 @@ web-message-high.lime.bike
 web-message.lime.bike
 web-mh.dmp.gouv.fr
 web-production.lime.bike
+web.coupangeats.com
+web.coupangstreaming.com
 web.crypto.com
 web.geneva-staging.com
 web.grindr.com
@@ -8820,6 +8846,7 @@ webapps.portofantwerp.com
 webapps.portofantwerpbruges.com
 webauthn.me	
 webhooks.booking.com
+weblog.coupang.com
 webtask.run
 webtoolbox.notebleue.pro
 webwinkel.parool.nl
@@ -8857,6 +8884,7 @@ winterpackages.tomorrowland.com
 wisconsin-dev.gleague.nba.com
 wisconsin-qa.gleague.nba.com
 wisconsin.gleague.nba.com
+wish-web.coupang.com
 wlr-cf.euce1.indriverapp.com
 wlr-scf.euce1.indriverapp.com
 wmr.3cx.net
@@ -8873,7 +8901,6 @@ world.hey.com
 world.hyatt.com
 world.org
 worldcoin.org
-wp5-truststroke.uzleuven.be
 wps-cps.cv.dmp.gouv.fr
 wps-cps.dmp.gouv.fr
 wps-cps.dmp.monespacesante.fr
@@ -8936,6 +8963,9 @@ www.cm.com
 www.coinspot.com.au
 www.compass.com
 www.counter-strike.net
+www.coupang.com
+www.coupangeats.com
+www.coupangplay.com
 www.creditkarma.ca
 www.crowdstrike.com
 www.crowdstrike.org
@@ -8999,7 +9029,6 @@ www.fareharbor.com
 www.fi.dyson.com
 www.figma.com
 www.files.com
-www.fing.com*
 www.fluvius.be   
 www.fondation-vinci.com
 www.forescout.com
@@ -9188,7 +9217,6 @@ www.universalorlandovacations.com
 www.upwork.com/api 
 www.urbanclap.com
 www.urbancompany.com
-www.uzleuven.be
 www.valmo.in
 www.valvesoftware.com
 www.veriff.com
@@ -9338,7 +9366,6 @@ ywh.verify.zecible.fr
 ywh.zcb.fr
 zelleservice.my.salesforce.com
 zelleservice.my.site.com
-ziekenhuisschool.be
 zooplus.net
 ███
 ████
