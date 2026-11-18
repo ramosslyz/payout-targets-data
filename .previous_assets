@@ -3124,6 +3124,7 @@ Security Vulnerability in OpenPGP.js's high-level API
 Security Vulnerability in the OpenPGP Standard
 Self Register Account on T-Mobile Microsoft Entra ID
 Self-Register Account on T-Mobile Microsoft Entra ID
+Self-Register Account on T-Mobile Microsoft Entra ID and Access Tenant Resources
 Sequoia git Specification
 Services
 Services/Mobile/GenAI
@@ -6749,6 +6750,7 @@ https://ebctest.cybersource.com/tms
 https://ebctest.cybersource.com/tss
 https://ebctest.cybersource.com/ums
 https://ebctest.cybersource.com/underwriting
+https://ebctest.cybersource.com/unifiedpayments
 https://ebctest.cybersource.com/varm
 https://ebctest.cybersource.com/vdm
 https://ebctest.cybersource.com/vroom

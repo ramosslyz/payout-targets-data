@@ -1121,6 +1121,7 @@ https://ebctest.cybersource.com/tms
 https://ebctest.cybersource.com/tss
 https://ebctest.cybersource.com/ums
 https://ebctest.cybersource.com/underwriting
+https://ebctest.cybersource.com/unifiedpayments
 https://ebctest.cybersource.com/varm
 https://ebctest.cybersource.com/vdm
 https://ebctest.cybersource.com/vroom
@@ -2886,7 +2887,6 @@ ocijlbex1prd.marriott.com
 owa.marriott.com
 passwordchallenge.marriott.com
 prod-mipaasiaasservices.marriott.com
-reservations.all-inclusive.marriott.com
 smetrics.marriott.com
 splunk-phantom-nlb.marriott.com
 sso.marriott.com

@@ -2331,7 +2331,7 @@ https://marketplace.atlassian.com/apps/2194903109/cycle-time-lead-time-time-in-s
 https://marketplace.atlassian.com/apps/89496753/pivot-worklog-reports-timesheets-charts-heatmaps?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1855294554/pivot-tables-charts-heatmaps-for-jira-agile-reporting?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1234296/azure-sync-for-jira-assets?hosting=cloud
-Self-Register Account on T-Mobile Microsoft Entra ID
+Self-Register Account on T-Mobile Microsoft Entra ID and Access Tenant Resources
 Cellular Network Auth Bypass via Web App/T-Life (404-200-7239)
 http://10.72.218.66/flag.txt
 https://t-mobile.com
