@@ -66,6 +66,8 @@
 *.alasco.rocks
 *.aleenote.cn
 *.aleenote.com
+*.algolia.net
+*.algolianet.com
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
 *.allegro.sk.allegrosandbox.pl
@@ -233,6 +235,7 @@
 *.coinbase.com
 *.computerbild.de
 *.consumer.worldcoin.org
+*.contactallerg(y|ie).uzleuven.be
 *.cp.dyson.com
 *.creditkarma.ca
 *.creditkarma.co.uk
@@ -529,6 +532,7 @@
 *.kruidvat.be
 *.kruidvat.nl
 *.kruidvatkids.nl
+*.kwsdose.be
 *.labs.8x8.com
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
@@ -619,6 +623,7 @@
 *.miot-spec.org
 *.mipay.com
 *.mipay.net
+*.mir.uzleuven.be
 *.mitt.vimla.se
 *.mittforetag.telenor.se
 *.miui.cn
@@ -676,6 +681,11 @@
 *.nmfn.com
 *.nml.com
 *.nnip.com
+*.nordaccount.com
+*.nordcheckout.com
+*.nordlocker.com
+*.nordpass.com
+*.nordvpn.com/
 *.northwellprimarycarenow.com
 *.novanthealthvirtualprimarycare.org
 *.nr-data.net
@@ -744,6 +754,7 @@
 *.playstation.net
 *.playticorp.com
 *.playtika.com
+*.playuzleuven.be
 *.playwsop.com
 *.pns.hk
 *.points.com
@@ -1001,6 +1012,7 @@
 *.uscc.com
 *.uscc.net
 *.uscellular.com
+*.uzleuven.*
 *.vacationhomerentals.com
 *.varonis.com
 *.varonis.io
@@ -1008,7 +1020,6 @@
 *.venmo.com
 *.vercel.com
 *.vercel.live
-*.veriff.com
 *.verily.com/
 *.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)
@@ -1109,16 +1120,19 @@
 *.zomato.com
 *app.simple-reports.com/demo
 *dev*.arlo.com
+*dev.uzleuven.be
 *developer.cloud.com
 *elvetino.ch
 *ensemble*.yahoo.com
 *gateway-apc.marriott.com
+*idp*.uzleuven.be
 *inf.fndlsb.net
 *omega*.yahoo.com
 *qa*.arlo.com
 *ripio.com
 *ripiotrade.co
 *sbbcargo.com
+*stag*.uzleuven.be
 *test*.bykea.net
 *transsicura.ch
 *uat.marriott.com
@@ -1192,7 +1206,6 @@
 146.109.68.0/24
 146.109.8.0/21
 146.109.8.0/22
-1467907532
 1474700 (Steam app id)
 1475021574
 1476615877
@@ -1250,6 +1263,7 @@
 193.109.229.0/24
 193.110.154.0/24
 193.5.66.0/23
+193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111
 193.8.251.0/24
 194.209.121.0/24
 194.35.79.0/24
@@ -1421,7 +1435,6 @@
 328407587
 335187483
 336381998
-339041767
 34.237.130.2
 342576766
 348712880
@@ -1432,7 +1445,6 @@
 374254473
 379693831
 38.140.238.56/29
-383915209
 3CX Live chat WordPress plugin
 3CX Phone System
 3CX SBC
@@ -1904,6 +1916,7 @@ FindX6
 FindX6Pro
 FindX7
 FindX7Ultra
+Fing desktop
 Finicity - OBB (Open Banking Business Service) 
 Finicity Decisioning
 Finicity- Data Services
@@ -2181,6 +2194,8 @@ Nintendo Switch applications for which Nintendo is the publisher worldwide
 Non Altera Products
 Non Core Assets In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)
 Non-Core Assets
+Nord Security VPN servers
+Nord Security backend services and website
 Notion AI
 Notion Authentication
 Notion Desktop App
@@ -2569,7 +2584,6 @@ a5s.hackerone-ext-content.com
 ab-api-gw-cf.global.aws.indriverapp.com
 ab-api-gw-scf.global.aws.indriverapp.com
 ab2b0c50cdc7b445391f99d4957850c5-cd4ccfdb37dfafad.elb.us-east-1.amazonaws.com
-abercrombie.com
 ablink.info.remitly.com
 about.gitlab.com
 academy-outbound-ads.tiktok.com
@@ -2653,7 +2667,6 @@ airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 ak-static-dev.nba.com
 akismet.com
-alchemy.veriff.com
 alert.logitech.com
 alerts.ninjakiwi.com
 alfred.syfe.com
@@ -2675,7 +2688,6 @@ analytics.krisp.ai
 analytics.ninjakiwi.com
 analytics.pinelabs.com
 anduril.com
-anfcorp.com
 anker-nebula/id1319092174
 anthropic.atlassian.com
 aoa-ws-fis.earlywarning.com
@@ -2756,7 +2768,6 @@ api.ezvizlife.com
 api.faraday.ai
 api.fi.dyson.com
 api.figma.com
-api.flamingo-eu.veriff.com
 api.fortress.com.hk
 api.geneva-staging.com
 api.github.com
@@ -2858,9 +2869,7 @@ api.tumblr.com
 api.twilio.com
 api.unleashed.be
 api.upwork.com/graphql
-api.us.veriff.me
 api.vault.chiatest.net
-api.veriff.me
 api.vhx.tv
 api.vimeo.com
 api.watsons.co.id
@@ -2899,6 +2908,7 @@ app.drogas.lv
 app.expressmailguard.com
 app.faraday.ai
 app.files.com
+app.fing.com
 app.fizzy.do
 app.frontapp.com
 app.geneva-staging.chat
@@ -3019,6 +3029,7 @@ auth0.net
 authentication.clearme.com
 authentication.wolt.com
 autocomplete.booking.com
+autodiscover.uzleuven.be
 av.indrive.com
 aww.eu
 b5s.hackerone-ext-content.com
@@ -3189,6 +3200,8 @@ capitanes.gleague.nba.com
 capturingreality.com
 cardpayments.remitly.io
 cards.remitly.io
+cardsonline.azdiest.be
+cardsonlinetst.azdiest.be
 career.bpost.be
 careers.booking.com
 careers.capital.com
@@ -3325,8 +3338,6 @@ com.Hyatt
 com.Seriously.BestFiends
 com.Seriously.Phoenix
 com.Slack
-com.abercrombie.abercrombie
-com.abercrombie.hollister
 com.acronis.abc
 com.acronis.acronistrueimage
 com.affirm.central.audit
@@ -3528,8 +3539,6 @@ com.miui.cloudbackup
 com.miui.cloudservice
 com.miui.micloudsync
 com.monaco.mobile
-com.moneybird.Moneybird
-com.moneybird.android
 com.moveit.app.customer
 com.nbaimd.gametime.nba2011
 com.nbaimd.gametime.universal
@@ -3625,7 +3634,6 @@ com.valmo.rider
 com.valmo.valmo
 com.valvesoftware.Steam
 com.venmo
-com.veriff.demo
 com.vilcsak.bitcoin2
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
@@ -3746,7 +3754,6 @@ corp-dev.nba.com
 corp.badoo.com
 corp.nba.com
 corp.polymoon.it
-corporate.abercrombie.com
 corporate.wolt.com
 cosmo.fdeb.live.use1a.on.epicgames.com
 coupang.com
@@ -3815,6 +3822,7 @@ d-you Wallet iOS Test
 dash.ai
 dash.cloudflare.com
 dash.dropbox.com
+dashboard.algolia.com
 dashboard.doppler.com
 dashboard.mergify.com
 dashboard.plaid.com
@@ -3896,7 +3904,6 @@ developers.pismo.io
 developers.reddit.com
 developers.tiktok.com
 developers.tw.coupangcorp.com
-developers.veriff.me
 device.marriott.com
 dfs.coupang.com
 dh-cf.mena.meso1.aws.indriverapp.com
@@ -3972,6 +3979,7 @@ ecom-data.trekpleister.nl
 ecom-static.kruidvat.be
 ecom-static.kruidvat.nl
 ecommerce.hostinger.com
+ecrf.uzleuven.be
 edge.bookbeat.com
 edgeapi.slack.com
 editeur.am.monespacesante.fr
@@ -4037,8 +4045,10 @@ exs-dtu-gw-scf.sa.apse1.aws.indriverapp.com
 external-api.lime.bike
 external.indrive.dev
 external.logitech.com
+extranet-asa.uzleuven.be
 extranet.marionnaud.ch
 extranet.s-pankki.fi
+extranet.uzleuven.be
 extras-acc.landmarkcinemas.com
 extras.landmarkcinemas.com
 fab.com
@@ -4077,6 +4087,7 @@ file-storage-front.aws.indriverapp.com
 file.larksuite.com
 files-stg.inspectorio.com
 files.stripe.com
+files.uzleuven.be
 fileupload-video.tw.coupang.com
 fileupload.coupang.com
 fileupload.tw.coupang.com
@@ -4258,7 +4269,6 @@ hln.be/inloggen
 hln.be/login
 hln.be/registreren
 hmxservices.com
-hollisterco.com
 home.deriv.com
 home.privy.io
 homeloans.wellsfargo.com
@@ -4460,6 +4470,7 @@ https://api.mafshoppingmalls.com/
 https://api.moneyboxapp.com
 https://api.myntra.com
 https://api.neogov.com
+https://api.nordlayer.com/
 https://api.onedoc.ch
 https://api.openai.com
 https://api.optimizely.com/
@@ -4834,12 +4845,14 @@ https://chrome.google.com/webstore/detail/ibotta-browser-extension/mfaedmjlefifh
 https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en
 https://chromewebstore.google.com/detail/indeed-recruiter-extensio/kiodpphbmnmcmnfgpnmkkhmkllnlflef
 https://chromewebstore.google.com/detail/loom-%E2%80%93-screen-recorder-sc/liecbddmkiiihnedobmlmillhodjkdmb?hl=en-US&pli=1
+https://chromewebstore.google.com/detail/nordlayer-browser-extensi/pilehkefiejmhdldhbajgajlcgggohkj
 https://cicforms.mioot.com/
 https://citycentredeira.com/
 https://clickhou.se/bugcrowd
 https://clients.adstruc.com
 https://clients.multiplayer.classdojo.com/launcher/prod/latest
 https://cloud.langfuse.com/
+https://cloud.nordlocker.com/
 https://cloud.oppo.com/
 https://cloud.unity.com
 https://cloudinary.com/console
@@ -4881,6 +4894,7 @@ https://content.usaa.com
 https://coral.20min.ch/
 https://core-prod.uidapi.com
 https://cp.expressapisv2.net
+https://cp.nordlayer.com/*
 https://cpl.thalesgroup.com
 https://create.gx.games
 https://creative.infinity.blismedia.com
@@ -4966,12 +4980,14 @@ https://e-global.heytap.com/marketing/login
 https://e.oppo.com/
 https://ebc2test.cybersource.com/settings
 https://ebctest.cybersource.com/CGK2
+https://ebctest.cybersource.com/apm
 https://ebctest.cybersource.com/bin
 https://ebctest.cybersource.com/boarding/v1/registrations
 https://ebctest.cybersource.com/boarding/v1/templates
 https://ebctest.cybersource.com/bos
 https://ebctest.cybersource.com/casemanagement
 https://ebctest.cybersource.com/cds/
+https://ebctest.cybersource.com/devicemanagement
 https://ebctest.cybersource.com/dmconfigapi
 https://ebctest.cybersource.com/epcapi
 https://ebctest.cybersource.com/identity
@@ -6258,6 +6274,35 @@ https://no.harmanaudio.com
 https://no.harmankardon.com
 https://no.jbl.com
 https://nominatim.bykea.net
+https://nordlayer.com/*
+https://nordlayer.com/browser/download/
+https://nordlayer.com/download/android/
+https://nordlayer.com/download/ios/
+https://nordlayer.com/download/linux/
+https://nordlayer.com/download/macos/
+https://nordlayer.com/download/windows/
+https://nordlocker.com/download/android/
+https://nordlocker.com/download/ios/
+https://nordlocker.com/download/windows/
+https://nordpass.com/apps/web-vault/
+https://nordpass.com/download/android/
+https://nordpass.com/download/chrome/
+https://nordpass.com/download/edge/
+https://nordpass.com/download/firefox/
+https://nordpass.com/download/ios/
+https://nordpass.com/download/linux/
+https://nordpass.com/download/macos/
+https://nordpass.com/download/windows/
+https://nordvpn.com/download/android-tv/
+https://nordvpn.com/download/android/
+https://nordvpn.com/download/apple-tv/
+https://nordvpn.com/download/chrome-extension/
+https://nordvpn.com/download/edge-extension/
+https://nordvpn.com/download/firefox-extension/
+https://nordvpn.com/download/ios/
+https://nordvpn.com/download/linux/
+https://nordvpn.com/download/mac/
+https://nordvpn.com/download/windows
 https://northwesternmutual.com
 https://nubank.com.br/
 https://nubank.com.co
@@ -7431,6 +7476,7 @@ ksuite.infomaniak.com
 ksuite.infomaniak.com/*/kdrive/*/preview/*
 kubernetes-csi.github.io
 kubernetes.io
+kumulus.uzleuven.be
 kws-companion/id1342124012
 kyc-onboarding.booking.com
 kyc.a.exodus.io
@@ -7464,6 +7510,8 @@ links.geneva-staging.chat
 links.geneva-staging.com
 links.portswigger.net
 liquidfiles.nexuzhealth.com
+liquidfiles.uzleuven.be
+liquidfilestest.uzleuven.be
 lirportal.ripe.net
 lists.nextcloud.com
 live-backstage.tiktok.com
@@ -7528,7 +7576,6 @@ longisland-qa.gleague.nba.com
 longisland.gleague.nba.com
 lookup.nextcloud.com
 lookups.twilio.com
-louvre.veriff.me
 loyalty.coupang.com
 loyalty.tw.coupang.com
 lps.dmp.gouv.fr
@@ -7551,7 +7598,6 @@ m.reddit.com
 m.tw.coupang.com
 maestro.8x8.cloud
 magazine.kruidvat.be
-magic.veriff.me
 magisto.com,www.magisto.com
 mail.hostinger.com
 mail.infomaniak.com
@@ -7708,7 +7754,9 @@ mgs.marriott.com
 mijn.gamma.be/*
 mijn.gamma.nl/*
 mijn.karwei.nl/*
+mijnacc.uzleuven.be
 minerva.robinhood.com
+mirc.uzleuven.be
 mix-dev.monash.edu/*
 mix-qat.monash.edu/*
 mobile.clearme.com
@@ -7722,8 +7770,6 @@ mod.reddit.com
 modefestival.com
 moments.marriottbonvoy.com
 money.x.com
-moneybird.com
-moneybirdstorage.com
 monitor.twilio.com
 monzo.com
 moonpay.com
@@ -7738,6 +7784,8 @@ msg-gw-scf.euce1.indriverapp.com
 msg.playcanvas.com
 mta-sts.wearehackerone.com
 mus1.badoo.com
+mx1.uzleuven.be
+mx2.uzleuven.be
 my-accpt.portofantwerp.com
 my-accpt.portofantwerpbruges.com
 my.account.sony.com
@@ -8039,6 +8087,7 @@ paypalobjects.com
 payroll.razorpay.com
 pb.deribit.com
 pc-gw-scf.sa.apse1.aws.indriverapp.com
+pcrstudioruzb.uzleuven.be
 pdfroster-dev.nba.com
 pdfroster-qa.nba.com
 pdfroster.nba.com
@@ -8105,6 +8154,8 @@ pr-qa.nba.com
 pr.nba.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
+prddnighting01.uzleuven.be
+prddsplunkhf.uzleuven.be
 premium.pixiv.net
 preprod.am.monespacesante.fr
 preprod.api.monespacesante.fr
@@ -8171,6 +8222,7 @@ ra-cf.euce1.indriverapp.com
 ra-gw-cf.euce1.indriverapp.com
 ra-gw-scf.euce1.indriverapp.com
 rafflee.co.uk
+random.uzleuven.be/random/
 raptor*.bykea.net
 raptors905-dev.gleague.nba.com
 raptors905-qa.gleague.nba.com
@@ -8361,6 +8413,7 @@ sems.nba.com
 sendgrid.com
 sensei.pixiv.net
 serverless.twilio.com
+service.fing.com
 service.iciparisxl.nl
 service.kruidvat.be
 service.kruidvat.nl
@@ -8494,8 +8547,6 @@ staking-api.polygon.technology
 staking.polygon.technology
 static*.twilio.com
 static.apps.nextcloud.com
-station.veriff.com
-stationapi.veriff.com
 stats-dev.gleague.nba.com
 stats-dev.nba.com
 stats-qa.gleague.nba.com
@@ -8548,6 +8599,7 @@ streaming.iris.production.forescoutcloud.net
 stripe.com
 stripe.dev
 sts.delen.be 
+sts.uzleuven.be
 studio-api.swapcard.com
 studio.swapcard.com
 studio.twilio.com
@@ -8633,6 +8685,7 @@ testapi.redoxengine.com
 testapp.redoxengine.com
 testbank.xs2a.com
 testnet.bitmex.com
+teststs.uzleuven.be
 texas-dev.gleague.nba.com
 texas-qa.gleague.nba.com
 texas.gleague.nba.com
@@ -8801,6 +8854,8 @@ vtmgo.be
 vttp.nba.com
 vwcm.visa.com
 vœux.vinci.com
+w1.uzleuven.be
+w1.uzleuven.be/random
 wallet.oasis.io
 wallet.tg
 wallet.venly.io
@@ -8901,6 +8956,7 @@ world.hey.com
 world.hyatt.com
 world.org
 worldcoin.org
+wp5-truststroke.uzleuven.be
 wps-cps.cv.dmp.gouv.fr
 wps-cps.dmp.gouv.fr
 wps-cps.dmp.monespacesante.fr
@@ -8923,6 +8979,7 @@ www.4njbets.com
 www.ad.nl
 www.ad.nl/abonnementen
 www.airbnb.com
+www.algolia.com
 www.am.monespacesante.fr
 www.amazon.*
 www.analvids.com
@@ -9029,6 +9086,7 @@ www.fareharbor.com
 www.fi.dyson.com
 www.figma.com
 www.files.com
+www.fing.com*
 www.fluvius.be   
 www.fondation-vinci.com
 www.forescout.com
@@ -9217,9 +9275,9 @@ www.universalorlandovacations.com
 www.upwork.com/api 
 www.urbanclap.com
 www.urbancompany.com
+www.uzleuven.be
 www.valmo.in
 www.valvesoftware.com
-www.veriff.com
 www.vfsvisaonline.com
 www.vimeo.com
 www.vinci-vie.fr
@@ -9366,6 +9424,7 @@ ywh.verify.zecible.fr
 ywh.zcb.fr
 zelleservice.my.salesforce.com
 zelleservice.my.site.com
+ziekenhuisschool.be
 zooplus.net
 ███
 ████

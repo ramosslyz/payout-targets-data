@@ -881,7 +881,12 @@
 *.nmfn.com
 *.nml.com
 *.nnip.com
+*.nordaccount.com
+*.nordcheckout.com
+*.nordlocker.com
+*.nordpass.com
 *.nordvpn.com
+*.nordvpn.com/
 *.northwellprimarycarenow.com
 *.novanthealthvirtualprimarycare.org
 *.npac.com
@@ -2932,6 +2937,8 @@ Non Altera Products
 Non Core Assets In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)
 Non-Core Assets
 Non-Core Grafana Plugins
+Nord Security VPN servers
+Nord Security backend services and website
 NordPass - Linux Executable
 NordPass - MacOS Executable
 NordPass - Windows Executable
@@ -6054,6 +6061,7 @@ https://api.moneyboxapp.com/
 https://api.myntra.com
 https://api.neogov.com
 https://api.netgear.com
+https://api.nordlayer.com/
 https://api.onedoc.ch
 https://api.openai.com
 https://api.optimizely.com/
@@ -6553,6 +6561,7 @@ https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfa
 https://chrome.google.com/webstore/detail/xverse-wallet/idnnbdplmphpflfnlkomgpfbpcgelopg
 https://chromewebstore.google.com/detail/indeed-recruiter-extensio/kiodpphbmnmcmnfgpnmkkhmkllnlflef
 https://chromewebstore.google.com/detail/loom-%E2%80%93-screen-recorder-sc/liecbddmkiiihnedobmlmillhodjkdmb?hl=en-US&pli=1
+https://chromewebstore.google.com/detail/nordlayer-browser-extensi/pilehkefiejmhdldhbajgajlcgggohkj
 https://cicforms.mioot.com/
 https://cicforms.mioot.com/forms/PS/
 https://citycentredeira.com/
@@ -6564,6 +6573,7 @@ https://clients.adstruc.com
 https://clients.multiplayer.classdojo.com/launcher/prod/latest
 https://clients3.pentest.clicsante.ca/
 https://cloud.langfuse.com/
+https://cloud.nordlocker.com/
 https://cloud.oppo.com/
 https://cloud.unity.com
 https://cloudinary.com/console
@@ -6615,6 +6625,7 @@ https://contentcredentials.org/
 https://coral.20min.ch/
 https://core-prod.uidapi.com
 https://cp.expressapisv2.net
+https://cp.nordlayer.com/*
 https://cpl.thalesgroup.com
 https://create.gx.games
 https://creative.infinity.blismedia.com
@@ -6742,12 +6753,14 @@ https://e-global.heytap.com/marketing/login
 https://e.oppo.com/
 https://ebc2test.cybersource.com/settings
 https://ebctest.cybersource.com/CGK2
+https://ebctest.cybersource.com/apm
 https://ebctest.cybersource.com/bin
 https://ebctest.cybersource.com/boarding/v1/registrations
 https://ebctest.cybersource.com/boarding/v1/templates
 https://ebctest.cybersource.com/bos
 https://ebctest.cybersource.com/casemanagement
 https://ebctest.cybersource.com/cds/
+https://ebctest.cybersource.com/devicemanagement
 https://ebctest.cybersource.com/dmconfigapi
 https://ebctest.cybersource.com/epcapi
 https://ebctest.cybersource.com/identity
@@ -8683,6 +8696,35 @@ https://no.harmankardon.com
 https://no.jbl.com
 https://node.e2ro.com/*
 https://nominatim.bykea.net
+https://nordlayer.com/*
+https://nordlayer.com/browser/download/
+https://nordlayer.com/download/android/
+https://nordlayer.com/download/ios/
+https://nordlayer.com/download/linux/
+https://nordlayer.com/download/macos/
+https://nordlayer.com/download/windows/
+https://nordlocker.com/download/android/
+https://nordlocker.com/download/ios/
+https://nordlocker.com/download/windows/
+https://nordpass.com/apps/web-vault/
+https://nordpass.com/download/android/
+https://nordpass.com/download/chrome/
+https://nordpass.com/download/edge/
+https://nordpass.com/download/firefox/
+https://nordpass.com/download/ios/
+https://nordpass.com/download/linux/
+https://nordpass.com/download/macos/
+https://nordpass.com/download/windows/
+https://nordvpn.com/download/android-tv/
+https://nordvpn.com/download/android/
+https://nordvpn.com/download/apple-tv/
+https://nordvpn.com/download/chrome-extension/
+https://nordvpn.com/download/edge-extension/
+https://nordvpn.com/download/firefox-extension/
+https://nordvpn.com/download/ios/
+https://nordvpn.com/download/linux/
+https://nordvpn.com/download/mac/
+https://nordvpn.com/download/windows
 https://northwesternmutual.com
 https://nubank.com.br/
 https://nubank.com.co

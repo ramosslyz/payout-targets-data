@@ -1532,6 +1532,42 @@ https://developer.newrelic.com/
 ███████████████████████████████████████████████████████████████████████████████████████████████████
 ██████████████████████████████████████████████████████████████████████████████████████████████████████
 ████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+https://nordvpn.com/download/android/
+https://nordvpn.com/download/android-tv/
+https://nordvpn.com/download/ios/
+https://nordvpn.com/download/apple-tv/
+https://nordvpn.com/download/mac/
+https://nordvpn.com/download/windows
+https://nordvpn.com/download/linux/
+https://nordvpn.com/download/chrome-extension/
+https://nordvpn.com/download/firefox-extension/
+https://nordvpn.com/download/edge-extension/
+Nord Security VPN servers
+https://nordpass.com/download/android/
+https://nordpass.com/download/ios/
+https://nordpass.com/download/macos/
+https://nordpass.com/download/windows/
+https://nordpass.com/download/linux/
+https://nordpass.com/download/chrome/
+https://nordpass.com/download/firefox/
+https://nordpass.com/download/edge/
+https://nordpass.com/apps/web-vault/
+https://nordlocker.com/download/android/
+https://nordlocker.com/download/ios/
+https://nordlocker.com/download/windows/
+https://cloud.nordlocker.com/
+https://nordlayer.com/download/android/
+https://nordlayer.com/download/ios/
+https://nordlayer.com/download/macos/
+https://nordlayer.com/download/windows/
+https://nordlayer.com/download/linux/
+https://chromewebstore.google.com/detail/nordlayer-browser-extensi/pilehkefiejmhdldhbajgajlcgggohkj
+https://nordlayer.com/browser/download/
+https://nordlayer.com/browser/download/
+https://nordlayer.com/*
+https://cp.nordlayer.com/*
+https://api.nordlayer.com/
+Nord Security backend services and website
 Anything Owned by Northwestern Mutual on the Public Internet Not Listed as Out of Scope
 216.20.176.0/20
 https://northwesternmutual.com
