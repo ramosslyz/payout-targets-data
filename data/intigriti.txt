@@ -326,6 +326,16 @@ ecom-data.trekpleister.nl
 service.trekpleister.nl
 folder.trekpleister.nl
 www.prijsmepper.nl
+app.lansweeper.com
+fb.lansweeper.com
+edge.lansweeper.com
+api.lansweeper.com
+backoffice.lansweeper.com
+app.lansweeper.com/trial
+autoupdateapi.lansweeper.com
+docs.lansweeper.com
+login.lansweeper.com
+www.lansweeper.com
 www.libelle.nl
 https://github.com/buildonspark/spark
 https://app.uma.money
