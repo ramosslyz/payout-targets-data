@@ -96,7 +96,6 @@ sks-*.exo.io
 *.kruidvat.be
 *.trekpleister.nl
 *.prijsmepper.nl
-*.lansweeper.com
 *.libelle.nl
 *.marionnaud.fr
 *.marionnaud.es
@@ -121,9 +120,6 @@ sks-*.exo.io
 *.monzo.com
 *.prod-ffs.io
 *.nexuzhealth.*
-*.ninjakiwi.me
-*.nkstatic.com
-*.souparea.com
 *.app.personio-dev.com
 *.app.personio.com
 *.personio-internal.de

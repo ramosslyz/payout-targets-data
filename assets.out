@@ -536,7 +536,6 @@
 *.labs.8x8.com
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
-*.lansweeper.com
 *.latitudefinancial.co.nz
 *.latitudefinancial.com
 *.latitudefinancial.com.au
@@ -676,9 +675,7 @@
 *.nflxso.net
 *.nflxvideo.net
 *.nic.eu
-*.ninjakiwi.me
 *.niumba.com
-*.nkstatic.com
 *.nmfn.com
 *.nml.com
 *.nnip.com
@@ -906,7 +903,6 @@
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
 *.soundon.global
-*.souparea.com
 *.soyoustart.com
 *.spiketrap.io
 *.sportbild.de
@@ -2665,7 +2661,6 @@ airtable.js SDK (https://www.npmjs.com/package/airtable)
 ak-static-dev.nba.com
 akismet.com
 alert.logitech.com
-alerts.ninjakiwi.com
 alfred.syfe.com
 allstar-dev.nba.com
 alternativa.film
@@ -2682,7 +2677,6 @@ amp-nba.nba.com
 amp.reddit.com
 analytics-*.8x8.com
 analytics.krisp.ai
-analytics.ninjakiwi.com
 analytics.pinelabs.com
 anduril.com
 anker-nebula/id1319092174
@@ -2790,7 +2784,6 @@ api.instacart.com
 api.krisp.ai
 api.kruidvat.be
 api.kruidvat.nl
-api.lansweeper.com
 api.larksuite.com
 api.linkedin.com
 api.loanbuilder.com
@@ -2813,7 +2806,6 @@ api.nba.com
 api.neon.opera.com/neon/pub
 api.neon.opera.com/neon/store
 api.neon.opera.com/pub
-api.ninjakiwi.com
 api.ort-one-pingone.com
 api.ovh.com
 api.paybox.sh
@@ -2919,8 +2911,6 @@ app.koho.ca
 app.krisp.ai
 app.kruidvat.be
 app.kruidvat.nl
-app.lansweeper.com
-app.lansweeper.com/trial
 app.larksuite.com
 app.launchdarkly.com
 app.livenation.com
@@ -3027,12 +3017,11 @@ authentication.clearme.com
 authentication.wolt.com
 autocomplete.booking.com
 autodiscover.uzleuven.be
-autoupdateapi.lansweeper.com
 av.indrive.com
 aww.eu
 b5s.hackerone-ext-content.com
+backend-sdk.prod.private.unico.run
 backend-sdk.uat.private.unico.run
-backoffice.lansweeper.com
 backstage.io
 badoo.com
 badoocdn.com
@@ -3051,7 +3040,6 @@ ballistic.com.br
 bankaccountdata.gocardless.com
 basecamp-setup.exe
 basecamp.rivian.com
-battles.tv
 bbPress Core
 bc-cf.latam-co.saea1.aws.indriverapp.com
 bc-gw-cf.latam-pe.saea1.aws.indriverapp.com
@@ -3103,7 +3091,6 @@ blog.playcanvas.com
 blog.remitly.com
 blog.twilio.com
 blog.ui.com
-blog.unico.io
 blog.watsons.com.tr
 blox.link
 bluecoats-qa.gleague.nba.com
@@ -3121,7 +3108,6 @@ booking.cheapcaribbean.com
 booking.com
 booking.mjrtheatres.com
 bookingholdings-coe.com
-boomer2.ninjakiwi.com
 boost.vinci.com
 booth.pm
 bpa2.marriott.com
@@ -3157,6 +3143,7 @@ ca-gw-cf.latam-mx.usea1.aws.indriverapp.com
 ca.account.sony.com
 ca.koho
 cache.judge.me
+cadastro.unico.app
 caldav.larksuite.com
 calendar.infomaniak.com
 calendar.notion.so
@@ -3536,6 +3523,8 @@ com.miui.cloudbackup
 com.miui.cloudservice
 com.miui.micloudsync
 com.monaco.mobile
+com.moneybird.Moneybird
+com.moneybird.android
 com.moveit.app.customer
 com.nbaimd.gametime.nba2011
 com.nbaimd.gametime.universal
@@ -3773,7 +3762,6 @@ cs.money
 csmessenger.coupang.com
 css-tricks.com
 ct.deriv.com
-ct.ninjakiwi.com
 ctf.hacker101.com
 ctr.a.exodus.io
 customer-sessions.arkoselabs.com
@@ -3828,7 +3816,6 @@ dashboard.razorpay.com
 dashboard.unico.app
 data-test.nba.com
 data.mail.yahoo.com
-data.ninjakiwi.com
 databricks.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 datapod-1-100-druid-ingest.testing.forescoutcloud.net
@@ -3929,7 +3916,6 @@ doaction.org
 docs.anthropic.com
 docs.gitlab.com
 docs.gocardless.com
-docs.lansweeper.com
 docs.launchdarkly.com
 docs.nextcloud.com
 docs.redoxengine.com
@@ -3976,7 +3962,6 @@ ecom-static.kruidvat.nl
 ecommerce.hostinger.com
 ecrf.uzleuven.be
 edge.bookbeat.com
-edge.lansweeper.com
 edgeapi.slack.com
 editeur.am.monespacesante.fr
 editeur.api.monespacesante.fr
@@ -4050,7 +4035,6 @@ falcon-sandbox.com
 fareharborsites.com
 faucet-api.polygon.technology/
 faucet.polygon.technology
-fb.lansweeper.com
 fch-cf.euce1.indriverapp.com
 fch-gw-cf.euce1.indriverapp.com
 fch-gw-scf.euce1.indriverapp.com
@@ -4220,7 +4204,6 @@ gs://faraday-secret
 gs://fdy-production-sdk-uploads
 gt-gw-cf-0.cis.euce1.aws.indriverapp.com
 gt-gw-scf.sa.apse1.aws.indriverapp.com
-guts.ninjakiwi.com
 gvt-cf.euce1.indriverapp.com
 gvt-scf.euce1.indriverapp.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -4475,11 +4458,8 @@ https://api.planethoster.net
 https://api.pluralonline.com
 https://api.pluralpay.in
 https://api.production.cde.tamg.cloud
-https://api.recordedfuture.com
 https://api.requirementyogi.com
 https://api.ring.com/*
-https://api.riskrecon.com
-https://api.riskrecon.eu
 https://api.rx.originenergy.com.au/v1/lpg/graphql
 https://api.shop.ua.com/graphql
 https://api.simnext.bullish-test.com
@@ -4531,7 +4511,6 @@ https://app.navan.com
 https://app.opsgenie.com
 https://app.optimizely.com/
 https://app.pdq.com/
-https://app.recordedfuture.com
 https://app.requirementyogi.com
 https://app.ring.com/*
 https://app.ripio.com
@@ -4681,7 +4660,6 @@ https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
 https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
 https://apps.apple.com/us/app/quip-docs-chat-sheets/id647922896
-https://apps.apple.com/us/app/recorded-future/id1435597894
 https://apps.apple.com/us/app/roomba-home/id6504274697
 https://apps.apple.com/us/app/salt-work-and-get-rewarded/id1668462142
 https://apps.apple.com/us/app/save-to-pinterest/id6473649042
@@ -4736,8 +4714,6 @@ https://auth.lastpass.com
 https://auth.myopenpass.com
 https://auth.opera.com
 https://auth.requirementyogi.com
-https://auth.riskrecon.com
-https://auth.riskrecon.eu
 https://auth.seek.com
 https://auth.thetradedesk.com
 https://auth.wyze.com
@@ -5085,7 +5061,6 @@ https://gatewaydsapprd.marriott.com/v2/
 https://gcsm.oppoit.com/
 https://gemcreditline.co.nz
 https://gemfinance.co.nz
-https://geminiadvisory.io
 https://gemstash-integrations.vintedgo.com
 https://gemvisa.com.au
 https://geocode-beta.bykea.net
@@ -5350,7 +5325,6 @@ https://gx.games
 https://gx.me
 https://gx.opera-api.com
 https://hackerone.com/mcp
-https://hatching.io
 https://help.etsy.com
 https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/client.htm
 https://help.okta.com/en/prod/Content/Topics/Adv_Server_Access/docs/sftd-windows.htm
@@ -5369,7 +5343,6 @@ https://hug.personio.com
 https://hytale.com/
 https://hytale.dev/
 https://id.atlassian.com/login
-https://id.recordedfuture.com
 https://id.unity.com
 https://identity.bugcrowd.com/
 https://identity.majidalfuttaim.com
@@ -6181,7 +6154,6 @@ https://mcp-server.zomato.com/mcp
 https://mcp-staging.getmoneytree.com/
 https://mcp.atlassian.com
 https://mcp.opensea.io/mcp
-https://mcp.recordedfuture.com
 https://mcs.arlo.com
 https://mediaflows.cloudinary.com/
 https://mein.wien.gv.at/
@@ -6479,7 +6451,6 @@ https://play.google.com/store/apps/details?id=com.pinterest.shuffles
 https://play.google.com/store/apps/details?id=com.pinterest.twa&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.privateinternetaccess.android&hl=en
 https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid
-https://play.google.com/store/apps/details?id=com.recordedfuture.mobile&hl=en_US
 https://play.google.com/store/apps/details?id=com.saltlabs.app
 https://play.google.com/store/apps/details?id=com.scu.bsafe
 https://play.google.com/store/apps/details?id=com.siilo.android&hl=en
@@ -6552,8 +6523,6 @@ https://portal.exoscale.com/
 https://portal.iFoodpago.com.br
 https://portal.originzero.com.au
 https://portal.pdq.com/
-https://portal.riskrecon.com
-https://portal.riskrecon.eu
 https://portal.unifiedid.com
 https://portfolio-manager-sit.uat.proptrack.com/
 https://powerdms.com/
@@ -6627,7 +6596,6 @@ https://secure.thefork.com
 https://securemail.usaa.com
 https://securesignin.neogov.com
 https://securesignin.powerdms.com/
-https://securitytrails.com
 https://seekcdn.com
 https://selector.viator.com
 https://selfcare.ooredoo.qa
@@ -6769,7 +6737,6 @@ https://trello.com/power-ups/5a2de0c41ae4a1537bb0055d/read-me
 https://trello.com/power-ups/5c2462c384ab8949b1724a20/list-limits
 https://trello.com/power-ups/6048e897c73d032a983e2a7c/dashcards
 https://trello.com/power-ups/6052d130068a8c0de7b022b4
-https://tria.ge
 https://trm.pinelabs.ae
 https://u.oppomobile.com/
 https://uae.voxcinemas.com/
@@ -6802,8 +6769,6 @@ https://valuations-sit.uat.proptrack.com
 https://vault-staging.getmoneytree.com
 https://vault.chiatest.net/
 https://vc.tasheer.com/
-https://vendor.riskrecon.com
-https://vendor.riskrecon.eu
 https://vendors.paddle.com
 https://vendorss.usaa.com
 https://vfs.mioot.com/
@@ -7124,10 +7089,8 @@ https://www.proptrack.com
 https://www.proptrack.com.au
 https://www.quintoandar.com.br/*
 https://www.realcommercial.com.au/
-https://www.recordedfuture.com
 https://www.remove.bg
 https://www.restaurant-information.com
-https://www.riskrecon.com
 https://www.sandbox.striga.com/api/v1/
 https://www.saturn.de
 https://www.sdx.com/
@@ -7506,7 +7469,6 @@ login.exodus.com
 login.infomaniak.com
 login.insightly.com
 login.koho.ca
-login.lansweeper.com
 login.nba.com
 login.oyens.com
 login.playcanvas.com
@@ -7724,6 +7686,8 @@ mod.reddit.com
 modefestival.com
 moments.marriottbonvoy.com
 money.x.com
+moneybird.com
+moneybirdstorage.com
 monitor.twilio.com
 monzo.com
 moonpay.com
@@ -7774,8 +7738,6 @@ myanmar.visa.com
 myconnect.com.au
 mynexuz.be
 mynexuzhealth/id1459856321
-mynk-dash.ninjakiwi.com
-mynk.ninjakiwi.com
 myself.coupang.com
 myself.tw.coupang.com
 mystics-dev.wnba.com
@@ -7890,8 +7852,6 @@ nha-cf.euce1.indriverapp.com
 nha-gw-cf.euce1.indriverapp.com
 nha-gw-scf.euce1.indriverapp.com
 niantic.kidswebservices.com
-ninja.kiwi
-ninjakiwi.com
 nl.gamma.app.android
 nl.gamma.verf
 nl.karwei.app.android
@@ -9083,7 +9043,6 @@ www.kruidvat.nl
 www.kruidvatkids.nl
 www.lab-recherche-environnement.org
 www.landmarkcinemas.com
-www.lansweeper.com
 www.libelle.nl
 www.lineup.com.mx
 www.linkedin.com
