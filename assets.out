@@ -675,7 +675,9 @@
 *.nflxso.net
 *.nflxvideo.net
 *.nic.eu
+*.ninjakiwi.me
 *.niumba.com
+*.nkstatic.com
 *.nmfn.com
 *.nml.com
 *.nnip.com
@@ -903,6 +905,7 @@
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
 *.soundon.global
+*.souparea.com
 *.soyoustart.com
 *.spiketrap.io
 *.sportbild.de
@@ -2661,6 +2664,7 @@ airtable.js SDK (https://www.npmjs.com/package/airtable)
 ak-static-dev.nba.com
 akismet.com
 alert.logitech.com
+alerts.ninjakiwi.com
 alfred.syfe.com
 allstar-dev.nba.com
 alternativa.film
@@ -2677,6 +2681,7 @@ amp-nba.nba.com
 amp.reddit.com
 analytics-*.8x8.com
 analytics.krisp.ai
+analytics.ninjakiwi.com
 analytics.pinelabs.com
 anduril.com
 anker-nebula/id1319092174
@@ -2806,6 +2811,7 @@ api.nba.com
 api.neon.opera.com/neon/pub
 api.neon.opera.com/neon/store
 api.neon.opera.com/pub
+api.ninjakiwi.com
 api.ort-one-pingone.com
 api.ovh.com
 api.paybox.sh
@@ -3040,6 +3046,7 @@ ballistic.com.br
 bankaccountdata.gocardless.com
 basecamp-setup.exe
 basecamp.rivian.com
+battles.tv
 bbPress Core
 bc-cf.latam-co.saea1.aws.indriverapp.com
 bc-gw-cf.latam-pe.saea1.aws.indriverapp.com
@@ -3108,6 +3115,7 @@ booking.cheapcaribbean.com
 booking.com
 booking.mjrtheatres.com
 bookingholdings-coe.com
+boomer2.ninjakiwi.com
 boost.vinci.com
 booth.pm
 bpa2.marriott.com
@@ -3762,6 +3770,7 @@ cs.money
 csmessenger.coupang.com
 css-tricks.com
 ct.deriv.com
+ct.ninjakiwi.com
 ctf.hacker101.com
 ctr.a.exodus.io
 customer-sessions.arkoselabs.com
@@ -3799,7 +3808,6 @@ cweb-slot6-ott-dev.nba.com
 cweb-slot6-preview-ott-dev.nba.com
 cyberghost.app
 cyberghost.com
-cz.skodaauto.myskoda
 d-you Wallet Android Test
 d-you Wallet iOS Test
 dash.ai
@@ -3816,6 +3824,7 @@ dashboard.razorpay.com
 dashboard.unico.app
 data-test.nba.com
 data.mail.yahoo.com
+data.ninjakiwi.com
 databricks.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 datapod-1-100-druid-ingest.testing.forescoutcloud.net
@@ -4204,6 +4213,7 @@ gs://faraday-secret
 gs://fdy-production-sdk-uploads
 gt-gw-cf-0.cis.euce1.aws.indriverapp.com
 gt-gw-scf.sa.apse1.aws.indriverapp.com
+guts.ninjakiwi.com
 gvt-cf.euce1.indriverapp.com
 gvt-scf.euce1.indriverapp.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -4556,7 +4566,6 @@ https://apps.apple.com/ca/app/lime-supply/id1620058457
 https://apps.apple.com/ch/app/debix/id1581440132?l=en-GB
 https://apps.apple.com/ch/app/die-post/id378676700
 https://apps.apple.com/ch/app/media-markt-schweiz/id1169043480
-https://apps.apple.com/cz/app/my%C5%A1koda/id1632202810
 https://apps.apple.com/de/app/mediamarkt-deutschland/id386304604
 https://apps.apple.com/de/app/otto-shopping-m%C3%B6bel/id404844644
 https://apps.apple.com/de/app/saturn-deutschland/id557562682
@@ -5245,12 +5254,13 @@ https://github.com/matomo-org/tracker-proxy
 https://github.com/mattermost/mattermost-plugin-ai
 https://github.com/mattermost/mattermost-plugin-boards
 https://github.com/mattermost/mattermost-plugin-calls
+https://github.com/mattermost/mattermost-plugin-channel-export
 https://github.com/mattermost/mattermost-plugin-confluence
 https://github.com/mattermost/mattermost-plugin-github
 https://github.com/mattermost/mattermost-plugin-gitlab
 https://github.com/mattermost/mattermost-plugin-jira 
+https://github.com/mattermost/mattermost-plugin-metrics
 https://github.com/mattermost/mattermost-plugin-mscalendar
-https://github.com/mattermost/mattermost-plugin-msteams
 https://github.com/mattermost/mattermost-plugin-msteams-meetings
 https://github.com/mattermost/mattermost-plugin-playbooks
 https://github.com/mattermost/mattermost-plugin-zoom
@@ -7757,6 +7767,8 @@ myanmar.visa.com
 myconnect.com.au
 mynexuz.be
 mynexuzhealth/id1459856321
+mynk-dash.ninjakiwi.com
+mynk.ninjakiwi.com
 myself.coupang.com
 myself.tw.coupang.com
 mystics-dev.wnba.com
@@ -7871,6 +7883,8 @@ nha-cf.euce1.indriverapp.com
 nha-gw-cf.euce1.indriverapp.com
 nha-gw-scf.euce1.indriverapp.com
 niantic.kidswebservices.com
+ninja.kiwi
+ninjakiwi.com
 nl.gamma.app.android
 nl.gamma.verf
 nl.karwei.app.android
@@ -9144,6 +9158,7 @@ www.sbb.ch
 www.sbbcargo.com
 www.schoenentorfs.be
 www.schoenentorfs.nl 
+www.sellingpilot.com
 www.semrush.com
 www.six-group.com
 www.socialdeal.nl

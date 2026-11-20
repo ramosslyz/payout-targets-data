@@ -467,6 +467,18 @@ liquidfiles.nexuzhealth.com
 idp-url.nexuzhealth.be
  idp-contact.nexuzhealth.be
 media.nexuzhealth.be/patient/ 
+analytics.ninjakiwi.com
+api.ninjakiwi.com
+guts.ninjakiwi.com
+battles.tv
+data.ninjakiwi.com
+ninja.kiwi
+ninjakiwi.com
+alerts.ninjakiwi.com
+boomer2.ninjakiwi.com
+ct.ninjakiwi.com
+mynk-dash.ninjakiwi.com
+mynk.ninjakiwi.com
 https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050
 https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_oi_appl/
 https://auth2.pdq.com/
@@ -560,8 +572,6 @@ SimScale API
 SimScale Platform
 SimScale Forum
 SimScale Website
-https://apps.apple.com/cz/app/my%C5%A1koda/id1632202810
-cz.skodaauto.myskoda
 Social Deal IOS APP
 www.socialdeal.nl/blog/
 https://www.spontaan.nl/
