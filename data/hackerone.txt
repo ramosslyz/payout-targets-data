@@ -1146,7 +1146,6 @@ dwy.visa.com
 ebctest.cybersource.com
 forms.cybersource.com
 http://myvisainfinite.com/suntrust/en_us/home.html
-http://test.payworks.io/uis/mngr/
 https://ebc2test.cybersource.com/settings
 https://ebctest.cybersource.com/CGK2
 https://ebctest.cybersource.com/apm
