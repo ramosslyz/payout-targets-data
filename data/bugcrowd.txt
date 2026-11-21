@@ -466,6 +466,7 @@ https://marketplace.atlassian.com/apps/1223298/agile-risk-management-for-jira-cl
 https://marketplace.atlassian.com/apps/1226195/align-okr-with-roadmap?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1218036/agile-project-forecast-metrics-roadmap-portfolio?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1218555/easy-pdf-html-word-export-to-custom-documents?hosting=cloud
+https://marketplace.atlassian.com/apps/2394034939/email-attach-automation-exporter-pdf-word-claude-mcp?hosting=cloud&tab=overview
 https://apps.apple.com/ee/app/bolt-fast-affordable-rides/id675033630
 https://play.google.com/store/apps/details?id=ee.mtakso.client
 https://apps.apple.com/ee/app/bolt-food/id1451492388
@@ -1592,7 +1593,6 @@ https://octopus.com/downloads
 https://octopus.com/downloads
 https://github.com/OctopusDeploy
 https://octopus.com
-███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 bugcrowd-pam-###.oktapreview.com
 bugcrowd-pam-###.pam.oktapreview.com
 https://bugcrowd-pam-###.workflows.oktapreview.com
