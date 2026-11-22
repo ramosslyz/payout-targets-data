@@ -748,14 +748,6 @@ https://marketplace.atlassian.com/apps/1211051/eazybi-reports-and-charts-for-jir
 https://marketplace.atlassian.com/apps/1219504/eazybi-reports-and-charts-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1219504/eazybi-reports-and-charts-for-confluence?hosting=datacenter
 https://docs.eazybi.com/
-https://my.elementor.com/
-https://go.elementor.com/
-https://translate.elementor.com/
-https://developers.elementor.com/
-https://library.elementor.com/
-https://elementor.careers
-http://activitylog.io/
-https://send2.co/
 https://marketplace.atlassian.com/apps/1212486/elements-spreadsheet-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/23337/elements-connect-external-data-fields?hosting=cloud
 https://marketplace.atlassian.com/apps/1211111/elements-copy-sync-jira-issue-sync?hosting=cloud
@@ -1590,6 +1582,8 @@ https://nubank.com.co
 https://www.nuinvest.com.br/
 https://octopus.com/downloads
 https://octopus.com/downloads
+https://github.com/OctopusDeploy
+https://octopus.com
 https://github.com/OctopusDeploy
 https://octopus.com
 bugcrowd-pam-###.oktapreview.com
