@@ -1,9 +1,7 @@
  *.rivian.com
- *.test.*.lfscnp.com
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 *-api-*.acronis.com
 *. vfsevisa.id
-*.-np.*.lfscnp.com
 *.1debit.com
 *.3lateral.com
 *.5nine.com
@@ -250,7 +248,6 @@
 *.deriv.com
 *.derivws.com
 *.dev-pub.mobilevikings.be
-*.dev.*.lfscnp.com
 *.dev.grindr.io
 *.dev.mobilevikings.be
 *.dev.remitly.com
@@ -365,8 +362,6 @@
 *.gamma.be/*
 *.gamma.nl/*
 *.gateway.marriott.com
-*.genoapay.co.nz
-*.genoapay.com
 *.germany.politico.eu
 *.gesundheitsverbund.at
 *.getdbt.com
@@ -499,12 +494,16 @@
 *.khealth.com
 *.kibana.wtf
 *.kiln.it
+*.kinepolis.be
+*.kinepolis.ch
+*.kinepolis.com
+*.kinepolis.fr
+*.kinepolis.lu
+*.kinepolis.nl
 *.kiwi.com
-*.klarna.com
-*.klarna.net
-*.klarnacdn.net
 *.klaviyo-dev.com/*
 *.klaviyomsv.com/*
+*.klubcinema.fr
 *.korta.is
 *.kortathjonustan.is
 *.krisp.ai
@@ -513,12 +512,9 @@
 *.kruidvatkids.nl
 *.kwsdose.be
 *.labs.8x8.com
+*.landmarkcinemas.com
 *.landmarkglobal-group.com
-*.latitudefinancial.co.nz
-*.latitudefinancial.com
-*.latitudefinancial.com.au
-*.latitudepay.com
-*.latitudepay.com.au
+*.lansweeper.com
 *.lemonsqueezy.com
 *.libelle.nl
 *.link.co
@@ -562,6 +558,7 @@
 *.maxbet.ro
 *.mclead.com.au
 *.mediatonic.co.uk
+*.megatix.be  
 *.melonapp.com
 *.meraki.com
 *.mercadolibre.cl
@@ -605,6 +602,7 @@
 *.miui.cn
 *.miui.com
 *.miwifi.com
+*.mjrtheatres.com
 *.mlstatic.com
 *.mmcdn.com
 *.mmwebc.dev
@@ -753,7 +751,6 @@
 *.preemptsecurity.com
 *.prelert.com
 *.preview.8x8.vc
-*.pricerunner.com
 *.prijsmepper.nl
 *.primarycareondemand.mayoclinic.org
 *.privateinternetaccess.com
@@ -808,7 +805,6 @@
 *.runnr.in
 *.s-cloud.net
 *.saltlabs.com
-*.sandbox.*.lfscnp.com
 *.savers.co.uk
 *.savi.xyz
 *.say.rocks

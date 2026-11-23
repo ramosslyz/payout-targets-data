@@ -240,6 +240,47 @@ gammacademy.be
 karwei-promotiepunt.nl
 gammalokaal.nl
 nl.gamma.verf
+booking.mjrtheatres.com
+extras.landmarkcinemas.com
+identityserver.landmarkcinemas.com
+kinepolis.megatix.be
+luxfilmfestfilms.megatix.be
+luxfilmfestproducts.megatix.be
+luxfilmfesttickets.megatix.be
+movieapi.kinepolis.megatix.be
+tickets.kinepolis.be
+tickets.kinepolis.ch
+tickets.kinepolis.es
+tickets.kinepolis.fr
+tickets.kinepolis.lu
+tickets.kinepolis.nl
+userprofile-ui.landmarkcinemas.com
+www.kinepolis.be 
+www.kinepolis.ch 
+www.kinepolis.com 
+www.kinepolis.es 
+www.kinepolis.fr 
+www.kinepolis.lu 
+www.kinepolis.nl 
+www.landmarkcinemas.com
+www.mjrtheatres.com
+business.kinepolis.be
+business.kinepolis.lu
+business.kinepolis.nl
+com.inthepocket.kinepolis
+extras-acc.landmarkcinemas.com
+https://movieclub-int.kinepolis.com
+https://movienow-int.kinepolis.be/admin
+https://shop-acc.kinepolis.be/
+identityserver-acc.landmarkcinemas.com
+kinepolis-studio.be
+kinepolis/id368204284
+nz.co.vista.android.movie.mjrtheatres
+stage.landmarkcinemas.com
+userprofile-acc.landmarkcinemas.com
+www.kinepolis.biz
+522089287
+egaming.kinepolis.es
 www.kruidvat.nl
 www.kruidvat.be
 Kruidvat BE iOS
@@ -285,6 +326,16 @@ ecom-data.trekpleister.nl
 service.trekpleister.nl
 folder.trekpleister.nl
 www.prijsmepper.nl
+app.lansweeper.com
+fb.lansweeper.com
+edge.lansweeper.com
+api.lansweeper.com
+backoffice.lansweeper.com
+app.lansweeper.com/trial
+autoupdateapi.lansweeper.com
+docs.lansweeper.com
+login.lansweeper.com
+www.lansweeper.com
 www.libelle.nl
 https://github.com/buildonspark/spark
 https://app.uma.money
@@ -531,6 +582,8 @@ SimScale API
 SimScale Platform
 SimScale Forum
 SimScale Website
+https://apps.apple.com/cz/app/my%C5%A1koda/id1632202810
+cz.skodaauto.myskoda
 Social Deal IOS APP
 www.socialdeal.nl/blog/
 https://www.spontaan.nl/
