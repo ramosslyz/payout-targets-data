@@ -1195,6 +1195,7 @@ https://www.currencycloud.com/
 https://www.myvisacardportal.com/enbd/en_ae/landing/
 https://www.visa.com.az/az_az/account/registration
 https://www.visa.com.ua/
+lac-visa-payments-day.visa.com
 my.visa.fr
 myanmar.visa.com
 myvu.visauniversity.com
@@ -3498,6 +3499,11 @@ www.semrush.com
 com.quora.android
 com.quora.app.mobile
 http://poe.com
+Brave Browser Desktop
+Brave websites
+com.brave.browser
+com.brave.ios.browser
+https://github.com/brave/*, https://github.com/brave-intl/*
 Burp Collaborator
 Burp Suite DAST
 Burp Suite Pro/Community
