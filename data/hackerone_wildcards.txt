@@ -25,7 +25,6 @@ app*.hubspot.com
 *.verilyme.com/
 *.varonis.com
 *.varonis.io
-*.uat.unico.app
 *.nflxext.com
 *.nflximg.net
 *.nflxso.net
@@ -128,6 +127,7 @@ Hilton Third Party Applications - *.hilton.com
 *.newegg.com
 *.krisp.ai
 *.whatnot.com
+*.atlantichealthvirtualcare.org
 *.csconnect.org
 *.hhc247.org
 *.hmh247.org
@@ -137,6 +137,7 @@ Hilton Third Party Applications - *.hilton.com
 *.novanthealthvirtualprimarycare.org
 *.pennmedicine.connect-visit.com
 *.primarycareondemand.mayoclinic.org
+*.uvahealthpcod.org
 *.khealth.com
 *.bingoblitz.com
 *.boardkingsgame.com

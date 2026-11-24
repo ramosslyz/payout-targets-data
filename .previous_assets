@@ -167,6 +167,7 @@
 *.assurancewireless.com
 *.atairbnb.com
 *.atg.se
+*.atlantichealthvirtualcare.org
 *.atlastunnel.com
 *.atspotify.com
 *.audible.(TLD)
@@ -1306,6 +1307,7 @@
 *.uscc.com
 *.uscc.net
 *.uscellular.com
+*.uvahealthpcod.org
 *.uzleuven.*
 *.vacationhomerentals.com
 *.varonis.com
@@ -11169,6 +11171,7 @@ passport.larksuite.com
 passwordchallenge.marriott.com
 pastela.app
 pata.wnba.com
+patientgpt.pennmedicine.k-test.connect-visit.com
 pay*.indriverapp.com
 pay-admin.exodus.io
 pay-api.truelayer[-sandbox].com
@@ -11222,6 +11225,7 @@ pd-api.polkadoc.com
 pdfroster-dev.nba.com
 pdfroster-qa.nba.com
 pdfroster.nba.com
+pennmedicine.k-test.connect-visit.com
 people.plata.team
 peopleanalyticsportal.nba.com
 personal.trexcloud.com
