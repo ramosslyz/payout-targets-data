@@ -44,7 +44,7 @@ Applications/Extensions under https://www.cyberghostvpn.com/download
 https://play.google.com/store/apps/details?id=id.dana&hl=en
 https://apps.apple.com/id/app/dana/id1437123008
 m.dana.id
-mgs-gw.dana.id
+mgs-gw.m.dana.id
 https://apps.apple.com/fr/app/decathlon-shopping/id1168607403
 https://play.google.com/store/apps/details?id=com.decathlon.app
 https://(navigate|engage|checkout|internal|cached-api|api).shoppingapp.decathlon.com/*
