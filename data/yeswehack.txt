@@ -11,8 +11,6 @@ iam.atg.se
 https://apps.apple.com/se/app/atg/id1434660322
 https://apps.apple.com/se/app/atg-live/id1608156355
 https://play.google.com/store/apps/details?id=se.atg.live&hl=en&gl=SE
-app.alasco.de
-api.alasco.de
 https://www.bookbeat.com
 https://api.bookbeat.com
 https://search-api.bookbeat.com

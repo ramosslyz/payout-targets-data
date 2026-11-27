@@ -1,6 +1,4 @@
 *.atg.se
-*.alasco.de
-*.alasco.rocks
 *.cyberghostvpn.com
 *.cyberghost.com
 *.captcha-delivery.com
