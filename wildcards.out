@@ -51,9 +51,6 @@
 *.aleenote.com
 *.algolia.net
 *.algolianet.com
-*.allegro.cz.allegrosandbox.pl
-*.allegro.pl.allegrosandbox.pl
-*.allegro.sk.allegrosandbox.pl
 *.amazon.ae
 *.amazon.ca
 *.amazon.cl
@@ -494,9 +491,16 @@
 *.khealth.com
 *.kibana.wtf
 *.kiln.it
+*.kinepolis.be
+*.kinepolis.ch
+*.kinepolis.com
+*.kinepolis.fr
+*.kinepolis.lu
+*.kinepolis.nl
 *.kiwi.com
 *.klaviyo-dev.com/*
 *.klaviyomsv.com/*
+*.klubcinema.fr
 *.korta.is
 *.kortathjonustan.is
 *.krisp.ai
@@ -505,6 +509,7 @@
 *.kruidvatkids.nl
 *.kwsdose.be
 *.labs.8x8.com
+*.landmarkcinemas.com
 *.landmarkglobal-group.com
 *.lemonsqueezy.com
 *.libelle.nl
@@ -549,6 +554,7 @@
 *.maxbet.ro
 *.mclead.com.au
 *.mediatonic.co.uk
+*.megatix.be  
 *.melonapp.com
 *.meraki.com
 *.mercadolibre.cl
@@ -593,6 +599,7 @@
 *.miui.cn
 *.miui.com
 *.miwifi.com
+*.mjrtheatres.com
 *.mlstatic.com
 *.mmcdn.com
 *.mmwebc.dev
